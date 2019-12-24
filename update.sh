@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+cd `dirname $0`
 
 from=${1:-107}
 to=${2:-109}

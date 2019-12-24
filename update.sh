@@ -1,6 +1,11 @@
 #!/usr/bin/env bash
 
-for y in {86..109}; do
+from=${1:-107}
+to=${2:-109}
+
+k=0
+
+for y in `seq $from $to`; do
 	for t in "1" "2" "X"; do
 		(
 			curl -s 'https://timetable.nctu.edu.tw/?r=main/get_cos_list' \
@@ -25,11 +30,13 @@ for y in {86..109}; do
 			jq . raw-$y-$t.json > pretty-$y-$t.json
 			wc pretty-$y-$t.json
 		) &
+		pids[$k]=$!
+		k+=1
 	done
 done
 
 echo "Waiting...."
-wait $pid
+wait
 echo "Done."
 
 find . -size 2c -delete  # Empty raw

@@ -1277,7 +1277,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "2",
-        "depType": "G"
+        "depType": "D"
       }
     },
     "costype": {
@@ -1601,6 +1601,62 @@
         "crsoutline_type": "data",
         "reg_num": "33",
         "depType": "J"
+      },
+      "100X_5034": {
+        "acy": "100",
+        "sem": "X",
+        "cos_id": "5034",
+        "cos_code": "IMS5609",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "經濟學",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "蔡璧徽                        ",
+        "cos_time": "1IJK4IJK-M301",
+        "memo": "上課日期:7月2日-8月30日",
+        "cos_ename": "Economics",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "62",
+        "dep_primary": "1",
+        "dep_cname": "管理學院碩士在職專班-管科組",
+        "dep_ename": "Degree Program of Management Science",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "47",
+        "depType": "J"
+      },
+      "100X_5035": {
+        "acy": "100",
+        "sem": "X",
+        "cos_id": "5035",
+        "cos_code": "IMS5302",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "統計學",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "包曉天                        ",
+        "cos_time": "5IJK6BCDEFG-M301",
+        "memo": "上課日期:7月13日-8月18日",
+        "cos_ename": "Statistics",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "62",
+        "dep_primary": "1",
+        "dep_cname": "管理學院碩士在職專班-管科組",
+        "dep_ename": "Degree Program of Management Science",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "10",
+        "depType": "J"
       }
     },
     "costype": {
@@ -1614,6 +1670,24 @@
         }
       },
       "100X_5039": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "100X_5034": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "100X_5035": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -1635,6 +1709,18 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "100X_5034": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "100X_5035": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -1642,6 +1728,12 @@
         "授課語言代碼": "zh-tw"
       },
       "100X_5039": {
+        "授課語言代碼": "zh-tw"
+      },
+      "100X_5034": {
+        "授課語言代碼": "zh-tw"
+      },
+      "100X_5035": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -1993,10 +2085,121 @@
         "crsoutline_type": "data",
         "reg_num": "22",
         "depType": "J"
+      },
+      "100X_5028": {
+        "acy": "100",
+        "sem": "X",
+        "cos_id": "5028",
+        "cos_code": "IOF5064",
+        "num_limit": "9999",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "經濟學",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "http://www.cc.nctu.edu.tw/~hhhuang",
+        "teacher": "黃星華                        ",
+        "cos_time": "7BCDEFG-M101",
+        "memo": "上課日期:7月1日-8月26日,限管理學院專班",
+        "cos_ename": "Economics",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "72",
+        "dep_primary": "1",
+        "dep_cname": "管理學院碩士在職專班-財金組",
+        "dep_ename": "Degree Program of Financ",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "26",
+        "depType": "J"
+      },
+      "100X_5029": {
+        "acy": "100",
+        "sem": "X",
+        "cos_id": "5029",
+        "cos_code": "IOF5040",
+        "num_limit": "9999",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "統計學",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "李漢星                        ",
+        "cos_time": "4IJK6YIJ-M101",
+        "memo": "上課日期:6月30日-8月25日,限管理學院專班",
+        "cos_ename": "Statistics",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "72",
+        "dep_primary": "1",
+        "dep_cname": "管理學院碩士在職專班-財金組",
+        "dep_ename": "Degree Program of Financ",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "20",
+        "depType": "J"
+      },
+      "100X_5030": {
+        "acy": "100",
+        "sem": "X",
+        "cos_id": "5030",
+        "cos_code": "IOF5046",
+        "num_limit": "9999",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "會計學",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "王淑芬                        ",
+        "cos_time": "6BCDEFG-M101",
+        "memo": "上課日期:6月30日-8月25日,限管理學院專班",
+        "cos_ename": "Accounting",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "72",
+        "dep_primary": "1",
+        "dep_cname": "管理學院碩士在職專班-財金組",
+        "dep_ename": "Degree Program of Financ",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "32",
+        "depType": "J"
       }
     },
     "costype": {
       "100X_5031": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "100X_5028": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "100X_5029": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "100X_5030": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -2012,10 +2215,37 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "100X_5028": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "100X_5029": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "100X_5030": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
       "100X_5031": {
+        "授課語言代碼": "zh-tw"
+      },
+      "100X_5028": {
+        "授課語言代碼": "zh-tw"
+      },
+      "100X_5029": {
+        "授課語言代碼": "zh-tw"
+      },
+      "100X_5030": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -2052,10 +2282,47 @@
         "crsoutline_type": "data",
         "reg_num": "72",
         "depType": "J"
+      },
+      "100X_5024": {
+        "acy": "100",
+        "sem": "X",
+        "cos_id": "5024",
+        "cos_code": "IBM6035",
+        "num_limit": "9999",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "統計學",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "丁承                          ",
+        "cos_time": "2IJK4IJK-",
+        "memo": "上課日期:7月10日-9月6日,教室:台北校區第一演講廳,限管理學院專班及經管碩",
+        "cos_ename": "Statistics",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "74",
+        "dep_primary": "1",
+        "dep_cname": "管理學院碩士在職專班-經管組",
+        "dep_ename": "Degree Program of Business Management",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "24",
+        "depType": "J"
       }
     },
     "costype": {
       "100X_5025": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "100X_5024": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -2071,10 +2338,19 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "100X_5024": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
       "100X_5025": {
+        "授課語言代碼": "zh-tw"
+      },
+      "100X_5024": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -3118,6 +3394,111 @@
     },
     "language": {
       "100X_1053": {
+        "授課語言代碼": "zh-tw"
+      }
+    }
+  },
+  "231": {
+    "dep_id": "231",
+    "dep_cname": "管理科學系",
+    "dep_ename": "Institute of Management Science",
+    "1": {
+      "100X_5005": {
+        "acy": "100",
+        "sem": "X",
+        "cos_id": "5005",
+        "cos_code": "IMS5302",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "統計學",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "包曉天                        ",
+        "cos_time": "4EFG5BCDEFG-M301",
+        "memo": "上課日期:7月12日-8月17日,管理學院大學部學生不得抵免必修課程統計學(一)(二).",
+        "cos_ename": "Statistics",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "31",
+        "dep_primary": "1",
+        "dep_cname": "管理科學系",
+        "dep_ename": "Institute of Management Science",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "15",
+        "depType": "G"
+      },
+      "100X_5006": {
+        "acy": "100",
+        "sem": "X",
+        "cos_id": "5006",
+        "cos_code": "IMS7569",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "會計學",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "蔡璧徽                        ",
+        "cos_time": "3BCDEFG-M301",
+        "memo": "上課日期:7月4日-8月29日,管理學院大學部學生不得抵免必修課程會計學(一)(二).達15人才開課.",
+        "cos_ename": "Accounting",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "31",
+        "dep_primary": "1",
+        "dep_cname": "管理科學系",
+        "dep_ename": "Institute of Management Science",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "29",
+        "depType": "G"
+      }
+    },
+    "costype": {
+      "100X_5005": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "100X_5006": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "100X_5005": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "100X_5006": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      }
+    },
+    "language": {
+      "100X_5005": {
+        "授課語言代碼": "zh-tw"
+      },
+      "100X_5006": {
         "授課語言代碼": "zh-tw"
       }
     }

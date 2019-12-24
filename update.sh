@@ -47,7 +47,7 @@ echo "Waiting...."
 wait
 echo "Done."
 
-find . -size -name "*-*-[12X].json" -10c -delete  # Empty
+find . -name "*-*-[12X].json" -size -10c -delete  # Empty
 echo "Deleted empty file."
 
 git add .

@@ -47,9 +47,9 @@ echo "Waiting...."
 wait
 echo "Done."
 
-find . -size -10c -delete  # Empty
+find . -size -name "*-*-[12X].json" -10c -delete  # Empty
 echo "Deleted empty file."
-exit
+
 git add .
 git commit -m "`date '+%b %d  %H:%M'`"
 git push

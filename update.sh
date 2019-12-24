@@ -42,3 +42,6 @@ echo "Done."
 find . -size 2c -delete  # Empty raw
 find . -size 3c -delete  # Empty pretty
 echo "Deleted empty file."
+
+git add .
+git commit -m "`date '+%b %d %H:%M'`"

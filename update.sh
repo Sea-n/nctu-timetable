@@ -50,6 +50,6 @@ echo "Done."
 find . -name "*-*-[12X].json" -size -10c -delete  # Empty
 echo "Deleted empty file."
 
-git add .
+git add *.*  # No removed file
 git commit -m "`date '+%b %d  %H:%M'`"
 git push

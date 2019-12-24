@@ -1,0 +1,4229 @@
+{
+  "0U3": {
+    "dep_id": "0U3",
+    "dep_cname": "藝文中心",
+    "dep_ename": "ARTS Center",
+    "1": {
+      "102X_1031": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1031",
+        "cos_code": "ART0003",
+        "num_limit": "9999",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "藝文賞析教育",
+        "cos_credit": ".00",
+        "cos_hours": "1.00",
+        "TURL": "",
+        "teacher": "藝文中心",
+        "cos_time": "",
+        "memo": "限本校大四應屆畢業生選修,日期:6月30日-8月11日,8/12-8/14為藝文護照成績登錄期,請修課學生攜帶藝文護照至藝文空間服務台辦理.",
+        "cos_ename": "Arts Appreciation Education",
+        "brief": "藝文賞析",
+        "degree": "0",
+        "dep_id": "U3",
+        "dep_primary": "1",
+        "dep_cname": "藝文中心",
+        "dep_ename": "ARTS Center",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "15",
+        "depType": "O"
+      },
+      "102X_1032": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1032",
+        "cos_code": "ART0003",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "藝文賞析教育",
+        "cos_credit": ".00",
+        "cos_hours": "1.00",
+        "TURL": "",
+        "teacher": "藝文中心",
+        "cos_time": "",
+        "memo": "",
+        "cos_ename": "Arts Appreciation Education",
+        "brief": "藝文賞析",
+        "degree": "0",
+        "dep_id": "U3",
+        "dep_primary": "1",
+        "dep_cname": "藝文中心",
+        "dep_ename": "ARTS Center",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "1",
+        "depType": "O"
+      }
+    },
+    "costype": {
+      "102X_1031": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_1032": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "102X_1031": {
+        "E067": {
+          "brief_code": "E067",
+          "brief": "藝文賞析(87)"
+        }
+      },
+      "102X_1032": {
+        "E067": {
+          "brief_code": "E067",
+          "brief": "藝文賞析(87)"
+        }
+      }
+    },
+    "language": {
+      "102X_1031": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_1032": {
+        "授課語言代碼": "zh-tw"
+      }
+    }
+  },
+  "0U4": {
+    "dep_id": "0U4",
+    "dep_cname": "華語中心",
+    "dep_ename": "Chinese Language ",
+    "1": {
+      "102X_1041": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1041",
+        "cos_code": "COM1101",
+        "num_limit": "0",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "入門華語(一)",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "鄭彩娥",
+        "cos_time": "1BCD2BCD3BCD-A402",
+        "memo": "上課日期:7月7日-7月30日,限外籍生",
+        "cos_ename": "Introductory Chinese(I)",
+        "brief": "",
+        "degree": "0",
+        "dep_id": "U4",
+        "dep_primary": "1",
+        "dep_cname": "華語中心",
+        "dep_ename": "Chinese Language ",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "6",
+        "depType": "O"
+      },
+      "102X_1043": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1043",
+        "cos_code": "COM1073",
+        "num_limit": "0",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "高級華語:文化台灣",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "林佳慧",
+        "cos_time": "1BCD2BCD3BCD-A403",
+        "memo": "上課日期:7月7日-7月30日,限外籍生",
+        "cos_ename": "Advanced Chinese: Cultural Taiwan",
+        "brief": "",
+        "degree": "0",
+        "dep_id": "U4",
+        "dep_primary": "1",
+        "dep_cname": "華語中心",
+        "dep_ename": "Chinese Language ",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "10",
+        "depType": "O"
+      }
+    },
+    "costype": {
+      "102X_1041": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_1043": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "102X_1041": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "102X_1043": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      }
+    },
+    "language": {
+      "102X_1041": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_1043": {
+        "授課語言代碼": "zh-tw"
+      }
+    }
+  },
+  "0U5": {
+    "dep_id": "0U5",
+    "dep_cname": "通識教育中心",
+    "dep_ename": "Center of General Education",
+    "1": {
+      "102X_1021": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1021",
+        "cos_code": "GEC6005",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "文藝鑑賞:探索生命",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "黃美鈴",
+        "cos_time": "2EFG4EFG-A403",
+        "memo": "日期:7月3日-8月12日,向度:文化/進階",
+        "cos_ename": "Appreciation and Analysis of Literatures and Arts",
+        "brief": "文化/進階",
+        "degree": "0",
+        "dep_id": "U5",
+        "dep_primary": "1",
+        "dep_cname": "通識教育中心",
+        "dep_ename": "Center of General Education",
+        "cos_type": "通識",
+        "cos_type_e": "General Course",
+        "crsoutline_type": "data",
+        "reg_num": "20",
+        "depType": "O"
+      },
+      "102X_1022": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1022",
+        "cos_code": "GEC6706",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "全球化與兩岸關係",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "劉河北",
+        "cos_time": "1BCD3BCD-A405",
+        "memo": "日期:6月30日-8月6日,向度:歷史/進階",
+        "cos_ename": "Globalization and Cross-Strait Relation",
+        "brief": "歷史/進階",
+        "degree": "0",
+        "dep_id": "U5",
+        "dep_primary": "1",
+        "dep_cname": "通識教育中心",
+        "dep_ename": "Center of General Education",
+        "cos_type": "通識",
+        "cos_type_e": "General Course",
+        "crsoutline_type": "data",
+        "reg_num": "25",
+        "depType": "O"
+      },
+      "102X_1052": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1052",
+        "cos_code": "SUM1020",
+        "num_limit": "0",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "歐洲文化史簡介",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "博佳佳",
+        "cos_time": "1BCD2BCD3BCD-A509",
+        "memo": "2014 NCTU Summer Program,限國際處暑期國際生7/7-7/30",
+        "cos_ename": "An Introduction to European Culture",
+        "brief": "",
+        "degree": "0",
+        "dep_id": "U5",
+        "dep_primary": "1",
+        "dep_cname": "通識教育中心",
+        "dep_ename": "Center of General Education",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "35",
+        "depType": "O"
+      },
+      "102X_9109": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "9109",
+        "cos_code": "GEC0400",
+        "num_limit": "0",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "當代世界:環境危機與生態永續",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "http://blog.xuite.net/shue0123c/twblog",
+        "teacher": "王從恕",
+        "cos_time": "",
+        "memo": "夏季學院",
+        "cos_ename": "Contemporary World: Environmental Crisis & Ecological Sustainability",
+        "brief": "通識/必修",
+        "degree": "0",
+        "dep_id": "U5",
+        "dep_primary": "1",
+        "dep_cname": "通識教育中心",
+        "dep_ename": "Center of General Education",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "4",
+        "depType": "O"
+      }
+    },
+    "costype": {
+      "102X_1021": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_1022": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_1052": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_9109": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "102X_1021": {
+        "A201": {
+          "brief_code": "A201",
+          "brief": "文化/進階(96)"
+        }
+      },
+      "102X_1022": {
+        "A202": {
+          "brief_code": "A202",
+          "brief": "歷史/進階(96)"
+        }
+      },
+      "102X_1052": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "102X_9109": {
+        "A000": {
+          "brief_code": "A000",
+          "brief": "通識/必修(96)"
+        }
+      }
+    },
+    "language": {
+      "102X_1021": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_1022": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_1052": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_9109": {
+        "授課語言代碼": "zh-tw"
+      }
+    }
+  },
+  "0U6": {
+    "dep_id": "0U6",
+    "dep_cname": "語言教學與研究中心",
+    "dep_ename": "Language Teaching and Research Center",
+    "1": {
+      "102X_1026": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1026",
+        "cos_code": "DFR1297",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "進階口語訓練",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "秦毓婷",
+        "cos_time": "2EFG4EFG-A505",
+        "memo": "上課日期:7月1日-8月7日",
+        "cos_ename": "Advanced Oral Training",
+        "brief": "進階",
+        "degree": "0",
+        "dep_id": "U6",
+        "dep_primary": "1",
+        "dep_cname": "語言教學與研究中心",
+        "dep_ename": "Language Teaching and Research Center",
+        "cos_type": "外語",
+        "cos_type_e": "Foreign Languages Course",
+        "crsoutline_type": "data",
+        "reg_num": "8",
+        "depType": "O"
+      },
+      "102X_1028": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1028",
+        "cos_code": "DFR5105",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "進修英語一:閱讀",
+        "cos_credit": "1.00",
+        "cos_hours": "1.00",
+        "TURL": "",
+        "teacher": "邢小芬",
+        "cos_time": "2BCD-A401",
+        "memo": "上課日期:7月1日-8月5日",
+        "cos_ename": "Intermediate English(I)Reading",
+        "brief": "進修",
+        "degree": "0",
+        "dep_id": "U6",
+        "dep_primary": "1",
+        "dep_cname": "語言教學與研究中心",
+        "dep_ename": "Language Teaching and Research Center",
+        "cos_type": "外語",
+        "cos_type_e": "Foreign Languages Course",
+        "crsoutline_type": "data",
+        "reg_num": "13",
+        "depType": "O"
+      },
+      "102X_1029": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1029",
+        "cos_code": "DFR5106",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "進修英語二:閱讀",
+        "cos_credit": "1.00",
+        "cos_hours": "1.00",
+        "TURL": "",
+        "teacher": "邢小芬",
+        "cos_time": "3BCD-A401",
+        "memo": "上課日期:7月2日-8月6日",
+        "cos_ename": "Intermediate English(II)Reading",
+        "brief": "進修",
+        "degree": "0",
+        "dep_id": "U6",
+        "dep_primary": "1",
+        "dep_cname": "語言教學與研究中心",
+        "dep_ename": "Language Teaching and Research Center",
+        "cos_type": "外語",
+        "cos_type_e": "Foreign Languages Course",
+        "crsoutline_type": "data",
+        "reg_num": "11",
+        "depType": "O"
+      }
+    },
+    "costype": {
+      "102X_1026": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_1028": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_1029": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "102X_1026": {
+        "B072": {
+          "brief_code": "B072",
+          "brief": "進階(87)"
+        }
+      },
+      "102X_1028": {
+        "B073": {
+          "brief_code": "B073",
+          "brief": "進修(87)"
+        }
+      },
+      "102X_1029": {
+        "B073": {
+          "brief_code": "B073",
+          "brief": "進修(87)"
+        }
+      }
+    },
+    "language": {
+      "102X_1026": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_1028": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_1029": {
+        "授課語言代碼": "zh-tw"
+      }
+    }
+  },
+  "0UD": {
+    "dep_id": "0UD",
+    "dep_cname": "物理教學小組",
+    "dep_ename": "Physical section",
+    "1": {
+      "102X_1005": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1005",
+        "cos_code": "DEP1111",
+        "num_limit": "40",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "物理(一)",
+        "cos_credit": "4.00",
+        "cos_hours": "4.00",
+        "TURL": "http://nqpl.ep.nctu.edu.tw",
+        "teacher": "簡紋濱",
+        "cos_time": "1CD4CD-SC158",
+        "memo": "日期:7月10日-8月18日,面授+網路",
+        "cos_ename": "Physics (I)",
+        "brief": "",
+        "degree": "0",
+        "dep_id": "UD",
+        "dep_primary": "1",
+        "dep_cname": "物理教學小組",
+        "dep_ename": "Physical section",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "33",
+        "depType": "O"
+      },
+      "102X_1006": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1006",
+        "cos_code": "DEP1112",
+        "num_limit": "40",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "物理(二)",
+        "cos_credit": "4.00",
+        "cos_hours": "4.00",
+        "TURL": "http://nqpl.ep.nctu.edu.tw",
+        "teacher": "簡紋濱",
+        "cos_time": "1EF4EF-SC158",
+        "memo": "日期:7月10日-8月18日,面授+網路",
+        "cos_ename": "Physics (II)",
+        "brief": "",
+        "degree": "0",
+        "dep_id": "UD",
+        "dep_primary": "1",
+        "dep_cname": "物理教學小組",
+        "dep_ename": "Physical section",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "54",
+        "depType": "O"
+      }
+    },
+    "costype": {
+      "102X_1005": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_1006": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "102X_1005": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "102X_1006": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      }
+    },
+    "language": {
+      "102X_1005": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_1006": {
+        "授課語言代碼": "zh-tw"
+      }
+    }
+  },
+  "0UE": {
+    "dep_id": "0UE",
+    "dep_cname": "微積分教學小組",
+    "dep_ename": "Calculus section",
+    "1": {
+      "102X_1001": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1001",
+        "cos_code": "DAM1357",
+        "num_limit": "60",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "微積分（一）",
+        "cos_credit": "4.00",
+        "cos_hours": "4.00",
+        "TURL": "",
+        "teacher": "鄭硯仁",
+        "cos_time": "1BCD2BCD3BCD4BCD-SC109",
+        "memo": "上課日期:7月7日-8月14日,本課程需統一參加暑修微積分期末會考.(外校生於第二階段開放登記)",
+        "cos_ename": "Calculus (I)",
+        "brief": "",
+        "degree": "0",
+        "dep_id": "UE",
+        "dep_primary": "1",
+        "dep_cname": "微積分教學小組",
+        "dep_ename": "Calculus section",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "66",
+        "depType": "O"
+      },
+      "102X_1002": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1002",
+        "cos_code": "DAM1357",
+        "num_limit": "60",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "微積分（一）",
+        "cos_credit": "4.00",
+        "cos_hours": "4.00",
+        "TURL": "",
+        "teacher": "樂美亨",
+        "cos_time": "1EFG2EFG3EFG4EFG-SC109",
+        "memo": "上課日期:7月7日-8月14日,上課時間:14:00-17:00,本課程需統一參加暑修微積分期末會考.(外校生於第二階段開放登記)",
+        "cos_ename": "Calculus (I)",
+        "brief": "",
+        "degree": "0",
+        "dep_id": "UE",
+        "dep_primary": "1",
+        "dep_cname": "微積分教學小組",
+        "dep_ename": "Calculus section",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "59",
+        "depType": "O"
+      },
+      "102X_1003": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1003",
+        "cos_code": "DAM1358",
+        "num_limit": "60",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "微積分（二）",
+        "cos_credit": "4.00",
+        "cos_hours": "4.00",
+        "TURL": "",
+        "teacher": "劉青松",
+        "cos_time": "1BCD2BCD3BCD4BCD-SC110",
+        "memo": "上課日期:7月7日-8月14日,本課程需統一參加暑修微積分期末會考.(外校生於第二階段開放登記)",
+        "cos_ename": "Calculus (II)",
+        "brief": "",
+        "degree": "0",
+        "dep_id": "UE",
+        "dep_primary": "1",
+        "dep_cname": "微積分教學小組",
+        "dep_ename": "Calculus section",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "62",
+        "depType": "O"
+      },
+      "102X_1004": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1004",
+        "cos_code": "DAM1358",
+        "num_limit": "60",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "微積分（二）",
+        "cos_credit": "4.00",
+        "cos_hours": "4.00",
+        "TURL": "",
+        "teacher": "黃韋強",
+        "cos_time": "1EFG2EFG3EFG4EFG-SC110",
+        "memo": "上課日期:7月7日-8月14日,上課時間:14:00-17:00,本課程需統一參加暑修微積分期末會考.(外校生於第二階段開放登記)",
+        "cos_ename": "Calculus (II)",
+        "brief": "",
+        "degree": "0",
+        "dep_id": "UE",
+        "dep_primary": "1",
+        "dep_cname": "微積分教學小組",
+        "dep_ename": "Calculus section",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "63",
+        "depType": "O"
+      }
+    },
+    "costype": {
+      "102X_1001": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_1002": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_1003": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_1004": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "102X_1001": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "102X_1002": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "102X_1003": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "102X_1004": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      }
+    },
+    "language": {
+      "102X_1001": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_1002": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_1003": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_1004": {
+        "授課語言代碼": "zh-tw"
+      }
+    }
+  },
+  "221": {
+    "dep_id": "221",
+    "dep_cname": "電子物理學系",
+    "dep_ename": "Institute of Electro-Physics",
+    "1": {
+      "102X_5007": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "5007",
+        "cos_code": "IEP5510",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "光電子學",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "陳永富",
+        "cos_time": "4BCDEFG-SC160",
+        "memo": "上課日期:7月3日-8月28日",
+        "cos_ename": "Optical Electronics",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "21",
+        "dep_primary": "1",
+        "dep_cname": "電子物理學系",
+        "dep_ename": "Institute of Electro-Physics",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "28",
+        "depType": "G"
+      }
+    },
+    "costype": {
+      "102X_5007": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "102X_5007": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      }
+    },
+    "language": {
+      "102X_5007": {
+        "授課語言代碼": "zh-tw"
+      }
+    }
+  },
+  "224": {
+    "dep_id": "224",
+    "dep_cname": "光電工程學系",
+    "dep_ename": "Institute of Electro-Optical Engineering",
+    "1": {
+      "102X_5005": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "5005",
+        "cos_code": "IEO5408",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "近代光學導論",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "謝美莉",
+        "cos_time": "1BCD2BCD3BCD4BCD5BCD-CY202",
+        "memo": "上課日期:6月30日-7月23日,光電所及顯示所新生優先選課",
+        "cos_ename": "Introduction to Modern Optics",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "24",
+        "dep_primary": "1",
+        "dep_cname": "光電工程學系",
+        "dep_ename": "Institute of Electro-Optical Engineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "21",
+        "depType": "G"
+      }
+    },
+    "costype": {
+      "102X_5005": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "102X_5005": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      }
+    },
+    "language": {
+      "102X_5005": {
+        "授課語言代碼": "zh-tw"
+      }
+    }
+  },
+  "261": {
+    "dep_id": "261",
+    "dep_cname": "高階主管管理碩士學程",
+    "dep_ename": "Degree Program of Management for Executives",
+    "1": {
+      "102X_5049": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "5049",
+        "cos_code": "IBA2036",
+        "num_limit": "9999",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "創業與籌資個案教學",
+        "cos_credit": "1.00",
+        "cos_hours": "1.00",
+        "TURL": "",
+        "teacher": "鍾惠民",
+        "cos_time": "",
+        "memo": "上課日期:7月12,13,26日,限EMBA",
+        "cos_ename": "Case study in venture finance",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "61",
+        "dep_primary": "1",
+        "dep_cname": "高階主管管理碩士學程",
+        "dep_ename": "Degree Program of Management for Executives",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "17",
+        "depType": "E"
+      },
+      "102X_5050": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "5050",
+        "cos_code": "IBA2032",
+        "num_limit": "9999",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "柏克萊暑期個案研究與實習",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "鍾惠民、任維廉、姚銘忠、黃寬丞、李漢星",
+        "cos_time": "",
+        "memo": "上課日期:如課綱所列.原則上以EMBA學生為主,且必須填妥EMBA辦公室發給的活動報名表才算完成登記.",
+        "cos_ename": "Berkeley Summer EMBA Intensive Case Studies",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "61",
+        "dep_primary": "1",
+        "dep_cname": "高階主管管理碩士學程",
+        "dep_ename": "Degree Program of Management for Executives",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "55",
+        "depType": "E"
+      }
+    },
+    "costype": {
+      "102X_5049": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_5050": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "102X_5049": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "102X_5050": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      }
+    },
+    "language": {
+      "102X_5049": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_5050": {
+        "授課語言代碼": "zh-tw"
+      }
+    }
+  },
+  "263": {
+    "dep_id": "263",
+    "dep_cname": "管理學院碩士在職專班-工管組",
+    "dep_ename": "Degree Program of Industrial Engineering and Management",
+    "1": {
+      "102X_5025": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "5025",
+        "cos_code": "IEM5548",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "營運與專案管理",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "王志軒",
+        "cos_time": "2IJK3IJK-MB520",
+        "memo": "上課日期:7月8日-9月3日",
+        "cos_ename": "Operation and project management",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "63",
+        "dep_primary": "1",
+        "dep_cname": "管理學院碩士在職專班-工管組",
+        "dep_ename": "Degree Program of Industrial Engineering and Management",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "44",
+        "depType": "J"
+      }
+    },
+    "costype": {
+      "102X_5025": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "102X_5025": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      }
+    },
+    "language": {
+      "102X_5025": {
+        "授課語言代碼": "zh-tw"
+      }
+    }
+  },
+  "267": {
+    "dep_id": "267",
+    "dep_cname": "電機學院碩士在職專班",
+    "dep_ename": "Degree Program of Electrical and Computer Science",
+    "1": {
+      "102X_5021": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "5021",
+        "cos_code": "IEC5002",
+        "num_limit": "9999",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "半導體物理及元件（二）",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "張國明",
+        "cos_time": "1IJK3IJK-ED219",
+        "memo": "電子與光電組及電信組,上課日期:6月30日-8月27日,限交大在職專班",
+        "cos_ename": "Semiconductor Physics and Devices II",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "67",
+        "dep_primary": "1",
+        "dep_cname": "電機學院碩士在職專班",
+        "dep_ename": "Degree Program of Electrical and Computer Science",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "26",
+        "depType": "J"
+      },
+      "102X_5022": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "5022",
+        "cos_code": "IEC5022",
+        "num_limit": "9999",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "圖形識別",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "林昇甫",
+        "cos_time": "2IJK4IJK-EE208",
+        "memo": "電機與控制組,上課日期:7月1日-8月28日,限交大在職專班",
+        "cos_ename": "Pattern Recognition",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "67",
+        "dep_primary": "1",
+        "dep_cname": "電機學院碩士在職專班",
+        "dep_ename": "Degree Program of Electrical and Computer Science",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "32",
+        "depType": "J"
+      }
+    },
+    "costype": {
+      "102X_5021": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_5022": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "102X_5021": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "102X_5022": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      }
+    },
+    "language": {
+      "102X_5021": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_5022": {
+        "授課語言代碼": "zh-tw"
+      }
+    }
+  },
+  "268": {
+    "dep_id": "268",
+    "dep_cname": "科技法律研究所碩士在職專班",
+    "dep_ename": "Degree Program of Technology Law",
+    "1": {
+      "102X_5029": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "5029",
+        "cos_code": "ITL5497",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "中國生技法律整合訓練",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "陳鋕雄、科法所",
+        "cos_time": "1IJK3IJK-ES806",
+        "memo": "上課日期:6月30日-8月27日,時間:19:00-21:00,上課教室:ES806,台北校區:TD404(台北同步遠距)",
+        "cos_ename": "PRC Biotechnology Law",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "68",
+        "dep_primary": "1",
+        "dep_cname": "科技法律研究所碩士在職專班",
+        "dep_ename": "Degree Program of Technology Law",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "2",
+        "depType": "J"
+      },
+      "102X_5030": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "5030",
+        "cos_code": "ITL5309",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "民法總則",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "陳俊元",
+        "cos_time": "2IJK4IJK-",
+        "memo": "上課日期:7月1日-8月28日,時間:18:45-21:35,上課教室:ES806,台北校區:TD404(台北同步遠距)",
+        "cos_ename": "Civil Law: General Principles",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "68",
+        "dep_primary": "1",
+        "dep_cname": "科技法律研究所碩士在職專班",
+        "dep_ename": "Degree Program of Technology Law",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "18",
+        "depType": "J"
+      },
+      "102X_5031": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "5031",
+        "cos_code": "ITL5225",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "美國契約法(英文授課)",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "陳在方",
+        "cos_time": "2IJK4IJK-",
+        "memo": "上課日期:7月1日-8月28日,時間:18:45-21:35,上課教室:MB1069,台北校區:A302(台北同步遠距)",
+        "cos_ename": "U.S. Contract Law",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "68",
+        "dep_primary": "1",
+        "dep_cname": "科技法律研究所碩士在職專班",
+        "dep_ename": "Degree Program of Technology Law",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "16",
+        "depType": "J"
+      },
+      "102X_5032": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "5032",
+        "cos_code": "ITL5361",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "美國民事訴訟法",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "王敏銓",
+        "cos_time": "3IJK5IJK-",
+        "memo": "上課日期:7月2日-8月29日,時間:18:45-21:35,上課教室:MB1069,台北校區:A302(台北同步遠距)",
+        "cos_ename": "U.S. Civil Procedure",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "68",
+        "dep_primary": "1",
+        "dep_cname": "科技法律研究所碩士在職專班",
+        "dep_ename": "Degree Program of Technology Law",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "13",
+        "depType": "J"
+      },
+      "102X_5033": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "5033",
+        "cos_code": "ITL5314",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "刑法總則",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "邱忠義",
+        "cos_time": "5IJK6BCD-ES806",
+        "memo": "上課日期:7月11日-9月6日,時間:五18:45-21:35,六09:00-12:00,上課教室:ES806,台北校區:TD404(台北同步遠距)",
+        "cos_ename": "Criminal Law: General Principles",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "68",
+        "dep_primary": "1",
+        "dep_cname": "科技法律研究所碩士在職專班",
+        "dep_ename": "Degree Program of Technology Law",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "20",
+        "depType": "J"
+      }
+    },
+    "costype": {
+      "102X_5029": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_5030": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_5031": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_5032": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_5033": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "102X_5029": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "102X_5030": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "102X_5031": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "102X_5032": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "102X_5033": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      }
+    },
+    "language": {
+      "102X_5029": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_5030": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_5031": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_5032": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_5033": {
+        "授課語言代碼": "zh-tw"
+      }
+    }
+  },
+  "274": {
+    "dep_id": "274",
+    "dep_cname": "管理學院碩士在職專班-經管組",
+    "dep_ename": "Degree Program of Business Management",
+    "1": {
+      "102X_5024": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "5024",
+        "cos_code": "IBM6039",
+        "num_limit": "0",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "管理技能發展專題研討",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "鄧東濱",
+        "cos_time": "7BCDEFG-",
+        "memo": "上課日期:7月6日-8月24日,限管院專班,台北校區:第二演講廳",
+        "cos_ename": "Selected Topics on Management Skills",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "74",
+        "dep_primary": "1",
+        "dep_cname": "管理學院碩士在職專班-經管組",
+        "dep_ename": "Degree Program of Business Management",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "72",
+        "depType": "J"
+      }
+    },
+    "costype": {
+      "102X_5024": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "102X_5024": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      }
+    },
+    "language": {
+      "102X_5024": {
+        "授課語言代碼": "zh-tw"
+      }
+    }
+  },
+  "278": {
+    "dep_id": "278",
+    "dep_cname": "客家社會與文化碩士在職專班",
+    "dep_ename": "Degree Program of Hakka Society and Culture for In-Service Teachers",
+    "1": {
+      "102X_5038": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "5038",
+        "cos_code": "IHC5219",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "傳播科技工作坊",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "張宏宇",
+        "cos_time": "5IJK6BCD-HK114,6EFG-外拍,7BCD-HK114,7EFG-外拍",
+        "memo": "上課日期:7月11日-8月30日",
+        "cos_ename": "Communication Technology Workshop",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "78",
+        "dep_primary": "1",
+        "dep_cname": "客家社會與文化碩士在職專班",
+        "dep_ename": "Degree Program of Hakka Society and Culture for In-Service Teachers",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "13",
+        "depType": "J"
+      },
+      "102X_5040": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "5040",
+        "cos_code": "IHC5216",
+        "num_limit": "25",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "客家與傳播科技:數位典藏技術與實作",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "http://fb.me/chongweylin",
+        "teacher": "林崇偉",
+        "cos_time": "6BCD-,6EFG-上機,7BCD-,7EFG-上機",
+        "memo": "上課日期:7月5日-8月10日",
+        "cos_ename": "Hakka and ICT:Technology and Practice of Digital Archive",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "78",
+        "dep_primary": "1",
+        "dep_cname": "客家社會與文化碩士在職專班",
+        "dep_ename": "Degree Program of Hakka Society and Culture for In-Service Teachers",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "9",
+        "depType": "J"
+      }
+    },
+    "costype": {
+      "102X_5038": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_5040": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "102X_5038": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "102X_5040": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      }
+    },
+    "language": {
+      "102X_5038": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_5040": {
+        "授課語言代碼": "zh-tw"
+      }
+    }
+  },
+  "299": {
+    "dep_id": "299",
+    "dep_cname": "亞際文化研究國際碩士學位學程",
+    "dep_ename": "International Master's Program in Inter-Asia Cultural Studies",
+    "1": {
+      "102X_5006": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "5006",
+        "cos_code": "IAS5002",
+        "num_limit": "0",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "亞洲現代思想導論",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "陳光興",
+        "cos_time": "",
+        "memo": "上課日期:7月1日-7月15日,每日13:00-18:00,教室:F110,需經授課教師同意後選修",
+        "cos_ename": "Introduction to Modern Asian Thought",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "99",
+        "dep_primary": "1",
+        "dep_cname": "亞際文化研究國際碩士學位學程",
+        "dep_ename": "International Master's Program in Inter-Asia Cultural Studies",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "6",
+        "depType": "M"
+      }
+    },
+    "costype": {
+      "102X_5006": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "102X_5006": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      }
+    },
+    "language": {
+      "102X_5006": {
+        "授課語言代碼": "zh-tw"
+      }
+    }
+  },
+  "2A1": {
+    "dep_id": "2A1",
+    "dep_cname": "人文社會學院院本部",
+    "dep_ename": "College of Humanities and Social Science",
+    "1": {
+      "102X_5706": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "5706",
+        "cos_code": "OIA5001",
+        "num_limit": "0",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題研究與實習(A)",
+        "cos_credit": "2.00",
+        "cos_hours": "4.00",
+        "TURL": "http://www.srcs.nctu.edu.tw/joyceliu/",
+        "teacher": "劉紀蕙",
+        "cos_time": "",
+        "memo": "人社學院(研究所),上課日期:7月,限國際處暑期國際生",
+        "cos_ename": "Supervised Independent Study and Professional Practice(A)",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "A1",
+        "dep_primary": "1",
+        "dep_cname": "人文社會學院院本部",
+        "dep_ename": "College of Humanities and Social Science",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "2",
+        "depType": "G"
+      },
+      "102X_5806": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "5806",
+        "cos_code": "OIA5002",
+        "num_limit": "0",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題研究與實習(B)",
+        "cos_credit": "2.00",
+        "cos_hours": "4.00",
+        "TURL": "",
+        "teacher": "人社學院",
+        "cos_time": "",
+        "memo": "人社學院(研究所),上課日期:8月,限國際處暑期國際生",
+        "cos_ename": "Supervised Independent Study and Professional Practice(B)",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "A1",
+        "dep_primary": "1",
+        "dep_cname": "人文社會學院院本部",
+        "dep_ename": "College of Humanities and Social Science",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "1",
+        "depType": "G"
+      }
+    },
+    "costype": {
+      "102X_5706": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_5806": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "102X_5706": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "102X_5806": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      }
+    },
+    "language": {
+      "102X_5706": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_5806": {
+        "授課語言代碼": "zh-tw"
+      }
+    }
+  },
+  "2B1": {
+    "dep_id": "2B1",
+    "dep_cname": "生物科技學院",
+    "dep_ename": "College of Biological Science and Technology",
+    "1": {
+      "102X_5705": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "5705",
+        "cos_code": "OIA5001",
+        "num_limit": "0",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題研究與實習(A)",
+        "cos_credit": "2.00",
+        "cos_hours": "4.00",
+        "TURL": "",
+        "teacher": "生科學院",
+        "cos_time": "",
+        "memo": "生科學院(研究所),上課日期:7月,限國際處暑期國際生",
+        "cos_ename": "Supervised Independent Study and Professional Practice(A)",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "B1",
+        "dep_primary": "1",
+        "dep_cname": "生物科技學院",
+        "dep_ename": "College of Biological Science and Technology",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "G"
+      },
+      "102X_5805": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "5805",
+        "cos_code": "OIA5002",
+        "num_limit": "0",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題研究與實習(B)",
+        "cos_credit": "2.00",
+        "cos_hours": "4.00",
+        "TURL": "",
+        "teacher": "生科學院",
+        "cos_time": "",
+        "memo": "生科學院(研究所),上課日期:7月,限國際處暑期國際生",
+        "cos_ename": "Supervised Independent Study and Professional Practice(B)",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "B1",
+        "dep_primary": "1",
+        "dep_cname": "生物科技學院",
+        "dep_ename": "College of Biological Science and Technology",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "G"
+      }
+    },
+    "costype": {
+      "102X_5705": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_5805": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "102X_5705": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "102X_5805": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      }
+    },
+    "language": {
+      "102X_5705": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_5805": {
+        "授課語言代碼": "zh-tw"
+      }
+    }
+  },
+  "2C1": {
+    "dep_id": "2C1",
+    "dep_cname": "資訊學院",
+    "dep_ename": "College of Computer Science",
+    "1": {
+      "102X_5702": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "5702",
+        "cos_code": "OIA5001",
+        "num_limit": "0",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題研究與實習(A)",
+        "cos_credit": "2.00",
+        "cos_hours": "4.00",
+        "TURL": "",
+        "teacher": "資訊學院",
+        "cos_time": "",
+        "memo": "資訊學院(研究所),上課日期:7月,限國際處暑期國際生",
+        "cos_ename": "Supervised Independent Study and Professional Practice(A)",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "C1",
+        "dep_primary": "1",
+        "dep_cname": "資訊學院",
+        "dep_ename": "College of Computer Science",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "G"
+      },
+      "102X_5802": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "5802",
+        "cos_code": "OIA5002",
+        "num_limit": "0",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題研究與實習(B)",
+        "cos_credit": "2.00",
+        "cos_hours": "4.00",
+        "TURL": "",
+        "teacher": "資訊學院",
+        "cos_time": "",
+        "memo": "資訊學院(研究所),上課日期:8月,限國際處暑期國際生",
+        "cos_ename": "Supervised Independent Study and Professional Practice(B)",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "C1",
+        "dep_primary": "1",
+        "dep_cname": "資訊學院",
+        "dep_ename": "College of Computer Science",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "G"
+      }
+    },
+    "costype": {
+      "102X_5702": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_5802": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "102X_5702": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "102X_5802": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      }
+    },
+    "language": {
+      "102X_5702": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_5802": {
+        "授課語言代碼": "zh-tw"
+      }
+    }
+  },
+  "2E1": {
+    "dep_id": "2E1",
+    "dep_cname": "工學院",
+    "dep_ename": "College of Engineering",
+    "1": {
+      "102X_5703": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "5703",
+        "cos_code": "OIA5001",
+        "num_limit": "0",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題研究與實習(A)",
+        "cos_credit": "2.00",
+        "cos_hours": "4.00",
+        "TURL": "",
+        "teacher": "工學院",
+        "cos_time": "",
+        "memo": "工學院(研究所),上課日期:7月,限國際處暑期國際生",
+        "cos_ename": "Supervised Independent Study and Professional Practice(A)",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "E1",
+        "dep_primary": "1",
+        "dep_cname": "工學院",
+        "dep_ename": "College of Engineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "G"
+      },
+      "102X_5803": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "5803",
+        "cos_code": "OIA5002",
+        "num_limit": "0",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題研究與實習(B)",
+        "cos_credit": "2.00",
+        "cos_hours": "4.00",
+        "TURL": "",
+        "teacher": "工學院",
+        "cos_time": "",
+        "memo": "工學院(研究所),上課日期:8月,限國際處暑期國際生",
+        "cos_ename": "Supervised Independent Study and Professional Practice(B)",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "E1",
+        "dep_primary": "1",
+        "dep_cname": "工學院",
+        "dep_ename": "College of Engineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "G"
+      }
+    },
+    "costype": {
+      "102X_5703": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_5803": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "102X_5703": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "102X_5803": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      }
+    },
+    "language": {
+      "102X_5703": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_5803": {
+        "授課語言代碼": "zh-tw"
+      }
+    }
+  },
+  "2I1": {
+    "dep_id": "2I1",
+    "dep_cname": "電機學院院級課程",
+    "dep_ename": "College of Electrical and Computer Engineering",
+    "1": {
+      "102X_5701": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "5701",
+        "cos_code": "OIA5001",
+        "num_limit": "0",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題研究與實習(A)",
+        "cos_credit": "2.00",
+        "cos_hours": "4.00",
+        "TURL": "",
+        "teacher": "電機學院",
+        "cos_time": "",
+        "memo": "電機學院(研究所),上課日期:7月,限國際處暑期國際生",
+        "cos_ename": "Supervised Independent Study and Professional Practice(A)",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "I1",
+        "dep_primary": "1",
+        "dep_cname": "電機學院院級課程",
+        "dep_ename": "College of Electrical and Computer Engineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "G"
+      },
+      "102X_5801": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "5801",
+        "cos_code": "OIA5002",
+        "num_limit": "0",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題研究與實習(B)",
+        "cos_credit": "2.00",
+        "cos_hours": "4.00",
+        "TURL": "",
+        "teacher": "電機學院",
+        "cos_time": "",
+        "memo": "電機學院(研究所),上課日期:8月,限國際處暑期國際生",
+        "cos_ename": "Supervised Independent Study and Professional Practice(B)",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "I1",
+        "dep_primary": "1",
+        "dep_cname": "電機學院院級課程",
+        "dep_ename": "College of Electrical and Computer Engineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "G"
+      }
+    },
+    "costype": {
+      "102X_5701": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_5801": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "102X_5701": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "102X_5801": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      }
+    },
+    "language": {
+      "102X_5701": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_5801": {
+        "授課語言代碼": "zh-tw"
+      }
+    }
+  },
+  "2S1": {
+    "dep_id": "2S1",
+    "dep_cname": "理學院院本部",
+    "dep_ename": "College of Science",
+    "1": {
+      "102X_5704": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "5704",
+        "cos_code": "OIA5001",
+        "num_limit": "0",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題研究與實習(A)",
+        "cos_credit": "2.00",
+        "cos_hours": "4.00",
+        "TURL": "",
+        "teacher": null,
+        "cos_time": "",
+        "memo": "理學院(研究所),上課日期:7月,限國際處暑期國際生",
+        "cos_ename": "Supervised Independent Study and Professional Practice(A)",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "S1",
+        "dep_primary": "1",
+        "dep_cname": "理學院院本部",
+        "dep_ename": "College of Science",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "1",
+        "depType": "G"
+      },
+      "102X_5804": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "5804",
+        "cos_code": "OIA5002",
+        "num_limit": "0",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題研究與實習(B)",
+        "cos_credit": "2.00",
+        "cos_hours": "4.00",
+        "TURL": "",
+        "teacher": null,
+        "cos_time": "",
+        "memo": "理學院(研究所),上課日期:8月,限國際處暑期國際生",
+        "cos_ename": "Supervised Independent Study and Professional Practice(B)",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "S1",
+        "dep_primary": "1",
+        "dep_cname": "理學院院本部",
+        "dep_ename": "College of Science",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "G"
+      }
+    },
+    "costype": {
+      "102X_5704": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_5804": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "102X_5704": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "102X_5804": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      }
+    },
+    "language": {
+      "102X_5704": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_5804": {
+        "授課語言代碼": "zh-tw"
+      }
+    }
+  },
+  "311": {
+    "dep_id": "311",
+    "dep_cname": "電子工程學系",
+    "dep_ename": "Department of Electronics Engineering",
+    "1": {
+      "102X_1010": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1010",
+        "cos_code": "DEE2207",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "微分方程",
+        "cos_credit": "3.00",
+        "cos_hours": "4.00",
+        "TURL": "",
+        "teacher": "林國瑞",
+        "cos_time": "2CD3CD4CD-ED201",
+        "memo": "日期:7月1日-8月28日",
+        "cos_ename": "Differential Equation",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "11",
+        "dep_primary": "1",
+        "dep_cname": "電子工程學系",
+        "dep_ename": "Department of Electronics Engineering",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "33",
+        "depType": "U"
+      },
+      "102X_1039": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1039",
+        "cos_code": "DEE4391",
+        "num_limit": "9999",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "電子工程專題（二）",
+        "cos_credit": ".00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "電工系",
+        "cos_time": "",
+        "memo": "上課日期:7月6日至8月31日,限交大電子系",
+        "cos_ename": "Special Project on Electronic Engineering (II)",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "11",
+        "dep_primary": "1",
+        "dep_cname": "電子工程學系",
+        "dep_ename": "Department of Electronics Engineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "52",
+        "depType": "U"
+      }
+    },
+    "costype": {
+      "102X_1010": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_1039": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "102X_1010": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "102X_1039": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      }
+    },
+    "language": {
+      "102X_1010": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_1039": {
+        "授課語言代碼": "zh-tw"
+      }
+    }
+  },
+  "314": {
+    "dep_id": "314",
+    "dep_cname": "機械工程學系",
+    "dep_ename": "Department of Mechanical Engineering",
+    "1": {
+      "102X_1013": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1013",
+        "cos_code": "DME1333",
+        "num_limit": "50",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "進階圖學",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "陳文欽",
+        "cos_time": "2CD3CD-EE527",
+        "memo": "日期:7月7日-9月5日",
+        "cos_ename": "Advanced Graphics",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "14",
+        "dep_primary": "1",
+        "dep_cname": "機械工程學系",
+        "dep_ename": "Department of Mechanical Engineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "38",
+        "depType": "U"
+      }
+    },
+    "costype": {
+      "102X_1013": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "102X_1013": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      }
+    },
+    "language": {
+      "102X_1013": {
+        "授課語言代碼": "zh-tw"
+      }
+    }
+  },
+  "317": {
+    "dep_id": "317",
+    "dep_cname": "資訊工程學系",
+    "dep_ename": "Department of Computer Science",
+    "1": {
+      "102X_1011": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1011",
+        "cos_code": "DCP2332",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "資料結構",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "荊宇泰",
+        "cos_time": "1BCD3BCD5BCD-EC115",
+        "memo": "日期:7月2日-8月15日,\"計算機概論與程式設計[1上] 與物件導向程式設計[1下]→兩科皆不及格者不得修資料結構[2上]與演算法概論[2下]\"",
+        "cos_ename": "Data Structures",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "17",
+        "dep_primary": "1",
+        "dep_cname": "資訊工程學系",
+        "dep_ename": "Department of Computer Science",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "47",
+        "depType": "U"
+      },
+      "102X_1012": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1012",
+        "cos_code": "DCP2106",
+        "num_limit": "9999",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "基礎程式設計",
+        "cos_credit": ".00",
+        "cos_hours": "3.00",
+        "TURL": "http://www.cs.nctu.edu.tw/~skhuang",
+        "teacher": "黃世昆、吳凱強",
+        "cos_time": "",
+        "memo": "日期:6月30日-8月11日,星期一12:30-17:30",
+        "cos_ename": "Basic Programming",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "17",
+        "dep_primary": "1",
+        "dep_cname": "資訊工程學系",
+        "dep_ename": "Department of Computer Science",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "19",
+        "depType": "U"
+      }
+    },
+    "costype": {
+      "102X_1011": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_1012": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "102X_1011": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "102X_1012": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      }
+    },
+    "language": {
+      "102X_1011": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_1012": {
+        "授課語言代碼": "zh-tw"
+      }
+    }
+  },
+  "323": {
+    "dep_id": "323",
+    "dep_cname": "電機工程學系",
+    "dep_ename": "Department of Electrical and Computer Engineering",
+    "1": {
+      "102X_1009": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1009",
+        "cos_code": "UEE2405",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "電路學",
+        "cos_credit": "3.00",
+        "cos_hours": "4.00",
+        "TURL": "http://jsjk.cn.nctu.edu.tw",
+        "teacher": "陳永平",
+        "cos_time": "2BCD3BCD4BCD-EE112",
+        "memo": "日期:7月1日-8月7日,電機系學生限重修生選修",
+        "cos_ename": "Circuit Theory ",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "23",
+        "dep_primary": "1",
+        "dep_cname": "電機工程學系",
+        "dep_ename": "Department of Electrical and Computer Engineering",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "25",
+        "depType": "U"
+      }
+    },
+    "costype": {
+      "102X_1009": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "102X_1009": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      }
+    },
+    "language": {
+      "102X_1009": {
+        "授課語言代碼": "zh-tw"
+      }
+    }
+  },
+  "325": {
+    "dep_id": "325",
+    "dep_cname": "應用化學系",
+    "dep_ename": "Department of Applied Chemistry",
+    "1": {
+      "102X_1008": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1008",
+        "cos_code": "DAC1205",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "化學(一)",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "http://web.it.nctu.edu.tw/~twli/",
+        "teacher": "李大偉",
+        "cos_time": "",
+        "memo": "日期:6月30日-9月1日,網路課程",
+        "cos_ename": "Chemistry (I)",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "25",
+        "dep_primary": "1",
+        "dep_cname": "應用化學系",
+        "dep_ename": "Department of Applied Chemistry",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "33",
+        "depType": "U"
+      },
+      "102X_1036": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1036",
+        "cos_code": "DAC3201",
+        "num_limit": "0",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題研究(一)",
+        "cos_credit": "1.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "應化系",
+        "cos_time": "",
+        "memo": "上課日期:7月1日-8月22日,欲選修本課程之學生請於6月24日前直接向應化系系辦登記加選.",
+        "cos_ename": "Research (1)",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "25",
+        "dep_primary": "1",
+        "dep_cname": "應用化學系",
+        "dep_ename": "Department of Applied Chemistry",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "23",
+        "depType": "U"
+      },
+      "102X_1037": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1037",
+        "cos_code": "DAC3202",
+        "num_limit": "0",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題研究(二)",
+        "cos_credit": "1.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "應化系",
+        "cos_time": "",
+        "memo": "上課日期:7月1日-8月22日,欲選修本課程之學生請於6月24日前直接向應化系系辦登記加選.",
+        "cos_ename": "Research (2)",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "25",
+        "dep_primary": "1",
+        "dep_cname": "應用化學系",
+        "dep_ename": "Department of Applied Chemistry",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "U"
+      }
+    },
+    "costype": {
+      "102X_1008": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_1036": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_1037": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "102X_1008": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "102X_1036": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "102X_1037": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      }
+    },
+    "language": {
+      "102X_1008": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_1036": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_1037": {
+        "授課語言代碼": "zh-tw"
+      }
+    }
+  },
+  "3A1": {
+    "dep_id": "3A1",
+    "dep_cname": "人文社會學院院本部",
+    "dep_ename": "College of Humanities and Social Science",
+    "1": {
+      "102X_1706": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1706",
+        "cos_code": "OIA1001",
+        "num_limit": "0",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題研究與實習(A)",
+        "cos_credit": "2.00",
+        "cos_hours": "4.00",
+        "TURL": "",
+        "teacher": "人社學院",
+        "cos_time": "",
+        "memo": "人社學院,上課日期:7月,限國際處暑期國際生",
+        "cos_ename": "Supervised Independent Study and Professional Practice(A)",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "A1",
+        "dep_primary": "1",
+        "dep_cname": "人文社會學院院本部",
+        "dep_ename": "College of Humanities and Social Science",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "U"
+      },
+      "102X_1806": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1806",
+        "cos_code": "OIA1002",
+        "num_limit": "0",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題研究與實習(B)",
+        "cos_credit": "2.00",
+        "cos_hours": "4.00",
+        "TURL": "",
+        "teacher": "人社學院",
+        "cos_time": "",
+        "memo": "人社學院,上課日期:8月,限國際處暑期國際生",
+        "cos_ename": "Supervised Independent Study and Professional Practice(B)",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "A1",
+        "dep_primary": "1",
+        "dep_cname": "人文社會學院院本部",
+        "dep_ename": "College of Humanities and Social Science",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "U"
+      }
+    },
+    "costype": {
+      "102X_1706": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_1806": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "102X_1706": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "102X_1806": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      }
+    },
+    "language": {
+      "102X_1706": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_1806": {
+        "授課語言代碼": "zh-tw"
+      }
+    }
+  },
+  "3B1": {
+    "dep_id": "3B1",
+    "dep_cname": "生物科技學院",
+    "dep_ename": "College of Biological Science and Technology",
+    "1": {
+      "102X_1048": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1048",
+        "cos_code": "SUM1019",
+        "num_limit": "0",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "生命科學概論",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "袁俊傑、黃兆祺、鄒協成、黃植懋",
+        "cos_time": "1EFG2EFG3EFG-EF254",
+        "memo": "2014 NCTU Summer Program,限國際處暑期國際生,7/7-7/30",
+        "cos_ename": "Introduction of Life Science",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "B1",
+        "dep_primary": "1",
+        "dep_cname": "生物科技學院",
+        "dep_ename": "College of Biological Science and Technology",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "13",
+        "depType": "U"
+      },
+      "102X_1705": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1705",
+        "cos_code": "OIA1001",
+        "num_limit": "0",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題研究與實習(A)",
+        "cos_credit": "2.00",
+        "cos_hours": "4.00",
+        "TURL": "",
+        "teacher": "生科學院",
+        "cos_time": "",
+        "memo": "生科學院,上課日期:7月,限國際處暑期國際生",
+        "cos_ename": "Supervised Independent Study and Professional Practice(A)",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "B1",
+        "dep_primary": "1",
+        "dep_cname": "生物科技學院",
+        "dep_ename": "College of Biological Science and Technology",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "U"
+      },
+      "102X_1805": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1805",
+        "cos_code": "OIA1002",
+        "num_limit": "0",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題研究與實習(B)",
+        "cos_credit": "2.00",
+        "cos_hours": "4.00",
+        "TURL": "",
+        "teacher": "生科學院",
+        "cos_time": "",
+        "memo": "生科學院,上課日期:8月,限國際處暑期國際生",
+        "cos_ename": "Supervised Independent Study and Professional Practice(B)",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "B1",
+        "dep_primary": "1",
+        "dep_cname": "生物科技學院",
+        "dep_ename": "College of Biological Science and Technology",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "U"
+      }
+    },
+    "costype": {
+      "102X_1048": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_1705": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_1805": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "102X_1048": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "102X_1705": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "102X_1805": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      }
+    },
+    "language": {
+      "102X_1048": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_1705": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_1805": {
+        "授課語言代碼": "zh-tw"
+      }
+    }
+  },
+  "3C1": {
+    "dep_id": "3C1",
+    "dep_cname": "資訊學院",
+    "dep_ename": "College of Computer Science",
+    "1": {
+      "102X_1702": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1702",
+        "cos_code": "OIA1001",
+        "num_limit": "0",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題研究與實習(A)",
+        "cos_credit": "2.00",
+        "cos_hours": "4.00",
+        "TURL": "",
+        "teacher": "資訊學院",
+        "cos_time": "",
+        "memo": "資訊學院,上課日期:7月,限國際處暑期國際生",
+        "cos_ename": "Supervised Independent Study and Professional Practice(A)",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "C1",
+        "dep_primary": "1",
+        "dep_cname": "資訊學院",
+        "dep_ename": "College of Computer Science",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "U"
+      },
+      "102X_1802": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1802",
+        "cos_code": "OIA1002",
+        "num_limit": "0",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題研究與實習(B)",
+        "cos_credit": "2.00",
+        "cos_hours": "4.00",
+        "TURL": "",
+        "teacher": "資訊學院",
+        "cos_time": "",
+        "memo": "資訊學院,上課日期:8月,限國際處暑期國際生",
+        "cos_ename": "Supervised Independent Study and Professional Practice(B)",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "C1",
+        "dep_primary": "1",
+        "dep_cname": "資訊學院",
+        "dep_ename": "College of Computer Science",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "U"
+      }
+    },
+    "costype": {
+      "102X_1702": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_1802": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "102X_1702": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "102X_1802": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      }
+    },
+    "language": {
+      "102X_1702": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_1802": {
+        "授課語言代碼": "zh-tw"
+      }
+    }
+  },
+  "3E1": {
+    "dep_id": "3E1",
+    "dep_cname": "工學院",
+    "dep_ename": "College of Engineering",
+    "1": {
+      "102X_1047": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1047",
+        "cos_code": "SUM1018",
+        "num_limit": "0",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "機械設計與製造",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "鍾添淦",
+        "cos_time": "1BCD2BCD3BCD-EE324",
+        "memo": "2014 NCTU Summer Program,限國際處暑期國際生,7/7-7/30,教室:EE324A",
+        "cos_ename": "Mechanical Design and Manufacturing",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "E1",
+        "dep_primary": "1",
+        "dep_cname": "工學院",
+        "dep_ename": "College of Engineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "25",
+        "depType": "U"
+      },
+      "102X_1703": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1703",
+        "cos_code": "OIA1001",
+        "num_limit": "0",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題研究與實習(A)",
+        "cos_credit": "2.00",
+        "cos_hours": "4.00",
+        "TURL": "",
+        "teacher": "工學院",
+        "cos_time": "",
+        "memo": "工學院,上課日期:7月,限國際處暑期國際生",
+        "cos_ename": "Supervised Independent Study and Professional Practice(A)",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "E1",
+        "dep_primary": "1",
+        "dep_cname": "工學院",
+        "dep_ename": "College of Engineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "U"
+      },
+      "102X_1803": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1803",
+        "cos_code": "OIA1002",
+        "num_limit": "0",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題研究與實習(B)",
+        "cos_credit": "2.00",
+        "cos_hours": "4.00",
+        "TURL": "",
+        "teacher": "工學院",
+        "cos_time": "",
+        "memo": "工學院,上課日期:8月,限國際處暑期國際生",
+        "cos_ename": "Supervised Independent Study and Professional Practice(B)",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "E1",
+        "dep_primary": "1",
+        "dep_cname": "工學院",
+        "dep_ename": "College of Engineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "U"
+      }
+    },
+    "costype": {
+      "102X_1047": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_1703": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_1803": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "102X_1047": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "102X_1703": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "102X_1803": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      }
+    },
+    "language": {
+      "102X_1047": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_1703": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_1803": {
+        "授課語言代碼": "zh-tw"
+      }
+    }
+  },
+  "3I1": {
+    "dep_id": "3I1",
+    "dep_cname": "電機學院(大學部)",
+    "dep_ename": "College of Electrical and Computer Engineering",
+    "1": {
+      "102X_1044": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1044",
+        "cos_code": "SUM1015",
+        "num_limit": "0",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "通訊原理",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "桑梓賢",
+        "cos_time": "1BCD2BCD3BCD-ED301",
+        "memo": "2014 NCTU Summer Program,限國際處暑期國際生,7/7-7/30",
+        "cos_ename": "Principles of Communication Systems",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "I1",
+        "dep_primary": "1",
+        "dep_cname": "電機學院(大學部)",
+        "dep_ename": "College of Electrical and Computer Engineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "50",
+        "depType": "U"
+      },
+      "102X_1045": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1045",
+        "cos_code": "SUM1016",
+        "num_limit": "0",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "生醫訊號與系統",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "陳稷康",
+        "cos_time": "1EFG2EFG3EFG-ED303",
+        "memo": "2014 NCTU Summer Program,限國際處暑期國際生,7/7-7/30",
+        "cos_ename": "Bioengineering Signals and Systems",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "I1",
+        "dep_primary": "1",
+        "dep_cname": "電機學院(大學部)",
+        "dep_ename": "College of Electrical and Computer Engineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "12",
+        "depType": "U"
+      },
+      "102X_1701": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1701",
+        "cos_code": "OIA1001",
+        "num_limit": "0",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題研究與實習(A)",
+        "cos_credit": "2.00",
+        "cos_hours": "4.00",
+        "TURL": "",
+        "teacher": "電機學院",
+        "cos_time": "",
+        "memo": "電機學院,上課日期:7月,限國際處暑期國際生",
+        "cos_ename": "Supervised Independent Study and Professional Practice(A)",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "I1",
+        "dep_primary": "1",
+        "dep_cname": "電機學院(大學部)",
+        "dep_ename": "College of Electrical and Computer Engineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "U"
+      },
+      "102X_1801": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1801",
+        "cos_code": "OIA1002",
+        "num_limit": "0",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題研究與實習(B)",
+        "cos_credit": "2.00",
+        "cos_hours": "4.00",
+        "TURL": "",
+        "teacher": "電機學院",
+        "cos_time": "",
+        "memo": "電機學院,上課日期:8月,限國際處暑期國際生",
+        "cos_ename": "Supervised Independent Study and Professional Practice(B)",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "I1",
+        "dep_primary": "1",
+        "dep_cname": "電機學院(大學部)",
+        "dep_ename": "College of Electrical and Computer Engineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "U"
+      }
+    },
+    "costype": {
+      "102X_1044": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_1045": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_1701": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_1801": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "102X_1044": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "102X_1045": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "102X_1701": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "102X_1801": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      }
+    },
+    "language": {
+      "102X_1044": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_1045": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_1701": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_1801": {
+        "授課語言代碼": "zh-tw"
+      }
+    }
+  },
+  "3K1": {
+    "dep_id": "3K1",
+    "dep_cname": "客家文化學院",
+    "dep_ename": "College of Hakka Studies",
+    "1": {
+      "102X_1051": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1051",
+        "cos_code": "SUM1013",
+        "num_limit": "0",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "體驗台灣。台灣體驗",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "http://fb.me/chongweylin",
+        "teacher": "林崇偉",
+        "cos_time": "1EFG2EFG3EFG-",
+        "memo": "2014 NCTU Summer Program,限國際處暑期國際生,7/7-7/30,教室:計中訓練教室105",
+        "cos_ename": "Experience Taiwan, Taiwan Experience",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "K1",
+        "dep_primary": "1",
+        "dep_cname": "客家文化學院",
+        "dep_ename": "College of Hakka Studies",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "36",
+        "depType": "U"
+      }
+    },
+    "costype": {
+      "102X_1051": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "102X_1051": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      }
+    },
+    "language": {
+      "102X_1051": {
+        "授課語言代碼": "zh-tw"
+      }
+    }
+  },
+  "3M1": {
+    "dep_id": "3M1",
+    "dep_cname": "管理學院院本部",
+    "dep_ename": "College of Management",
+    "1": {
+      "102X_1015": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1015",
+        "cos_code": "DOM1030",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "會計學(一)",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "蔡璧徽",
+        "cos_time": "1EFGH2EFGH-M205",
+        "memo": "日期:6月30日-8月18日,本課程欲計入交大管理學院大學部共同必修會計學一課程之學分者,必須為該課程之重修學生(不含停修學生),除前述外之本校其他學院及他校學生修本課程者不限重修生.",
+        "cos_ename": "Accounting (I)",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "M1",
+        "dep_primary": "1",
+        "dep_cname": "管理學院院本部",
+        "dep_ename": "College of Management",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "33",
+        "depType": "U"
+      },
+      "102X_1016": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1016",
+        "cos_code": "DOM1031",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "會計學(二)",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "蔡璧徽",
+        "cos_time": "1BCD2BCD-M205",
+        "memo": "日期:6月30日-9月1日,本課程欲計入交大管理學院大學部共同必修會計學二課程之學分者,必須為該課程之重修學生(不含停修學生),除前述外之本校其他學院及他校學生修本課程者不限重修生.",
+        "cos_ename": "Accounting (II)",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "M1",
+        "dep_primary": "1",
+        "dep_cname": "管理學院院本部",
+        "dep_ename": "College of Management",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "16",
+        "depType": "U"
+      },
+      "102X_1017": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1017",
+        "cos_code": "DOM1042",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "統計學(二)",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "張新立",
+        "cos_time": "1BCDEFG3BCD4BCD-A316",
+        "memo": "日期:6月30日-7月28日,本課程欲計入交大管理學院大學部共同必修統計學二課程之學分者,必須為該課程之重修學生(不含停修學生),除前述外之本校其他學院及他校學生修本課程者不限重修生.",
+        "cos_ename": "Statistics (II)",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "M1",
+        "dep_primary": "1",
+        "dep_cname": "管理學院院本部",
+        "dep_ename": "College of Management",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "11",
+        "depType": "U"
+      },
+      "102X_1049": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1049",
+        "cos_code": "SUM1012",
+        "num_limit": "0",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "崛起的亞洲企業競爭力",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "黃寬丞、黃仕斌、林建中、蕭嬋、姜真秀",
+        "cos_time": "1BCD2BCD3BCD-光寶1",
+        "memo": "2014 NCTU Summer Program,限國際處暑期國際生,7/7-7/30",
+        "cos_ename": "Emerging Competitiveness of Asian Enterprises",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "M1",
+        "dep_primary": "1",
+        "dep_cname": "管理學院院本部",
+        "dep_ename": "College of Management",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "38",
+        "depType": "U"
+      },
+      "102X_1050": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1050",
+        "cos_code": "SUM1012",
+        "num_limit": "0",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "崛起的亞洲企業競爭力",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "黃寬丞、黃仕斌、林建中、蕭嬋、姜真秀",
+        "cos_time": "1BCD2BCD3BCD-光寶2",
+        "memo": "2014 NCTU Summer Program,限國際處暑期國際生[English Medium Course]",
+        "cos_ename": "Emerging Competitiveness of Asian Enterprises",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "M1",
+        "dep_primary": "1",
+        "dep_cname": "管理學院院本部",
+        "dep_ename": "College of Management",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "32",
+        "depType": "U"
+      }
+    },
+    "costype": {
+      "102X_1015": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_1016": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_1017": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_1049": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_1050": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "102X_1015": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "102X_1016": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "102X_1017": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "102X_1049": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "102X_1050": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      }
+    },
+    "language": {
+      "102X_1015": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_1016": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_1017": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_1049": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_1050": {
+        "授課語言代碼": "en-us"
+      }
+    }
+  },
+  "3S1": {
+    "dep_id": "3S1",
+    "dep_cname": "理學院院本部",
+    "dep_ename": "College of Science",
+    "1": {
+      "102X_1014": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1014",
+        "cos_code": "DOS1006",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "統計計算語言",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "游程盛",
+        "cos_time": "2EFG3EFG4EFG-A406",
+        "memo": "日期:7月1日-8月7日",
+        "cos_ename": "Statistical Computing Software",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "S1",
+        "dep_primary": "1",
+        "dep_cname": "理學院院本部",
+        "dep_ename": "College of Science",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "24",
+        "depType": "U"
+      },
+      "102X_1046": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1046",
+        "cos_code": "SUM1017",
+        "num_limit": "0",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "化學動手做",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "孫建文、黃立心",
+        "cos_time": "1EFG2EFG3EFG-SB522",
+        "memo": "2014 NCTU Summer Program,限國際處暑期國際生,7/7-7/30,實驗室:SB109",
+        "cos_ename": "Chemistry with your hands",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "S1",
+        "dep_primary": "1",
+        "dep_cname": "理學院院本部",
+        "dep_ename": "College of Science",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "27",
+        "depType": "U"
+      },
+      "102X_1704": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1704",
+        "cos_code": "OIA1001",
+        "num_limit": "0",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題研究與實習(A)",
+        "cos_credit": "2.00",
+        "cos_hours": "4.00",
+        "TURL": "",
+        "teacher": null,
+        "cos_time": "",
+        "memo": "理學院,上課日期:7月,限國際處暑期國際生",
+        "cos_ename": "Supervised Independent Study and Professional Practice(A)",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "S1",
+        "dep_primary": "1",
+        "dep_cname": "理學院院本部",
+        "dep_ename": "College of Science",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "U"
+      },
+      "102X_1804": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "1804",
+        "cos_code": "OIA1002",
+        "num_limit": "0",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題研究與實習(B)",
+        "cos_credit": "2.00",
+        "cos_hours": "4.00",
+        "TURL": "",
+        "teacher": null,
+        "cos_time": "",
+        "memo": "理學院,上課日期:8月,限國際處暑期國際生",
+        "cos_ename": "Supervised Independent Study and Professional Practice(B)",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "S1",
+        "dep_primary": "1",
+        "dep_cname": "理學院院本部",
+        "dep_ename": "College of Science",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "U"
+      }
+    },
+    "costype": {
+      "102X_1014": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_1046": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_1704": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_1804": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "102X_1014": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "102X_1046": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "102X_1704": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "102X_1804": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      }
+    },
+    "language": {
+      "102X_1014": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_1046": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_1704": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_1804": {
+        "授課語言代碼": "zh-tw"
+      }
+    }
+  },
+  "3ZZ": {
+    "dep_id": "3ZZ",
+    "dep_cname": "外國學校",
+    "dep_ename": "Foreign school",
+    "1": {
+      "102X_9321": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "9321",
+        "cos_code": "CHU1405",
+        "num_limit": "0",
+        "dep_limit": "*",
+        "URL": "",
+        "cos_cname": "世界英語與跨文化溝通",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": null,
+        "cos_time": "",
+        "memo": null,
+        "cos_ename": "World Englishes and Cross Cultural Communication",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "ZZ",
+        "dep_primary": "1",
+        "dep_cname": "外國學校",
+        "dep_ename": "Foreign school",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "1",
+        "depType": "Z"
+      },
+      "102X_9322": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "9322",
+        "cos_code": "CHU1406",
+        "num_limit": "0",
+        "dep_limit": "*",
+        "URL": "",
+        "cos_cname": "韓文一",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": null,
+        "cos_time": "",
+        "memo": null,
+        "cos_ename": "Korean Language I",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "ZZ",
+        "dep_primary": "1",
+        "dep_cname": "外國學校",
+        "dep_ename": "Foreign school",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "1",
+        "depType": "Z"
+      },
+      "102X_9325": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "9325",
+        "cos_code": "CHU1487",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "創新方法與實踐",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": null,
+        "cos_time": "",
+        "memo": "",
+        "cos_ename": "Innovation Method and Practice",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "ZZ",
+        "dep_primary": "1",
+        "dep_cname": "外國學校",
+        "dep_ename": "Foreign school",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "1",
+        "depType": "Z"
+      },
+      "102X_9326": {
+        "acy": "102",
+        "sem": "X",
+        "cos_id": "9326",
+        "cos_code": "CHU1539",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "大學使命與大學文化",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": null,
+        "cos_time": "",
+        "memo": "",
+        "cos_ename": "The Mission & Culture of University",
+        "brief": "文化/進階",
+        "degree": "3",
+        "dep_id": "ZZ",
+        "dep_primary": "1",
+        "dep_cname": "外國學校",
+        "dep_ename": "Foreign school",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "1",
+        "depType": "Z"
+      }
+    },
+    "costype": {
+      "102X_9321": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_9322": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_9325": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "102X_9326": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "102X_9321": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "102X_9322": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "102X_9325": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "102X_9326": {
+        "A201": {
+          "brief_code": "A201",
+          "brief": "文化/進階(96)"
+        }
+      }
+    },
+    "language": {
+      "102X_9321": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_9322": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_9325": {
+        "授課語言代碼": "zh-tw"
+      },
+      "102X_9326": {
+        "授課語言代碼": "zh-tw"
+      }
+    }
+  }
+}

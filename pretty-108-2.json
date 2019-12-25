@@ -12448,7 +12448,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "16",
+        "reg_num": "15",
         "depType": "O"
       },
       "1082_8305": {
@@ -12588,7 +12588,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "36",
+        "reg_num": "35",
         "depType": "O"
       },
       "1082_8321": {
@@ -24738,7 +24738,7 @@
         "cos_type_e": "Required",
         "crsoutline_type": null,
         "reg_num": "0",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5008": {
         "acy": "108",
@@ -29071,7 +29071,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "0",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5309": {
         "acy": "108",
@@ -31416,12 +31416,12 @@
         "dep_id": "18",
         "dep_primary": "1",
         "dep_cname": "材料科學與工程學系",
-        "dep_ename": "Institute of Materials Science & Engineering",
+        "dep_ename": "Institute of Materials Science and Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "0",
-        "depType": "D"
+        "depType": "G"
       }
     },
     "costype": {
@@ -31696,7 +31696,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "0",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5357": {
         "acy": "108",
@@ -31724,7 +31724,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "0",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5358": {
         "acy": "108",
@@ -32814,6 +32814,34 @@
         "reg_num": "0",
         "depType": "G"
       },
+      "1082_5910": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "5910",
+        "cos_code": "IAM5839",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "資料科學與機器智慧",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": null,
+        "cos_time": "1IJK-SC201",
+        "memo": "",
+        "cos_ename": "Data science and machine intelligent",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "22",
+        "dep_primary": "1",
+        "dep_cname": "應用數學系",
+        "dep_ename": "Institute of Applied Mathematics",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "G"
+      },
       "1082_9501": {
         "acy": "108",
         "sem": "2",
@@ -32914,34 +32942,6 @@
         "cos_time": "1CD5D-",
         "memo": "清大綜三530,選修學生《須至清大首頁校務資訊系統以guest登入註冊選課, 但免辦校際選課手續,不須印申請表》.",
         "cos_ename": "Riemannian Geometry I",
-        "brief": "",
-        "degree": "2",
-        "dep_id": "22",
-        "dep_primary": "1",
-        "dep_cname": "應用數學系",
-        "dep_ename": "Institute of Applied Mathematics",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": null,
-        "reg_num": "0",
-        "depType": "G"
-      },
-      "1082_9505": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "9505",
-        "cos_code": "IAM5839",
-        "num_limit": "9999",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "資料科學與機器智慧",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "http://www.cc.nctu.edu.tw/~chih",
-        "teacher": "陳智",
-        "cos_time": "1IJK-SC201",
-        "memo": "",
-        "cos_ename": "Data science and machine intelligent",
         "brief": "",
         "degree": "2",
         "dep_id": "22",
@@ -33092,6 +33092,15 @@
           "GECIEngName": ""
         }
       },
+      "1082_5910": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1082_9501": {
         "": {
           "course_category_cname": "",
@@ -33120,15 +33129,6 @@
         }
       },
       "1082_9504": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
-      "1082_9505": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -33220,6 +33220,12 @@
           "brief": ""
         }
       },
+      "1082_5910": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1082_9501": {
         "": {
           "brief_code": "",
@@ -33239,12 +33245,6 @@
         }
       },
       "1082_9504": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
-      "1082_9505": {
         "": {
           "brief_code": "",
           "brief": ""
@@ -33294,6 +33294,9 @@
       "1082_5407": {
         "授課語言代碼": "zh-tw"
       },
+      "1082_5910": {
+        "授課語言代碼": "zh-tw"
+      },
       "1082_9501": {
         "授課語言代碼": "zh-tw"
       },
@@ -33304,9 +33307,6 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_9504": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1082_9505": {
         "授課語言代碼": "zh-tw"
       },
       "1082_5399": {
@@ -33345,7 +33345,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "0",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5083": {
         "acy": "108",
@@ -34232,7 +34232,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "0",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5111": {
         "acy": "108",
@@ -35067,7 +35067,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "0",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5423": {
         "acy": "108",
@@ -36121,7 +36121,7 @@
         "cos_type_e": "Required",
         "crsoutline_type": null,
         "reg_num": "0",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5444": {
         "acy": "108",
@@ -36742,7 +36742,7 @@
         "cos_type_e": "Required",
         "crsoutline_type": null,
         "reg_num": "0",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5668": {
         "acy": "108",
@@ -41948,7 +41948,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "0",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5527": {
         "acy": "108",
@@ -42681,7 +42681,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "0",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5544": {
         "acy": "108",
@@ -43559,13 +43559,13 @@
         "degree": "2",
         "dep_id": "36",
         "dep_primary": "1",
-        "dep_cname": "運輸與物流管理學系物流管理博士班",
+        "dep_cname": "運輸與物流管理學系物流管理碩博士班",
         "dep_ename": "Institute of Logistics Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "0",
-        "depType": "D"
+        "depType": "G"
       }
     },
     "costype": {
@@ -44134,7 +44134,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "0",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5575": {
         "acy": "108",
@@ -44963,7 +44963,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "0",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5182": {
         "acy": "108",
@@ -51434,7 +51434,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "0",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5868": {
         "acy": "108",
@@ -52052,7 +52052,7 @@
         "cos_type_e": "Required",
         "crsoutline_type": "data",
         "reg_num": "0",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5718": {
         "acy": "108",
@@ -54037,7 +54037,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "0",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5250": {
         "acy": "108",
@@ -54233,7 +54233,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "0",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5259": {
         "acy": "108",
@@ -54317,7 +54317,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "0",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5262": {
         "acy": "108",
@@ -54429,7 +54429,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "0",
-        "depType": "D"
+        "depType": "G"
       }
     },
     "costype": {

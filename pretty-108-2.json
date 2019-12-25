@@ -1670,15 +1670,15 @@
         "sem": "2",
         "cos_id": "3039",
         "cos_code": "COM1604",
-        "num_limit": "20",
+        "num_limit": "18",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "電影與華人文化",
         "cos_credit": "2.00",
         "cos_hours": "2.00",
         "TURL": "",
-        "teacher": "楊可欣",
-        "cos_time": "2CD-A403",
+        "teacher": "詹碧娥",
+        "cos_time": "1EF-A507",
         "memo": "",
         "cos_ename": "Film and Chinese Culture",
         "brief": "",
@@ -21117,6 +21117,34 @@
         "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
+      },
+      "1082_6607": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "6607",
+        "cos_code": "CGE1022",
+        "num_limit": "50",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "媒體識讀與數位素養",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "魏彗娟",
+        "cos_time": "3EF-F110",
+        "memo": "",
+        "cos_ename": "Media literacy and digital literacy",
+        "brief": "",
+        "degree": "0",
+        "dep_id": "UV",
+        "dep_primary": "1",
+        "dep_cname": "共同教育委員會",
+        "dep_ename": "",
+        "cos_type": "通識",
+        "cos_type_e": "General Course",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "O"
       }
     },
     "costype": {
@@ -21185,6 +21213,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1082_6607": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -21217,6 +21254,12 @@
           "brief_code": "A205,A505",
           "brief": "自然/進階(96),校基本素養(106)"
         }
+      },
+      "1082_6607": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -21233,6 +21276,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_6606": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1082_6607": {
         "授課語言代碼": "zh-tw"
       }
     }

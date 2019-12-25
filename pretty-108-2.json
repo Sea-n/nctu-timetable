@@ -18592,6 +18592,34 @@
         "reg_num": "51",
         "depType": "O"
       },
+      "1082_0321": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "0321",
+        "cos_code": "DAM1368",
+        "num_limit": "50",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "微積分甲（二）",
+        "cos_credit": "4.00",
+        "cos_hours": "4.00",
+        "TURL": "",
+        "teacher": "應數系",
+        "cos_time": "2CD-SA223,5EF-SA215",
+        "memo": "",
+        "cos_ename": "Calculus (II)",
+        "brief": "",
+        "degree": "0",
+        "dep_id": "UE",
+        "dep_primary": "1",
+        "dep_cname": "微積分教學小組",
+        "dep_ename": "Calculus section",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "O"
+      },
       "1082_0351": {
         "acy": "108",
         "sem": "2",
@@ -18955,6 +18983,34 @@
         "crsoutline_type": "data",
         "reg_num": "28",
         "depType": "O"
+      },
+      "1082_0419": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "0419",
+        "cos_code": "DAM1368",
+        "num_limit": "50",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "微積分甲（二）",
+        "cos_credit": "4.00",
+        "cos_hours": "4.00",
+        "TURL": "",
+        "teacher": "應數系",
+        "cos_time": "1GH4CD-SA215",
+        "memo": "",
+        "cos_ename": "Calculus (II)",
+        "brief": "",
+        "degree": "0",
+        "dep_id": "UE",
+        "dep_primary": "1",
+        "dep_cname": "微積分教學小組",
+        "dep_ename": "Calculus section",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "O"
       }
     },
     "costype": {
@@ -19046,6 +19102,15 @@
           "course_category_type": "16",
           "GECIName": "客",
           "GECIEngName": "CHK"
+        }
+      },
+      "1082_0321": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
         }
       },
       "1082_0351": {
@@ -19171,6 +19236,15 @@
           "GECIName": "客",
           "GECIEngName": "CHK"
         }
+      },
+      "1082_0419": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -19234,6 +19308,12 @@
           "brief": "自然/進階(96),跨院基本素養(106)"
         }
       },
+      "1082_0321": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1082_0351": {
         "A205,A504": {
           "brief_code": "A205,A504",
@@ -19310,6 +19390,12 @@
         "A205,A504": {
           "brief_code": "A205,A504",
           "brief": "自然/進階(96),跨院基本素養(106)"
+        }
+      },
+      "1082_0419": {
+        "": {
+          "brief_code": "",
+          "brief": ""
         }
       }
     },
@@ -19344,6 +19430,9 @@
       "1082_0320": {
         "授課語言代碼": "zh-tw"
       },
+      "1082_0321": {
+        "授課語言代碼": "zh-tw"
+      },
       "1082_0351": {
         "授課語言代碼": "zh-tw"
       },
@@ -19381,6 +19470,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_0418": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1082_0419": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -28791,7 +28883,7 @@
         "cos_id": "5301",
         "cos_code": "IME5522",
         "num_limit": "9999",
-        "dep_limit": "N",
+        "dep_limit": "*",
         "URL": null,
         "cos_cname": "熱交換器設計",
         "cos_credit": "3.00",
@@ -28847,7 +28939,7 @@
         "cos_id": "5303",
         "cos_code": "IME5562",
         "num_limit": "9999",
-        "dep_limit": "N",
+        "dep_limit": "*",
         "URL": null,
         "cos_cname": "波動力學",
         "cos_credit": "3.00",
@@ -28903,7 +28995,7 @@
         "cos_id": "5305",
         "cos_code": "IME5566",
         "num_limit": "9999",
-        "dep_limit": "N",
+        "dep_limit": "*",
         "URL": null,
         "cos_cname": "電腦整合設計與製造",
         "cos_credit": "3.00",
@@ -28931,7 +29023,7 @@
         "cos_id": "5306",
         "cos_code": "IME5598",
         "num_limit": "9999",
-        "dep_limit": "N",
+        "dep_limit": "*",
         "URL": null,
         "cos_cname": "數位控制系統",
         "cos_credit": "3.00",
@@ -28959,7 +29051,7 @@
         "cos_id": "5307",
         "cos_code": "IME5612",
         "num_limit": "9999",
-        "dep_limit": "N",
+        "dep_limit": "*",
         "URL": null,
         "cos_cname": "微流控與表面科學",
         "cos_credit": "3.00",

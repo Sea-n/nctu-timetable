@@ -21215,12 +21215,19 @@
         }
       },
       "1082_6607": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
+        "通識校基本素養_通識校基本": {
+          "course_category_cname": "通識校基本素養_通識校基本",
+          "course_category_ename": "General Education Course: Literacy_GECL",
+          "course_category_type": "15",
+          "GECIName": "資,管,生,客",
+          "GECIEngName": "CCS,COM,CBT,CHK"
+        },
+        "通識跨院基本素養_通識跨院": {
+          "course_category_cname": "通識跨院基本素養_通識跨院",
+          "course_category_ename": "General Education Course: Intercollegiate_GECI",
+          "course_category_type": "16",
+          "GECIName": "資,管,生,客",
+          "GECIEngName": "CCS,COM,CBT,CHK"
         }
       }
     },

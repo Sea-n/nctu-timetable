@@ -64533,6 +64533,34 @@
         "crsoutline_type": null,
         "reg_num": "0",
         "depType": "G"
+      },
+      "1082_5897": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "5897",
+        "cos_code": "IOG5002",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題研討",
+        "cos_credit": "1.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "魏澤人、林柏宏、謝君偉、陳建志、林勻蔚、郭志義、馬清文",
+        "cos_time": "5EFG-CM218",
+        "memo": "",
+        "cos_ename": "Seminar",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "G1",
+        "dep_primary": "1",
+        "dep_cname": "智慧科學暨綠能學院",
+        "dep_ename": "",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "G"
       }
     },
     "costype": {
@@ -64562,6 +64590,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1082_5897": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -64582,6 +64619,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1082_5897": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -64593,6 +64636,9 @@
       },
       "1082_5900": {
         "授課語言代碼": "en-us"
+      },
+      "1082_5897": {
+        "授課語言代碼": "zh-tw"
       }
     }
   },

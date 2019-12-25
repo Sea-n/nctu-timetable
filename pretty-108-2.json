@@ -46550,39 +46550,11 @@
         "cos_cname": "藝術與設計專題研討",
         "cos_credit": "1.00",
         "cos_hours": "3.00",
-        "TURL": "http://dayuanhuang.github.io/",
-        "teacher": "黃大源",
+        "TURL": "",
+        "teacher": "陳一平",
         "cos_time": "4BCD-HA315",
         "memo": "",
         "cos_ename": "Seminar on Arts and Design",
-        "brief": "",
-        "degree": "2",
-        "dep_id": "42",
-        "dep_primary": "1",
-        "dep_cname": "應用藝術研究所",
-        "dep_ename": "Institute of Applied Arts",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": null,
-        "reg_num": "0",
-        "depType": "G"
-      },
-      "1082_5763": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "5763",
-        "cos_code": "IAA5303",
-        "num_limit": "9999",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "設計個別研究",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "http://dayuanhuang.github.io/",
-        "teacher": "黃大源",
-        "cos_time": "",
-        "memo": "[English Medium Course]",
-        "cos_ename": "Independent Study on Design",
         "brief": "",
         "degree": "2",
         "dep_id": "42",
@@ -46930,47 +46902,10 @@
         "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
-      },
-      "1082_5776": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "5776",
-        "cos_code": "IAA5738",
-        "num_limit": "15",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "人機互動近期研究與討論",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "http://dayuanhuang.github.io/",
-        "teacher": "黃大源",
-        "cos_time": "1EFG-HA314",
-        "memo": "",
-        "cos_ename": "Technical Human-Computer Interaction：Current Topics",
-        "brief": "",
-        "degree": "2",
-        "dep_id": "42",
-        "dep_primary": "1",
-        "dep_cname": "應用藝術研究所",
-        "dep_ename": "Institute of Applied Arts",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": null,
-        "reg_num": "0",
-        "depType": "G"
       }
     },
     "costype": {
       "1082_5762": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
-      "1082_5763": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -47079,15 +47014,6 @@
         }
       },
       "1082_5775": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
-      "1082_5776": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -47104,12 +47030,6 @@
           "brief": ""
         }
       },
-      "1082_5763": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1082_5764": {
         "": {
           "brief_code": "",
@@ -47177,12 +47097,6 @@
         }
       },
       "1082_5775": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
-      "1082_5776": {
         "": {
           "brief_code": "",
           "brief": ""
@@ -47193,9 +47107,6 @@
       "1082_5762": {
         "授課語言代碼": "zh-tw"
       },
-      "1082_5763": {
-        "授課語言代碼": "en-us"
-      },
       "1082_5764": {
         "授課語言代碼": "en-us"
       },
@@ -47230,9 +47141,6 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_5775": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1082_5776": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -47395,7 +47303,7 @@
         "cos_hours": "4.00",
         "TURL": "",
         "teacher": "盧郁安",
-        "cos_time": "1BCD-HC401,2E-F322",
+        "cos_time": "1BCD-HC401,4X-F322",
         "memo": "專選",
         "cos_ename": "Experimental methods in phonology and data exploration",
         "brief": "",
@@ -47841,7 +47749,7 @@
         "dep_ename": "Institute of Music",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -48009,7 +47917,7 @@
         "dep_ename": "Institute of Music",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -48401,7 +48309,7 @@
         "dep_ename": "Institute of Music",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       }
@@ -91548,7 +91456,7 @@
         "TURL": "",
         "teacher": "徐慈璟",
         "cos_time": "3CD-HA107",
-        "memo": "",
+        "memo": "開學後加簽選課(第1堂課需出席)，跨域學程學生優先。",
         "cos_ename": "Web Design",
         "brief": "",
         "degree": "3",

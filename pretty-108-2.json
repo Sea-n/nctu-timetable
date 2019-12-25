@@ -19309,9 +19309,9 @@
         }
       },
       "1082_0321": {
-        "": {
-          "brief_code": "",
-          "brief": ""
+        "A205,A504": {
+          "brief_code": "A205,A504",
+          "brief": "自然/進階(96),跨院基本素養(106)"
         }
       },
       "1082_0351": {
@@ -19393,9 +19393,9 @@
         }
       },
       "1082_0419": {
-        "": {
-          "brief_code": "",
-          "brief": ""
+        "A205,A504": {
+          "brief_code": "A205,A504",
+          "brief": "自然/進階(96),跨院基本素養(106)"
         }
       }
     },
@@ -28547,7 +28547,7 @@
         "cos_id": "5287",
         "cos_code": "IME5318",
         "num_limit": "9999",
-        "dep_limit": "N",
+        "dep_limit": "*",
         "URL": null,
         "cos_cname": "燃氣輪機冷卻技術",
         "cos_credit": "3.00",
@@ -28575,7 +28575,7 @@
         "cos_id": "5289",
         "cos_code": "IME5328",
         "num_limit": "9999",
-        "dep_limit": "N",
+        "dep_limit": "*",
         "URL": null,
         "cos_cname": "感測器原理與量測系統",
         "cos_credit": "3.00",
@@ -28603,7 +28603,7 @@
         "cos_id": "5291",
         "cos_code": "IME5335",
         "num_limit": "9999",
-        "dep_limit": "N",
+        "dep_limit": "*",
         "URL": null,
         "cos_cname": "熱傳導與熱輻射",
         "cos_credit": "3.00",
@@ -28659,7 +28659,7 @@
         "cos_id": "5293",
         "cos_code": "IME5431",
         "num_limit": "9999",
-        "dep_limit": "N",
+        "dep_limit": "*",
         "URL": null,
         "cos_cname": "生物流體力學",
         "cos_credit": "3.00",
@@ -28687,7 +28687,7 @@
         "cos_id": "5294",
         "cos_code": "IME5444",
         "num_limit": "9999",
-        "dep_limit": "N",
+        "dep_limit": "*",
         "URL": null,
         "cos_cname": "基礎組織工程",
         "cos_credit": "3.00",
@@ -28799,7 +28799,7 @@
         "cos_id": "5298",
         "cos_code": "IME5467",
         "num_limit": "9999",
-        "dep_limit": "N",
+        "dep_limit": "*",
         "URL": null,
         "cos_cname": "衛星姿態判定與控制",
         "cos_credit": "3.00",
@@ -29107,7 +29107,7 @@
         "cos_id": "5310",
         "cos_code": "IME6520",
         "num_limit": "9999",
-        "dep_limit": "N",
+        "dep_limit": "*",
         "URL": null,
         "cos_cname": "複合材料力學",
         "cos_credit": "3.00",

@@ -43571,7 +43571,7 @@
         "cos_id": "5557",
         "cos_code": "ITS5015",
         "num_limit": "38",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "全球供應鏈管理",
         "cos_credit": "3.00",
@@ -43627,7 +43627,7 @@
         "cos_id": "5559",
         "cos_code": "ITS5016",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "海空運與複合運輸最佳化",
         "cos_credit": "3.00",
@@ -91305,34 +91305,6 @@
         "reg_num": "0",
         "depType": "U"
       },
-      "1082_1794": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "1794",
-        "cos_code": "DCT3109",
-        "num_limit": "9999",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "使用者經驗研究法",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "",
-        "teacher": "陶振超",
-        "cos_time": "1EFG-HK123",
-        "memo": "",
-        "cos_ename": "User Experience Research",
-        "brief": "",
-        "degree": "3",
-        "dep_id": "54",
-        "dep_primary": "1",
-        "dep_cname": "傳播與科技學系",
-        "dep_ename": "Department of Communication and Technology",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": null,
-        "reg_num": "0",
-        "depType": "U"
-      },
       "1082_1795": {
         "acy": "108",
         "sem": "2",
@@ -91588,15 +91560,6 @@
           "GECIEngName": ""
         }
       },
-      "1082_1794": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1082_1795": {
         "": {
           "course_category_cname": "",
@@ -91734,12 +91697,6 @@
           "brief": ""
         }
       },
-      "1082_1794": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1082_1795": {
         "": {
           "brief_code": "",
@@ -91812,9 +91769,6 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_1793": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1082_1794": {
         "授課語言代碼": "zh-tw"
       },
       "1082_1795": {

@@ -41118,7 +41118,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "0",
-        "depType": "D"
+        "depType": "G"
       }
     },
     "costype": {
@@ -45101,7 +45101,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "0",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5182": {
         "acy": "108",
@@ -56506,6 +56506,34 @@
         "crsoutline_type": null,
         "reg_num": "0",
         "depType": "E"
+      },
+      "1082_5599": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "5599",
+        "cos_code": "IBA2021",
+        "num_limit": "9999",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "碩士論文研究",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "EMBA",
+        "cos_time": "7JKL-",
+        "memo": "",
+        "cos_ename": "Thesis",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "61",
+        "dep_primary": "1",
+        "dep_cname": "高階主管管理碩士學程",
+        "dep_ename": "Degree Program of Management for Executives",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "E"
       }
     },
     "costype": {
@@ -56580,6 +56608,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1082_5599": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -56630,6 +56667,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1082_5599": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -56655,6 +56698,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_5598": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1082_5599": {
         "授課語言代碼": "zh-tw"
       }
     }

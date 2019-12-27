@@ -6613,7 +6613,7 @@
         "dep_ename": "Language Teaching and Research Center",
         "cos_type": "外語",
         "cos_type_e": "Foreign Languages Course",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -12336,7 +12336,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "33",
+        "reg_num": "34",
         "depType": "O"
       },
       "1082_8233": {
@@ -14324,7 +14324,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "29",
+        "reg_num": "28",
         "depType": "O"
       },
       "1082_8715": {
@@ -19885,7 +19885,7 @@
         "cos_hours": "2.00",
         "TURL": "",
         "teacher": "楊元傑",
-        "cos_time": "4EF-",
+        "cos_time": "3EF-",
         "memo": "",
         "cos_ename": "Value, Morality, and the Future Society",
         "brief": "",
@@ -23963,7 +23963,7 @@
         "dep_ename": "Institute of Lighting and Energy Photonics",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       }
@@ -25496,6 +25496,34 @@
         "reg_num": "0",
         "depType": "G"
       },
+      "1082_5035": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "5035",
+        "cos_code": "IEE5746",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "行動電話程式設計",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "林詩淳",
+        "cos_time": "1EFG-ED202",
+        "memo": "[English Medium Course]",
+        "cos_ename": "Mobile App Design",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "11",
+        "dep_primary": "1",
+        "dep_cname": "電子研究所",
+        "dep_ename": "Institute of Electronics",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "G"
+      },
       "1082_5036": {
         "acy": "108",
         "sem": "2",
@@ -25608,6 +25636,34 @@
         "reg_num": "0",
         "depType": "G"
       },
+      "1082_5469": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "5469",
+        "cos_code": "IEE5747",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "原子尺度量子電子傳導",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "http://www.ee.nctu.edu.tw/People/Professor/individual.php?TeacherID=T9635",
+        "teacher": "林炯源",
+        "cos_time": "1CD-ED301,3C-ED101",
+        "memo": "",
+        "cos_ename": "Atomistic Quantum Electronic Transport",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "11",
+        "dep_primary": "1",
+        "dep_cname": "電子研究所",
+        "dep_ename": "Institute of Electronics",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "G"
+      },
       "1082_5472": {
         "acy": "108",
         "sem": "2",
@@ -25636,6 +25692,34 @@
         "reg_num": "0",
         "depType": "G"
       },
+      "1082_5473": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "5473",
+        "cos_code": "IEE5749",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "極紫外光微影技術",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "吳品鈞",
+        "cos_time": "1EFG-ED417B",
+        "memo": "",
+        "cos_ename": "Extreme Ultraviolet Lithography",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "11",
+        "dep_primary": "1",
+        "dep_cname": "電子研究所",
+        "dep_ename": "Institute of Electronics",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "G"
+      },
       "1082_5918": {
         "acy": "108",
         "sem": "2",
@@ -25661,62 +25745,6 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
-        "reg_num": "0",
-        "depType": "G"
-      },
-      "1082_5035": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "5035",
-        "cos_code": "IEE5746",
-        "num_limit": "9999",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "行動電話程式設計",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "",
-        "teacher": "林詩淳",
-        "cos_time": "1EFG-ED202",
-        "memo": "[English Medium Course]",
-        "cos_ename": "",
-        "brief": "",
-        "degree": "2",
-        "dep_id": "11",
-        "dep_primary": "1",
-        "dep_cname": "電子研究所",
-        "dep_ename": "Institute of Electronics",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "0",
-        "depType": "G"
-      },
-      "1082_5469": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "5469",
-        "cos_code": "IEE5747",
-        "num_limit": "9999",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "原子尺度量子電子傳導",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "http://www.ee.nctu.edu.tw/People/Professor/individual.php?TeacherID=T9635",
-        "teacher": "林炯源",
-        "cos_time": "1CD-ED301,3C-ED101",
-        "memo": "",
-        "cos_ename": "",
-        "brief": "",
-        "degree": "2",
-        "dep_id": "11",
-        "dep_primary": "1",
-        "dep_cname": "電子研究所",
-        "dep_ename": "Institute of Electronics",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       }
@@ -26010,6 +26038,15 @@
           "GECIEngName": ""
         }
       },
+      "1082_5035": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1082_5036": {
         "": {
           "course_category_cname": "",
@@ -26046,6 +26083,15 @@
           "GECIEngName": ""
         }
       },
+      "1082_5469": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1082_5472": {
         "": {
           "course_category_cname": "",
@@ -26055,25 +26101,16 @@
           "GECIEngName": ""
         }
       },
+      "1082_5473": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1082_5918": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
-      "1082_5035": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
-      "1082_5469": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -26276,6 +26313,12 @@
           "brief": ""
         }
       },
+      "1082_5035": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1082_5036": {
         "": {
           "brief_code": "",
@@ -26300,25 +26343,25 @@
           "brief": ""
         }
       },
+      "1082_5469": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1082_5472": {
         "": {
           "brief_code": "",
           "brief": ""
         }
       },
+      "1082_5473": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1082_5918": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
-      "1082_5035": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
-      "1082_5469": {
         "": {
           "brief_code": "",
           "brief": ""
@@ -26422,6 +26465,9 @@
       "1082_5034": {
         "授課語言代碼": "zh-tw"
       },
+      "1082_5035": {
+        "授課語言代碼": "en-us"
+      },
       "1082_5036": {
         "授課語言代碼": "zh-tw"
       },
@@ -26434,16 +26480,16 @@
       "1082_5039": {
         "授課語言代碼": "zh-tw"
       },
+      "1082_5469": {
+        "授課語言代碼": "zh-tw"
+      },
       "1082_5472": {
         "授課語言代碼": "zh-tw"
       },
-      "1082_5918": {
+      "1082_5473": {
         "授課語言代碼": "zh-tw"
       },
-      "1082_5035": {
-        "授課語言代碼": "en-us"
-      },
-      "1082_5469": {
+      "1082_5918": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -27890,34 +27936,6 @@
         "reg_num": "0",
         "depType": "G"
       },
-      "1082_5079": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "5079",
-        "cos_code": "ECM9042",
-        "num_limit": "200",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "深度學習",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "http://chien.cm.nctu.edu.tw",
-        "teacher": "簡仁宗",
-        "cos_time": "5EFG-ED219",
-        "memo": "【AI學程專業必修】",
-        "cos_ename": "Deep Learning",
-        "brief": "",
-        "degree": "2",
-        "dep_id": "13",
-        "dep_primary": "1",
-        "dep_cname": "電信工程研究所",
-        "dep_ename": "Institute of Communication Engineering",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "0",
-        "depType": "G"
-      },
       "1082_5080": {
         "acy": "108",
         "sem": "2",
@@ -28046,6 +28064,34 @@
         "cos_time": "3IJK-ED219",
         "memo": "",
         "cos_ename": "Algorithms",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "13",
+        "dep_primary": "1",
+        "dep_cname": "電信工程研究所",
+        "dep_ename": "Institute of Communication Engineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "G"
+      },
+      "1082_5079": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "5079",
+        "cos_code": "ECM9042",
+        "num_limit": "200",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "深度學習",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "http://chien.cm.nctu.edu.tw",
+        "teacher": "簡仁宗",
+        "cos_time": "5EFG-ED219",
+        "memo": "【AI學程專業必修】\r\n資訊學院博碩士班同學修習本課程需遞送「碩士生修習非本學院課程申請書」、「博士生修習外院課程申請書」。",
+        "cos_ename": "Deep Learning",
         "brief": "",
         "degree": "2",
         "dep_id": "13",
@@ -28222,15 +28268,6 @@
           "GECIEngName": ""
         }
       },
-      "1082_5079": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1082_5080": {
         "": {
           "course_category_cname": "",
@@ -28268,6 +28305,15 @@
         }
       },
       "1082_5075": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1082_5079": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -28386,12 +28432,6 @@
           "brief": ""
         }
       },
-      "1082_5079": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1082_5080": {
         "": {
           "brief_code": "",
@@ -28417,6 +28457,12 @@
         }
       },
       "1082_5075": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1082_5079": {
         "": {
           "brief_code": "",
           "brief": ""
@@ -28478,9 +28524,6 @@
       "1082_5078": {
         "授課語言代碼": "en-us"
       },
-      "1082_5079": {
-        "授課語言代碼": "zh-tw"
-      },
       "1082_5080": {
         "授課語言代碼": "en-us"
       },
@@ -28494,6 +28537,9 @@
         "授課語言代碼": "en-us"
       },
       "1082_5075": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1082_5079": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -29087,7 +29133,7 @@
         "dep_ename": "Institute of Mechanical Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -33650,7 +33696,7 @@
         "TURL": "",
         "teacher": "李泉",
         "cos_time": "1EFG-EO115",
-        "memo": "",
+        "memo": "[English Medium Course]",
         "cos_ename": "Engineering Statistics",
         "brief": "",
         "degree": "2",
@@ -34779,7 +34825,7 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_5087": {
-        "授課語言代碼": "zh-tw"
+        "授課語言代碼": "en-us"
       },
       "1082_5088": {
         "授課語言代碼": "zh-tw"
@@ -56595,7 +56641,7 @@
         "dep_ename": "Degree Program of Management for Executives",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "E"
       },
@@ -57003,7 +57049,7 @@
         "sem": "2",
         "cos_id": "5608",
         "cos_code": "IMS7305",
-        "num_limit": "9999",
+        "num_limit": "86",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "資訊管理",
@@ -60614,7 +60660,7 @@
         "dep_ename": "Degree Program of Automation and Precision Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },
@@ -70600,6 +70646,34 @@
         "reg_num": "0",
         "depType": "U"
       },
+      "1082_1028": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "1028",
+        "cos_code": "DEE3519",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "電子設計自動化演算法與實作",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "劉建男",
+        "cos_time": "1G-ED116,4EF-ED201",
+        "memo": "",
+        "cos_ename": "Electronic Design Automation Algorithms and Implementation",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "11",
+        "dep_primary": "1",
+        "dep_cname": "電子工程學系",
+        "dep_ename": "Department of Electronics Engineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "U"
+      },
       "1082_1029": {
         "acy": "108",
         "sem": "2",
@@ -70935,34 +71009,6 @@
         "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
-      },
-      "1082_1028": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "1028",
-        "cos_code": "DEE3519",
-        "num_limit": "9999",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "電子設計自動化演算法與實作",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "",
-        "teacher": "劉建男",
-        "cos_time": "1G-ED116,4EF-ED201",
-        "memo": "",
-        "cos_ename": "",
-        "brief": "",
-        "degree": "3",
-        "dep_id": "11",
-        "dep_primary": "1",
-        "dep_cname": "電子工程學系",
-        "dep_ename": "Department of Electronics Engineering",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "0",
-        "depType": "U"
       }
     },
     "costype": {
@@ -71101,6 +71147,15 @@
           "GECIEngName": ""
         }
       },
+      "1082_1028": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1082_1029": {
         "": {
           "course_category_cname": "",
@@ -71201,15 +71256,6 @@
         }
       },
       "1082_1019": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
-      "1082_1028": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -71310,6 +71356,12 @@
           "brief": ""
         }
       },
+      "1082_1028": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1082_1029": {
         "": {
           "brief_code": "",
@@ -71377,12 +71429,6 @@
         }
       },
       "1082_1019": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
-      "1082_1028": {
         "": {
           "brief_code": "",
           "brief": ""
@@ -71435,6 +71481,9 @@
       "1082_1027": {
         "授課語言代碼": "zh-tw"
       },
+      "1082_1028": {
+        "授課語言代碼": "zh-tw"
+      },
       "1082_1029": {
         "授課語言代碼": "zh-tw"
       },
@@ -71470,9 +71519,6 @@
       },
       "1082_1019": {
         "授課語言代碼": "en-us"
-      },
-      "1082_1028": {
-        "授課語言代碼": "zh-tw"
       }
     }
   },
@@ -71897,7 +71943,7 @@
         "dep_ename": "Department of Mechanical Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -87501,7 +87547,7 @@
         "dep_ename": "Department of Foreign Languages and Literatures",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "50",
         "depType": "U"
       },
@@ -87930,7 +87976,7 @@
         "sem": "2",
         "cos_id": "1699",
         "cos_code": "DFL2138",
-        "num_limit": "40",
+        "num_limit": "25",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "初級日文(二)",
@@ -88098,7 +88144,7 @@
         "sem": "2",
         "cos_id": "1707",
         "cos_code": "DFL2140",
-        "num_limit": "40",
+        "num_limit": "25",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "中級日文(二)",
@@ -88238,7 +88284,7 @@
         "sem": "2",
         "cos_id": "1712",
         "cos_code": "DFL4136",
-        "num_limit": "40",
+        "num_limit": "25",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "高級日文(二)",
@@ -92404,7 +92450,7 @@
         "sem": "2",
         "cos_id": "1731",
         "cos_code": "DOH1033",
-        "num_limit": "20",
+        "num_limit": "15",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "聲音藝術與科技跨域",
@@ -93650,7 +93696,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "0",
+        "reg_num": "61",
         "depType": "U"
       },
       "1082_1290": {
@@ -93678,7 +93724,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": null,
-        "reg_num": "0",
+        "reg_num": "70",
         "depType": "U"
       },
       "1082_1291": {
@@ -94198,7 +94244,7 @@
         "cos_id": "1140",
         "cos_code": "UEE2201",
         "num_limit": "50",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "電磁學(一)",
         "cos_credit": "3.00",
@@ -94226,7 +94272,7 @@
         "cos_id": "1141",
         "cos_code": "UEE2201",
         "num_limit": "55",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "電磁學(一)",
         "cos_credit": "3.00",
@@ -94254,7 +94300,7 @@
         "cos_id": "1142",
         "cos_code": "UEE2201",
         "num_limit": "55",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "電磁學(一)",
         "cos_credit": "3.00",
@@ -94282,7 +94328,7 @@
         "cos_id": "1143",
         "cos_code": "UEE2202",
         "num_limit": "55",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "電磁學(一)(英文班)",
         "cos_credit": "3.00",

@@ -55588,6 +55588,34 @@
         "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
+      },
+      "1082_5916": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "5916",
+        "cos_code": "ILE5067",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "XR跨域專題",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "莊榮宏、謝啟民、張宏宇",
+        "cos_time": "4IJK-EC122",
+        "memo": "",
+        "cos_ename": "XR Camp",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "57",
+        "dep_primary": "1",
+        "dep_cname": "多媒體工程研究所",
+        "dep_ename": "Institute of Multimedia Engineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "G"
       }
     },
     "costype": {
@@ -55635,6 +55663,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1082_5916": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -55667,6 +55704,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1082_5916": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -55683,6 +55726,9 @@
         "授課語言代碼": "en-us"
       },
       "1082_5278": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1082_5916": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -94821,34 +94867,6 @@
         "reg_num": "58",
         "depType": "U"
       },
-      "1082_1595": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "1595",
-        "cos_code": "DOM1010",
-        "num_limit": "65",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "管理學",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "",
-        "teacher": "陳詩欣",
-        "cos_time": "2EF4H-A701",
-        "memo": "2月18日合班授課，教室AB103；非管院同學請於2月17日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於YI；上限65人，得請授課教師簽准後可放寬至70人；管理基礎學分學程課程；英文授課。[English Medium Course]",
-        "cos_ename": "Management",
-        "brief": "",
-        "degree": "5",
-        "dep_id": "M1",
-        "dep_primary": "1",
-        "dep_cname": "管理學院共同課程",
-        "dep_ename": "College of Management",
-        "cos_type": "必修",
-        "cos_type_e": "Required",
-        "crsoutline_type": "data",
-        "reg_num": "0",
-        "depType": "U"
-      },
       "1082_1596": {
         "acy": "108",
         "sem": "2",
@@ -95116,15 +95134,6 @@
           "GECIEngName": "ECE,CCS,COS,CBT,CHS,CHK"
         }
       },
-      "1082_1595": {
-        "通識跨院基本素養_通識跨院": {
-          "course_category_cname": "通識跨院基本素養_通識跨院",
-          "course_category_ename": "General Education Course: Intercollegiate_GECI",
-          "course_category_type": "16",
-          "GECIName": "電,資,理,生,人,客",
-          "GECIEngName": "ECE,CCS,COS,CBT,CHS,CHK"
-        }
-      },
       "1082_1596": {
         "通識跨院基本素養_通識跨院": {
           "course_category_cname": "通識跨院基本素養_通識跨院",
@@ -95265,12 +95274,6 @@
           "brief": "公民/進階(96),跨院基本素養(106)"
         }
       },
-      "1082_1595": {
-        "A203,A504": {
-          "brief_code": "A203,A504",
-          "brief": "公民/進階(96),跨院基本素養(106)"
-        }
-      },
       "1082_1596": {
         "A203,A504": {
           "brief_code": "A203,A504",
@@ -95347,9 +95350,6 @@
       },
       "1082_1594": {
         "授課語言代碼": "zh-tw"
-      },
-      "1082_1595": {
-        "授課語言代碼": "en-us"
       },
       "1082_1596": {
         "授課語言代碼": "zh-tw"

@@ -7677,7 +7677,7 @@
         "dep_ename": "Language Teaching and Research Center",
         "cos_type": "外語",
         "cos_type_e": "Foreign Languages Course",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -7733,7 +7733,7 @@
         "dep_ename": "Language Teaching and Research Center",
         "cos_type": "外語",
         "cos_type_e": "Foreign Languages Course",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -7789,7 +7789,7 @@
         "dep_ename": "Language Teaching and Research Center",
         "cos_type": "外語",
         "cos_type_e": "Foreign Languages Course",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -87522,7 +87522,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": null,
-        "reg_num": "50",
+        "reg_num": "0",
         "depType": "U"
       },
       "1082_1687": {
@@ -91736,10 +91736,10 @@
         }
       },
       "1082_1812": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
+        "通識校基本素養_通識校基本": {
+          "course_category_cname": "通識校基本素養_通識校基本",
+          "course_category_ename": "General Education Course: Literacy_GECL",
+          "course_category_type": "15",
           "GECIName": "",
           "GECIEngName": ""
         }

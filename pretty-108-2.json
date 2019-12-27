@@ -25636,6 +25636,34 @@
         "reg_num": "0",
         "depType": "G"
       },
+      "1082_5918": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "5918",
+        "cos_code": "IEE5712",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "積體電路設計實驗",
+        "cos_credit": "3.00",
+        "cos_hours": "4.00",
+        "TURL": "http://hcchang.ee.nctu.edu.tw",
+        "teacher": "張錫嘉",
+        "cos_time": "3EF-ED415,3IJ-LAB",
+        "memo": "",
+        "cos_ename": "Integrated Circuit Design Laboratory",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "11",
+        "dep_primary": "1",
+        "dep_cname": "電子研究所",
+        "dep_ename": "Institute of Electronics",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "G"
+      },
       "1082_5035": {
         "acy": "108",
         "sem": "2",
@@ -26027,6 +26055,15 @@
           "GECIEngName": ""
         }
       },
+      "1082_5918": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1082_5035": {
         "": {
           "course_category_cname": "",
@@ -26269,6 +26306,12 @@
           "brief": ""
         }
       },
+      "1082_5918": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1082_5035": {
         "": {
           "brief_code": "",
@@ -26392,6 +26435,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_5472": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1082_5918": {
         "授課語言代碼": "zh-tw"
       },
       "1082_5035": {
@@ -35708,10 +35754,10 @@
         "reg_num": "0",
         "depType": "G"
       },
-      "1082_5438": {
+      "1082_9505": {
         "acy": "108",
         "sem": "2",
-        "cos_id": "5438",
+        "cos_id": "9505",
         "cos_code": "THU3443",
         "num_limit": "9999",
         "dep_limit": "*",
@@ -35736,10 +35782,10 @@
         "reg_num": "0",
         "depType": "G"
       },
-      "1082_5439": {
+      "1082_9506": {
         "acy": "108",
         "sem": "2",
-        "cos_id": "5439",
+        "cos_id": "9506",
         "cos_code": "THU5951",
         "num_limit": "9999",
         "dep_limit": "*",
@@ -35884,7 +35930,7 @@
           "GECIEngName": ""
         }
       },
-      "1082_5438": {
+      "1082_9505": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -35893,7 +35939,7 @@
           "GECIEngName": ""
         }
       },
-      "1082_5439": {
+      "1082_9506": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -35973,13 +36019,13 @@
           "brief": ""
         }
       },
-      "1082_5438": {
+      "1082_9505": {
         "": {
           "brief_code": "",
           "brief": ""
         }
       },
-      "1082_5439": {
+      "1082_9506": {
         "": {
           "brief_code": "",
           "brief": ""
@@ -36023,10 +36069,10 @@
       "1082_5437": {
         "授課語言代碼": "zh-tw"
       },
-      "1082_5438": {
+      "1082_9505": {
         "授課語言代碼": "zh-tw"
       },
-      "1082_5439": {
+      "1082_9506": {
         "授課語言代碼": "zh-tw"
       },
       "1082_5427": {
@@ -47261,8 +47307,8 @@
         "cos_cname": "研究方法",
         "cos_credit": "3.00",
         "cos_hours": "3.00",
-        "TURL": "",
-        "teacher": null,
+        "TURL": "https://sensorylab.nctu.edu.tw/",
+        "teacher": "林欣怡",
         "cos_time": "4YIJ-HA302",
         "memo": "",
         "cos_ename": "Research Method",
@@ -87867,7 +87913,7 @@
         "cos_id": "1700",
         "cos_code": "DFL2216",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "口語科學概論",
         "cos_credit": "3.00",
@@ -87923,7 +87969,7 @@
         "cos_id": "1702",
         "cos_code": "DFL2263",
         "num_limit": "15",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "高級中英翻譯",
         "cos_credit": "3.00",
@@ -87951,7 +87997,7 @@
         "cos_id": "1704",
         "cos_code": "DFL4156",
         "num_limit": "25",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "初級西班牙文（二）",
         "cos_credit": "2.00",
@@ -91365,7 +91411,7 @@
         "dep_ename": "Department of Communication and Technology",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },

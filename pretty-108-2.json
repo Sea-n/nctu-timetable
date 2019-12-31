@@ -19980,7 +19980,7 @@
         "dep_ename": "Office of Academic Affairs",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "O"
       },
@@ -23337,7 +23337,7 @@
         "dep_ename": "EECS International Graduate Program",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "M"
       },
@@ -24738,7 +24738,7 @@
         "cos_type_e": "Required",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5008": {
         "acy": "108",
@@ -26840,7 +26840,7 @@
         "sem": "2",
         "cos_id": "5053",
         "cos_code": "ICN5637",
-        "num_limit": "9999",
+        "num_limit": "40",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "類比積體電路設計",
@@ -31508,12 +31508,12 @@
         "dep_id": "18",
         "dep_primary": "1",
         "dep_cname": "材料科學與工程學系",
-        "dep_ename": "Institute of Materials Science and Engineering",
+        "dep_ename": "Institute of Materials Science & Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       }
     },
     "costype": {
@@ -31786,9 +31786,9 @@
         "dep_ename": "Institute of Environmental Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5357": {
         "acy": "108",
@@ -33539,7 +33539,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5085": {
         "acy": "108",
@@ -34314,7 +34314,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5109": {
         "acy": "108",
@@ -36926,7 +36926,7 @@
         "cos_type_e": "Required",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5668": {
         "acy": "108",
@@ -41878,12 +41878,12 @@
         "dep_id": "33",
         "dep_primary": "1",
         "dep_cname": "工業工程與管理學系",
-        "dep_ename": "Department of Industrial Engineering and Management",
+        "dep_ename": "Institute of Industrial Engineering and Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5523": {
         "acy": "108",
@@ -43003,7 +43003,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5544": {
         "acy": "108",
@@ -43881,13 +43881,13 @@
         "degree": "2",
         "dep_id": "36",
         "dep_primary": "1",
-        "dep_cname": "運輸與物流管理學系物流管理碩博士班",
+        "dep_cname": "運輸與物流管理學系物流管理博士班",
         "dep_ename": "Institute of Logistics Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       }
     },
     "costype": {
@@ -45285,7 +45285,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5182": {
         "acy": "108",
@@ -46613,7 +46613,7 @@
         "dep_ename": "Institute of Communication Studies",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -51802,7 +51802,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5868": {
         "acy": "108",
@@ -54739,7 +54739,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5259": {
         "acy": "108",
@@ -55488,7 +55488,7 @@
         "dep_ename": "Institute of Network Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -63447,13 +63447,13 @@
         "degree": "2",
         "dep_id": "81",
         "dep_primary": "1",
-        "dep_cname": "國際半導體產業學院碩士班",
+        "dep_cname": "國際半導體產業學院博士班",
         "dep_ename": "International College of Semiconductor Technology",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5222": {
         "acy": "108",
@@ -83116,7 +83116,7 @@
         "dep_ename": "Department of Applied Chemistry",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },

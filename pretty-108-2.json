@@ -26719,7 +26719,7 @@
         "dep_ename": "Institute of Electrical Control Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -31842,7 +31842,7 @@
         "dep_ename": "Institute of Environmental Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -31926,7 +31926,7 @@
         "dep_ename": "Institute of Environmental Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -31982,7 +31982,35 @@
         "dep_ename": "Institute of Environmental Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
+        "reg_num": "-999",
+        "depType": "G"
+      },
+      "1082_5355": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "5355",
+        "cos_code": "IEV5352",
+        "num_limit": "70",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "專題討論",
+        "cos_credit": "1.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "莊易學",
+        "cos_time": "5BCD-EV102",
+        "memo": "",
+        "cos_ename": "Seminar",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "19",
+        "dep_primary": "1",
+        "dep_cname": "環境工程研究所",
+        "dep_ename": "Institute of Environmental Engineering",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       }
@@ -32059,6 +32087,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1082_5355": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -32109,6 +32146,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1082_5355": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -32135,6 +32178,9 @@
       },
       "1082_5363": {
         "授課語言代碼": "en-us"
+      },
+      "1082_5355": {
+        "授課語言代碼": "zh-tw"
       }
     }
   },
@@ -46520,7 +46566,7 @@
         "sem": "2",
         "cos_id": "5750",
         "cos_code": "ICT5335",
-        "num_limit": "15",
+        "num_limit": "30",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "研究方法專題:統計與SPSS應用",
@@ -51614,7 +51660,7 @@
         "dep_ename": "Institute for Social Research and Cultural Studies",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -66841,7 +66887,7 @@
         "dep_ename": "EECS Undergraduate Honors Program",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },

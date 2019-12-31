@@ -10463,7 +10463,7 @@
         "cos_hours": "2.00",
         "TURL": "",
         "teacher": "楊子奇",
-        "cos_time": "5CD-HA212B",
+        "cos_time": "",
         "memo": "",
         "cos_ename": "Teaching Practice (data processing)",
         "brief": "",
@@ -10491,7 +10491,7 @@
         "cos_hours": "2.00",
         "TURL": "",
         "teacher": "陳昭秀",
-        "cos_time": "5CD-HA220",
+        "cos_time": "4IJ-HA220",
         "memo": "",
         "cos_ename": "Teaching Practice (Information Technology) ",
         "brief": "",
@@ -21989,7 +21989,7 @@
         "dep_ename": "Self-Active I-Learning",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "O"
       },
@@ -22101,7 +22101,7 @@
         "dep_ename": "Self-Active I-Learning",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "O"
       },
@@ -22157,7 +22157,7 @@
         "dep_ename": "Self-Active I-Learning",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "O"
       },
@@ -22185,7 +22185,7 @@
         "dep_ename": "Self-Active I-Learning",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "O"
       },
@@ -22269,7 +22269,7 @@
         "dep_ename": "Self-Active I-Learning",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "O"
       },
@@ -22297,7 +22297,7 @@
         "dep_ename": "Self-Active I-Learning",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "O"
       },
@@ -22353,7 +22353,7 @@
         "dep_ename": "Self-Active I-Learning",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "O"
       },
@@ -22465,7 +22465,7 @@
         "dep_ename": "Self-Active I-Learning",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "O"
       },
@@ -23550,13 +23550,13 @@
         "degree": "2",
         "dep_id": "04",
         "dep_primary": "1",
-        "dep_cname": "光電系統研究所",
+        "dep_cname": "光電系統博士學位學程",
         "dep_ename": "Institute of Photonic System",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5145": {
         "acy": "108",
@@ -23903,13 +23903,13 @@
         "degree": "2",
         "dep_id": "05",
         "dep_primary": "1",
-        "dep_cname": "照明與能源光電博士學位學程",
+        "dep_cname": "照明與能源光電研究所",
         "dep_ename": "Institute of Lighting and Energy Photonics",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5152": {
         "acy": "108",
@@ -24738,7 +24738,7 @@
         "cos_type_e": "Required",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5008": {
         "acy": "108",
@@ -25537,7 +25537,7 @@
         "cos_hours": "6.00",
         "TURL": "http://giga.ee.nctu.edu.tw",
         "teacher": "郭建男",
-        "cos_time": "1GHY-ED203,3IJK-LAB",
+        "cos_time": "1GHY-ED102,3IJK-LAB",
         "memo": "",
         "cos_ename": "High-Frequency Circuits & Design Laboratory",
         "brief": "",
@@ -28685,7 +28685,7 @@
         "dep_ename": "Institute of Mechanical Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -29023,7 +29023,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5303": {
         "acy": "108",
@@ -29163,7 +29163,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5309": {
         "acy": "108",
@@ -29246,6 +29246,34 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
+        "reg_num": "-999",
+        "depType": "G"
+      },
+      "1082_5288": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "5288",
+        "cos_code": "IME5322",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "生物感測器",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "黃正昇",
+        "cos_time": "3EF4E-EE205",
+        "memo": "",
+        "cos_ename": "Biosensors",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "14",
+        "dep_primary": "1",
+        "dep_cname": "機械工程學系",
+        "dep_ename": "Institute of Mechanical Engineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       }
@@ -29475,6 +29503,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1082_5288": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -29627,6 +29664,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1082_5288": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -29703,6 +29746,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_5385": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1082_5288": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -29822,7 +29868,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5315": {
         "acy": "108",
@@ -31182,12 +31228,12 @@
         "dep_id": "18",
         "dep_primary": "1",
         "dep_cname": "材料科學與工程學系",
-        "dep_ename": "Institute of Materials Science & Engineering",
+        "dep_ename": "Institute of Materials Science and Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5344": {
         "acy": "108",
@@ -31462,12 +31508,12 @@
         "dep_id": "18",
         "dep_primary": "1",
         "dep_cname": "材料科學與工程學系",
-        "dep_ename": "Institute of Materials Science & Engineering",
+        "dep_ename": "Institute of Materials Science and Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       }
     },
     "costype": {
@@ -31742,7 +31788,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5357": {
         "acy": "108",
@@ -32718,7 +32764,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5403": {
         "acy": "108",
@@ -33447,7 +33493,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5085": {
         "acy": "108",
@@ -33746,7 +33792,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5091": {
         "acy": "108",
@@ -35113,7 +35159,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5423": {
         "acy": "108",
@@ -36167,7 +36213,7 @@
         "cos_type_e": "Required",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5444": {
         "acy": "108",
@@ -36788,7 +36834,7 @@
         "cos_type_e": "Required",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5668": {
         "acy": "108",
@@ -37292,7 +37338,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5688": {
         "acy": "108",
@@ -39951,7 +39997,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5486": {
         "acy": "108",
@@ -40343,7 +40389,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       }
     },
     "costype": {
@@ -41078,7 +41124,7 @@
         "dep_ename": "Institute of Traffic and Transportation",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -41740,12 +41786,12 @@
         "dep_id": "33",
         "dep_primary": "1",
         "dep_cname": "工業工程與管理學系",
-        "dep_ename": "Institute of Industrial Engineering and Management",
+        "dep_ename": "Department of Industrial Engineering and Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5523": {
         "acy": "108",
@@ -42865,7 +42911,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5544": {
         "acy": "108",
@@ -43635,7 +43681,7 @@
         "dep_ename": "Institute of Logistics Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -43719,7 +43765,7 @@
         "dep_ename": "Institute of Logistics Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -43743,13 +43789,13 @@
         "degree": "2",
         "dep_id": "36",
         "dep_primary": "1",
-        "dep_cname": "運輸與物流管理學系物流管理博士班",
+        "dep_cname": "運輸與物流管理學系物流管理碩博士班",
         "dep_ename": "Institute of Logistics Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       }
     },
     "costype": {
@@ -44122,7 +44168,7 @@
         "cos_type_e": "Required",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5568": {
         "acy": "108",
@@ -44430,7 +44476,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5579": {
         "acy": "108",
@@ -45735,7 +45781,7 @@
   },
   "239": {
     "dep_id": "239",
-    "dep_cname": "資訊管理與財務金融系財務金融博士班",
+    "dep_cname": "資訊管理與財務金融系財務金融碩博士班",
     "dep_ename": "Graduate institute of finance",
     "1": {
       "1082_4023": {
@@ -46010,13 +46056,13 @@
         "degree": "2",
         "dep_id": "39",
         "dep_primary": "1",
-        "dep_cname": "資訊管理與財務金融系財務金融碩博士班",
+        "dep_cname": "資訊管理與財務金融系財務金融博士班",
         "dep_ename": "Graduate institute of finance",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5588": {
         "acy": "108",
@@ -46094,13 +46140,13 @@
         "degree": "2",
         "dep_id": "39",
         "dep_primary": "1",
-        "dep_cname": "資訊管理與財務金融系財務金融博士班",
+        "dep_cname": "資訊管理與財務金融系財務金融碩博士班",
         "dep_ename": "Graduate institute of finance",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5583": {
         "acy": "108",
@@ -47809,7 +47855,7 @@
         "dep_ename": "Institute of Foreign Literatures and Linguistics",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -51552,7 +51598,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5864": {
         "acy": "108",
@@ -51664,7 +51710,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5868": {
         "acy": "108",
@@ -52282,7 +52328,7 @@
         "cos_type_e": "Required",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5718": {
         "acy": "108",
@@ -54555,7 +54601,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5259": {
         "acy": "108",
@@ -54639,7 +54685,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5262": {
         "acy": "108",
@@ -63219,7 +63265,7 @@
   },
   "281": {
     "dep_id": "281",
-    "dep_cname": "國際半導體產業學院碩士班",
+    "dep_cname": "國際半導體產業學院博士班",
     "dep_ename": "International College of Semiconductor Technology",
     "1": {
       "1082_5219": {
@@ -63522,13 +63568,13 @@
         "degree": "2",
         "dep_id": "81",
         "dep_primary": "1",
-        "dep_cname": "國際半導體產業學院碩士班",
+        "dep_cname": "國際半導體產業學院博士班",
         "dep_ename": "International College of Semiconductor Technology",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5220": {
         "acy": "108",
@@ -64751,7 +64797,7 @@
         "dep_ename": "Degree Program of Global Business Administration",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "H"
       }
@@ -71929,7 +71975,7 @@
         "dep_ename": "Department of Mechanical Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -71957,7 +72003,7 @@
         "dep_ename": "Department of Mechanical Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -72013,7 +72059,7 @@
         "dep_ename": "Department of Mechanical Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -72097,7 +72143,7 @@
         "dep_ename": "Department of Mechanical Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -72153,7 +72199,7 @@
         "dep_ename": "Department of Mechanical Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -79755,7 +79801,7 @@
         "cos_hours": "4.00",
         "TURL": "",
         "teacher": "洪崇智",
-        "cos_time": "1GH4CD-EE203",
+        "cos_time": "1GH4CD-ED203",
         "memo": "",
         "cos_ename": "Electronics (II)",
         "brief": "",
@@ -92697,7 +92743,7 @@
         "dep_ename": "College of Humanities and Social Science",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },

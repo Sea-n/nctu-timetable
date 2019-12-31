@@ -23903,13 +23903,13 @@
         "degree": "2",
         "dep_id": "05",
         "dep_primary": "1",
-        "dep_cname": "照明與能源光電研究所",
+        "dep_cname": "照明與能源光電博士學位學程",
         "dep_ename": "Institute of Lighting and Energy Photonics",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5152": {
         "acy": "108",
@@ -24085,7 +24085,7 @@
   },
   "206": {
     "dep_id": "206",
-    "dep_cname": "影像與生醫光電研究所",
+    "dep_cname": "影像與生醫光電博士學位學程",
     "dep_ename": "Institute of Imaging and Biomedical Photonics",
     "1": {
       "1082_5154": {
@@ -24276,13 +24276,13 @@
         "degree": "2",
         "dep_id": "06",
         "dep_primary": "1",
-        "dep_cname": "影像與生醫光電研究所",
+        "dep_cname": "影像與生醫光電博士學位學程",
         "dep_ename": "Institute of Imaging and Biomedical Photonics",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       }
     },
     "costype": {
@@ -25522,7 +25522,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5036": {
         "acy": "108",
@@ -29163,7 +29163,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5309": {
         "acy": "108",
@@ -29868,7 +29868,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5315": {
         "acy": "108",
@@ -31816,7 +31816,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5358": {
         "acy": "108",
@@ -32810,7 +32810,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5403": {
         "acy": "108",
@@ -33483,7 +33483,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5083": {
         "acy": "108",
@@ -33838,7 +33838,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5091": {
         "acy": "108",
@@ -34314,7 +34314,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5109": {
         "acy": "108",
@@ -35205,7 +35205,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5423": {
         "acy": "108",
@@ -35259,7 +35259,7 @@
         "dep_ename": "Institute of Applied Chemistry",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -35316,6 +35316,34 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
+        "reg_num": "-999",
+        "depType": "G"
+      },
+      "1082_5413": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "5413",
+        "cos_code": "IAC5412",
+        "num_limit": "20",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "書報討論－分析組",
+        "cos_credit": "1.00",
+        "cos_hours": "2.00",
+        "TURL": "https://ycclab2018.wixsite.com/ycclab",
+        "teacher": "陳月枝",
+        "cos_time": "1CD-SB429",
+        "memo": "[English Medium Course]",
+        "cos_ename": "Seminar",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "25",
+        "dep_primary": "1",
+        "dep_cname": "應用化學系",
+        "dep_ename": "Institute of Applied Chemistry",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -35466,6 +35494,15 @@
           "GECIEngName": ""
         }
       },
+      "1082_5413": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1082_5414": {
         "": {
           "course_category_cname": "",
@@ -35555,6 +35592,12 @@
           "brief": ""
         }
       },
+      "1082_5413": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1082_5414": {
         "": {
           "brief_code": "",
@@ -35600,6 +35643,9 @@
         "授課語言代碼": "en-us"
       },
       "1082_5426": {
+        "授課語言代碼": "en-us"
+      },
+      "1082_5413": {
         "授課語言代碼": "en-us"
       },
       "1082_5414": {
@@ -36305,7 +36351,7 @@
         "cos_type_e": "Required",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5444": {
         "acy": "108",
@@ -37066,7 +37112,7 @@
         "cos_type_e": "Required",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5673": {
         "acy": "108",
@@ -40089,7 +40135,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5486": {
         "acy": "108",
@@ -40481,7 +40527,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       }
     },
     "costype": {
@@ -42270,7 +42316,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5527": {
         "acy": "108",
@@ -43003,7 +43049,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5544": {
         "acy": "108",
@@ -44568,7 +44614,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5579": {
         "acy": "108",
@@ -45285,7 +45331,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5182": {
         "acy": "108",
@@ -45873,7 +45919,7 @@
   },
   "239": {
     "dep_id": "239",
-    "dep_cname": "資訊管理與財務金融系財務金融碩博士班",
+    "dep_cname": "資訊管理與財務金融系財務金融博士班",
     "dep_ename": "Graduate institute of finance",
     "1": {
       "1082_4023": {
@@ -46232,13 +46278,13 @@
         "degree": "2",
         "dep_id": "39",
         "dep_primary": "1",
-        "dep_cname": "資訊管理與財務金融系財務金融碩博士班",
+        "dep_cname": "資訊管理與財務金融系財務金融博士班",
         "dep_ename": "Graduate institute of finance",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5583": {
         "acy": "108",
@@ -52249,7 +52295,7 @@
         "dep_ename": "Degree Program of Cybersecurity Management\r\n",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "J"
       },
@@ -52700,7 +52746,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5727": {
         "acy": "108",
@@ -54823,7 +54869,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5262": {
         "acy": "108",
@@ -73098,6 +73144,34 @@
         "reg_num": "-999",
         "depType": "U"
       },
+      "1082_1351": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "1351",
+        "cos_code": "DME4582",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "中等流體力學",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "http://www.me.nctu.edu.tw/appl",
+        "teacher": "吳宗信",
+        "cos_time": "3EF4B-EE130",
+        "memo": "",
+        "cos_ename": "Intermediate Fluid Mechanics",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "14",
+        "dep_primary": "1",
+        "dep_cname": "機械工程學系",
+        "dep_ename": "Department of Mechanical Engineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "-999",
+        "depType": "U"
+      },
       "1082_1344": {
         "acy": "108",
         "sem": "2",
@@ -73443,6 +73517,15 @@
           "GECIEngName": ""
         }
       },
+      "1082_1351": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1082_1344": {
         "": {
           "course_category_cname": "",
@@ -73664,6 +73747,12 @@
           "brief": ""
         }
       },
+      "1082_1351": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1082_1344": {
         "": {
           "brief_code": "",
@@ -73775,6 +73864,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_1350": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1082_1351": {
         "授課語言代碼": "zh-tw"
       },
       "1082_1344": {
@@ -83816,7 +83908,7 @@
         "dep_ename": "Department of Applied Chemistry",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -92306,7 +92398,7 @@
         "TURL": "",
         "teacher": "張宏宇",
         "cos_time": "3BCD-HK114",
-        "memo": "",
+        "memo": "原「數位媒體創作」課程。",
         "cos_ename": "Motion graphics",
         "brief": "",
         "degree": "3",
@@ -94136,7 +94228,7 @@
         "dep_ename": "College of Computer Science",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },

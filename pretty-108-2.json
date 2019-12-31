@@ -3008,7 +3008,7 @@
         "TURL": "",
         "teacher": "王冠生",
         "cos_time": "5EF-A204",
-        "memo": "",
+        "memo": "列為核心人文及核心自然向度.",
         "cos_ename": "Logic and Thinking",
         "brief": "",
         "degree": "0",
@@ -4950,9 +4950,9 @@
         }
       },
       "1082_6102": {
-        "A104,A502,A503": {
-          "brief_code": "A104,A502,A503",
-          "brief": "群己/基礎(96),核心-社會(106),核心-自然(106)"
+        "A104,A502": {
+          "brief_code": "A104,A502",
+          "brief": "群己/基礎(96),核心-社會(106)"
         }
       },
       "1082_6104": {
@@ -4980,9 +4980,9 @@
         }
       },
       "1082_6114": {
-        "A104,A502,A503": {
-          "brief_code": "A104,A502,A503",
-          "brief": "群己/基礎(96),核心-社會(106),核心-自然(106)"
+        "A104,A502": {
+          "brief_code": "A104,A502",
+          "brief": "群己/基礎(96),核心-社會(106)"
         }
       },
       "1082_6115": {
@@ -5034,9 +5034,9 @@
         }
       },
       "1082_6129": {
-        "A104,A502,A503": {
-          "brief_code": "A104,A502,A503",
-          "brief": "群己/基礎(96),核心-社會(106),核心-自然(106)"
+        "A104,A502": {
+          "brief_code": "A104,A502",
+          "brief": "群己/基礎(96),核心-社會(106)"
         }
       },
       "1082_6132": {
@@ -5088,9 +5088,9 @@
         }
       },
       "1082_6158": {
-        "A104,A502,A503": {
-          "brief_code": "A104,A502,A503",
-          "brief": "群己/基礎(96),核心-社會(106),核心-自然(106)"
+        "A104,A502": {
+          "brief_code": "A104,A502",
+          "brief": "群己/基礎(96),核心-社會(106)"
         }
       },
       "1082_6159": {
@@ -5106,9 +5106,9 @@
         }
       },
       "1082_6172": {
-        "A105,A501,A503": {
-          "brief_code": "A105,A501,A503",
-          "brief": "自然/基礎(96),核心-人文(106),核心-自然(106)"
+        "A105,A501": {
+          "brief_code": "A105,A501",
+          "brief": "自然/基礎(96),核心-人文(106)"
         }
       },
       "1082_6173": {
@@ -18569,7 +18569,7 @@
         "sem": "2",
         "cos_id": "0320",
         "cos_code": "DAM1368",
-        "num_limit": "60",
+        "num_limit": "71",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "微積分甲（二）",
@@ -18728,7 +18728,7 @@
         "dep_ename": "Calculus section",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "O"
       },
@@ -18961,7 +18961,7 @@
         "sem": "2",
         "cos_id": "0418",
         "cos_code": "DAM1368",
-        "num_limit": "60",
+        "num_limit": "71",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "微積分甲（二）",
@@ -24738,7 +24738,7 @@
         "cos_type_e": "Required",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5008": {
         "acy": "108",
@@ -28046,7 +28046,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5475": {
         "acy": "108",
@@ -31508,12 +31508,12 @@
         "dep_id": "18",
         "dep_primary": "1",
         "dep_cname": "材料科學與工程學系",
-        "dep_ename": "Institute of Materials Science & Engineering",
+        "dep_ename": "Institute of Materials Science and Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       }
     },
     "costype": {
@@ -33437,7 +33437,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5083": {
         "acy": "108",
@@ -34268,7 +34268,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5109": {
         "acy": "108",
@@ -35129,7 +35129,7 @@
         "dep_ename": "Institute of Applied Chemistry",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -35159,7 +35159,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5423": {
         "acy": "108",
@@ -35270,6 +35270,34 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
+        "reg_num": "-999",
+        "depType": "G"
+      },
+      "1082_5414": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "5414",
+        "cos_code": "IAC5413",
+        "num_limit": "20",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "書報討論－無機組",
+        "cos_credit": "1.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "陳登銘",
+        "cos_time": "1CD-SB201",
+        "memo": "[English Medium Course]",
+        "cos_ename": "Seminar",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "25",
+        "dep_primary": "1",
+        "dep_cname": "應用化學系",
+        "dep_ename": "Institute of Applied Chemistry",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       }
@@ -35391,6 +35419,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1082_5414": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -35471,6 +35508,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1082_5414": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -35511,6 +35554,9 @@
         "授課語言代碼": "en-us"
       },
       "1082_5426": {
+        "授課語言代碼": "en-us"
+      },
+      "1082_5414": {
         "授課語言代碼": "en-us"
       }
     }
@@ -36974,7 +37020,7 @@
         "cos_type_e": "Required",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5673": {
         "acy": "108",
@@ -37197,34 +37243,6 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": null,
-        "reg_num": "-999",
-        "depType": "G"
-      },
-      "1082_5681": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "5681",
-        "cos_code": "IBT5459",
-        "num_limit": "9999",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "碩士班書報討論-生物資訊組",
-        "cos_credit": "1.00",
-        "cos_hours": "1.00",
-        "TURL": "http://life.nctu.edu.tw/~yslin/",
-        "teacher": "林勇欣、高雅婷、陳亭妏、林峻宇、楊進木",
-        "cos_time": "1D-BI310",
-        "memo": "[English Medium Course]",
-        "cos_ename": "Special Topic Seminar in Bioinformatics(MS)",
-        "brief": "",
-        "degree": "2",
-        "dep_id": "28",
-        "dep_primary": "1",
-        "dep_cname": "生物科技學系",
-        "dep_ename": "Institute of Biological Science and Technology",
-        "cos_type": "必修",
-        "cos_type_e": "Required",
-        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -37980,15 +37998,6 @@
           "GECIEngName": ""
         }
       },
-      "1082_5681": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1082_5683": {
         "": {
           "course_category_cname": "",
@@ -38288,12 +38297,6 @@
           "brief": ""
         }
       },
-      "1082_5681": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1082_5683": {
         "": {
           "brief_code": "",
@@ -38475,9 +38478,6 @@
       },
       "1082_5680": {
         "授課語言代碼": "zh-tw"
-      },
-      "1082_5681": {
-        "授課語言代碼": "en-us"
       },
       "1082_5683": {
         "授課語言代碼": "zh-tw"
@@ -38857,6 +38857,34 @@
         "reg_num": "-999",
         "depType": "G"
       },
+      "1082_5717": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "5717",
+        "cos_code": "IBE5067",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "癌症幹細胞與標靶治療",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "邱光裕",
+        "cos_time": "4EFG-BI308",
+        "memo": "",
+        "cos_ename": "Cancer Stem-like Cells and Target",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "29",
+        "dep_primary": "1",
+        "dep_cname": "分子醫學與生物工程研究所",
+        "dep_ename": "Institute of Molecular and Bioengineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "-999",
+        "depType": "G"
+      },
       "1082_5706": {
         "acy": "108",
         "sem": "2",
@@ -38986,6 +39014,15 @@
           "GECIEngName": ""
         }
       },
+      "1082_5717": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1082_5706": {
         "": {
           "course_category_cname": "",
@@ -39063,6 +39100,12 @@
           "brief": ""
         }
       },
+      "1082_5717": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1082_5706": {
         "": {
           "brief_code": "",
@@ -39102,6 +39145,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_5716": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1082_5717": {
         "授課語言代碼": "zh-tw"
       },
       "1082_5706": {
@@ -41786,12 +41832,12 @@
         "dep_id": "33",
         "dep_primary": "1",
         "dep_cname": "工業工程與管理學系",
-        "dep_ename": "Institute of Industrial Engineering and Management",
+        "dep_ename": "Department of Industrial Engineering and Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5523": {
         "acy": "108",
@@ -42911,7 +42957,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5544": {
         "acy": "108",
@@ -43789,13 +43835,13 @@
         "degree": "2",
         "dep_id": "36",
         "dep_primary": "1",
-        "dep_cname": "運輸與物流管理學系物流管理博士班",
+        "dep_cname": "運輸與物流管理學系物流管理碩博士班",
         "dep_ename": "Institute of Logistics Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       }
     },
     "costype": {
@@ -51710,7 +51756,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5868": {
         "acy": "108",
@@ -52330,6 +52376,34 @@
         "reg_num": "-999",
         "depType": "G"
       },
+      "1082_5681": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "5681",
+        "cos_code": "IBT5459",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "碩士班書報討論-生物資訊組",
+        "cos_credit": "1.00",
+        "cos_hours": "1.00",
+        "TURL": "http://life.nctu.edu.tw/~yslin/",
+        "teacher": "林勇欣、高雅婷、陳亭妏、林峻宇、楊進木",
+        "cos_time": "1D-BI310",
+        "memo": "[English Medium Course]",
+        "cos_ename": "Special Topic Seminar in Bioinformatics(MS)",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "51",
+        "dep_primary": "1",
+        "dep_cname": "生物資訊及系統生物研究所",
+        "dep_ename": "Institute of Bioinformatics and System Biology",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "-999",
+        "depType": "G"
+      },
       "1082_5718": {
         "acy": "108",
         "sem": "2",
@@ -52817,6 +52891,15 @@
           "GECIEngName": ""
         }
       },
+      "1082_5681": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1082_5718": {
         "": {
           "course_category_cname": "",
@@ -52978,6 +53061,12 @@
           "brief": ""
         }
       },
+      "1082_5681": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1082_5718": {
         "": {
           "brief_code": "",
@@ -53085,6 +53174,9 @@
       "1082_4006": {
         "授課語言代碼": "en-us"
       },
+      "1082_5681": {
+        "授課語言代碼": "en-us"
+      },
       "1082_5718": {
         "授課語言代碼": "zh-tw"
       },
@@ -53167,7 +53259,7 @@
         "dep_ename": "Graduate Program of Ethnicity and Culture",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -53223,7 +53315,7 @@
         "dep_ename": "Graduate Program of Ethnicity and Culture",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -54601,7 +54693,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5259": {
         "acy": "108",
@@ -54655,7 +54747,7 @@
         "dep_ename": "Institute of Computer Science and Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -55406,7 +55498,7 @@
         "dep_ename": "Institute of Network Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -60103,7 +60195,7 @@
         "dep_ename": "Degree Program of Technology Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "J"
       },
@@ -61717,7 +61809,7 @@
         "dep_ename": "Degree Program of E-Learning",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "J"
       },
@@ -63309,13 +63401,13 @@
         "degree": "2",
         "dep_id": "81",
         "dep_primary": "1",
-        "dep_cname": "國際半導體產業學院博士班",
+        "dep_cname": "國際半導體產業學院碩士班",
         "dep_ename": "International College of Semiconductor Technology",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5222": {
         "acy": "108",
@@ -63393,13 +63485,13 @@
         "degree": "2",
         "dep_id": "81",
         "dep_primary": "1",
-        "dep_cname": "國際半導體產業學院博士班",
+        "dep_cname": "國際半導體產業學院碩士班",
         "dep_ename": "International College of Semiconductor Technology",
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5225": {
         "acy": "108",
@@ -63934,7 +64026,7 @@
         "dep_ename": "International Graduate Program of Sustainable Chemical Science & Te",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "M"
       },
@@ -63962,7 +64054,7 @@
         "dep_ename": "International Graduate Program of Sustainable Chemical Science & Te",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "M"
       },
@@ -75416,7 +75508,7 @@
         "dep_ename": "Department of Computer Science",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -75640,7 +75732,7 @@
         "dep_ename": "Department of Computer Science",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -75836,7 +75928,7 @@
         "dep_ename": "Department of Computer Science",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -81006,7 +81098,7 @@
         "cos_hours": "3.00",
         "TURL": "https://sites.google.com/site/laichingyi0616/",
         "teacher": "賴青沂",
-        "cos_time": "2EF4E-EE209",
+        "cos_time": "2EF4B-EE112",
         "memo": "",
         "cos_ename": "Introduction to Cryptography and Information Security",
         "brief": "",
@@ -83734,7 +83826,7 @@
         "dep_ename": "Department of Applied Chemistry",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -90326,9 +90418,9 @@
         }
       },
       "1082_1573": {
-        "A504": {
-          "brief_code": "A504",
-          "brief": "跨院基本素養(106)"
+        "A103,A504": {
+          "brief_code": "A103,A504",
+          "brief": "公民/基礎(96),跨院基本素養(106)"
         }
       },
       "1082_1575": {

@@ -33119,6 +33119,34 @@
         "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
+      },
+      "1082_5408": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "5408",
+        "cos_code": "IAM7682",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "論文研討",
+        "cos_credit": ".00",
+        "cos_hours": "2.00",
+        "TURL": "https://sites.google.com/site/homepagechanghongwu/",
+        "teacher": "吳昌鴻",
+        "cos_time": "2EF-SA223",
+        "memo": "",
+        "cos_ename": "Colloquium",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "22",
+        "dep_primary": "1",
+        "dep_cname": "應用數學系",
+        "dep_ename": "Institute of Applied Mathematics",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "-999",
+        "depType": "G"
       }
     },
     "costype": {
@@ -33283,6 +33311,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1082_5408": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -33393,6 +33430,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1082_5408": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -33448,6 +33491,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_5399": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1082_5408": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -35374,6 +35420,34 @@
         "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
+      },
+      "1082_5417": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "5417",
+        "cos_code": "IAC5418",
+        "num_limit": "18",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "書報討論－化學生物組",
+        "cos_credit": "1.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "李耀坤",
+        "cos_time": "1GH-EO615",
+        "memo": "[English Medium Course]",
+        "cos_ename": "Seminar",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "25",
+        "dep_primary": "1",
+        "dep_cname": "應用化學系",
+        "dep_ename": "Institute of Applied Chemistry",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "-999",
+        "depType": "G"
       }
     },
     "costype": {
@@ -35511,6 +35585,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1082_5417": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -35603,6 +35686,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1082_5417": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -35649,6 +35738,9 @@
         "授課語言代碼": "en-us"
       },
       "1082_5414": {
+        "授課語言代碼": "en-us"
+      },
+      "1082_5417": {
         "授課語言代碼": "en-us"
       }
     }

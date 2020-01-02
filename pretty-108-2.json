@@ -18662,7 +18662,7 @@
         "TURL": "",
         "teacher": "余啟哲",
         "cos_time": "1IJ-SA321",
-        "memo": "限重修生,網路課程",
+        "memo": "重修生優先,網路課程。",
         "cos_ename": "Calculus (I)",
         "brief": "",
         "degree": "0",
@@ -30629,7 +30629,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "紀乃文",
-        "cos_time": "2EFG-EB117",
+        "cos_time": "2IJK-EB117",
         "memo": "",
         "cos_ename": "Technology and Application of BIM",
         "brief": "",
@@ -33577,34 +33577,6 @@
         "reg_num": "-999",
         "depType": "G"
       },
-      "1082_5083": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "5083",
-        "cos_code": "GEE9022",
-        "num_limit": "25",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "雲端運算與巨量資料分析",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "",
-        "teacher": "帥宏翰",
-        "cos_time": "4BCD-ED814",
-        "memo": "可抵免雲端運算,需申請免修    [English Medium Course]",
-        "cos_ename": "Cloud Computing and Big Data  Analytics",
-        "brief": "",
-        "degree": "2",
-        "dep_id": "23",
-        "dep_primary": "1",
-        "dep_cname": "電機工程學系",
-        "dep_ename": "Institute of Electrical Engineering",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "-999",
-        "depType": "G"
-      },
       "1082_5084": {
         "acy": "108",
         "sem": "2",
@@ -33700,15 +33672,6 @@
           "GECIEngName": ""
         }
       },
-      "1082_5083": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1082_5084": {
         "": {
           "course_category_cname": "",
@@ -33744,12 +33707,6 @@
           "brief": ""
         }
       },
-      "1082_5083": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1082_5084": {
         "": {
           "brief_code": "",
@@ -33772,9 +33729,6 @@
     "language": {
       "1082_5082": {
         "授課語言代碼": "zh-tw"
-      },
-      "1082_5083": {
-        "授課語言代碼": "en-us"
       },
       "1082_5084": {
         "授課語言代碼": "zh-tw"
@@ -40327,7 +40281,7 @@
         "dep_ename": "Institute of Management Science",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -47049,7 +47003,7 @@
         "dep_ename": "Institute of Communication Studies",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -87023,7 +86977,7 @@
         "dep_ename": "Department of Management Science",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -87107,7 +87061,7 @@
         "dep_ename": "Department of Management Science",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },

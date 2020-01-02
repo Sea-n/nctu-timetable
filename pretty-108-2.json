@@ -10138,7 +10138,7 @@
         "dep_ename": "Center for Teacher Education",
         "cos_type": "教育",
         "cos_type_e": "Teacher Education",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "O"
       },
@@ -21513,7 +21513,7 @@
         "dep_ename": "Self-Active I-Learning",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "O"
       },
@@ -24738,14 +24738,14 @@
         "cos_type_e": "Required",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5008": {
         "acy": "108",
         "sem": "2",
         "cos_id": "5008",
         "cos_code": "IEE5385",
-        "num_limit": "9999",
+        "num_limit": "40",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "元件電路計測實驗",
@@ -26868,7 +26868,7 @@
         "sem": "2",
         "cos_id": "5054",
         "cos_code": "ICN5641",
-        "num_limit": "9999",
+        "num_limit": "60",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "圖形識別",
@@ -28046,7 +28046,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5475": {
         "acy": "108",
@@ -31228,12 +31228,12 @@
         "dep_id": "18",
         "dep_primary": "1",
         "dep_cname": "材料科學與工程學系",
-        "dep_ename": "Institute of Materials Science & Engineering",
+        "dep_ename": "Institute of Materials Science and Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5344": {
         "acy": "108",
@@ -34171,7 +34171,7 @@
         "sem": "2",
         "cos_id": "5101",
         "cos_code": "IEO5385",
-        "num_limit": "9999",
+        "num_limit": "70",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "電子薄膜物理與製程技術",
@@ -37947,7 +37947,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "蕭育源",
-        "cos_time": "1D4CD-BI303",
+        "cos_time": "4BCD-BI303",
         "memo": "",
         "cos_ename": "Structural Biology",
         "brief": "",
@@ -40141,7 +40141,7 @@
         "dep_ename": "Institute of Management Science",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -40169,7 +40169,7 @@
         "dep_ename": "Institute of Management Science",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -40617,7 +40617,7 @@
         "dep_ename": "Institute of Management Science",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       }
@@ -43141,7 +43141,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5544": {
         "acy": "108",
@@ -50873,7 +50873,7 @@
         "dep_ename": "Institute of Education",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -51013,7 +51013,7 @@
         "dep_ename": "Institute of Education",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -51940,7 +51940,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5868": {
         "acy": "108",
@@ -52443,7 +52443,7 @@
         "dep_ename": "Degree Program of Cybersecurity Management\r\n",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "J"
       }
@@ -63585,13 +63585,13 @@
         "degree": "2",
         "dep_id": "81",
         "dep_primary": "1",
-        "dep_cname": "國際半導體產業學院博士班",
+        "dep_cname": "國際半導體產業學院碩士班",
         "dep_ename": "International College of Semiconductor Technology",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5222": {
         "acy": "108",
@@ -65148,7 +65148,7 @@
         "TURL": "",
         "teacher": "MBA指導教授",
         "cos_time": "1AB-MB202",
-        "memo": "",
+        "memo": "英文授課[English Medium Course]",
         "cos_ename": "MBA Thesis",
         "brief": "",
         "degree": "2",
@@ -65328,7 +65328,7 @@
         "授課語言代碼": "en-us"
       },
       "1082_5914": {
-        "授課語言代碼": "zh-tw"
+        "授課語言代碼": "en-us"
       }
     }
   },
@@ -86949,7 +86949,7 @@
         "dep_ename": "Department of Management Science",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -87033,7 +87033,7 @@
         "dep_ename": "Department of Management Science",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -89550,7 +89550,7 @@
         "dep_ename": "Department of Foreign Languages and Literatures",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -89830,7 +89830,7 @@
         "dep_ename": "Department of Foreign Languages and Literatures",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },

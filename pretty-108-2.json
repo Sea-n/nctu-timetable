@@ -29276,6 +29276,34 @@
         "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
+      },
+      "1082_5308": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "5308",
+        "cos_code": "IME5613",
+        "num_limit": "15",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "機器人學：多軸旋翼機",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "http://ncrl.nctu.edu.tw",
+        "teacher": "程登湖",
+        "cos_time": "1BCD-EE132",
+        "memo": "",
+        "cos_ename": "Robotics:multirotors",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "14",
+        "dep_primary": "1",
+        "dep_cname": "機械工程學系",
+        "dep_ename": "Institute of Mechanical Engineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "-999",
+        "depType": "G"
       }
     },
     "costype": {
@@ -29512,6 +29540,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1082_5308": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -29670,6 +29707,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1082_5308": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -29749,6 +29792,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_5288": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1082_5308": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -36637,7 +36683,7 @@
         "dep_ename": "Institute of Physics",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -40085,7 +40131,7 @@
         "dep_ename": "Institute of Management Science",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -40113,7 +40159,7 @@
         "dep_ename": "Institute of Management Science",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -40225,7 +40271,7 @@
         "dep_ename": "Institute of Management Science",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -40309,7 +40355,7 @@
         "dep_ename": "Institute of Management Science",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -40365,7 +40411,7 @@
         "dep_ename": "Institute of Management Science",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -40421,7 +40467,7 @@
         "dep_ename": "Institute of Management Science",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -40449,7 +40495,7 @@
         "dep_ename": "Institute of Management Science",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -57286,7 +57332,7 @@
         "dep_ename": "Degree Program of Management Science",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "J"
       },
@@ -87005,7 +87051,7 @@
         "dep_ename": "Department of Management Science",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -87089,7 +87135,7 @@
         "dep_ename": "Department of Management Science",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       }
@@ -89214,7 +89260,7 @@
         "dep_ename": "Department of Foreign Languages and Literatures",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -94961,7 +95007,7 @@
         "sem": "2",
         "cos_id": "1276",
         "cos_code": "DCP1157",
-        "num_limit": "70",
+        "num_limit": "60",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "數位電路設計",
@@ -94989,7 +95035,7 @@
         "sem": "2",
         "cos_id": "1277",
         "cos_code": "DCP1157",
-        "num_limit": "70",
+        "num_limit": "60",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "數位電路設計",
@@ -95157,7 +95203,7 @@
         "sem": "2",
         "cos_id": "1283",
         "cos_code": "DCP1247",
-        "num_limit": "70",
+        "num_limit": "60",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "數位電路設計(英文授課)",

@@ -24738,7 +24738,7 @@
         "cos_type_e": "Required",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5008": {
         "acy": "108",
@@ -29163,7 +29163,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5309": {
         "acy": "108",
@@ -31554,12 +31554,12 @@
         "dep_id": "18",
         "dep_primary": "1",
         "dep_cname": "材料科學與工程學系",
-        "dep_ename": "Institute of Materials Science & Engineering",
+        "dep_ename": "Institute of Materials Science and Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       }
     },
     "costype": {
@@ -31834,7 +31834,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5357": {
         "acy": "108",
@@ -33575,7 +33575,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5084": {
         "acy": "108",
@@ -36443,7 +36443,7 @@
         "cos_type_e": "Required",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5444": {
         "acy": "108",
@@ -37204,7 +37204,7 @@
         "cos_type_e": "Required",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5673": {
         "acy": "108",
@@ -42016,12 +42016,12 @@
         "dep_id": "33",
         "dep_primary": "1",
         "dep_cname": "工業工程與管理學系",
-        "dep_ename": "Institute of Industrial Engineering and Management",
+        "dep_ename": "Department of Industrial Engineering and Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5523": {
         "acy": "108",
@@ -43141,7 +43141,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5544": {
         "acy": "108",
@@ -51940,7 +51940,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5868": {
         "acy": "108",
@@ -52726,7 +52726,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5723": {
         "acy": "108",
@@ -52838,7 +52838,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5727": {
         "acy": "108",
@@ -54429,7 +54429,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5241": {
         "acy": "108",
@@ -54961,7 +54961,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5262": {
         "acy": "108",
@@ -63585,13 +63585,13 @@
         "degree": "2",
         "dep_id": "81",
         "dep_primary": "1",
-        "dep_cname": "國際半導體產業學院博士班",
+        "dep_cname": "國際半導體產業學院碩士班",
         "dep_ename": "International College of Semiconductor Technology",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5222": {
         "acy": "108",
@@ -75834,6 +75834,62 @@
         "crsoutline_type": null,
         "reg_num": "-999",
         "depType": "U"
+      },
+      "1082_1393": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "1393",
+        "cos_code": "DCV4602",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "大地工程實務",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "羅佳明",
+        "cos_time": "2EF3B-EB415",
+        "memo": "",
+        "cos_ename": "Pratice in Geotechnical Engineering",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "16",
+        "dep_primary": "1",
+        "dep_cname": "土木工程學系",
+        "dep_ename": "Department of Civil Engineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "-999",
+        "depType": "U"
+      },
+      "1082_1414": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "1414",
+        "cos_code": "DCV2366",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "加勁土壤邊坡設計實務",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "羅佳明",
+        "cos_time": "1B3CD-EB108",
+        "memo": "",
+        "cos_ename": "Reinforced Soil Slope Design Practice",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "16",
+        "dep_primary": "1",
+        "dep_cname": "土木工程學系",
+        "dep_ename": "Department of Civil Engineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "-999",
+        "depType": "U"
       }
     },
     "costype": {
@@ -76169,6 +76225,24 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1082_1393": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1082_1414": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -76393,6 +76467,18 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1082_1393": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1082_1414": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -76505,6 +76591,12 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_1392": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1082_1393": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1082_1414": {
         "授課語言代碼": "zh-tw"
       }
     }

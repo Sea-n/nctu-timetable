@@ -11786,7 +11786,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "15",
+        "reg_num": "14",
         "depType": "O"
       },
       "1082_8203": {
@@ -18561,7 +18561,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "50",
+        "reg_num": "52",
         "depType": "O"
       },
       "1082_0320": {
@@ -19506,7 +19506,7 @@
         "dep_ename": "Health Services ",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "30",
         "depType": "O"
       },
@@ -19534,7 +19534,7 @@
         "dep_ename": "Health Services ",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "30",
         "depType": "O"
       },
@@ -19562,7 +19562,7 @@
         "dep_ename": "Health Services ",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "30",
         "depType": "O"
       },
@@ -19590,7 +19590,7 @@
         "dep_ename": "Health Services ",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "30",
         "depType": "O"
       },
@@ -19618,7 +19618,7 @@
         "dep_ename": "Health Services ",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "30",
         "depType": "O"
       }
@@ -21569,7 +21569,7 @@
         "dep_ename": "Self-Active I-Learning",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -48056,7 +48056,7 @@
         "sem": "2",
         "cos_id": "5782",
         "cos_code": "ILC5291",
-        "num_limit": "9999",
+        "num_limit": "25",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "句法學專題：漢語越南語比較句法",
@@ -48140,7 +48140,7 @@
         "sem": "2",
         "cos_id": "5786",
         "cos_code": "ILC5296",
-        "num_limit": "9999",
+        "num_limit": "30",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "詞與句之韻律結構",
@@ -48224,7 +48224,7 @@
         "sem": "2",
         "cos_id": "5777",
         "cos_code": "ILC5103",
-        "num_limit": "9999",
+        "num_limit": "25",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "音韻學",
@@ -54119,7 +54119,7 @@
         "sem": "2",
         "cos_id": "5889",
         "cos_code": "ICH5113",
-        "num_limit": "9999",
+        "num_limit": "15",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "數位行銷",
@@ -73621,7 +73621,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "60",
+        "reg_num": "59",
         "depType": "U"
       },
       "1082_1330": {
@@ -84536,7 +84536,7 @@
         "dep_ename": "Department of Applied Chemistry",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "22",
         "depType": "U"
       },
@@ -84732,7 +84732,7 @@
         "dep_ename": "Department of Applied Chemistry",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "30",
         "depType": "U"
       },
@@ -89631,7 +89631,7 @@
         "sem": "2",
         "cos_id": "1690",
         "cos_code": "DFL3037",
-        "num_limit": "9999",
+        "num_limit": "25",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "電腦輔助語言教學",
@@ -89659,7 +89659,7 @@
         "sem": "2",
         "cos_id": "1691",
         "cos_code": "DFL3070",
-        "num_limit": "9999",
+        "num_limit": "25",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "漢語音韻學",
@@ -89883,7 +89883,7 @@
         "sem": "2",
         "cos_id": "1700",
         "cos_code": "DFL2216",
-        "num_limit": "9999",
+        "num_limit": "25",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "口語科學概論",
@@ -93571,6 +93571,62 @@
         "crsoutline_type": "data",
         "reg_num": "41",
         "depType": "U"
+      },
+      "1082_1796": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "1796",
+        "cos_code": "DCT4029",
+        "num_limit": "9999",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "畢業專題(上)",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "傳科系",
+        "cos_time": "",
+        "memo": "",
+        "cos_ename": "Thesis(I)",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "54",
+        "dep_primary": "1",
+        "dep_cname": "傳播與科技學系",
+        "dep_ename": "Department of Communication and Technology",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "39",
+        "depType": "U"
+      },
+      "1082_1798": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "1798",
+        "cos_code": "DCT4025",
+        "num_limit": "9999",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "畢業專題(下)",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "陳延昇、賴至慧、俞蘋、魏玓、張宏宇",
+        "cos_time": "6AB-HK104",
+        "memo": "",
+        "cos_ename": "Thesis(II)",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "54",
+        "dep_primary": "1",
+        "dep_cname": "傳播與科技學系",
+        "dep_ename": "Department of Communication and Technology",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "38",
+        "depType": "U"
       }
     },
     "costype": {
@@ -93778,6 +93834,24 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1082_1796": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1082_1798": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -93912,6 +93986,18 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1082_1796": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1082_1798": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -93979,6 +94065,12 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_1790": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1082_1796": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1082_1798": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -96567,7 +96659,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "84",
+        "reg_num": "83",
         "depType": "U"
       },
       "1082_1592": {
@@ -96707,7 +96799,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "78",
+        "reg_num": "77",
         "depType": "U"
       },
       "1082_1601": {
@@ -96847,7 +96939,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "79",
+        "reg_num": "78",
         "depType": "U"
       },
       "1082_1609": {
@@ -97015,7 +97107,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "65",
+        "reg_num": "64",
         "depType": "U"
       },
       "1082_1603": {

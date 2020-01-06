@@ -40194,7 +40194,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "高國揚",
-        "cos_time": "4FGH-M105",
+        "cos_time": "3EFG-M105",
         "memo": "限管科系學生，其餘學生須老師同意加簽",
         "cos_ename": "Organizational Behavior Seminar: Occupational Health and Safety",
         "brief": "",
@@ -59439,34 +59439,6 @@
         "reg_num": "9",
         "depType": "J"
       },
-      "1082_5129": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "5129",
-        "cos_code": "IEC5046",
-        "num_limit": "9999",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "無線網際網路",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "",
-        "teacher": "曾建超",
-        "cos_time": "1IJK-EC122",
-        "memo": "資訊組；限交大在職專班學生選修",
-        "cos_ename": "Wireless Internet",
-        "brief": "",
-        "degree": "2",
-        "dep_id": "67",
-        "dep_primary": "1",
-        "dep_cname": "電機學院碩士在職專班",
-        "dep_ename": "Degree Program of Electrical and Computer Science",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "17",
-        "depType": "J"
-      },
       "1082_5130": {
         "acy": "108",
         "sem": "2",
@@ -59677,7 +59649,7 @@
         "TURL": "",
         "teacher": "曾建超",
         "cos_time": "1IJK-EC114",
-        "memo": "",
+        "memo": "資訊組；限交大在職專班學生選修",
         "cos_ename": "Software Defined Networks and Network Function Virtualization",
         "brief": "",
         "degree": "2",
@@ -59750,15 +59722,6 @@
     },
     "costype": {
       "1082_5127": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
-      "1082_5129": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -59865,12 +59828,6 @@
           "brief": ""
         }
       },
-      "1082_5129": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1082_5130": {
         "": {
           "brief_code": "",
@@ -59934,9 +59891,6 @@
     },
     "language": {
       "1082_5127": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1082_5129": {
         "授課語言代碼": "zh-tw"
       },
       "1082_5130": {
@@ -86502,7 +86456,7 @@
         "dep_ename": "Department of Biological Science and Technology",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "8",
         "depType": "U"
       },

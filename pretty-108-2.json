@@ -12094,7 +12094,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "21",
+        "reg_num": "20",
         "depType": "O"
       },
       "1082_8225": {
@@ -46609,10 +46609,10 @@
         }
       },
       "1082_5590": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
+        "通識校基本素養_通識校基本": {
+          "course_category_cname": "通識校基本素養_通識校基本",
+          "course_category_ename": "General Education Course: Literacy_GECL",
+          "course_category_type": "15",
           "GECIName": "",
           "GECIEngName": ""
         }
@@ -47737,6 +47737,34 @@
         "crsoutline_type": "data",
         "reg_num": "5",
         "depType": "G"
+      },
+      "1082_5776": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "5776",
+        "cos_code": "IAA5303",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "設計個別研究",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "陳一平",
+        "cos_time": "",
+        "memo": "",
+        "cos_ename": "Independent Study on Design",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "42",
+        "dep_primary": "1",
+        "dep_cname": "應用藝術研究所",
+        "dep_ename": "Institute of Applied Arts",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "G"
       }
     },
     "costype": {
@@ -47856,6 +47884,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1082_5776": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -47936,6 +47973,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1082_5776": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -47976,6 +48019,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_5775": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1082_5776": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -54193,7 +54239,7 @@
         "sem": "2",
         "cos_id": "5891",
         "cos_code": "ICH5115",
-        "num_limit": "9999",
+        "num_limit": "16",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "遊戲，文化與社會",
@@ -54938,7 +54984,7 @@
         "sem": "2",
         "cos_id": "5254",
         "cos_code": "IOC5186",
-        "num_limit": "60",
+        "num_limit": "20",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "平行程式優化與生物資訊演算法應用實務(英文授課)",

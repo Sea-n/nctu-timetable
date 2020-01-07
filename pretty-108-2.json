@@ -17812,34 +17812,6 @@
         "reg_num": "-999",
         "depType": "O"
       },
-      "1082_0561": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "0561",
-        "cos_code": "DEP1111",
-        "num_limit": "50",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "物理(一)",
-        "cos_credit": "4.00",
-        "cos_hours": "4.00",
-        "TURL": "",
-        "teacher": "李明知",
-        "cos_time": "2GH5CD-SC105",
-        "memo": "",
-        "cos_ename": "Physics (I)",
-        "brief": "",
-        "degree": "0",
-        "dep_id": "UD",
-        "dep_primary": "1",
-        "dep_cname": "物理教學小組",
-        "dep_ename": "Physical section",
-        "cos_type": "必修",
-        "cos_type_e": "Required",
-        "crsoutline_type": null,
-        "reg_num": "-999",
-        "depType": "O"
-      },
       "1082_0511": {
         "acy": "108",
         "sem": "2",
@@ -18076,15 +18048,6 @@
           "GECIEngName": ""
         }
       },
-      "1082_0561": {
-        "通識跨院基本素養_通識跨院": {
-          "course_category_cname": "通識跨院基本素養_通識跨院",
-          "course_category_ename": "General Education Course: Intercollegiate_GECI",
-          "course_category_type": "16",
-          "GECIName": "客",
-          "GECIEngName": "CHK"
-        }
-      },
       "1082_0511": {
         "通識跨院基本素養_通識跨院": {
           "course_category_cname": "通識跨院基本素養_通識跨院",
@@ -18219,12 +18182,6 @@
           "brief": ""
         }
       },
-      "1082_0561": {
-        "A105,A504": {
-          "brief_code": "A105,A504",
-          "brief": "自然/基礎(96),跨院基本素養(106)"
-        }
-      },
       "1082_0511": {
         "A105,A504": {
           "brief_code": "A105,A504",
@@ -18294,9 +18251,6 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_0555": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1082_0561": {
         "授課語言代碼": "zh-tw"
       },
       "1082_0511": {
@@ -18877,7 +18831,7 @@
         "sem": "2",
         "cos_id": "0415",
         "cos_code": "DAM1368",
-        "num_limit": "70",
+        "num_limit": "60",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "微積分甲（二）",
@@ -28909,7 +28863,7 @@
         "dep_ename": "Institute of Mechanical Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -52616,8 +52570,8 @@
         "cos_hours": "3.00",
         "TURL": "http://www.cs.nctu.edu.tw/~chuang/",
         "teacher": "黃俊穎、鍾崇斌",
-        "cos_time": "2IJK-",
-        "memo": "上課地點:六張犁教學點",
+        "cos_time": "5IJK-TD",
+        "memo": "上課地點:台北校區第一演講廳",
         "cos_ename": "Computer Operations, Organization and Evolution",
         "brief": "",
         "degree": "2",
@@ -54225,7 +54179,7 @@
         "cos_cname": "傳播科技理論",
         "cos_credit": "3.00",
         "cos_hours": "3.00",
-        "TURL": "",
+        "TURL": "https://dcat.nctu.edu.tw/members/%e6%9d%8e%e7%be%8e%e8%8f%af/#content",
         "teacher": "李美華",
         "cos_time": "5BCD-HK206",
         "memo": "",
@@ -54393,7 +54347,7 @@
         "cos_cname": "獨立研究",
         "cos_credit": "3.00",
         "cos_hours": "3.00",
-        "TURL": "",
+        "TURL": "https://dcat.nctu.edu.tw/members/%e6%9d%8e%e7%be%8e%e8%8f%af/#content",
         "teacher": "李美華、張玉佩、魏玓",
         "cos_time": "1BCD-HK213",
         "memo": "",
@@ -78279,6 +78233,34 @@
         "crsoutline_type": null,
         "reg_num": "-999",
         "depType": "U"
+      },
+      "1082_1415": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "1415",
+        "cos_code": "DMA1114",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "物理化學(二)",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "徐雍鎣",
+        "cos_time": "1E-EF202,2GH-EF207",
+        "memo": "",
+        "cos_ename": "Chemical Kinetics (II)",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "18",
+        "dep_primary": "1",
+        "dep_cname": "材料科學與工程學系",
+        "dep_ename": "Department of Materials Science and Engineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "-999",
+        "depType": "U"
       }
     },
     "costype": {
@@ -78443,6 +78425,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1082_1415": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -78553,6 +78544,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1082_1415": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -78608,6 +78605,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_1413": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1082_1415": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -93880,7 +93880,7 @@
         "cos_cname": "新科技與組織傳播",
         "cos_credit": "3.00",
         "cos_hours": "3.00",
-        "TURL": "",
+        "TURL": "https://dcat.nctu.edu.tw/members/%e6%9d%8e%e7%be%8e%e8%8f%af/#content",
         "teacher": "李美華",
         "cos_time": "2BCD-SC105",
         "memo": "",

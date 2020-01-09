@@ -23420,13 +23420,13 @@
         "degree": "2",
         "dep_id": "04",
         "dep_primary": "1",
-        "dep_cname": "光電系統博士學位學程",
+        "dep_cname": "光電系統研究所",
         "dep_ename": "Institute of Photonic System",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5142": {
         "acy": "108",
@@ -24692,7 +24692,7 @@
         "cos_type_e": "Required",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5008": {
         "acy": "108",
@@ -31228,12 +31228,12 @@
         "dep_id": "18",
         "dep_primary": "1",
         "dep_cname": "材料科學與工程學系",
-        "dep_ename": "Institute of Materials Science & Engineering",
+        "dep_ename": "Institute of Materials Science and Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5344": {
         "acy": "108",
@@ -32444,7 +32444,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "徐琅",
-        "cos_time": "5EFG-SC160",
+        "cos_time": "3EFG-SC110",
         "memo": "",
         "cos_ename": "Introduction to Biomedical Physics and Implementation",
         "brief": "",
@@ -35251,7 +35251,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5423": {
         "acy": "108",
@@ -36443,7 +36443,7 @@
         "cos_type_e": "Required",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5444": {
         "acy": "108",
@@ -41886,7 +41886,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "王志軒",
-        "cos_time": "3CDX-MB520",
+        "cos_time": "3CDX-MB414",
         "memo": "",
         "cos_ename": "Business Intelligence",
         "brief": "",
@@ -44065,13 +44065,13 @@
         "degree": "2",
         "dep_id": "36",
         "dep_primary": "1",
-        "dep_cname": "運輸與物流管理學系物流管理博士班",
+        "dep_cname": "運輸與物流管理學系物流管理碩博士班",
         "dep_ename": "Institute of Logistics Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       }
     },
     "costype": {
@@ -52032,7 +52032,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5868": {
         "acy": "108",
@@ -54659,7 +54659,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5241": {
         "acy": "108",
@@ -93129,7 +93129,7 @@
         "sem": "2",
         "cos_id": "1768",
         "cos_code": "DHS3164",
-        "num_limit": "9999",
+        "num_limit": "40",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "海外客家研究",
@@ -93140,34 +93140,6 @@
         "cos_time": "2EFG-HK105",
         "memo": "",
         "cos_ename": "Overseas Hakka Studies",
-        "brief": "",
-        "degree": "3",
-        "dep_id": "53",
-        "dep_primary": "1",
-        "dep_cname": "人文社會學系",
-        "dep_ename": "Department of Humanities and Social Sciences",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "-999",
-        "depType": "U"
-      },
-      "1082_1769": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "1769",
-        "cos_code": "DHS3166",
-        "num_limit": "9999",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "審議民主與社區實作",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "",
-        "teacher": "郭揚義",
-        "cos_time": "3BCD-HK120",
-        "memo": "",
-        "cos_ename": "Deliberative Democracy and Community Practice",
         "brief": "",
         "degree": "3",
         "dep_id": "53",
@@ -93453,15 +93425,6 @@
           "GECIName": "",
           "GECIEngName": ""
         }
-      },
-      "1082_1769": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
       }
     },
     "brief": {
@@ -93608,12 +93571,6 @@
           "brief_code": "",
           "brief": ""
         }
-      },
-      "1082_1769": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
       }
     },
     "language": {
@@ -93687,9 +93644,6 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_1768": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1082_1769": {
         "授課語言代碼": "zh-tw"
       }
     }

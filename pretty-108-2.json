@@ -7509,7 +7509,7 @@
         "dep_ename": "Language Teaching and Research Center",
         "cos_type": "外語",
         "cos_type_e": "Foreign Languages Course",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "12",
         "depType": "O"
       },
@@ -8183,6 +8183,62 @@
         "cos_type_e": "Foreign Languages Course",
         "crsoutline_type": "data",
         "reg_num": "24",
+        "depType": "O"
+      },
+      "1082_7530": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "7530",
+        "cos_code": "DFR4104",
+        "num_limit": "50",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "法文(一)",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "潘怡君",
+        "cos_time": "1CD-A405",
+        "memo": "",
+        "cos_ename": "French(I)",
+        "brief": "其它",
+        "degree": "0",
+        "dep_id": "U6",
+        "dep_primary": "1",
+        "dep_cname": "語言教學與研究中心",
+        "dep_ename": "Language Teaching and Research Center",
+        "cos_type": "外語",
+        "cos_type_e": "Foreign Languages Course",
+        "crsoutline_type": "data",
+        "reg_num": "9",
+        "depType": "O"
+      },
+      "1082_7531": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "7531",
+        "cos_code": "DFR4104",
+        "num_limit": "50",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "法文(一)",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "潘怡君",
+        "cos_time": "1EF-A405",
+        "memo": "",
+        "cos_ename": "French(I)",
+        "brief": "其它",
+        "degree": "0",
+        "dep_id": "U6",
+        "dep_primary": "1",
+        "dep_cname": "語言教學與研究中心",
+        "dep_ename": "Language Teaching and Research Center",
+        "cos_type": "外語",
+        "cos_type_e": "Foreign Languages Course",
+        "crsoutline_type": "data",
+        "reg_num": "15",
         "depType": "O"
       },
       "1082_7538": {
@@ -9071,6 +9127,24 @@
           "GECIEngName": ""
         }
       },
+      "1082_7530": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1082_7531": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1082_7538": {
         "": {
           "course_category_cname": "",
@@ -9643,6 +9717,18 @@
           "brief": "其它(87)"
         }
       },
+      "1082_7530": {
+        "B075": {
+          "brief_code": "B075",
+          "brief": "其它(87)"
+        }
+      },
+      "1082_7531": {
+        "B075": {
+          "brief_code": "B075",
+          "brief": "其它(87)"
+        }
+      },
       "1082_7538": {
         "B075": {
           "brief_code": "B075",
@@ -9931,6 +10017,12 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_7521": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1082_7530": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1082_7531": {
         "授課語言代碼": "zh-tw"
       },
       "1082_7538": {
@@ -10377,8 +10469,8 @@
         "cos_cname": "教學實習(自然領域/化學)",
         "cos_credit": "2.00",
         "cos_hours": "2.00",
-        "TURL": "http://SciEdu.nctu.edu.tw",
-        "teacher": "佘曉清",
+        "TURL": "",
+        "teacher": "教育學程",
         "cos_time": "2EF-HA218",
         "memo": "教學觀摩時間另訂",
         "cos_ename": "Teaching Practice (Chemistry)",
@@ -10433,8 +10525,8 @@
         "cos_cname": "教學實習(自然領域/生物)",
         "cos_credit": "2.00",
         "cos_hours": "2.00",
-        "TURL": "",
-        "teacher": "教育學程",
+        "TURL": "http://SciEdu.nctu.edu.tw",
+        "teacher": "佘曉清",
         "cos_time": "2EF-HA208",
         "memo": "教學觀摩時間另訂",
         "cos_ename": "Teaching Practice (Biology)",
@@ -18431,7 +18523,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "57",
+        "reg_num": "58",
         "depType": "O"
       },
       "1082_0317": {
@@ -51177,7 +51269,7 @@
         "cos_credit": "2.00",
         "cos_hours": "2.00",
         "TURL": "",
-        "teacher": "陳聖昌",
+        "teacher": "陳聖昌、教育所",
         "cos_time": "5CD-HA218",
         "memo": "1.本課程為師資生認證中等學校自然科學領域物理化學生物專長教育專門課程學生使用，不能採計為教育專業學分。2.大學生如欲將此課程列為畢業學分，需自行向各系確認。",
         "cos_ename": "Scientific Inquiry and Practice Curriculum Design",

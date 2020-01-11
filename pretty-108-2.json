@@ -7989,6 +7989,34 @@
         "reg_num": "45",
         "depType": "O"
       },
+      "1082_7510": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "7510",
+        "cos_code": "DFR1232",
+        "num_limit": "45",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "日文(二)",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "賴薇如",
+        "cos_time": "2AB-A315",
+        "memo": "",
+        "cos_ename": "Japanese(II)",
+        "brief": "其它",
+        "degree": "0",
+        "dep_id": "U6",
+        "dep_primary": "1",
+        "dep_cname": "語言教學與研究中心",
+        "dep_ename": "Language Teaching and Research Center",
+        "cos_type": "外語",
+        "cos_type_e": "Foreign Languages Course",
+        "crsoutline_type": "data",
+        "reg_num": "45",
+        "depType": "O"
+      },
       "1082_7512": {
         "acy": "108",
         "sem": "2",
@@ -9148,6 +9176,15 @@
           "GECIEngName": ""
         }
       },
+      "1082_7510": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1082_7512": {
         "": {
           "course_category_cname": "",
@@ -9786,6 +9823,12 @@
           "brief": "其它(87)"
         }
       },
+      "1082_7510": {
+        "B075": {
+          "brief_code": "B075",
+          "brief": "其它(87)"
+        }
+      },
       "1082_7512": {
         "B075": {
           "brief_code": "B075",
@@ -10125,6 +10168,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_7509": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1082_7510": {
         "授課語言代碼": "zh-tw"
       },
       "1082_7512": {

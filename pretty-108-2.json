@@ -5829,7 +5829,7 @@
         "dep_ename": "Language Teaching and Research Center",
         "cos_type": "外語",
         "cos_type_e": "Foreign Languages Course",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "30",
         "depType": "O"
       },
@@ -6669,7 +6669,7 @@
         "dep_ename": "Language Teaching and Research Center",
         "cos_type": "外語",
         "cos_type_e": "Foreign Languages Course",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "25",
         "depType": "O"
       },
@@ -23727,7 +23727,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "62",
+        "reg_num": "61",
         "depType": "M"
       },
       "1082_5001": {
@@ -31950,6 +31950,34 @@
         "reg_num": "34",
         "depType": "G"
       },
+      "1082_5478": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "5478",
+        "cos_code": "IMA5505",
+        "num_limit": "60",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "表面科學 ",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "潘扶民",
+        "cos_time": "1FGH-EF352",
+        "memo": "1.第一階段限材料系所、奈米所加選 2.開學後開放外系或外校加 [English Medium Course]",
+        "cos_ename": "Surface Science",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "18",
+        "dep_primary": "1",
+        "dep_cname": "材料科學與工程學系",
+        "dep_ename": "Institute of Materials Science and Engineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "G"
+      },
       "1082_5350": {
         "acy": "108",
         "sem": "2",
@@ -32097,6 +32125,15 @@
           "GECIEngName": ""
         }
       },
+      "1082_5478": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1082_5350": {
         "": {
           "course_category_cname": "",
@@ -32186,6 +32223,12 @@
           "brief": ""
         }
       },
+      "1082_5478": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1082_5350": {
         "": {
           "brief_code": "",
@@ -32232,6 +32275,9 @@
       },
       "1082_5458": {
         "授課語言代碼": "zh-tw"
+      },
+      "1082_5478": {
+        "授課語言代碼": "en-us"
       },
       "1082_5350": {
         "授課語言代碼": "zh-tw"
@@ -37131,6 +37177,34 @@
         "crsoutline_type": null,
         "reg_num": "1",
         "depType": "G"
+      },
+      "1082_5441": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "5441",
+        "cos_code": "IOP5351",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "書報討論",
+        "cos_credit": "1.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "孟心飛",
+        "cos_time": "4EF-SC157",
+        "memo": "[English Medium Course]",
+        "cos_ename": "Seminar",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "27",
+        "dep_primary": "1",
+        "dep_cname": "物理研究所",
+        "dep_ename": "Institute of Physics",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "47",
+        "depType": "G"
       }
     },
     "costype": {
@@ -37241,6 +37315,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1082_5441": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -37315,6 +37398,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1082_5441": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -37353,6 +37442,9 @@
       },
       "1082_5452": {
         "授課語言代碼": "zh-tw"
+      },
+      "1082_5441": {
+        "授課語言代碼": "en-us"
       }
     }
   },
@@ -39850,7 +39942,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "133",
+        "reg_num": "131",
         "depType": "G"
       },
       "1082_5113": {
@@ -81178,7 +81270,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
-        "reg_num": "9",
+        "reg_num": "10",
         "depType": "U"
       },
       "1082_1482": {
@@ -90461,7 +90553,7 @@
         "dep_ename": "Department of Foreign Languages and Literatures",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "62",
         "depType": "U"
       },
@@ -95685,34 +95777,6 @@
         "reg_num": "12",
         "depType": "U"
       },
-      "1082_1735": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "1735",
-        "cos_code": "DOH3007",
-        "num_limit": "0",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "音樂、 空間與地方",
-        "cos_credit": "2.00",
-        "cos_hours": "2.00",
-        "TURL": "",
-        "teacher": "蕭植穗",
-        "cos_time": "1EF-HC104",
-        "memo": "",
-        "cos_ename": "Music, Space and Place",
-        "brief": "",
-        "degree": "3",
-        "dep_id": "A1",
-        "dep_primary": "1",
-        "dep_cname": "人文社會學院院本部",
-        "dep_ename": "College of Humanities and Social Science",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "2",
-        "depType": "U"
-      },
       "1082_1736": {
         "acy": "108",
         "sem": "2",
@@ -95913,15 +95977,6 @@
           "GECIEngName": ""
         }
       },
-      "1082_1735": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1082_1736": {
         "": {
           "course_category_cname": "",
@@ -96032,12 +96087,6 @@
           "brief": ""
         }
       },
-      "1082_1735": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1082_1736": {
         "": {
           "brief_code": "",
@@ -96095,9 +96144,6 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_1734": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1082_1735": {
         "授課語言代碼": "zh-tw"
       },
       "1082_1736": {

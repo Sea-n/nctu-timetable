@@ -17591,6 +17591,13 @@
           "course_category_type": "15",
           "GECIName": "",
           "GECIEngName": ""
+        },
+        "通識核心課程_通識核心": {
+          "course_category_cname": "通識核心課程_通識核心",
+          "course_category_ename": "General Education Course_GEC",
+          "course_category_type": "17",
+          "GECIName": "",
+          "GECIEngName": ""
         }
       },
       "1082_3003": {
@@ -17598,6 +17605,13 @@
           "course_category_cname": "通識校基本素養_通識校基本",
           "course_category_ename": "General Education Course: Literacy_GECL",
           "course_category_type": "15",
+          "GECIName": "",
+          "GECIEngName": ""
+        },
+        "通識核心課程_通識核心": {
+          "course_category_cname": "通識核心課程_通識核心",
+          "course_category_ename": "General Education Course_GEC",
+          "course_category_type": "17",
           "GECIName": "",
           "GECIEngName": ""
         }
@@ -17621,6 +17635,13 @@
         }
       },
       "1082_3006": {
+        "通識核心課程_通識核心": {
+          "course_category_cname": "通識核心課程_通識核心",
+          "course_category_ename": "General Education Course_GEC",
+          "course_category_type": "17",
+          "GECIName": "工,理,人,客",
+          "GECIEngName": "COE,COS,CHS,CHK"
+        },
         "通識跨院基本素養_通識跨院": {
           "course_category_cname": "通識跨院基本素養_通識跨院",
           "course_category_ename": "General Education Course: Intercollegiate_GECI",
@@ -17638,15 +17659,15 @@
         }
       },
       "1082_3002": {
-        "A205,A505": {
-          "brief_code": "A205,A505",
-          "brief": "自然/進階(96),校基本素養(106)"
+        "A205,A503,A505": {
+          "brief_code": "A205,A503,A505",
+          "brief": "自然/進階(96),核心-自然(106),校基本素養(106)"
         }
       },
       "1082_3003": {
-        "A205,A505": {
-          "brief_code": "A205,A505",
-          "brief": "自然/進階(96),校基本素養(106)"
+        "A205,A503,A505": {
+          "brief_code": "A205,A503,A505",
+          "brief": "自然/進階(96),核心-自然(106),校基本素養(106)"
         }
       },
       "1082_3004": {
@@ -17662,9 +17683,9 @@
         }
       },
       "1082_3006": {
-        "A205,A504": {
-          "brief_code": "A205,A504",
-          "brief": "自然/進階(96),跨院基本素養(106)"
+        "A205,A503,A504": {
+          "brief_code": "A205,A503,A504",
+          "brief": "自然/進階(96),核心-自然(106),跨院基本素養(106)"
         }
       }
     },
@@ -19245,7 +19266,7 @@
         "sem": "2",
         "cos_id": "0415",
         "cos_code": "DAM1368",
-        "num_limit": "60",
+        "num_limit": "50",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "微積分甲（二）",
@@ -25106,7 +25127,7 @@
         "cos_type_e": "Required",
         "crsoutline_type": null,
         "reg_num": "24",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5008": {
         "acy": "108",
@@ -27966,7 +27987,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "30",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5066": {
         "acy": "108",
@@ -29531,7 +29552,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "5",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5309": {
         "acy": "108",
@@ -31642,12 +31663,12 @@
         "dep_id": "18",
         "dep_primary": "1",
         "dep_cname": "材料科學與工程學系",
-        "dep_ename": "Institute of Materials Science & Engineering",
+        "dep_ename": "Institute of Materials Science and Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "13",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5344": {
         "acy": "108",
@@ -32248,7 +32269,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "2",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5357": {
         "acy": "108",
@@ -33989,7 +34010,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "9",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5084": {
         "acy": "108",
@@ -39537,7 +39558,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "14",
-        "depType": "D"
+        "depType": "G"
       }
     },
     "costype": {
@@ -43601,7 +43622,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "23",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5544": {
         "acy": "108",
@@ -52341,7 +52362,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "5",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5864": {
         "acy": "108",
@@ -52453,7 +52474,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "5",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5868": {
         "acy": "108",
@@ -55612,7 +55633,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "45",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5262": {
         "acy": "108",
@@ -64243,13 +64264,13 @@
         "degree": "2",
         "dep_id": "81",
         "dep_primary": "1",
-        "dep_cname": "國際半導體產業學院博士班",
+        "dep_cname": "國際半導體產業學院碩士班",
         "dep_ename": "International College of Semiconductor Technology",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "8",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5222": {
         "acy": "108",

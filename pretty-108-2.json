@@ -25107,7 +25107,7 @@
         "dep_ename": "Institute of Electronics",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "46",
         "depType": "G"
       },
@@ -27275,7 +27275,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "羅佩禎",
-        "cos_time": "1BCD-EE102",
+        "cos_time": "1BCD-EE105",
         "memo": "【電控所學生注意:畢業學分須修本所課程至少15學分(本所課程為永久課號ICN開頭之課程】[English Medium Course]",
         "cos_ename": "Image Processing",
         "brief": "",
@@ -50770,7 +50770,7 @@
         "dep_ename": "Institute of Architecture",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -72975,7 +72975,7 @@
         "dep_ename": "Department of Electronics Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "26",
         "depType": "U"
       },
@@ -90456,27 +90456,27 @@
         }
       },
       "1082_1670": {
-        "A505": {
-          "brief_code": "A505",
-          "brief": "校基本素養(106)"
+        "A204,A505": {
+          "brief_code": "A204,A505",
+          "brief": "群己/進階(96),校基本素養(106)"
         }
       },
       "1082_1671": {
-        "A505": {
-          "brief_code": "A505",
-          "brief": "校基本素養(106)"
+        "A205,A505": {
+          "brief_code": "A205,A505",
+          "brief": "自然/進階(96),校基本素養(106)"
         }
       },
       "1082_1672": {
-        "A505": {
-          "brief_code": "A505",
-          "brief": "校基本素養(106)"
+        "A204,A505": {
+          "brief_code": "A204,A505",
+          "brief": "群己/進階(96),校基本素養(106)"
         }
       },
       "1082_1673": {
-        "A505": {
-          "brief_code": "A505",
-          "brief": "校基本素養(106)"
+        "A203,A505": {
+          "brief_code": "A203,A505",
+          "brief": "公民/進階(96),校基本素養(106)"
         }
       }
     },
@@ -99032,7 +99032,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "蔡尚澕",
-        "cos_time": "1CD3B-EE105",
+        "cos_time": "1CD3B-EE102",
         "memo": "",
         "cos_ename": "Signals and Systems",
         "brief": "",

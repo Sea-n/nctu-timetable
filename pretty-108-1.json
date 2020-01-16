@@ -12078,7 +12078,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "47",
+        "reg_num": "46",
         "depType": "O"
       },
       "1081_8115": {
@@ -12358,7 +12358,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "48",
+        "reg_num": "47",
         "depType": "O"
       },
       "1081_8126": {
@@ -70909,6 +70909,90 @@
         "crsoutline_type": null,
         "reg_num": "1",
         "depType": "Z"
+      },
+      "1081_9651": {
+        "acy": "108",
+        "sem": "1",
+        "cos_id": "9651",
+        "cos_code": "THU3609",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "奈米結構鑑定",
+        "cos_credit": "1.90",
+        "cos_hours": "1.90",
+        "TURL": "",
+        "teacher": null,
+        "cos_time": "",
+        "memo": "",
+        "cos_ename": "Characterization of Nanostructures",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "ZZ",
+        "dep_primary": "1",
+        "dep_cname": "外國學校",
+        "dep_ename": "Foreign school",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "1",
+        "depType": "Z"
+      },
+      "1081_9652": {
+        "acy": "108",
+        "sem": "1",
+        "cos_id": "9652",
+        "cos_code": "THU3610",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "奈米鑄造",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": null,
+        "cos_time": "",
+        "memo": "",
+        "cos_ename": "Fabrication ofo Nanostructures",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "ZZ",
+        "dep_primary": "1",
+        "dep_cname": "外國學校",
+        "dep_ename": "Foreign school",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "1",
+        "depType": "Z"
+      },
+      "1081_9653": {
+        "acy": "108",
+        "sem": "1",
+        "cos_id": "9653",
+        "cos_code": "THU3611",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "奈米實驗:鑄造及鑑定",
+        "cos_credit": "2.20",
+        "cos_hours": "2.20",
+        "TURL": "",
+        "teacher": null,
+        "cos_time": "",
+        "memo": "",
+        "cos_ename": "Nano-Lab: Fabrication & Characterization",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "ZZ",
+        "dep_primary": "1",
+        "dep_cname": "外國學校",
+        "dep_ename": "Foreign school",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "1",
+        "depType": "Z"
       }
     },
     "costype": {
@@ -72180,6 +72264,33 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1081_9651": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1081_9652": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1081_9653": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -73028,6 +73139,24 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1081_9651": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1081_9652": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1081_9653": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -73452,6 +73581,15 @@
         "授課語言代碼": "zh-tw"
       },
       "1081_9650": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1081_9651": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1081_9652": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1081_9653": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -96086,7 +96224,7 @@
         "cos_credit": "3.00",
         "cos_hours": "3.00",
         "TURL": "",
-        "teacher": "顧可漢",
+        "teacher": "Carlos Gussenhoven",
         "cos_time": "4BCD-F322",
         "memo": "專選[English Medium Course]",
         "cos_ename": "Phonetics and Phonology Seminar",
@@ -105659,7 +105797,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
-        "reg_num": "1",
+        "reg_num": "0",
         "depType": "Z"
       },
       "1081_3274": {

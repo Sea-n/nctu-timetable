@@ -28381,6 +28381,34 @@
         "reg_num": "30",
         "depType": "G"
       },
+      "1082_5083": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "5083",
+        "cos_code": "ECM9038",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "MIMO通訊系統",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": null,
+        "cos_time": "",
+        "memo": "[English Medium Course]",
+        "cos_ename": "MIMO Communication Systems",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "13",
+        "dep_primary": "1",
+        "dep_cname": "電信工程研究所",
+        "dep_ename": "Institute of Communication Engineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "G"
+      },
       "1082_5139": {
         "acy": "108",
         "sem": "2",
@@ -28675,6 +28703,15 @@
           "GECIEngName": ""
         }
       },
+      "1082_5083": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1082_5139": {
         "": {
           "course_category_cname": "",
@@ -28833,6 +28870,12 @@
           "brief": ""
         }
       },
+      "1082_5083": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1082_5139": {
         "": {
           "brief_code": "",
@@ -28917,6 +28960,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_5080": {
+        "授課語言代碼": "en-us"
+      },
+      "1082_5083": {
         "授課語言代碼": "en-us"
       },
       "1082_5139": {
@@ -30781,34 +30827,6 @@
         "reg_num": "8",
         "depType": "G"
       },
-      "1082_5333": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "5333",
-        "cos_code": "ICV5666",
-        "num_limit": "9999",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "衛星大地測量",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "http://space.cv.nctu.edu.tw",
-        "teacher": "黃金維",
-        "cos_time": "3BCD-EB402",
-        "memo": "",
-        "cos_ename": "Satellite Geodesy",
-        "brief": "",
-        "degree": "2",
-        "dep_id": "16",
-        "dep_primary": "1",
-        "dep_cname": "土木工程學系",
-        "dep_ename": "Institute of Civil Engineering",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": null,
-        "reg_num": "1",
-        "depType": "G"
-      },
       "1082_5334": {
         "acy": "108",
         "sem": "2",
@@ -31224,15 +31242,6 @@
           "GECIEngName": ""
         }
       },
-      "1082_5333": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1082_5334": {
         "": {
           "course_category_cname": "",
@@ -31433,12 +31442,6 @@
           "brief": ""
         }
       },
-      "1082_5333": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1082_5334": {
         "": {
           "brief_code": "",
@@ -31550,9 +31553,6 @@
         "授課語言代碼": "en-us"
       },
       "1082_5332": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1082_5333": {
         "授課語言代碼": "zh-tw"
       },
       "1082_5334": {

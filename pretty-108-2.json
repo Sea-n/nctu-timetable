@@ -24002,34 +24002,6 @@
         "crsoutline_type": "data",
         "reg_num": "7",
         "depType": "G"
-      },
-      "1082_5147": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "5147",
-        "cos_code": "IPS5131",
-        "num_limit": "9999",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "投影顯示科技",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "",
-        "teacher": "潘瑞文",
-        "cos_time": "3IJK-CM224",
-        "memo": "上課地點：台南校區",
-        "cos_ename": "Projection Display Technology",
-        "brief": "",
-        "degree": "2",
-        "dep_id": "04",
-        "dep_primary": "1",
-        "dep_cname": "光電系統研究所",
-        "dep_ename": "Institute of Photonic System",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "19",
-        "depType": "G"
       }
     },
     "costype": {
@@ -24095,15 +24067,6 @@
           "GECIName": "",
           "GECIEngName": ""
         }
-      },
-      "1082_5147": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
       }
     },
     "brief": {
@@ -24148,12 +24111,6 @@
           "brief_code": "",
           "brief": ""
         }
-      },
-      "1082_5147": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
       }
     },
     "language": {
@@ -24177,9 +24134,6 @@
       },
       "1082_5146": {
         "授課語言代碼": "en-us"
-      },
-      "1082_5147": {
-        "授課語言代碼": "zh-tw"
       }
     }
   },
@@ -28395,7 +28349,7 @@
         "TURL": "",
         "teacher": "黃昱智",
         "cos_time": "3BCD-EDB01",
-        "memo": "[English Medium Course]",
+        "memo": "",
         "cos_ename": "MIMO Communication Systems",
         "brief": "",
         "degree": "2",
@@ -28963,7 +28917,7 @@
         "授課語言代碼": "en-us"
       },
       "1082_5083": {
-        "授課語言代碼": "en-us"
+        "授課語言代碼": "zh-tw"
       },
       "1082_5139": {
         "授課語言代碼": "en-us"
@@ -74648,7 +74602,7 @@
         "dep_ename": "Department of Mechanical Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "46",
         "depType": "U"
       },

@@ -8409,6 +8409,34 @@
         "reg_num": "15",
         "depType": "O"
       },
+      "1082_7532": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "7532",
+        "cos_code": "DFR4104",
+        "num_limit": "50",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "法文(一)",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "張玉蕙",
+        "cos_time": "5AB-A501",
+        "memo": "",
+        "cos_ename": "French(I)",
+        "brief": "其它",
+        "degree": "0",
+        "dep_id": "U6",
+        "dep_primary": "1",
+        "dep_cname": "語言教學與研究中心",
+        "dep_ename": "Language Teaching and Research Center",
+        "cos_type": "外語",
+        "cos_type_e": "Foreign Languages Course",
+        "crsoutline_type": "data",
+        "reg_num": "7",
+        "depType": "O"
+      },
       "1082_7538": {
         "acy": "108",
         "sem": "2",
@@ -9367,6 +9395,15 @@
           "GECIEngName": ""
         }
       },
+      "1082_7532": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1082_7538": {
         "": {
           "course_category_cname": "",
@@ -9987,6 +10024,12 @@
           "brief": "其它(87)"
         }
       },
+      "1082_7532": {
+        "B075": {
+          "brief_code": "B075",
+          "brief": "其它(87)"
+        }
+      },
       "1082_7538": {
         "B075": {
           "brief_code": "B075",
@@ -10299,6 +10342,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_7531": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1082_7532": {
         "授課語言代碼": "zh-tw"
       },
       "1082_7538": {
@@ -25361,7 +25407,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "9",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5018": {
         "acy": "108",
@@ -31900,7 +31946,7 @@
         "dep_ename": "Institute of Materials Science and Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "34",
         "depType": "G"
       },
@@ -33419,7 +33465,7 @@
         "dep_ename": "Institute of Applied Mathematics",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "22",
         "depType": "G"
       },
@@ -34056,7 +34102,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "9",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5084": {
         "acy": "108",
@@ -39650,7 +39696,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "14",
-        "depType": "D"
+        "depType": "G"
       }
     },
     "costype": {
@@ -42543,12 +42589,12 @@
         "dep_id": "33",
         "dep_primary": "1",
         "dep_cname": "工業工程與管理學系",
-        "dep_ename": "Institute of Industrial Engineering and Management",
+        "dep_ename": "Department of Industrial Engineering and Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "19",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5523": {
         "acy": "108",
@@ -43668,7 +43714,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "23",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5544": {
         "acy": "108",
@@ -45893,7 +45939,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "34",
+        "reg_num": "33",
         "depType": "G"
       },
       "1082_5180": {
@@ -45949,7 +45995,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "20",
+        "reg_num": "19",
         "depType": "G"
       },
       "1082_5182": {
@@ -52520,7 +52566,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "5",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5868": {
         "acy": "108",
@@ -55175,7 +55221,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "40",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5242": {
         "acy": "108",
@@ -60535,7 +60581,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "34",
+        "reg_num": "33",
         "depType": "J"
       },
       "1082_5192": {
@@ -60591,7 +60637,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "12",
+        "reg_num": "11",
         "depType": "J"
       },
       "1082_5194": {
@@ -60619,7 +60665,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "38",
+        "reg_num": "37",
         "depType": "J"
       },
       "1082_5195": {
@@ -60647,7 +60693,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "19",
+        "reg_num": "18",
         "depType": "J"
       },
       "1082_5196": {
@@ -60731,7 +60777,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "10",
+        "reg_num": "9",
         "depType": "J"
       },
       "1082_5199": {
@@ -60843,7 +60889,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "22",
+        "reg_num": "21",
         "depType": "J"
       },
       "1082_5203": {
@@ -60927,7 +60973,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "47",
+        "reg_num": "46",
         "depType": "J"
       },
       "1082_5206": {
@@ -61123,7 +61169,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "7",
+        "reg_num": "6",
         "depType": "J"
       },
       "1082_5214": {
@@ -61235,7 +61281,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "11",
+        "reg_num": "10",
         "depType": "J"
       }
     },
@@ -74938,7 +74984,7 @@
         "dep_ename": "Department of Mechanical Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "22",
         "depType": "U"
       },
@@ -89857,7 +89903,7 @@
         "dep_ename": "",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "37",
         "depType": "C"
       },
@@ -90053,7 +90099,7 @@
         "dep_ename": "",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "14",
         "depType": "C"
       },

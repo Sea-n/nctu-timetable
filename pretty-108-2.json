@@ -14048,7 +14048,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "28",
+        "reg_num": "27",
         "depType": "O"
       },
       "1082_8606": {
@@ -14132,7 +14132,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "25",
+        "reg_num": "24",
         "depType": "O"
       },
       "1082_8609": {
@@ -14356,7 +14356,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "40",
+        "reg_num": "39",
         "depType": "O"
       },
       "1082_8703": {
@@ -30263,7 +30263,7 @@
         "dep_ename": "Institute of Civil Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "9",
         "depType": "G"
       },
@@ -30319,7 +30319,7 @@
         "dep_ename": "Institute of Civil Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "29",
         "depType": "G"
       },
@@ -30487,7 +30487,7 @@
         "dep_ename": "Institute of Civil Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "31",
         "depType": "G"
       },
@@ -30571,7 +30571,7 @@
         "dep_ename": "Institute of Civil Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "5",
         "depType": "G"
       },
@@ -30683,7 +30683,7 @@
         "dep_ename": "Institute of Civil Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "22",
         "depType": "G"
       },
@@ -30879,7 +30879,7 @@
         "dep_ename": "Institute of Civil Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "22",
         "depType": "G"
       },
@@ -30944,7 +30944,7 @@
         "sem": "2",
         "cos_id": "5338",
         "cos_code": "ICV7592",
-        "num_limit": "53",
+        "num_limit": "52",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "人工智慧在土木工程之應用",
@@ -30991,7 +30991,7 @@
         "dep_ename": "Institute of Civil Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "3",
         "depType": "G"
       },
@@ -31663,12 +31663,12 @@
         "dep_id": "18",
         "dep_primary": "1",
         "dep_cname": "材料科學與工程學系",
-        "dep_ename": "Institute of Materials Science & Engineering",
+        "dep_ename": "Institute of Materials Science and Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "13",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5344": {
         "acy": "108",
@@ -32958,22 +32958,22 @@
         "reg_num": "64",
         "depType": "G"
       },
-      "1082_5394": {
+      "1082_5922": {
         "acy": "108",
         "sem": "2",
-        "cos_id": "5394",
-        "cos_code": "IEP5644",
+        "cos_id": "5922",
+        "cos_code": "IEP5650",
         "num_limit": "9999",
-        "dep_limit": "N",
+        "dep_limit": "*",
         "URL": null,
-        "cos_cname": "生醫物理導論及實作",
+        "cos_cname": "心電圖訊號分類與機器學習",
         "cos_credit": "3.00",
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "徐琅",
-        "cos_time": "3EFG-SC110",
+        "cos_time": "5EFG-SC160",
         "memo": "",
-        "cos_ename": "Introduction to Biomedical Physics and Implementation",
+        "cos_ename": "Electrocardiogram Signal Classification and Machine Learning",
         "brief": "",
         "degree": "2",
         "dep_id": "21",
@@ -32983,7 +32983,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
-        "reg_num": "10",
+        "reg_num": "0",
         "depType": "G"
       },
       "1082_5386": {
@@ -33079,7 +33079,7 @@
           "GECIEngName": ""
         }
       },
-      "1082_5394": {
+      "1082_5922": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -33141,7 +33141,7 @@
           "brief": ""
         }
       },
-      "1082_5394": {
+      "1082_5922": {
         "": {
           "brief_code": "",
           "brief": ""
@@ -33176,7 +33176,7 @@
       "1082_5393": {
         "授課語言代碼": "zh-tw"
       },
-      "1082_5394": {
+      "1082_5922": {
         "授課語言代碼": "zh-tw"
       },
       "1082_5386": {
@@ -36968,9 +36968,9 @@
         "dep_ename": "Institute of Physics",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "37",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5444": {
         "acy": "108",
@@ -37024,7 +37024,7 @@
         "dep_ename": "Institute of Physics",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "7",
         "depType": "G"
       },
@@ -37136,7 +37136,7 @@
         "dep_ename": "Institute of Physics",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "8",
         "depType": "G"
       },
@@ -39530,34 +39530,6 @@
         "reg_num": "15",
         "depType": "G"
       },
-      "1082_5714": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "5714",
-        "cos_code": "IBE5073",
-        "num_limit": "9999",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "高等分子腫瘤學",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "",
-        "teacher": "趙啟宏",
-        "cos_time": "5BCD-BI327",
-        "memo": "",
-        "cos_ename": "Advanced Molecular Oncology",
-        "brief": "",
-        "degree": "2",
-        "dep_id": "29",
-        "dep_primary": "1",
-        "dep_cname": "分子醫學與生物工程研究所",
-        "dep_ename": "Institute of Molecular and Bioengineering",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "2",
-        "depType": "G"
-      },
       "1082_5715": {
         "acy": "108",
         "sem": "2",
@@ -39772,15 +39744,6 @@
           "GECIEngName": ""
         }
       },
-      "1082_5714": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1082_5715": {
         "": {
           "course_category_cname": "",
@@ -39876,12 +39839,6 @@
           "brief": ""
         }
       },
-      "1082_5714": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1082_5715": {
         "": {
           "brief_code": "",
@@ -39936,9 +39893,6 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_5713": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1082_5714": {
         "授課語言代碼": "zh-tw"
       },
       "1082_5715": {
@@ -44592,13 +44546,13 @@
         "degree": "2",
         "dep_id": "36",
         "dep_primary": "1",
-        "dep_cname": "運輸與物流管理學系物流管理博士班",
+        "dep_cname": "運輸與物流管理學系物流管理碩博士班",
         "dep_ename": "Institute of Logistics Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "23",
-        "depType": "D"
+        "depType": "G"
       }
     },
     "costype": {
@@ -52566,7 +52520,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "5",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5868": {
         "acy": "108",
@@ -59401,7 +59355,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "林亭汝",
-        "cos_time": "4IJK-A701",
+        "cos_time": "4IJK-AB103",
         "memo": "專班主開；專碩合開",
         "cos_ename": "Business Management",
         "brief": "",
@@ -67899,6 +67853,13 @@
         }
       },
       "1082_1425": {
+        "通識校基本素養_通識校基本": {
+          "course_category_cname": "通識校基本素養_通識校基本",
+          "course_category_ename": "General Education Course: Literacy_GECL",
+          "course_category_type": "15",
+          "GECIName": "",
+          "GECIEngName": ""
+        },
         "通識核心課程_通識核心": {
           "course_category_cname": "通識核心課程_通識核心",
           "course_category_ename": "General Education Course_GEC",
@@ -67946,9 +67907,9 @@
         }
       },
       "1082_1425": {
-        "A503": {
-          "brief_code": "A503",
-          "brief": "核心-自然(106)"
+        "A205,A503,A505": {
+          "brief_code": "A205,A503,A505",
+          "brief": "自然/進階(96),核心-自然(106),校基本素養(106)"
         }
       }
     },
@@ -72814,7 +72775,7 @@
         "cos_hours": "3.00",
         "TURL": "http://www.alab.ee.nctu.edu.tw/wpjtwu/",
         "teacher": "吳介琮",
-        "cos_time": "1GH4C-ED201",
+        "cos_time": "1G4CD-ED201",
         "memo": "電資學士班預設英文授課，若退出所設可改選中文授課 [English Medium Course]",
         "cos_ename": "Electronics (II)",
         "brief": "",
@@ -76167,7 +76128,7 @@
         "dep_ename": "Department of Civil Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "45",
         "depType": "U"
       },
@@ -76195,7 +76156,7 @@
         "dep_ename": "Department of Civil Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "41",
         "depType": "U"
       },
@@ -76419,7 +76380,7 @@
         "dep_ename": "Department of Civil Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "60",
         "depType": "U"
       },
@@ -76587,7 +76548,7 @@
         "dep_ename": "Department of Civil Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "25",
         "depType": "U"
       },
@@ -76755,7 +76716,7 @@
         "dep_ename": "Department of Civil Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "39",
         "depType": "U"
       },
@@ -76839,7 +76800,7 @@
         "dep_ename": "Department of Civil Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "25",
         "depType": "U"
       },
@@ -77975,7 +77936,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "91",
+        "reg_num": "90",
         "depType": "U"
       },
       "1082_1267": {
@@ -82060,8 +82021,8 @@
         "cos_hours": "3.00",
         "TURL": "http://adar.ee.nctu.edu.tw",
         "teacher": "黃俊達",
-        "cos_time": "1B3CD-ED116",
-        "memo": "",
+        "cos_time": "1B3CD-",
+        "memo": "上課地點:工四館合勤講堂",
         "cos_ename": "Discrete Mathematics   ",
         "brief": "",
         "degree": "3",
@@ -94157,10 +94118,10 @@
         }
       },
       "1082_1768": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
+        "通識校基本素養_通識校基本": {
+          "course_category_cname": "通識校基本素養_通識校基本",
+          "course_category_ename": "General Education Course: Literacy_GECL",
+          "course_category_type": "15",
           "GECIName": "",
           "GECIEngName": ""
         }
@@ -94306,9 +94267,9 @@
         }
       },
       "1082_1768": {
-        "": {
-          "brief_code": "",
-          "brief": ""
+        "A505": {
+          "brief_code": "A505",
+          "brief": "校基本素養(106)"
         }
       }
     },

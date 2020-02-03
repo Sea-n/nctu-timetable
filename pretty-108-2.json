@@ -29656,6 +29656,34 @@
         "reg_num": "16",
         "depType": "G"
       },
+      "1082_5326": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "5326",
+        "cos_code": "IME5321",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "智慧型材料與奈微米元件",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "鍾添淦",
+        "cos_time": "2H4CD-EE210",
+        "memo": "[English Medium Course]",
+        "cos_ename": "Smart Materials and Intelligent Nano/Micro Devices",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "14",
+        "dep_primary": "1",
+        "dep_cname": "機械工程學系",
+        "dep_ename": "Institute of Mechanical Engineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "G"
+      },
       "1082_5385": {
         "acy": "108",
         "sem": "2",
@@ -29958,6 +29986,15 @@
           "GECIEngName": ""
         }
       },
+      "1082_5326": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1082_5385": {
         "": {
           "course_category_cname": "",
@@ -30131,6 +30168,12 @@
           "brief": ""
         }
       },
+      "1082_5326": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1082_5385": {
         "": {
           "brief_code": "",
@@ -30222,6 +30265,9 @@
       },
       "1082_5310": {
         "授課語言代碼": "zh-tw"
+      },
+      "1082_5326": {
+        "授課語言代碼": "en-us"
       },
       "1082_5385": {
         "授課語言代碼": "zh-tw"

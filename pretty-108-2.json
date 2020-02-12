@@ -20483,7 +20483,7 @@
         "num_limit": "0",
         "dep_limit": "*",
         "URL": null,
-        "cos_cname": "創意與披判思考的應用",
+        "cos_cname": "創意與批判思考的應用",
         "cos_credit": "3.00",
         "cos_hours": "3.00",
         "TURL": "",
@@ -20499,7 +20499,7 @@
         "dep_ename": "Office of Academic Affairs",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -20527,7 +20527,7 @@
         "dep_ename": "Office of Academic Affairs",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -25219,7 +25219,7 @@
         "cos_type_e": "Required",
         "crsoutline_type": null,
         "reg_num": "24",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5008": {
         "acy": "108",
@@ -25471,7 +25471,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "51",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5017": {
         "acy": "108",
@@ -29324,7 +29324,7 @@
         "dep_ename": "Institute of Mechanical Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "19",
         "depType": "G"
       },
@@ -34194,7 +34194,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "9",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5084": {
         "acy": "108",
@@ -39760,7 +39760,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "14",
-        "depType": "G"
+        "depType": "D"
       }
     },
     "costype": {
@@ -40874,7 +40874,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "29",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5487": {
         "acy": "108",
@@ -43806,7 +43806,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "23",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5544": {
         "acy": "108",
@@ -52750,7 +52750,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "5",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5868": {
         "acy": "108",
@@ -66107,34 +66107,6 @@
         "reg_num": "4",
         "depType": "H"
       },
-      "1082_5661": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "5661",
-        "cos_code": "MBA5243",
-        "num_limit": "9999",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "全球化專題",
-        "cos_credit": "1.00",
-        "cos_hours": "1.00",
-        "TURL": "",
-        "teacher": "黃仕斌",
-        "cos_time": "4F-A703",
-        "memo": "英文授課、非IMBA課程；限GMBA學生[English Medium Course]",
-        "cos_ename": "Globalization Seminar ",
-        "brief": "",
-        "degree": "2",
-        "dep_id": "88",
-        "dep_primary": "1",
-        "dep_cname": "企業管理碩士學位學程",
-        "dep_ename": "Degree Program of Global Business Administration",
-        "cos_type": "必修",
-        "cos_type_e": "Required",
-        "crsoutline_type": "data",
-        "reg_num": "0",
-        "depType": "H"
-      },
       "1082_5914": {
         "acy": "108",
         "sem": "2",
@@ -66228,15 +66200,6 @@
           "GECIEngName": ""
         }
       },
-      "1082_5661": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1082_5914": {
         "": {
           "course_category_cname": "",
@@ -66290,12 +66253,6 @@
           "brief": ""
         }
       },
-      "1082_5661": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1082_5914": {
         "": {
           "brief_code": "",
@@ -66323,9 +66280,6 @@
         "授課語言代碼": "en-us"
       },
       "1082_5660": {
-        "授課語言代碼": "en-us"
-      },
-      "1082_5661": {
         "授課語言代碼": "en-us"
       },
       "1082_5914": {
@@ -67025,7 +66979,7 @@
         "cos_credit": ".00",
         "cos_hours": "2.00",
         "TURL": "",
-        "teacher": "藍宇彬",
+        "teacher": "藍宇彬、尤信介",
         "cos_time": "5EF-研華廳",
         "memo": "為光電系統研究所、照明與能源光電研究所、影像與生醫光電研究所碩一、博一必修課程，上課地點：台南校區",
         "cos_ename": "Colloquium",
@@ -75280,7 +75234,7 @@
         "dep_ename": "Department of Mechanical Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "13",
         "depType": "U"
       },

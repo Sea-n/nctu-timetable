@@ -25219,7 +25219,7 @@
         "cos_type_e": "Required",
         "crsoutline_type": null,
         "reg_num": "24",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5008": {
         "acy": "108",
@@ -35646,7 +35646,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "12",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5410": {
         "acy": "108",
@@ -44684,13 +44684,13 @@
         "degree": "2",
         "dep_id": "36",
         "dep_primary": "1",
-        "dep_cname": "運輸與物流管理學系物流管理博士班",
+        "dep_cname": "運輸與物流管理學系物流管理碩博士班",
         "dep_ename": "Institute of Logistics Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "23",
-        "depType": "D"
+        "depType": "G"
       }
     },
     "costype": {
@@ -46735,34 +46735,6 @@
         "reg_num": "2",
         "depType": "G"
       },
-      "1082_4025": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "4025",
-        "cos_code": "IOF5120",
-        "num_limit": "9999",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "個別研究",
-        "cos_credit": "1.00",
-        "cos_hours": "1.00",
-        "TURL": "",
-        "teacher": "財務金融碩博士班教授",
-        "cos_time": "5BCD-M101",
-        "memo": "博士班專業課程；通過資格考且已擇定指導教授者方可選修；上課時間地點或依指導教授而有所不同；若修課人數不足5人則停開。",
-        "cos_ename": "Independent study",
-        "brief": "",
-        "degree": "2",
-        "dep_id": "39",
-        "dep_primary": "1",
-        "dep_cname": "資訊管理與財務金融系財務金融碩博士班",
-        "dep_ename": "Graduate institute of finance",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "1",
-        "depType": "G"
-      },
       "1082_5580": {
         "acy": "108",
         "sem": "2",
@@ -47119,15 +47091,6 @@
           "GECIEngName": ""
         }
       },
-      "1082_4025": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1082_5580": {
         "": {
           "course_category_cname": "",
@@ -47250,12 +47213,6 @@
           "brief": ""
         }
       },
-      "1082_4025": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1082_5580": {
         "": {
           "brief_code": "",
@@ -47334,9 +47291,6 @@
         "授課語言代碼": "en-us"
       },
       "1082_4024": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1082_4025": {
         "授課語言代碼": "zh-tw"
       },
       "1082_5580": {
@@ -52750,7 +52704,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "5",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5868": {
         "acy": "108",
@@ -56023,6 +55977,34 @@
         "reg_num": "34",
         "depType": "G"
       },
+      "1082_5928": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "5928",
+        "cos_code": "IOC5211",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "人工智慧醫學影像應用專題研究",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "http://www.cs.nctu.edu.tw/~yschen",
+        "teacher": "陳永昇",
+        "cos_time": "5XEF-EC122",
+        "memo": "",
+        "cos_ename": "Research Project in Application of Artificial Intelligence on Medical Imaging",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "55",
+        "dep_primary": "1",
+        "dep_cname": "資訊科學與工程研究所",
+        "dep_ename": "Institute of Computer Science and Engineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "G"
+      },
       "1082_5256": {
         "acy": "108",
         "sem": "2",
@@ -56296,6 +56278,15 @@
           "GECIEngName": ""
         }
       },
+      "1082_5928": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1082_5256": {
         "": {
           "course_category_cname": "",
@@ -56469,6 +56460,12 @@
           "brief": ""
         }
       },
+      "1082_5928": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1082_5256": {
         "": {
           "brief_code": "",
@@ -56556,6 +56553,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_5903": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1082_5928": {
         "授課語言代碼": "zh-tw"
       },
       "1082_5256": {
@@ -80268,7 +80268,7 @@
         "dep_ename": "Department of Electro-Physics",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "18",
         "depType": "U"
       },

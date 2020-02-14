@@ -103921,7 +103921,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
-        "reg_num": "1",
+        "reg_num": "2",
         "depType": "Z"
       },
       "1081_3206": {
@@ -103977,7 +103977,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
-        "reg_num": "1",
+        "reg_num": "2",
         "depType": "Z"
       },
       "1081_3208": {
@@ -107087,6 +107087,90 @@
         "crsoutline_type": null,
         "reg_num": "1",
         "depType": "Z"
+      },
+      "1081_3321": {
+        "acy": "108",
+        "sem": "1",
+        "cos_id": "3321",
+        "cos_code": "CHU6285",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "機器人概論",
+        "cos_credit": "3.60",
+        "cos_hours": "3.60",
+        "TURL": "",
+        "teacher": null,
+        "cos_time": "",
+        "memo": "",
+        "cos_ename": "Introduction to Robotics",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "ZZ",
+        "dep_primary": "1",
+        "dep_cname": "外國學校",
+        "dep_ename": "Foreign school",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "1",
+        "depType": "Z"
+      },
+      "1081_3322": {
+        "acy": "108",
+        "sem": "1",
+        "cos_id": "3322",
+        "cos_code": "CHU4389",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "溜冰",
+        "cos_credit": ".90",
+        "cos_hours": ".90",
+        "TURL": "",
+        "teacher": null,
+        "cos_time": "",
+        "memo": "",
+        "cos_ename": "Ice Skating",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "ZZ",
+        "dep_primary": "1",
+        "dep_cname": "外國學校",
+        "dep_ename": "Foreign school",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "1",
+        "depType": "Z"
+      },
+      "1081_3323": {
+        "acy": "108",
+        "sem": "1",
+        "cos_id": "3323",
+        "cos_code": "CHU4388",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題",
+        "cos_credit": "1.80",
+        "cos_hours": "1.80",
+        "TURL": "",
+        "teacher": null,
+        "cos_time": "",
+        "memo": "",
+        "cos_ename": "Individual Study in ECE",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "ZZ",
+        "dep_primary": "1",
+        "dep_cname": "外國學校",
+        "dep_ename": "Foreign school",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "1",
+        "depType": "Z"
       }
     },
     "costype": {
@@ -109024,6 +109108,33 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1081_3321": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1081_3322": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1081_3323": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -110316,6 +110427,24 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1081_3321": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1081_3322": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1081_3323": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -110962,6 +111091,15 @@
         "授課語言代碼": "zh-tw"
       },
       "1081_3320": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1081_3321": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1081_3322": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1081_3323": {
         "授課語言代碼": "zh-tw"
       }
     }

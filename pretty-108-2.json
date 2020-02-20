@@ -18131,7 +18131,7 @@
         "dep_ename": "Physical section",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "3",
         "depType": "O"
       },
@@ -18301,6 +18301,34 @@
         "cos_type_e": "Required",
         "crsoutline_type": "data",
         "reg_num": "74",
+        "depType": "O"
+      },
+      "1082_0521": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "0521",
+        "cos_code": "DEP1114",
+        "num_limit": "65",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "物理(二)榮譽班",
+        "cos_credit": "4.00",
+        "cos_hours": "4.00",
+        "TURL": "",
+        "teacher": "陳衛國",
+        "cos_time": "2GH5CD-SA321",
+        "memo": "",
+        "cos_ename": "Physics(II)",
+        "brief": "",
+        "degree": "0",
+        "dep_id": "UD",
+        "dep_primary": "1",
+        "dep_cname": "物理教學小組",
+        "dep_ename": "Physical section",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "56",
         "depType": "O"
       },
       "1082_0522": {
@@ -18529,6 +18557,15 @@
           "GECIEngName": "CHK"
         }
       },
+      "1082_0521": {
+        "通識跨院基本素養_通識跨院": {
+          "course_category_cname": "通識跨院基本素養_通識跨院",
+          "course_category_ename": "General Education Course: Intercollegiate_GECI",
+          "course_category_type": "16",
+          "GECIName": "客",
+          "GECIEngName": "CHK"
+        }
+      },
       "1082_0522": {
         "通識跨院基本素養_通識跨院": {
           "course_category_cname": "通識跨院基本素養_通識跨院",
@@ -18666,6 +18703,12 @@
           "brief": "自然/基礎(96),跨院基本素養(106)"
         }
       },
+      "1082_0521": {
+        "A105,A504": {
+          "brief_code": "A105,A504",
+          "brief": "自然/基礎(96),跨院基本素養(106)"
+        }
+      },
       "1082_0522": {
         "A105,A504": {
           "brief_code": "A105,A504",
@@ -18735,6 +18778,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_0511": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1082_0521": {
         "授課語言代碼": "zh-tw"
       },
       "1082_0522": {
@@ -24851,7 +24897,7 @@
         "cos_type_e": "Required",
         "crsoutline_type": null,
         "reg_num": "24",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5008": {
         "acy": "108",
@@ -52244,7 +52290,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "5",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5868": {
         "acy": "108",

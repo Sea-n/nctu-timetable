@@ -169,7 +169,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "76",
+        "reg_num": "75",
         "depType": "O"
       },
       "1082_6707": {
@@ -5998,7 +5998,7 @@
         "cos_type": "外語",
         "cos_type_e": "Foreign Languages Course",
         "crsoutline_type": "data",
-        "reg_num": "36",
+        "reg_num": "35",
         "depType": "O"
       },
       "1082_7115": {
@@ -11724,7 +11724,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "37",
+        "reg_num": "36",
         "depType": "O"
       },
       "1082_8116": {
@@ -17824,7 +17824,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": null,
-        "reg_num": "65",
+        "reg_num": "64",
         "depType": "O"
       },
       "1082_0517": {
@@ -20451,7 +20451,7 @@
         "TURL": "",
         "teacher": "李律鋒",
         "cos_time": "6CD-",
-        "memo": "本課程採取周末密集性工作坊式課程形式，將每周2小時的授課集中到一次上課6小時。第一次上課為2月22日，其餘上課週次由修課學生共同決議",
+        "memo": "本課程採取周末密集性工作坊式課程形式，將每周2小時的授課集中到一次上課6小時。第一次上課為3月7日，其餘上課週次由修課學生共同決議",
         "cos_ename": "Storytelling of Movies",
         "brief": "",
         "degree": "0",
@@ -25764,7 +25764,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "100",
+        "reg_num": "99",
         "depType": "G"
       },
       "1082_5039": {
@@ -35546,7 +35546,7 @@
         "dep_ename": "Institute of Applied Chemistry",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "22",
         "depType": "G"
       },
@@ -35718,6 +35718,34 @@
         "reg_num": "11",
         "depType": "G"
       },
+      "1082_5415": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "5415",
+        "cos_code": "IAC5416",
+        "num_limit": "20",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "書報討論－高分子組",
+        "cos_credit": "1.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "鄭彥如",
+        "cos_time": "1BC-EO701",
+        "memo": "[English Medium Course]",
+        "cos_ename": "Seminar",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "25",
+        "dep_primary": "1",
+        "dep_cname": "應用化學系",
+        "dep_ename": "Institute of Applied Chemistry",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "20",
+        "depType": "G"
+      },
       "1082_5417": {
         "acy": "108",
         "sem": "2",
@@ -35883,6 +35911,15 @@
           "GECIEngName": ""
         }
       },
+      "1082_5415": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1082_5417": {
         "": {
           "course_category_cname": "",
@@ -35984,6 +36021,12 @@
           "brief": ""
         }
       },
+      "1082_5415": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1082_5417": {
         "": {
           "brief_code": "",
@@ -36035,6 +36078,9 @@
         "授課語言代碼": "en-us"
       },
       "1082_5414": {
+        "授課語言代碼": "en-us"
+      },
+      "1082_5415": {
         "授課語言代碼": "en-us"
       },
       "1082_5417": {
@@ -75556,7 +75602,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "39",
+        "reg_num": "38",
         "depType": "U"
       },
       "1082_1354": {
@@ -75584,7 +75630,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "50",
+        "reg_num": "49",
         "depType": "U"
       },
       "1082_1355": {
@@ -75612,7 +75658,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "75",
+        "reg_num": "74",
         "depType": "U"
       },
       "1082_1356": {
@@ -75640,7 +75686,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "29",
+        "reg_num": "28",
         "depType": "U"
       },
       "1082_1357": {
@@ -75668,7 +75714,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "49",
+        "reg_num": "48",
         "depType": "U"
       },
       "1082_1358": {
@@ -75696,7 +75742,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "49",
+        "reg_num": "48",
         "depType": "U"
       },
       "1082_1359": {
@@ -75724,7 +75770,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "44",
+        "reg_num": "43",
         "depType": "U"
       },
       "1082_1360": {
@@ -75752,7 +75798,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "50",
+        "reg_num": "49",
         "depType": "U"
       },
       "1082_1361": {
@@ -75780,7 +75826,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "75",
+        "reg_num": "74",
         "depType": "U"
       },
       "1082_1362": {

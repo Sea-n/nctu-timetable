@@ -24895,7 +24895,7 @@
         "dep_ename": "Institute of Electronics",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "24",
         "depType": "G"
       },
@@ -25315,7 +25315,7 @@
         "dep_ename": "Institute of Electronics",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "19",
         "depType": "G"
       },
@@ -30118,7 +30118,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "15",
+        "reg_num": "16",
         "depType": "G"
       },
       "1082_5315": {
@@ -30426,7 +30426,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "13",
+        "reg_num": "14",
         "depType": "G"
       },
       "1082_5327": {
@@ -47998,6 +47998,34 @@
         "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
+      },
+      "1082_5931": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "5931",
+        "cos_code": "IAA5726",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "榫卯木工傳習課程",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "洪瑞鴻",
+        "cos_time": "5BCD-EA106",
+        "memo": "",
+        "cos_ename": "Training Course on Woodworking Joints",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "42",
+        "dep_primary": "1",
+        "dep_cname": "應用藝術研究所",
+        "dep_ename": "Institute of Applied Arts",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "G"
       }
     },
     "costype": {
@@ -48135,6 +48163,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1082_5931": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -48227,6 +48264,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1082_5931": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -48273,6 +48316,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_5930": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1082_5931": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -60892,7 +60938,7 @@
         "cos_hours": "2.00",
         "TURL": "",
         "teacher": "陳鋕雄、蔡志宏、施明遠",
-        "cos_time": "6CD-MB1069",
+        "cos_time": "5IJ-ES806",
         "memo": "開放大三以上同學選修",
         "cos_ename": "Digital Justice",
         "brief": "",
@@ -61017,34 +61063,6 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "12",
-        "depType": "J"
-      },
-      "1082_5217": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "5217",
-        "cos_code": "ITL5640",
-        "num_limit": "9999",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "日本法專題(英文授課)",
-        "cos_credit": "1.00",
-        "cos_hours": "1.00",
-        "TURL": "",
-        "teacher": "陳鋕雄",
-        "cos_time": "7BC-圖書室",
-        "memo": "網路授課；實際上課時間、日期另行通知；開放台聯大大三以上同學選修；上課地點:(新竹)管理二館圖書室、(台北)台北校區第六教室；英文授課[English Medium Course]",
-        "cos_ename": "Special Topics on Japanese Law",
-        "brief": "",
-        "degree": "2",
-        "dep_id": "68",
-        "dep_primary": "1",
-        "dep_cname": "科技法律研究所碩士在職專班",
-        "dep_ename": "Degree Program of Technology Law",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "10",
         "depType": "J"
       }
     },
@@ -61301,15 +61319,6 @@
           "GECIName": "",
           "GECIEngName": ""
         }
-      },
-      "1082_5217": {
-        "網路課程_網路": {
-          "course_category_cname": "網路課程_網路",
-          "course_category_ename": "Network Courses_NET",
-          "course_category_type": "5",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
       }
     },
     "brief": {
@@ -61462,12 +61471,6 @@
           "brief_code": "",
           "brief": ""
         }
-      },
-      "1082_5217": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
       }
     },
     "language": {
@@ -61545,9 +61548,6 @@
       },
       "1082_5216": {
         "授課語言代碼": "zh-tw"
-      },
-      "1082_5217": {
-        "授課語言代碼": "en-us"
       }
     }
   },
@@ -75666,7 +75666,7 @@
         "sem": "2",
         "cos_id": "1356",
         "cos_code": "DCV1508",
-        "num_limit": "60",
+        "num_limit": "40",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "化學( 二 )",
@@ -77884,7 +77884,7 @@
         "dep_ename": "Department of Computer Science",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "96",
         "depType": "U"
       },
@@ -93546,7 +93546,7 @@
         "sem": "2",
         "cos_id": "1768",
         "cos_code": "DHS3164",
-        "num_limit": "40",
+        "num_limit": "50",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "海外客家研究",
@@ -94470,14 +94470,14 @@
         "num_limit": "9999",
         "dep_limit": "N",
         "URL": null,
-        "cos_cname": "媒體全球化專題",
+        "cos_cname": "全球流行文化",
         "cos_credit": "3.00",
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "黃淑鈴",
         "cos_time": "1EFG-A204",
         "memo": "原「媒體全球化」課程",
-        "cos_ename": "Special Topics in Media Globalization",
+        "cos_ename": "Global Popular Culture",
         "brief": "",
         "degree": "3",
         "dep_id": "54",
@@ -95675,7 +95675,7 @@
         "sem": "2",
         "cos_id": "1738",
         "cos_code": "DOH3010",
-        "num_limit": "36",
+        "num_limit": "25",
         "dep_limit": "*",
         "URL": "https://www.facebook.com/mitchlinmusic/",
         "cos_cname": "音樂科技導論",
@@ -95685,7 +95685,7 @@
         "teacher": "林明學",
         "cos_time": "2CD-HC104",
         "memo": "",
-        "cos_ename": "Introduction to Music and Technology",
+        "cos_ename": "Introduction to Music Technology",
         "brief": "",
         "degree": "3",
         "dep_id": "A1",
@@ -95731,7 +95731,7 @@
         "sem": "2",
         "cos_id": "1740",
         "cos_code": "DOH3012",
-        "num_limit": "36",
+        "num_limit": "25",
         "dep_limit": "*",
         "URL": "https://www.facebook.com/mitchlinmusic/",
         "cos_cname": "電影配樂賞析",
@@ -96582,7 +96582,7 @@
         "dep_ename": "College of Computer Science",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "76",
         "depType": "U"
       },
@@ -96919,7 +96919,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "91",
+        "reg_num": "93",
         "depType": "U"
       },
       "1082_1290": {

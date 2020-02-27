@@ -58069,7 +58069,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "陳姵樺",
-        "cos_time": "3IJK-M105",
+        "cos_time": "4IJK-M105",
         "memo": "限專班選修",
         "cos_ename": "Business Negotiation",
         "brief": "",
@@ -64060,34 +64060,6 @@
         "reg_num": "5",
         "depType": "G"
       },
-      "1082_5221": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "5221",
-        "cos_code": "CST5018",
-        "num_limit": "9999",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "通訊系統數位信號處理",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "http://sipcas.blog.nctu.edu.tw/",
-        "teacher": "管延城",
-        "cos_time": "3BCD-EE116",
-        "memo": "英語授課[English Medium Course]",
-        "cos_ename": "Digital Signal Processing for Communication Systems",
-        "brief": "",
-        "degree": "2",
-        "dep_id": "81",
-        "dep_primary": "1",
-        "dep_cname": "國際半導體產業學院碩士班",
-        "dep_ename": "International College of Semiconductor Technology",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "8",
-        "depType": "G"
-      },
       "1082_5222": {
         "acy": "108",
         "sem": "2",
@@ -64396,6 +64368,34 @@
         "reg_num": "0",
         "depType": "G"
       },
+      "1082_5932": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "5932",
+        "cos_code": "CST5050",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "數位系統設計",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "http://sipcas.blog.nctu.edu.tw/",
+        "teacher": "管延城",
+        "cos_time": "3BCD-EE116",
+        "memo": "英語授課[English Medium Course]",
+        "cos_ename": "Digital System Design",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "81",
+        "dep_primary": "1",
+        "dep_cname": "國際半導體產業學院碩士班",
+        "dep_ename": "International College of Semiconductor Technology",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "G"
+      },
       "1082_5220": {
         "acy": "108",
         "sem": "2",
@@ -64435,15 +64435,6 @@
           "GECIEngName": ""
         }
       },
-      "1082_5221": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1082_5222": {
         "": {
           "course_category_cname": "",
@@ -64535,6 +64526,15 @@
         }
       },
       "1082_5929": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1082_5932": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -64560,12 +64560,6 @@
           "brief": ""
         }
       },
-      "1082_5221": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1082_5222": {
         "": {
           "brief_code": "",
@@ -64627,6 +64621,12 @@
         }
       },
       "1082_5929": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1082_5932": {
         "": {
           "brief_code": "",
           "brief": ""
@@ -64643,9 +64643,6 @@
       "1082_5219": {
         "授課語言代碼": "en-us"
       },
-      "1082_5221": {
-        "授課語言代碼": "en-us"
-      },
       "1082_5222": {
         "授課語言代碼": "en-us"
       },
@@ -64677,6 +64674,9 @@
         "授課語言代碼": "en-us"
       },
       "1082_5929": {
+        "授課語言代碼": "en-us"
+      },
+      "1082_5932": {
         "授課語言代碼": "en-us"
       },
       "1082_5220": {
@@ -97905,7 +97905,7 @@
         "sem": "2",
         "cos_id": "1591",
         "cos_code": "DOM1002",
-        "num_limit": "88",
+        "num_limit": "93",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "經濟學(二)",

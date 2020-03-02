@@ -3055,7 +3055,7 @@
         "sem": "2",
         "cos_id": "6174",
         "cos_code": "GEC8813",
-        "num_limit": "50",
+        "num_limit": "35",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "天文學概論",
@@ -21101,7 +21101,7 @@
         "TURL": "http://hakka.nctu.edu.tw/Hakka-F-faculty/Faculty_15_MLPan.htm",
         "teacher": "潘美玲、侯君昊",
         "cos_time": "3YIJ-",
-        "memo": "課程時間：週三 YIJ\r\n地點：第一堂 資訊館 CS100(暫訂)。本課程為參與國際志工團所選修的培訓課程。第一階段錄取名單將優先預選，同時開放其他名額給全校同學。",
+        "memo": "課程時間：週三 YIJ\n地點：第一堂在工程一館共創空間。本課程為參與國際志工團所選修的培訓課程。第一階段錄取名單將優先預選，同時開放其他名額給全校同學。",
         "cos_ename": "Service Learning II",
         "brief": "",
         "degree": "0",
@@ -22614,6 +22614,34 @@
         "reg_num": "-999",
         "depType": "O"
       },
+      "1082_0911": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "0911",
+        "cos_code": "DAC2114",
+        "num_limit": "0",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "有機化學（二）",
+        "cos_credit": "4.00",
+        "cos_hours": "4.00",
+        "TURL": "",
+        "teacher": "蒙國光",
+        "cos_time": "",
+        "memo": "不開放選修，本課程修課期程:108學年度第1學期至108學年度第2學期，自主愛學習計畫，計畫詳情請至 http:sail.nctu.edu.tw",
+        "cos_ename": "Organic Chemistry (2)",
+        "brief": "",
+        "degree": "0",
+        "dep_id": "UZ",
+        "dep_primary": "1",
+        "dep_cname": "自主學習課程",
+        "dep_ename": "Self-Active I-Learning",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "-999",
+        "depType": "O"
+      },
       "1082_0912": {
         "acy": "108",
         "sem": "2",
@@ -23079,6 +23107,15 @@
           "GECIEngName": ""
         }
       },
+      "1082_0911": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1082_0912": {
         "": {
           "course_category_cname": "",
@@ -23303,6 +23340,12 @@
           "brief": ""
         }
       },
+      "1082_0911": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1082_0912": {
         "": {
           "brief_code": "",
@@ -23426,6 +23469,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_0908": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1082_0911": {
         "授課語言代碼": "zh-tw"
       },
       "1082_0912": {
@@ -44279,8 +44325,8 @@
         "cos_cname": "專題研討(甲組)二",
         "cos_credit": "1.00",
         "cos_hours": "2.00",
-        "TURL": "",
-        "teacher": "運管系",
+        "TURL": "http://www.tlm.nctu.edu.tw/zh/faculty/%E9%BB%83%E6%98%8E%E5%B1%85/",
+        "teacher": "黃明居",
         "cos_time": "3GH-A905",
         "memo": "新竹校區開課",
         "cos_ename": "Seminar II",
@@ -50090,7 +50136,7 @@
         "cos_credit": "6.00",
         "cos_hours": "6.00",
         "TURL": "",
-        "teacher": "建築所",
+        "teacher": "白千勺",
         "cos_time": "1FGH4FGH-HA104",
         "memo": "",
         "cos_ename": "Architectural Design",
@@ -51241,7 +51287,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "劉奕蘭",
-        "cos_time": "2BCD-HA217",
+        "cos_time": "2BCD-HA218",
         "memo": "",
         "cos_ename": "Research in Personality Psychology",
         "brief": "",
@@ -52156,7 +52202,7 @@
         "dep_ename": "Institute for Social Research and Cultural Studies",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -80755,7 +80801,7 @@
         "cos_hours": "2.00",
         "TURL": "",
         "teacher": "康明軒、吳昌鴻",
-        "cos_time": "1GH-SA223",
+        "cos_time": "1GH-SA311",
         "memo": "",
         "cos_ename": "Service Learning II",
         "brief": "",
@@ -93164,7 +93210,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "簡美玲",
-        "cos_time": "5BCD-HKB09",
+        "cos_time": "5BCD-A307",
         "memo": "",
         "cos_ename": "Anthropology of Emotion",
         "brief": "",
@@ -93416,7 +93462,7 @@
         "cos_hours": "3.00",
         "TURL": "http://hs.nctu.edu.tw/Faculty/WAChang",
         "teacher": "張維安",
-        "cos_time": "2EFG-HK105",
+        "cos_time": "2EFG-EF255",
         "memo": "",
         "cos_ename": "Overseas Hakka Studies",
         "brief": "",
@@ -95541,7 +95587,7 @@
         "sem": "2",
         "cos_id": "1736",
         "cos_code": "DOH3008",
-        "num_limit": "30",
+        "num_limit": "25",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "創作外的藝術這一行--藝術行政通論",
@@ -96625,7 +96671,7 @@
         "sem": "2",
         "cos_id": "1282",
         "cos_code": "DCP1244",
-        "num_limit": "82",
+        "num_limit": "77",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "離散數學(英文授課)",

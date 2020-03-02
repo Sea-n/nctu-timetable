@@ -25952,6 +25952,34 @@
         "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
+      },
+      "1082_5470": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "5470",
+        "cos_code": "IEE5748",
+        "num_limit": "9999",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "硬體安全特論-以車聯網為例",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "http://hcchang.ee.nctu.edu.tw",
+        "teacher": "張錫嘉",
+        "cos_time": "4EFG-ED202",
+        "memo": "",
+        "cos_ename": "",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "11",
+        "dep_primary": "1",
+        "dep_cname": "電子研究所",
+        "dep_ename": "Institute of Electronics",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "-999",
+        "depType": "G"
       }
     },
     "costype": {
@@ -26323,6 +26351,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1082_5470": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -26571,6 +26608,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1082_5470": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -26695,6 +26738,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_5918": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1082_5470": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -27262,7 +27308,7 @@
         "cos_type_e": "Required",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       }
     },
     "costype": {
@@ -27803,7 +27849,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5066": {
         "acy": "108",
@@ -31479,12 +31525,12 @@
         "dep_id": "18",
         "dep_primary": "1",
         "dep_cname": "材料科學與工程學系",
-        "dep_ename": "Institute of Materials Science and Engineering",
+        "dep_ename": "Institute of Materials Science & Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5344": {
         "acy": "108",
@@ -31759,12 +31805,12 @@
         "dep_id": "18",
         "dep_primary": "1",
         "dep_cname": "材料科學與工程學系",
-        "dep_ename": "Institute of Materials Science and Engineering",
+        "dep_ename": "Institute of Materials Science & Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5478": {
         "acy": "108",
@@ -33918,7 +33964,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5084": {
         "acy": "108",
@@ -35416,7 +35462,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5410": {
         "acy": "108",
@@ -39484,7 +39530,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       }
     },
     "costype": {
@@ -40962,7 +41008,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       }
     },
     "costype": {
@@ -43576,7 +43622,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5544": {
         "acy": "108",
@@ -46647,13 +46693,13 @@
         "degree": "2",
         "dep_id": "39",
         "dep_primary": "1",
-        "dep_cname": "資訊管理與財務金融系財務金融碩博士班",
+        "dep_cname": "資訊管理與財務金融系財務金融博士班",
         "dep_ename": "Graduate institute of finance",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5588": {
         "acy": "108",
@@ -48115,7 +48161,7 @@
         "dep_ename": "Institute of Applied Arts",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       }
@@ -52362,7 +52408,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5864": {
         "acy": "108",
@@ -52474,7 +52520,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5868": {
         "acy": "108",
@@ -55147,7 +55193,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5241": {
         "acy": "108",
@@ -55679,7 +55725,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5262": {
         "acy": "108",
@@ -55819,7 +55865,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5256": {
         "acy": "108",

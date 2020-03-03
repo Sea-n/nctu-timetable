@@ -43545,7 +43545,7 @@
         "sem": "2",
         "cos_id": "5541",
         "cos_code": "ITM5154",
-        "num_limit": "36",
+        "num_limit": "40",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "知識管理與跨界創新",
@@ -43657,7 +43657,7 @@
         "sem": "2",
         "cos_id": "5546",
         "cos_code": "ITM5212",
-        "num_limit": "9999",
+        "num_limit": "0",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "人工智慧與高科技之商業運用",
@@ -47270,7 +47270,7 @@
         "dep_ename": "Institute of Communication Studies",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -55276,7 +55276,7 @@
         "cos_code": "IOC5059",
         "num_limit": "45",
         "dep_limit": "N",
-        "URL": null,
+        "URL": "http://viplab.cs.nctu.edu.tw/course/VLSIDSP2020_Spring.php",
         "cos_cname": "VLSI數位訊號處理架構設計",
         "cos_credit": "3.00",
         "cos_hours": "3.00",
@@ -59386,7 +59386,7 @@
         "sem": "2",
         "cos_id": "5628",
         "cos_code": "ITM5086",
-        "num_limit": "258",
+        "num_limit": "254",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "企業管理",
@@ -87661,6 +87661,13 @@
           "GECIName": "電,工,理,客",
           "GECIEngName": "ECE,COE,COS,CHK"
         },
+        "通識核心課程_通識核心": {
+          "course_category_cname": "通識核心課程_通識核心",
+          "course_category_ename": "General Education Course_GEC",
+          "course_category_type": "17",
+          "GECIName": "電,工,理,客",
+          "GECIEngName": "ECE,COE,COS,CHK"
+        },
         "通識跨院基本素養_通識跨院": {
           "course_category_cname": "通識跨院基本素養_通識跨院",
           "course_category_ename": "General Education Course: Intercollegiate_GECI",
@@ -88018,9 +88025,9 @@
         }
       },
       "1082_1619": {
-        "A105,A504,A505": {
-          "brief_code": "A105,A504,A505",
-          "brief": "自然/基礎(96),跨院基本素養(106),校基本素養(106)"
+        "A105,A503,A504,A505": {
+          "brief_code": "A105,A503,A504,A505",
+          "brief": "自然/基礎(96),核心-自然(106),跨院基本素養(106),校基本素養(106)"
         }
       },
       "1082_1620": {
@@ -92580,7 +92587,7 @@
         "sem": "2",
         "cos_id": "1575",
         "cos_code": "DIF1030",
-        "num_limit": "90",
+        "num_limit": "100",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "投資學",

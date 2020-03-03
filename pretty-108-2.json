@@ -20386,7 +20386,7 @@
         "sem": "2",
         "cos_id": "1907",
         "cos_code": "DOA1105",
-        "num_limit": "20",
+        "num_limit": "0",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "動態影像創作",
@@ -20395,7 +20395,7 @@
         "TURL": "",
         "teacher": "張讚國",
         "cos_time": "2EFG-CS",
-        "memo": "上課地點:資訊中心訓練教室",
+        "memo": "(停開)",
         "cos_ename": "Dynamic Image Design",
         "brief": "",
         "degree": "0",
@@ -31497,12 +31497,12 @@
         "dep_id": "18",
         "dep_primary": "1",
         "dep_cname": "材料科學與工程學系",
-        "dep_ename": "Institute of Materials Science and Engineering",
+        "dep_ename": "Institute of Materials Science & Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5343": {
         "acy": "108",
@@ -31525,12 +31525,12 @@
         "dep_id": "18",
         "dep_primary": "1",
         "dep_cname": "材料科學與工程學系",
-        "dep_ename": "Institute of Materials Science & Engineering",
+        "dep_ename": "Institute of Materials Science and Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5344": {
         "acy": "108",
@@ -31777,12 +31777,12 @@
         "dep_id": "18",
         "dep_primary": "1",
         "dep_cname": "材料科學與工程學系",
-        "dep_ename": "Institute of Materials Science and Engineering",
+        "dep_ename": "Institute of Materials Science & Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5458": {
         "acy": "108",
@@ -34055,7 +34055,7 @@
         "sem": "2",
         "cos_id": "5933",
         "cos_code": "ICN5534",
-        "num_limit": "9999",
+        "num_limit": "12",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "機器人學",
@@ -35770,7 +35770,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5426": {
         "acy": "108",
@@ -44454,13 +44454,13 @@
         "degree": "2",
         "dep_id": "36",
         "dep_primary": "1",
-        "dep_cname": "運輸與物流管理學系物流管理博士班",
+        "dep_cname": "運輸與物流管理學系物流管理碩博士班",
         "dep_ename": "Institute of Logistics Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       }
     },
     "costype": {
@@ -52212,7 +52212,7 @@
         "cos_type_e": "Required",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5856": {
         "acy": "108",
@@ -65714,7 +65714,7 @@
         "sem": "2",
         "cos_id": "5655",
         "cos_code": "MBA5016",
-        "num_limit": "30",
+        "num_limit": "32",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "新創事業規劃",
@@ -65742,7 +65742,7 @@
         "sem": "2",
         "cos_id": "5656",
         "cos_code": "MBA5018",
-        "num_limit": "30",
+        "num_limit": "32",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "財務管理與投資",
@@ -65770,7 +65770,7 @@
         "sem": "2",
         "cos_id": "5657",
         "cos_code": "MBA5024",
-        "num_limit": "30",
+        "num_limit": "32",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "營運與供應鏈管理",
@@ -65798,7 +65798,7 @@
         "sem": "2",
         "cos_id": "5659",
         "cos_code": "MBA5034",
-        "num_limit": "30",
+        "num_limit": "32",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "新興科技專題 ",

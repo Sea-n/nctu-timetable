@@ -2691,7 +2691,7 @@
         "sem": "2",
         "cos_id": "6132",
         "cos_code": "GEC6093",
-        "num_limit": "40",
+        "num_limit": "38",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "寫台灣的故事",
@@ -6589,6 +6589,34 @@
         "reg_num": "-999",
         "depType": "O"
       },
+      "1082_7146": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "7146",
+        "cos_code": "DFR1308",
+        "num_limit": "25",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "進階英文聽力與討論",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "鄭維容",
+        "cos_time": "4AB-A506",
+        "memo": "",
+        "cos_ename": "Advanced English Listening and Discussion",
+        "brief": "",
+        "degree": "0",
+        "dep_id": "U6",
+        "dep_primary": "1",
+        "dep_cname": "語言教學與研究中心",
+        "dep_ename": "Language Teaching and Research Center",
+        "cos_type": "外語",
+        "cos_type_e": "Foreign Languages Course",
+        "crsoutline_type": "data",
+        "reg_num": "-999",
+        "depType": "O"
+      },
       "1082_7147": {
         "acy": "108",
         "sem": "2",
@@ -8810,6 +8838,15 @@
           "GECIEngName": ""
         }
       },
+      "1082_7146": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1082_7147": {
         "": {
           "course_category_cname": "",
@@ -9634,6 +9671,12 @@
           "brief": "進階(87)"
         }
       },
+      "1082_7146": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1082_7147": {
         "B072": {
           "brief_code": "B072",
@@ -10147,6 +10190,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_7145": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1082_7146": {
         "授課語言代碼": "zh-tw"
       },
       "1082_7147": {
@@ -17991,7 +18037,7 @@
         "dep_ename": "Physical section",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "O"
       },
@@ -18075,7 +18121,7 @@
         "dep_ename": "Physical section",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "O"
       },
@@ -18187,7 +18233,7 @@
         "dep_ename": "Physical section",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "O"
       },
@@ -18290,6 +18336,34 @@
         "teacher": "吳建德",
         "cos_time": "1CD4GH-SA320",
         "memo": "",
+        "cos_ename": "Physics(II)",
+        "brief": "",
+        "degree": "0",
+        "dep_id": "UD",
+        "dep_primary": "1",
+        "dep_cname": "物理教學小組",
+        "dep_ename": "Physical section",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "-999",
+        "depType": "O"
+      },
+      "1082_0512": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "0512",
+        "cos_code": "DEP1114",
+        "num_limit": "65",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "物理(二)榮譽班",
+        "cos_credit": "4.00",
+        "cos_hours": "4.00",
+        "TURL": "",
+        "teacher": "蘇蓉容",
+        "cos_time": "1CD4GH-SC109",
+        "memo": "[English Medium Course]",
         "cos_ename": "Physics(II)",
         "brief": "",
         "degree": "0",
@@ -18557,6 +18631,15 @@
           "GECIEngName": "CHK"
         }
       },
+      "1082_0512": {
+        "通識跨院基本素養_通識跨院": {
+          "course_category_cname": "通識跨院基本素養_通識跨院",
+          "course_category_ename": "General Education Course: Intercollegiate_GECI",
+          "course_category_type": "16",
+          "GECIName": "客",
+          "GECIEngName": "CHK"
+        }
+      },
       "1082_0521": {
         "通識跨院基本素養_通識跨院": {
           "course_category_cname": "通識跨院基本素養_通識跨院",
@@ -18703,6 +18786,12 @@
           "brief": "自然/基礎(96),跨院基本素養(106)"
         }
       },
+      "1082_0512": {
+        "A105,A504": {
+          "brief_code": "A105,A504",
+          "brief": "自然/基礎(96),跨院基本素養(106)"
+        }
+      },
       "1082_0521": {
         "A105,A504": {
           "brief_code": "A105,A504",
@@ -18779,6 +18868,9 @@
       },
       "1082_0511": {
         "授課語言代碼": "zh-tw"
+      },
+      "1082_0512": {
+        "授課語言代碼": "en-us"
       },
       "1082_0521": {
         "授課語言代碼": "zh-tw"
@@ -21714,7 +21806,7 @@
         "sem": "2",
         "cos_id": "6606",
         "cos_code": "CGE1029",
-        "num_limit": "60",
+        "num_limit": "65",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "機器人與人工智慧系統探索",
@@ -31525,12 +31617,12 @@
         "dep_id": "18",
         "dep_primary": "1",
         "dep_cname": "材料科學與工程學系",
-        "dep_ename": "Institute of Materials Science & Engineering",
+        "dep_ename": "Institute of Materials Science and Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5344": {
         "acy": "108",
@@ -32788,7 +32880,7 @@
         "dep_ename": "Institute of Electro-Physics",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -32844,7 +32936,7 @@
         "dep_ename": "Institute of Electro-Physics",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -39932,7 +40024,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "許鉦宗、林顯豐、林子恩",
-        "cos_time": "3GHY-ED116",
+        "cos_time": "3GHY-AB102",
         "memo": "",
         "cos_ename": "Applied Electricity",
         "brief": "",
@@ -39988,7 +40080,7 @@
         "cos_hours": "3.00",
         "TURL": "http://bm2923.wix.com/gychen",
         "teacher": "陳冠宇",
-        "cos_time": "2EFG-EE118",
+        "cos_time": "2EFG-EF254",
         "memo": "",
         "cos_ename": "Bio-Design and Implementation Course",
         "brief": "",
@@ -44454,13 +44546,13 @@
         "degree": "2",
         "dep_id": "36",
         "dep_primary": "1",
-        "dep_cname": "運輸與物流管理學系物流管理博士班",
+        "dep_cname": "運輸與物流管理學系物流管理碩博士班",
         "dep_ename": "Institute of Logistics Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       }
     },
     "costype": {
@@ -52566,7 +52658,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5868": {
         "acy": "108",
@@ -53655,7 +53747,7 @@
         "cos_hours": "1.00",
         "TURL": "",
         "teacher": "柯泰名",
-        "cos_time": "2F-EF254",
+        "cos_time": "2F-EF253",
         "memo": "",
         "cos_ename": "Current topics in precision medicine: genomics medicine and biomedical big data ",
         "brief": "",
@@ -55927,7 +56019,7 @@
         "TURL": "",
         "teacher": "荊宇泰",
         "cos_time": "1CD3B-EC115",
-        "memo": "請依各所入學年度之修業要點選課；本院學生優先；博士班資格考科目 修課取代筆試課程;英文授課[English Medium Course]",
+        "memo": "請依各所入學年度之修業要點選課；本院學生優先；博士班資格考考核科目；英文授課[English Medium Course]",
         "cos_ename": "Algorithms",
         "brief": "",
         "degree": "2",
@@ -77815,7 +77907,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "莊榮宏",
-        "cos_time": "1G4CD-EC114",
+        "cos_time": "1G-EC114,4CD-EC122",
         "memo": "外系生請於開學上網加選；資工系與電資學士班學生優先選課；請依各組入學年度之「必修科目表」選課",
         "cos_ename": "Numerical Methods",
         "brief": "",
@@ -79590,7 +79682,7 @@
         "dep_ename": "Department of Electro-Physics",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -84437,7 +84529,7 @@
         "sem": "2",
         "cos_id": "1109",
         "cos_code": "DEO1611",
-        "num_limit": "9999",
+        "num_limit": "47",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "數學應用軟體簡介",
@@ -93626,7 +93718,7 @@
         "dep_ename": "Department of Humanities and Social Sciences",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -98682,7 +98774,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "林青峰",
-        "cos_time": "2GH3B-MB415",
+        "cos_time": "",
         "memo": "非管院同學請於3月2日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於YI；上限60人，若超過人數上限請至管院辦公室登記。",
         "cos_ename": "Programming",
         "brief": "",

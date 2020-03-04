@@ -52813,7 +52813,7 @@
         "cos_type_e": "Required",
         "crsoutline_type": null,
         "reg_num": "1",
-        "depType": "D"
+        "depType": "G"
       },
       "1081_5956": {
         "acy": "108",
@@ -107171,6 +107171,62 @@
         "crsoutline_type": null,
         "reg_num": "1",
         "depType": "Z"
+      },
+      "1081_3324": {
+        "acy": "108",
+        "sem": "1",
+        "cos_id": "3324",
+        "cos_code": "CHU6600",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "啟動英文口說能力B2-C1",
+        "cos_credit": "1.30",
+        "cos_hours": "1.30",
+        "TURL": "",
+        "teacher": null,
+        "cos_time": "",
+        "memo": "",
+        "cos_ename": "Active Uour Spoken English B2-C1",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "ZZ",
+        "dep_primary": "1",
+        "dep_cname": "外國學校",
+        "dep_ename": "Foreign school",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "1",
+        "depType": "Z"
+      },
+      "1081_3325": {
+        "acy": "108",
+        "sem": "1",
+        "cos_id": "3325",
+        "cos_code": "CHU6601",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "德文密集班",
+        "cos_credit": "5.00",
+        "cos_hours": "5.00",
+        "TURL": "",
+        "teacher": null,
+        "cos_time": "",
+        "memo": "",
+        "cos_ename": "Internsive German",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "ZZ",
+        "dep_primary": "1",
+        "dep_cname": "外國學校",
+        "dep_ename": "Foreign school",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "1",
+        "depType": "Z"
       }
     },
     "costype": {
@@ -109135,6 +109191,24 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1081_3324": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1081_3325": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -110445,6 +110519,18 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1081_3324": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1081_3325": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -111100,6 +111186,12 @@
         "授課語言代碼": "zh-tw"
       },
       "1081_3323": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1081_3324": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1081_3325": {
         "授課語言代碼": "zh-tw"
       }
     }

@@ -2868,7 +2868,7 @@
         "TURL": "",
         "teacher": "陳仁姮",
         "cos_time": "4EF-A205",
-        "memo": "",
+        "memo": "不接受修讀過「世界文明史」的同學修讀",
         "cos_ename": "History Analysis: Introduction to the World History",
         "brief": "",
         "degree": "0",
@@ -3120,7 +3120,7 @@
         "TURL": "",
         "teacher": "陳仁姮",
         "cos_time": "3GH-A205",
-        "memo": "",
+        "memo": "不接受修讀過「世界文明史」的同學修讀",
         "cos_ename": "History Analysis: Introduction to the World History",
         "brief": "",
         "degree": "0",
@@ -20254,7 +20254,7 @@
         "cos_hours": "2.00",
         "TURL": "",
         "teacher": "林紹胤",
-        "cos_time": "4IJ-A301",
+        "cos_time": "4IJ-A307",
         "memo": "",
         "cos_ename": "Special Topics on leadership and Group Learning",
         "brief": "",
@@ -21492,7 +21492,7 @@
         "cos_hours": "2.00",
         "TURL": "",
         "teacher": "陳清和",
-        "cos_time": "4IJ-A302",
+        "cos_time": "4IJ-A308",
         "memo": "",
         "cos_ename": "Special Topics on leadership and Group Learning",
         "brief": "",
@@ -31525,12 +31525,12 @@
         "dep_id": "18",
         "dep_primary": "1",
         "dep_cname": "材料科學與工程學系",
-        "dep_ename": "Institute of Materials Science and Engineering",
+        "dep_ename": "Institute of Materials Science & Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5344": {
         "acy": "108",
@@ -44454,13 +44454,13 @@
         "degree": "2",
         "dep_id": "36",
         "dep_primary": "1",
-        "dep_cname": "運輸與物流管理學系物流管理碩博士班",
+        "dep_cname": "運輸與物流管理學系物流管理博士班",
         "dep_ename": "Institute of Logistics Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       }
     },
     "costype": {
@@ -52566,7 +52566,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5868": {
         "acy": "108",
@@ -55927,7 +55927,7 @@
         "TURL": "",
         "teacher": "荊宇泰",
         "cos_time": "1CD3B-EC115",
-        "memo": "請依各所入學年度之修業要點選課；本院學生優先；英文授課[English Medium Course]",
+        "memo": "請依各所入學年度之修業要點選課；本院學生優先；博士班資格考科目 修課取代筆試課程;英文授課[English Medium Course]",
         "cos_ename": "Algorithms",
         "brief": "",
         "degree": "2",
@@ -59764,7 +59764,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "傅武雄、黃建平",
-        "cos_time": "4IJK-EE324",
+        "cos_time": "4IJK-EE206",
         "memo": "限交大在職專班學生選修",
         "cos_ename": "Hazardous Gas Control",
         "brief": "",
@@ -74359,7 +74359,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "鄭泗東",
-        "cos_time": "1EF4G-EE205",
+        "cos_time": "1EF4G-EE132",
         "memo": "",
         "cos_ename": "Electrical Engineering",
         "brief": "",
@@ -79758,7 +79758,7 @@
         "dep_ename": "Department of Electro-Physics",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -80321,6 +80321,34 @@
         "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
+      },
+      "1082_1444": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "1444",
+        "cos_code": "DEP3381",
+        "num_limit": "9999",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "專題演講",
+        "cos_credit": "1.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "蘇蓉容",
+        "cos_time": "5CD-SC160",
+        "memo": "[English Medium Course]",
+        "cos_ename": "Colloquium",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "21",
+        "dep_primary": "1",
+        "dep_cname": "電子物理學系",
+        "dep_ename": "Department of Electro-Physics",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "-999",
+        "depType": "U"
       }
     },
     "costype": {
@@ -80645,6 +80673,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1082_1444": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -80857,6 +80894,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1082_1444": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -80964,6 +81007,9 @@
       },
       "1082_1464": {
         "授課語言代碼": "zh-tw"
+      },
+      "1082_1444": {
+        "授課語言代碼": "en-us"
       }
     }
   },
@@ -88471,7 +88517,7 @@
         "sem": "2",
         "cos_id": "1534",
         "cos_code": "DMS4527",
-        "num_limit": "15",
+        "num_limit": "9999",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "管理專題研討（一）",

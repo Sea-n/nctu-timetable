@@ -18275,6 +18275,34 @@
         "reg_num": "-999",
         "depType": "O"
       },
+      "1082_0571": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "0571",
+        "cos_code": "DEP1115",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "物理一作業演算",
+        "cos_credit": ".00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "杜建明",
+        "cos_time": "5JK-SC159",
+        "memo": "",
+        "cos_ename": "Physics Recitation (I)",
+        "brief": "",
+        "degree": "0",
+        "dep_id": "UD",
+        "dep_primary": "1",
+        "dep_cname": "物理教學小組",
+        "dep_ename": "Physical section",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "-999",
+        "depType": "O"
+      },
       "1082_0511": {
         "acy": "108",
         "sem": "2",
@@ -18576,6 +18604,15 @@
           "GECIEngName": "CHK"
         }
       },
+      "1082_0571": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1082_0511": {
         "通識跨院基本素養_通識跨院": {
           "course_category_cname": "通識跨院基本素養_通識跨院",
@@ -18734,6 +18771,12 @@
           "brief": "自然/基礎(96),跨院基本素養(106)"
         }
       },
+      "1082_0571": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1082_0511": {
         "A105,A504": {
           "brief_code": "A105,A504",
@@ -18818,6 +18861,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_0561": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1082_0571": {
         "授課語言代碼": "zh-tw"
       },
       "1082_0511": {
@@ -21147,7 +21193,7 @@
         "TURL": "http://hakka.nctu.edu.tw/Hakka-F-faculty/Faculty_15_MLPan.htm",
         "teacher": "潘美玲、侯君昊",
         "cos_time": "3YIJ-",
-        "memo": "課程時間：週三 YIJ\n地點：第一堂在工程一館101共創空間。本課程為參與國際志工團所選修的培訓課程，同時開放其他名額給全校同學。",
+        "memo": "課程時間：週三 YIJ\r\n地點：第一堂在工程一館101共創空間。本課程為參與國際志工團所選修的培訓課程，同時開放其他名額給全校同學。",
         "cos_ename": "Service Learning II",
         "brief": "",
         "degree": "0",
@@ -31571,12 +31617,12 @@
         "dep_id": "18",
         "dep_primary": "1",
         "dep_cname": "材料科學與工程學系",
-        "dep_ename": "Institute of Materials Science and Engineering",
+        "dep_ename": "Institute of Materials Science & Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5344": {
         "acy": "108",
@@ -31731,7 +31777,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "吳耀銓",
-        "cos_time": "3L4BC-EF207",
+        "cos_time": "3L4BC-EF104",
         "memo": "1.第一階段限材料系、奈米所加選 2.開學後開放外系或外校加選",
         "cos_ename": "Solid State Electronic Devices",
         "brief": "",
@@ -32416,7 +32462,7 @@
         "sem": "2",
         "cos_id": "5362",
         "cos_code": "IEV5641",
-        "num_limit": "15",
+        "num_limit": "20",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "環工混凝過濾技術",
@@ -34047,7 +34093,7 @@
         "cos_code": "GEE9427",
         "num_limit": "9999",
         "dep_limit": "N",
-        "URL": null,
+        "URL": "https://sites.google.com/nctu.edu.tw/gee9427-spring-2020/%E9%A6%96%E9%A0%81?authuser=1",
         "cos_cname": "積分三角訊號轉換器",
         "cos_credit": "3.00",
         "cos_hours": "3.00",
@@ -40450,34 +40496,6 @@
     "dep_cname": "管理科學系",
     "dep_ename": "Institute of Management Science",
     "1": {
-      "1082_5479": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "5479",
-        "cos_code": "IMS2351",
-        "num_limit": "20",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "人員甄選專題",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "",
-        "teacher": "陳姵樺",
-        "cos_time": "4BCD-M105",
-        "memo": "先修課程統計學，管科系所優先；開放全校大三、大四及研究所同學選修",
-        "cos_ename": "Special Topics in Personnel Selection",
-        "brief": "",
-        "degree": "2",
-        "dep_id": "31",
-        "dep_primary": "1",
-        "dep_cname": "管理科學系",
-        "dep_ename": "Institute of Management Science",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "-999",
-        "depType": "G"
-      },
       "1082_5480": {
         "acy": "108",
         "sem": "2",
@@ -41012,15 +41030,6 @@
       }
     },
     "costype": {
-      "1082_5479": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1082_5480": {
         "": {
           "course_category_cname": "",
@@ -41194,12 +41203,6 @@
       }
     },
     "brief": {
-      "1082_5479": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1082_5480": {
         "": {
           "brief_code": "",
@@ -41316,9 +41319,6 @@
       }
     },
     "language": {
-      "1082_5479": {
-        "授課語言代碼": "zh-tw"
-      },
       "1082_5480": {
         "授課語言代碼": "zh-tw"
       },
@@ -50341,7 +50341,7 @@
         "cos_hours": "2.00",
         "TURL": "",
         "teacher": "許倍銜",
-        "cos_time": "2FG-HA101",
+        "cos_time": "3CD-HA102",
         "memo": "",
         "cos_ename": "Design Research Methodology (II)",
         "brief": "",
@@ -50397,7 +50397,7 @@
         "cos_hours": "1.00",
         "TURL": "http://www.arch.nctu.edu.tw/people/junehaohou/",
         "teacher": "侯君昊、鄭基立",
-        "cos_time": "3B-HA102",
+        "cos_time": "3B-HA108",
         "memo": "",
         "cos_ename": "Rapid Modeling and Visualization",
         "brief": "",
@@ -50425,7 +50425,7 @@
         "cos_hours": "2.00",
         "TURL": "",
         "teacher": "龔書章",
-        "cos_time": "1IJ-HA105",
+        "cos_time": "4IJ-HA107",
         "memo": "",
         "cos_ename": "Contemporary Architecture Since 1945: Sources and Directions",
         "brief": "",
@@ -50453,7 +50453,7 @@
         "cos_hours": "2.00",
         "TURL": "",
         "teacher": "王識源",
-        "cos_time": "2IJ-HA101",
+        "cos_time": "3GH-HA101",
         "memo": "",
         "cos_ename": "Algorithmic Design",
         "brief": "",
@@ -50480,7 +50480,7 @@
         "cos_credit": "1.00",
         "cos_hours": "1.00",
         "TURL": "",
-        "teacher": "王識源",
+        "teacher": "凌天",
         "cos_time": "6E-HA101",
         "memo": "限博士生[English Medium Course]",
         "cos_ename": "Seminar in Architecture(II)",
@@ -50736,6 +50736,34 @@
         "cos_time": "6C-HA307",
         "memo": "",
         "cos_ename": "Independent Study",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "47",
+        "dep_primary": "1",
+        "dep_cname": "建築研究所",
+        "dep_ename": "Institute of Architecture",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "-999",
+        "depType": "G"
+      },
+      "1082_5936": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "5936",
+        "cos_code": "IAR5238",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "太陽能十項全能綠建築競賽專題(一)",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "張基義、曾聖凱",
+        "cos_time": "1IJ-HA105",
+        "memo": "",
+        "cos_ename": "Solar Decathlon Workshop I",
         "brief": "",
         "degree": "2",
         "dep_id": "47",
@@ -51008,6 +51036,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1082_5936": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -51178,6 +51215,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1082_5936": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -51263,6 +51306,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_5935": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1082_5936": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -52536,7 +52582,7 @@
         "dep_ename": "Institute for Social Research and Cultural Studies",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -58146,34 +58192,6 @@
         "reg_num": "-999",
         "depType": "J"
       },
-      "1082_5601": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "5601",
-        "cos_code": "IMS2356",
-        "num_limit": "18",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "創新與科技管理",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "",
-        "teacher": "黃瓊誼",
-        "cos_time": "2IJK-M301",
-        "memo": "限專班選修",
-        "cos_ename": "Strategic Management of Technology and Innovation",
-        "brief": "",
-        "degree": "2",
-        "dep_id": "62",
-        "dep_primary": "1",
-        "dep_cname": "管理學院碩士在職專班-管科組",
-        "dep_ename": "Degree Program of Management Science",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "-999",
-        "depType": "J"
-      },
       "1082_5602": {
         "acy": "108",
         "sem": "2",
@@ -58286,34 +58304,6 @@
         "reg_num": "-999",
         "depType": "J"
       },
-      "1082_5607": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "5607",
-        "cos_code": "IMS6201",
-        "num_limit": "24",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "商務談判",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "",
-        "teacher": "陳姵樺",
-        "cos_time": "4IJK-M105",
-        "memo": "限專班選修",
-        "cos_ename": "Business Negotiation",
-        "brief": "",
-        "degree": "2",
-        "dep_id": "62",
-        "dep_primary": "1",
-        "dep_cname": "管理學院碩士在職專班-管科組",
-        "dep_ename": "Degree Program of Management Science",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "-999",
-        "depType": "J"
-      },
       "1082_5608": {
         "acy": "108",
         "sem": "2",
@@ -58409,15 +58399,6 @@
           "GECIEngName": ""
         }
       },
-      "1082_5601": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1082_5602": {
         "": {
           "course_category_cname": "",
@@ -58446,15 +58427,6 @@
         }
       },
       "1082_5606": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
-      "1082_5607": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -58498,12 +58470,6 @@
           "brief": ""
         }
       },
-      "1082_5601": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1082_5602": {
         "": {
           "brief_code": "",
@@ -58523,12 +58489,6 @@
         }
       },
       "1082_5606": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
-      "1082_5607": {
         "": {
           "brief_code": "",
           "brief": ""
@@ -58557,9 +58517,6 @@
       "1082_5600": {
         "授課語言代碼": "zh-tw"
       },
-      "1082_5601": {
-        "授課語言代碼": "zh-tw"
-      },
       "1082_5602": {
         "授課語言代碼": "zh-tw"
       },
@@ -58570,9 +58527,6 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_5606": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1082_5607": {
         "授課語言代碼": "zh-tw"
       },
       "1082_5608": {
@@ -67103,7 +67057,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "梁興弛",
-        "cos_time": "5BCD-EE117",
+        "cos_time": "5BCD-EE231",
         "memo": "",
         "cos_ename": "Modern Physics",
         "brief": "",
@@ -92521,7 +92475,7 @@
         "sem": "2",
         "cos_id": "1587",
         "cos_code": "DIF1069",
-        "num_limit": "40",
+        "num_limit": "60",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "財務計量經濟學",

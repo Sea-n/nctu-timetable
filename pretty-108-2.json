@@ -25228,7 +25228,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "林鴻志",
-        "cos_time": "1B-ED220,3CD-ED201",
+        "cos_time": "1B3CD-ED220",
         "memo": "",
         "cos_ename": "Integrated Circuit Technology (II)",
         "brief": "",
@@ -29549,7 +29549,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "鍾添淦",
-        "cos_time": "2H4CD-EE210",
+        "cos_time": "2H4CD-EE230",
         "memo": "[English Medium Course]",
         "cos_ename": "Smart Materials and Intelligent Nano/Micro Devices",
         "brief": "",
@@ -31571,12 +31571,12 @@
         "dep_id": "18",
         "dep_primary": "1",
         "dep_cname": "材料科學與工程學系",
-        "dep_ename": "Institute of Materials Science and Engineering",
+        "dep_ename": "Institute of Materials Science & Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       },
       "1082_5344": {
         "acy": "108",
@@ -40939,7 +40939,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "朱慶忠",
-        "cos_time": "4BCD-M104",
+        "cos_time": "4CDX-M301",
         "memo": "",
         "cos_ename": "Chain Store Managemen",
         "brief": "",
@@ -44316,13 +44316,13 @@
         "degree": "2",
         "dep_id": "36",
         "dep_primary": "1",
-        "dep_cname": "運輸與物流管理學系物流管理碩博士班",
+        "dep_cname": "運輸與物流管理學系物流管理博士班",
         "dep_ename": "Institute of Logistics Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       }
     },
     "costype": {
@@ -59202,7 +59202,7 @@
         "sem": "2",
         "cos_id": "5628",
         "cos_code": "ITM5086",
-        "num_limit": "250",
+        "num_limit": "249",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "企業管理",
@@ -59277,34 +59277,6 @@
         "dep_ename": "Degree Program of Management of Technology",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": "data",
-        "reg_num": "-999",
-        "depType": "J"
-      },
-      "1082_5632": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "5632",
-        "cos_code": "ITM5503",
-        "num_limit": "9999",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "專案管理",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "",
-        "teacher": "李宗耀",
-        "cos_time": "6BCD-A701",
-        "memo": "專班主開；專碩合開",
-        "cos_ename": "Project Management",
-        "brief": "",
-        "degree": "2",
-        "dep_id": "65",
-        "dep_primary": "1",
-        "dep_cname": "管理學院碩士在職專班-科管組",
-        "dep_ename": "Degree Program of Management of Technology",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "J"
@@ -59410,15 +59382,6 @@
           "GECIEngName": ""
         }
       },
-      "1082_5632": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1082_5633": {
         "": {
           "course_category_cname": "",
@@ -59463,12 +59426,6 @@
           "brief": ""
         }
       },
-      "1082_5632": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1082_5633": {
         "": {
           "brief_code": "",
@@ -59493,9 +59450,6 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_5631": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1082_5632": {
         "授課語言代碼": "zh-tw"
       },
       "1082_5633": {
@@ -61988,34 +61942,6 @@
         "reg_num": "-999",
         "depType": "J"
       },
-      "1082_5638": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "5638",
-        "cos_code": "ITT5318",
-        "num_limit": "30",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "配銷管理",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "",
-        "teacher": "張宗勝、蔡明志",
-        "cos_time": "6EFG-TD",
-        "memo": "上課地點：台北校區",
-        "cos_ename": "Distribution Management",
-        "brief": "",
-        "degree": "2",
-        "dep_id": "71",
-        "dep_primary": "1",
-        "dep_cname": "管理學院碩士在職專班-物流組",
-        "dep_ename": "Degree Program of Transportation and Logistics",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "-999",
-        "depType": "J"
-      },
       "1082_5639": {
         "acy": "108",
         "sem": "2",
@@ -62101,15 +62027,6 @@
           "GECIEngName": ""
         }
       },
-      "1082_5638": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1082_5639": {
         "": {
           "course_category_cname": "",
@@ -62148,12 +62065,6 @@
           "brief": ""
         }
       },
-      "1082_5638": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1082_5639": {
         "": {
           "brief_code": "",
@@ -62175,9 +62086,6 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_5637": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1082_5638": {
         "授課語言代碼": "zh-tw"
       },
       "1082_5639": {
@@ -74185,7 +74093,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "鍾添淦",
-        "cos_time": "2CD4H-EE205",
+        "cos_time": "2CD-EE102,4H-EE132",
         "memo": "",
         "cos_ename": "Mechanical Manufacturing",
         "brief": "",
@@ -89019,7 +88927,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "黃博滄",
-        "cos_time": "1EFG-MB415",
+        "cos_time": "1EF-MB506,1G-MB415",
         "memo": "",
         "cos_ename": "Engineering Graphics",
         "brief": "",

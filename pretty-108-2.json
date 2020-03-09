@@ -25783,34 +25783,6 @@
         "reg_num": "-999",
         "depType": "G"
       },
-      "1082_5033": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "5033",
-        "cos_code": "IEE5726",
-        "num_limit": "9999",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "感測與致動積體電路",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "",
-        "teacher": "蔡嘉明",
-        "cos_time": "2CDX-ED220",
-        "memo": "",
-        "cos_ename": "Sensing and Actuating Integrated Circuits",
-        "brief": "",
-        "degree": "2",
-        "dep_id": "11",
-        "dep_primary": "1",
-        "dep_cname": "電子研究所",
-        "dep_ename": "Institute of Electronics",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "-999",
-        "depType": "G"
-      },
       "1082_5034": {
         "acy": "108",
         "sem": "2",
@@ -26391,15 +26363,6 @@
           "GECIEngName": ""
         }
       },
-      "1082_5033": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1082_5034": {
         "": {
           "course_category_cname": "",
@@ -26681,12 +26644,6 @@
           "brief": ""
         }
       },
-      "1082_5033": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1082_5034": {
         "": {
           "brief_code": "",
@@ -26843,9 +26800,6 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_5032": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1082_5033": {
         "授課語言代碼": "zh-tw"
       },
       "1082_5034": {
@@ -44362,13 +44316,13 @@
         "degree": "2",
         "dep_id": "36",
         "dep_primary": "1",
-        "dep_cname": "運輸與物流管理學系物流管理博士班",
+        "dep_cname": "運輸與物流管理學系物流管理碩博士班",
         "dep_ename": "Institute of Logistics Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       }
     },
     "costype": {
@@ -47195,7 +47149,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "李峻德",
-        "cos_time": "4EFG-F109",
+        "cos_time": "5BCD-F109",
         "memo": "傳播所新媒體與使用者經驗組學生優先",
         "cos_ename": "Design Thinking and Theories",
         "brief": "",
@@ -64363,7 +64317,7 @@
         "cos_hours": "3.00",
         "TURL": "http://sites.google.com/site/nctueecslab/",
         "teacher": "黃柏蒼",
-        "cos_time": "3EFG-EE207",
+        "cos_time": "3EFG-",
         "memo": "英語授課[English Medium Course]",
         "cos_ename": "Seminar",
         "brief": "",
@@ -72639,6 +72593,34 @@
         "reg_num": "-999",
         "depType": "U"
       },
+      "1082_1026": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "1026",
+        "cos_code": "DEE3343",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "控制系統導論",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "蔡嘉明",
+        "cos_time": "1CD4B-ED201",
+        "memo": "",
+        "cos_ename": "Introduction to Control Systems",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "11",
+        "dep_primary": "1",
+        "dep_cname": "電子工程學系",
+        "dep_ename": "Department of Electronics Engineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "-999",
+        "depType": "U"
+      },
       "1082_1027": {
         "acy": "108",
         "sem": "2",
@@ -73132,6 +73114,15 @@
           "GECIEngName": ""
         }
       },
+      "1082_1026": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1082_1027": {
         "": {
           "course_category_cname": "",
@@ -73326,6 +73317,12 @@
           "brief": ""
         }
       },
+      "1082_1026": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1082_1027": {
         "": {
           "brief_code": "",
@@ -73443,6 +73440,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_1025": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1082_1026": {
         "授課語言代碼": "zh-tw"
       },
       "1082_1027": {
@@ -99303,7 +99303,7 @@
         "sem": "2",
         "cos_id": "3041",
         "cos_code": "COM3003",
-        "num_limit": "15",
+        "num_limit": "10",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "華語文教學實習",

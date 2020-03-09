@@ -28391,34 +28391,6 @@
         "reg_num": "-999",
         "depType": "G"
       },
-      "1082_5474": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "5474",
-        "cos_code": "ECM5410",
-        "num_limit": "25",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "數值半導體元件模式",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "http://www.ymlab.org/",
-        "teacher": "李義明",
-        "cos_time": "1XEF-ES503",
-        "memo": "[English Medium Course]",
-        "cos_ename": "Numerical Semiconductor Device Modeling",
-        "brief": "",
-        "degree": "2",
-        "dep_id": "13",
-        "dep_primary": "1",
-        "dep_cname": "電信工程研究所",
-        "dep_ename": "Institute of Communication Engineering",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "-999",
-        "depType": "G"
-      },
       "1082_5475": {
         "acy": "108",
         "sem": "2",
@@ -28675,15 +28647,6 @@
           "GECIEngName": ""
         }
       },
-      "1082_5474": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1082_5475": {
         "": {
           "course_category_cname": "",
@@ -28836,12 +28799,6 @@
           "brief": ""
         }
       },
-      "1082_5474": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1082_5475": {
         "": {
           "brief_code": "",
@@ -28920,9 +28877,6 @@
         "授課語言代碼": "en-us"
       },
       "1082_5139": {
-        "授課語言代碼": "en-us"
-      },
-      "1082_5474": {
         "授課語言代碼": "en-us"
       },
       "1082_5475": {
@@ -34109,7 +34063,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "王傑智",
-        "cos_time": "4IJK-ED713",
+        "cos_time": "4IJK-EE209",
         "memo": "",
         "cos_ename": "Robotics",
         "brief": "",
@@ -43548,7 +43502,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5544": {
         "acy": "108",
@@ -50614,18 +50568,18 @@
         "acy": "108",
         "sem": "2",
         "cos_id": "5936",
-        "cos_code": "IAR5238",
+        "cos_code": "IAR5252",
         "num_limit": "9999",
         "dep_limit": "*",
         "URL": null,
-        "cos_cname": "太陽能十項全能綠建築競賽專題(一)",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
+        "cos_cname": "太陽能十項全能綠建築競賽進階專題(一)",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
         "TURL": "http://www.arch.nctu.edu.tw/people/junehaohou/",
         "teacher": "侯君昊、曾聖凱",
         "cos_time": "1IJ-HA105",
         "memo": "",
-        "cos_ename": "Solar Decathlon Workshop I",
+        "cos_ename": "Advanced Topic on Solar Decathlon (1)",
         "brief": "",
         "degree": "2",
         "dep_id": "47",
@@ -51374,7 +51328,7 @@
         "cos_type_e": "Required",
         "crsoutline_type": "data",
         "reg_num": "-999",
-        "depType": "D"
+        "depType": "G"
       },
       "1082_5840": {
         "acy": "108",
@@ -82180,7 +82134,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "陳富強",
-        "cos_time": "1EF4B-ED303",
+        "cos_time": "1XEF-ED303",
         "memo": "",
         "cos_ename": "Introduction to Microwave Engineering",
         "brief": "",
@@ -94182,7 +94136,7 @@
         "cos_hours": "3.00",
         "TURL": "https://dcat.nctu.edu.tw/members/%e6%9d%8e%e7%be%8e%e8%8f%af/#content",
         "teacher": "李美華",
-        "cos_time": "2BCD-SC105",
+        "cos_time": "2BCD-A102",
         "memo": "",
         "cos_ename": "New Technology and Organizational Communication",
         "brief": "",

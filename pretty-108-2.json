@@ -24296,8 +24296,36 @@
         "TURL": "",
         "teacher": "林秀菊",
         "cos_time": "4BCD-CM224",
-        "memo": "英語授課，上課地點：台南校區[English Medium Course]",
+        "memo": "英語授課，上課地點：台南校區",
         "cos_ename": "Embedded System Applications",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "05",
+        "dep_primary": "1",
+        "dep_cname": "照明與能源光電研究所",
+        "dep_ename": "Institute of Lighting and Energy Photonics",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "-999",
+        "depType": "G"
+      },
+      "1082_5158": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "5158",
+        "cos_code": "ILP5134",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "類神經網路理論與實務",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "林秀菊",
+        "cos_time": "3BCD-CM215",
+        "memo": "",
+        "cos_ename": "Neural Network Theory and Practice ",
         "brief": "",
         "degree": "2",
         "dep_id": "05",
@@ -24365,6 +24393,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1082_5158": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -24403,6 +24440,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1082_5158": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -24422,7 +24465,10 @@
         "授課語言代碼": "en-us"
       },
       "1082_5153": {
-        "授課語言代碼": "en-us"
+        "授課語言代碼": "zh-tw"
+      },
+      "1082_5158": {
+        "授課語言代碼": "zh-tw"
       }
     }
   },
@@ -24543,34 +24589,6 @@
         "reg_num": "-999",
         "depType": "G"
       },
-      "1082_5158": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "5158",
-        "cos_code": "IIB5126",
-        "num_limit": "9999",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "軟性電子技術",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "",
-        "teacher": "鄭協昌",
-        "cos_time": "4FGH-CM217",
-        "memo": "上課地點：台南校區",
-        "cos_ename": "Flexible Electronics",
-        "brief": "",
-        "degree": "2",
-        "dep_id": "06",
-        "dep_primary": "1",
-        "dep_cname": "影像與生醫光電研究所",
-        "dep_ename": "Institute of Imaging and Biomedical Photonics",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "-999",
-        "depType": "G"
-      },
       "1082_5159": {
         "acy": "108",
         "sem": "2",
@@ -24665,15 +24683,6 @@
           "GECIEngName": ""
         }
       },
-      "1082_5158": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1082_5159": {
         "": {
           "course_category_cname": "",
@@ -24718,12 +24727,6 @@
           "brief": ""
         }
       },
-      "1082_5158": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1082_5159": {
         "": {
           "brief_code": "",
@@ -24748,9 +24751,6 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_5157": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1082_5158": {
         "授課語言代碼": "zh-tw"
       },
       "1082_5159": {
@@ -26875,7 +26875,7 @@
         "sem": "2",
         "cos_id": "5042",
         "cos_code": "ICN5320",
-        "num_limit": "25",
+        "num_limit": "15",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "嵌入式作業系統",
@@ -28208,7 +28208,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "渡邊浩志",
-        "cos_time": "4GHY-EE118",
+        "cos_time": "4GHY-ED219",
         "memo": "[English Medium Course]",
         "cos_ename": "Quantum Mechanics",
         "brief": "",
@@ -44270,13 +44270,13 @@
         "degree": "2",
         "dep_id": "36",
         "dep_primary": "1",
-        "dep_cname": "運輸與物流管理學系物流管理碩博士班",
+        "dep_cname": "運輸與物流管理學系物流管理博士班",
         "dep_ename": "Institute of Logistics Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "-999",
-        "depType": "G"
+        "depType": "D"
       }
     },
     "costype": {
@@ -55144,7 +55144,7 @@
         "cos_hours": "3.00",
         "TURL": "http://www.cs.nctu.edu.tw/~ldvan/",
         "teacher": "范倫達",
-        "cos_time": "2IJK-ED305",
+        "cos_time": "2IJK-EC115",
         "memo": "本院學生優先；優先順序為:A.研究生--1.資科工:碩+博, 2.碩班:網工,多工,數科工 B.如還有名額, 待開學後再給大學部書面加簽; 請依各所入學年度之修業要點選課",
         "cos_ename": "VLSI Digital Signal Processing",
         "brief": "",
@@ -73713,7 +73713,7 @@
         "cos_hours": "3.00",
         "TURL": "https://cclabliaonctu.wixsite.com/cclnctu",
         "teacher": "廖英皓",
-        "cos_time": "3CD5D-EE205",
+        "cos_time": "3CD5D-EE106",
         "memo": "",
         "cos_ename": "Engineering Mathematics (II)",
         "brief": "",

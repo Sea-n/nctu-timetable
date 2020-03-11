@@ -42865,34 +42865,6 @@
         "reg_num": "-999",
         "depType": "G"
       },
-      "1082_5531": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "5531",
-        "cos_code": "IIM5368",
-        "num_limit": "9999",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "博士論文研究方法",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "",
-        "teacher": "資管所",
-        "cos_time": "1EFG-MB304",
-        "memo": "博士班一年級必修課程，專業課程；限資管博士班同學選課；英語授課[English Medium Course]",
-        "cos_ename": "Research Methodology for PhD Dissertation",
-        "brief": "",
-        "degree": "2",
-        "dep_id": "34",
-        "dep_primary": "1",
-        "dep_cname": "資訊管理研究所",
-        "dep_ename": "Institute of Information Management",
-        "cos_type": "必修",
-        "cos_type_e": "Required",
-        "crsoutline_type": "data",
-        "reg_num": "-999",
-        "depType": "G"
-      },
       "1082_5532": {
         "acy": "108",
         "sem": "2",
@@ -43117,15 +43089,6 @@
           "GECIEngName": ""
         }
       },
-      "1082_5531": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1082_5532": {
         "": {
           "course_category_cname": "",
@@ -43218,12 +43181,6 @@
           "brief": ""
         }
       },
-      "1082_5531": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1082_5532": {
         "": {
           "brief_code": "",
@@ -43278,9 +43235,6 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_5530": {
-        "授課語言代碼": "en-us"
-      },
-      "1082_5531": {
         "授課語言代碼": "en-us"
       },
       "1082_5532": {
@@ -44763,34 +44717,6 @@
         "reg_num": "-999",
         "depType": "G"
       },
-      "1082_5572": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "5572",
-        "cos_code": "IBM6190",
-        "num_limit": "0",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "科技創新與創業",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "http://www.ibm.nctu.edu.tw/ibm/faculty/proTsaidnWebsite/proTsaidn.html",
-        "teacher": "蔡蕙安",
-        "cos_time": "3CDX-TD",
-        "memo": "經管所主開、管科所輔開；上課地點:台北校區",
-        "cos_ename": "Technology Innovation and Entrepreneurship ",
-        "brief": "",
-        "degree": "2",
-        "dep_id": "37",
-        "dep_primary": "1",
-        "dep_cname": "經營管理研究所",
-        "dep_ename": "Institute of Business Management",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "-999",
-        "depType": "G"
-      },
       "1082_5573": {
         "acy": "108",
         "sem": "2",
@@ -45134,15 +45060,6 @@
           "GECIEngName": ""
         }
       },
-      "1082_5572": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1082_5573": {
         "": {
           "course_category_cname": "",
@@ -45295,12 +45212,6 @@
           "brief": ""
         }
       },
-      "1082_5572": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1082_5573": {
         "": {
           "brief_code": "",
@@ -45388,9 +45299,6 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_5571": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1082_5572": {
         "授課語言代碼": "zh-tw"
       },
       "1082_5573": {
@@ -45905,7 +45813,7 @@
         "sem": "2",
         "cos_id": "5190",
         "cos_code": "ITL5612",
-        "num_limit": "20",
+        "num_limit": "25",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "法學英文寫作(英文授課)",
@@ -52034,7 +51942,7 @@
         "dep_ename": "Institute for Social Research and Cultural Studies",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -88883,7 +88791,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "李榮貴",
-        "cos_time": "1EF2A-MB405",
+        "cos_time": "1EF-MB405,2A-MB520",
         "memo": "",
         "cos_ename": "Managerial Decision Analysis",
         "brief": "",

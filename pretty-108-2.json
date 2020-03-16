@@ -7856,7 +7856,7 @@
         "cos_type": "外語",
         "cos_type_e": "Foreign Languages Course",
         "crsoutline_type": "data",
-        "reg_num": "31",
+        "reg_num": "32",
         "depType": "O"
       },
       "1082_7507": {
@@ -27348,6 +27348,34 @@
         "crsoutline_type": "data",
         "reg_num": "171",
         "depType": "G"
+      },
+      "1082_5933": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "5933",
+        "cos_code": "ICN5534",
+        "num_limit": "12",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "機器人學",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "王傑智",
+        "cos_time": "4IJK-EE209",
+        "memo": "【電控所學生注意:畢業學分須修本所課程至少15學分(本所課程為永久課號ICN開頭之課程】",
+        "cos_ename": "Robotics",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "12",
+        "dep_primary": "1",
+        "dep_cname": "電控工程研究所",
+        "dep_ename": "Institute of Electrical Control Engineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "8",
+        "depType": "G"
       }
     },
     "costype": {
@@ -27530,6 +27558,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1082_5933": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -27652,6 +27689,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1082_5933": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -27713,6 +27756,9 @@
         "授課語言代碼": "en-us"
       },
       "1082_5041": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1082_5933": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -33996,34 +34042,6 @@
         "crsoutline_type": "data",
         "reg_num": "135",
         "depType": "G"
-      },
-      "1082_5933": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "5933",
-        "cos_code": "ICN5534",
-        "num_limit": "12",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "機器人學",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "",
-        "teacher": "王傑智",
-        "cos_time": "4IJK-EE209",
-        "memo": "",
-        "cos_ename": "Robotics",
-        "brief": "",
-        "degree": "2",
-        "dep_id": "23",
-        "dep_primary": "1",
-        "dep_cname": "電機工程學系",
-        "dep_ename": "Institute of Electrical Engineering",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "8",
-        "depType": "G"
       }
     },
     "costype": {
@@ -34062,15 +34080,6 @@
           "GECIName": "",
           "GECIEngName": ""
         }
-      },
-      "1082_5933": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
       }
     },
     "brief": {
@@ -34097,12 +34106,6 @@
           "brief_code": "",
           "brief": ""
         }
-      },
-      "1082_5933": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
       }
     },
     "language": {
@@ -34116,9 +34119,6 @@
         "授課語言代碼": "en-us"
       },
       "1082_5081": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1082_5933": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -44171,13 +44171,13 @@
         "degree": "2",
         "dep_id": "36",
         "dep_primary": "1",
-        "dep_cname": "運輸與物流管理學系物流管理博士班",
+        "dep_cname": "運輸與物流管理學系物流管理碩博士班",
         "dep_ename": "Institute of Logistics Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "50",
-        "depType": "D"
+        "depType": "G"
       }
     },
     "costype": {

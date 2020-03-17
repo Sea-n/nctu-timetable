@@ -17969,34 +17969,6 @@
         "reg_num": "26",
         "depType": "O"
       },
-      "1082_0551": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "0551",
-        "cos_code": "DEP1118",
-        "num_limit": "9999",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "物理二(榮譽班)作業演算",
-        "cos_credit": ".00",
-        "cos_hours": "2.00",
-        "TURL": "",
-        "teacher": "陳衛國",
-        "cos_time": "5JK-SC105",
-        "memo": "",
-        "cos_ename": "Physics Recitation (II)",
-        "brief": "",
-        "degree": "0",
-        "dep_id": "UD",
-        "dep_primary": "1",
-        "dep_cname": "物理教學小組",
-        "dep_ename": "Physical section",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "3",
-        "depType": "O"
-      },
       "1082_0552": {
         "acy": "108",
         "sem": "2",
@@ -18081,34 +18053,6 @@
         "reg_num": "9",
         "depType": "O"
       },
-      "1082_0555": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "0555",
-        "cos_code": "DEP1116",
-        "num_limit": "9999",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "物理二作業演算",
-        "cos_credit": ".00",
-        "cos_hours": "2.00",
-        "TURL": "",
-        "teacher": "朱仲夏",
-        "cos_time": "5JK-SC162",
-        "memo": "",
-        "cos_ename": "Physics Recitation (II)",
-        "brief": "",
-        "degree": "0",
-        "dep_id": "UD",
-        "dep_primary": "1",
-        "dep_cname": "物理教學小組",
-        "dep_ename": "Physical section",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "0",
-        "depType": "O"
-      },
       "1082_0561": {
         "acy": "108",
         "sem": "2",
@@ -18135,34 +18079,6 @@
         "cos_type_e": "Required",
         "crsoutline_type": "data",
         "reg_num": "26",
-        "depType": "O"
-      },
-      "1082_0571": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "0571",
-        "cos_code": "DEP1115",
-        "num_limit": "9999",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "物理一作業演算",
-        "cos_credit": ".00",
-        "cos_hours": "2.00",
-        "TURL": "",
-        "teacher": "杜建明",
-        "cos_time": "5JK-SC159",
-        "memo": "",
-        "cos_ename": "Physics Recitation (I)",
-        "brief": "",
-        "degree": "0",
-        "dep_id": "UD",
-        "dep_primary": "1",
-        "dep_cname": "物理教學小組",
-        "dep_ename": "Physical section",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": null,
-        "reg_num": "0",
         "depType": "O"
       },
       "1082_0511": {
@@ -18412,15 +18328,6 @@
           "GECIEngName": ""
         }
       },
-      "1082_0551": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1082_0552": {
         "": {
           "course_category_cname": "",
@@ -18448,15 +18355,6 @@
           "GECIEngName": ""
         }
       },
-      "1082_0555": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1082_0561": {
         "通識跨院基本素養_通識跨院": {
           "course_category_cname": "通識跨院基本素養_通識跨院",
@@ -18464,15 +18362,6 @@
           "course_category_type": "16",
           "GECIName": "客",
           "GECIEngName": "CHK"
-        }
-      },
-      "1082_0571": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
         }
       },
       "1082_0511": {
@@ -18597,12 +18486,6 @@
           "brief": ""
         }
       },
-      "1082_0551": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1082_0552": {
         "": {
           "brief_code": "",
@@ -18621,22 +18504,10 @@
           "brief": ""
         }
       },
-      "1082_0555": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1082_0561": {
         "A105,A504": {
           "brief_code": "A105,A504",
           "brief": "自然/基礎(96),跨院基本素養(106)"
-        }
-      },
-      "1082_0571": {
-        "": {
-          "brief_code": "",
-          "brief": ""
         }
       },
       "1082_0511": {
@@ -18707,9 +18578,6 @@
       "1082_0546": {
         "授課語言代碼": "zh-tw"
       },
-      "1082_0551": {
-        "授課語言代碼": "zh-tw"
-      },
       "1082_0552": {
         "授課語言代碼": "zh-tw"
       },
@@ -18719,13 +18587,7 @@
       "1082_0554": {
         "授課語言代碼": "zh-tw"
       },
-      "1082_0555": {
-        "授課語言代碼": "zh-tw"
-      },
       "1082_0561": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1082_0571": {
         "授課語言代碼": "zh-tw"
       },
       "1082_0511": {
@@ -63417,34 +63279,6 @@
         "reg_num": "1",
         "depType": "M"
       },
-      "1082_4042": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "4042",
-        "cos_code": "ISC5221",
-        "num_limit": "9999",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "進階奈米科技 A",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "",
-        "teacher": "Academia Sinica SCST",
-        "cos_time": "3BCD-",
-        "memo": "中研院物理所 P101室[English Medium Course]",
-        "cos_ename": "Advanced Nanotechnology A",
-        "brief": "",
-        "degree": "2",
-        "dep_id": "85",
-        "dep_primary": "1",
-        "dep_cname": "永續化學科技國際研究生博士學位學程",
-        "dep_ename": "International Graduate Program of Sustainable Chemical Science & Te",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "0",
-        "depType": "M"
-      },
       "1082_4043": {
         "acy": "108",
         "sem": "2",
@@ -63501,34 +63335,6 @@
         "reg_num": "1",
         "depType": "M"
       },
-      "1082_4045": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "4045",
-        "cos_code": "ISC5208",
-        "num_limit": "9999",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "高等化學生物(二)",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "",
-        "teacher": "Academia Sinica SCST",
-        "cos_time": "1B3CD-",
-        "memo": "中研院原分所R121[English Medium Course]",
-        "cos_ename": "Advanced Chemical Biology II",
-        "brief": "",
-        "degree": "2",
-        "dep_id": "85",
-        "dep_primary": "1",
-        "dep_cname": "永續化學科技國際研究生博士學位學程",
-        "dep_ename": "International Graduate Program of Sustainable Chemical Science & Te",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "0",
-        "depType": "M"
-      },
       "1082_4046": {
         "acy": "108",
         "sem": "2",
@@ -63555,34 +63361,6 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "3",
-        "depType": "M"
-      },
-      "1082_4047": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "4047",
-        "cos_code": "ISC5213",
-        "num_limit": "9999",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "電腦模擬運算之藥物設計",
-        "cos_credit": "1.00",
-        "cos_hours": "1.00",
-        "TURL": "",
-        "teacher": "Academia Sinica SCST",
-        "cos_time": "6YI-",
-        "memo": "[English Medium Course]",
-        "cos_ename": "Computer Modeling for Drug Design",
-        "brief": "",
-        "degree": "2",
-        "dep_id": "85",
-        "dep_primary": "1",
-        "dep_cname": "永續化學科技國際研究生博士學位學程",
-        "dep_ename": "International Graduate Program of Sustainable Chemical Science & Te",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "0",
         "depType": "M"
       },
       "1082_4048": {
@@ -63725,15 +63503,6 @@
           "GECIEngName": ""
         }
       },
-      "1082_4042": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1082_4043": {
         "": {
           "course_category_cname": "",
@@ -63752,25 +63521,7 @@
           "GECIEngName": ""
         }
       },
-      "1082_4045": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1082_4046": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
-      "1082_4047": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -63844,12 +63595,6 @@
           "brief": ""
         }
       },
-      "1082_4042": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1082_4043": {
         "": {
           "brief_code": "",
@@ -63862,19 +63607,7 @@
           "brief": ""
         }
       },
-      "1082_4045": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1082_4046": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
-      "1082_4047": {
         "": {
           "brief_code": "",
           "brief": ""
@@ -63918,22 +63651,13 @@
       "1082_4041": {
         "授課語言代碼": "en-us"
       },
-      "1082_4042": {
-        "授課語言代碼": "en-us"
-      },
       "1082_4043": {
         "授課語言代碼": "en-us"
       },
       "1082_4044": {
         "授課語言代碼": "en-us"
       },
-      "1082_4045": {
-        "授課語言代碼": "en-us"
-      },
       "1082_4046": {
-        "授課語言代碼": "en-us"
-      },
-      "1082_4047": {
         "授課語言代碼": "en-us"
       },
       "1082_4048": {
@@ -83822,34 +83546,6 @@
         "reg_num": "3",
         "depType": "U"
       },
-      "1082_1520": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "1520",
-        "cos_code": "DAC3353",
-        "num_limit": "10",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "整合型化學實驗",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "http://140.113.206.58/index.html",
-        "teacher": "黃立心",
-        "cos_time": "4EFG-",
-        "memo": "",
-        "cos_ename": "Integrated Chemistry Laboratory",
-        "brief": "",
-        "degree": "3",
-        "dep_id": "25",
-        "dep_primary": "1",
-        "dep_cname": "應用化學系",
-        "dep_ename": "Department of Applied Chemistry",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "0",
-        "depType": "U"
-      },
       "1082_1516": {
         "acy": "108",
         "sem": "2",
@@ -84150,15 +83846,6 @@
           "GECIEngName": ""
         }
       },
-      "1082_1520": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1082_1516": {
         "": {
           "course_category_cname": "",
@@ -84350,12 +84037,6 @@
           "brief": ""
         }
       },
-      "1082_1520": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1082_1516": {
         "": {
           "brief_code": "",
@@ -84453,9 +84134,6 @@
       },
       "1082_1519": {
         "授課語言代碼": "en-us"
-      },
-      "1082_1520": {
-        "授課語言代碼": "zh-tw"
       },
       "1082_1516": {
         "授課語言代碼": "zh-tw"
@@ -87592,90 +87270,6 @@
         "reg_num": "29",
         "depType": "C"
       },
-      "1082_1662": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "1662",
-        "cos_code": "DWA1016",
-        "num_limit": "9999",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "學期專題(二)",
-        "cos_credit": "2.00",
-        "cos_hours": "2.00",
-        "TURL": "http://aretehp.nctu.edu.tw/",
-        "teacher": "百川學士學位學程",
-        "cos_time": "6D-",
-        "memo": "",
-        "cos_ename": "Directed Reaserch (II)",
-        "brief": "",
-        "degree": "3",
-        "dep_id": "40",
-        "dep_primary": "1",
-        "dep_cname": "百川學士學位學程",
-        "dep_ename": "",
-        "cos_type": "必修",
-        "cos_type_e": "Required",
-        "crsoutline_type": "data",
-        "reg_num": "0",
-        "depType": "C"
-      },
-      "1082_1663": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "1663",
-        "cos_code": "DWA1017",
-        "num_limit": "9999",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "學期專題(二)",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "http://aretehp.nctu.edu.tw/",
-        "teacher": "百川學士學位學程",
-        "cos_time": "6D-",
-        "memo": "",
-        "cos_ename": "Directed Reaserch (II)",
-        "brief": "",
-        "degree": "3",
-        "dep_id": "40",
-        "dep_primary": "1",
-        "dep_cname": "百川學士學位學程",
-        "dep_ename": "",
-        "cos_type": "必修",
-        "cos_type_e": "Required",
-        "crsoutline_type": "data",
-        "reg_num": "0",
-        "depType": "C"
-      },
-      "1082_1664": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "1664",
-        "cos_code": "DWA1018",
-        "num_limit": "9999",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "學期專題(二)",
-        "cos_credit": "4.00",
-        "cos_hours": "4.00",
-        "TURL": "http://aretehp.nctu.edu.tw/",
-        "teacher": "百川學士學位學程",
-        "cos_time": "6D-",
-        "memo": "",
-        "cos_ename": "Directed Reaserch (II)",
-        "brief": "",
-        "degree": "3",
-        "dep_id": "40",
-        "dep_primary": "1",
-        "dep_cname": "百川學士學位學程",
-        "dep_ename": "",
-        "cos_type": "必修",
-        "cos_type_e": "Required",
-        "crsoutline_type": "data",
-        "reg_num": "0",
-        "depType": "C"
-      },
       "1082_1665": {
         "acy": "108",
         "sem": "2",
@@ -87730,90 +87324,6 @@
         "cos_type_e": "Required",
         "crsoutline_type": "data",
         "reg_num": "12",
-        "depType": "C"
-      },
-      "1082_1667": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "1667",
-        "cos_code": "DWA1026",
-        "num_limit": "9999",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "學期專題(四)",
-        "cos_credit": "2.00",
-        "cos_hours": "2.00",
-        "TURL": "http://aretehp.nctu.edu.tw/",
-        "teacher": "百川學士學位學程",
-        "cos_time": "6X-",
-        "memo": "",
-        "cos_ename": "Directed Reaserch (IV)",
-        "brief": "",
-        "degree": "3",
-        "dep_id": "40",
-        "dep_primary": "1",
-        "dep_cname": "百川學士學位學程",
-        "dep_ename": "",
-        "cos_type": "必修",
-        "cos_type_e": "Required",
-        "crsoutline_type": "data",
-        "reg_num": "0",
-        "depType": "C"
-      },
-      "1082_1668": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "1668",
-        "cos_code": "DWA1027",
-        "num_limit": "9999",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "學期專題(四)",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "http://aretehp.nctu.edu.tw/",
-        "teacher": "百川學士學位學程",
-        "cos_time": "6X-",
-        "memo": "",
-        "cos_ename": "Directed Reaserch (IV)",
-        "brief": "",
-        "degree": "3",
-        "dep_id": "40",
-        "dep_primary": "1",
-        "dep_cname": "百川學士學位學程",
-        "dep_ename": "",
-        "cos_type": "必修",
-        "cos_type_e": "Required",
-        "crsoutline_type": "data",
-        "reg_num": "0",
-        "depType": "C"
-      },
-      "1082_1669": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "1669",
-        "cos_code": "DWA1028",
-        "num_limit": "9999",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "學期專題(四)",
-        "cos_credit": "4.00",
-        "cos_hours": "4.00",
-        "TURL": "http://aretehp.nctu.edu.tw/",
-        "teacher": "百川學士學位學程",
-        "cos_time": "",
-        "memo": "",
-        "cos_ename": "Directed Reaserch (IV)",
-        "brief": "",
-        "degree": "3",
-        "dep_id": "40",
-        "dep_primary": "1",
-        "dep_cname": "百川學士學位學程",
-        "dep_ename": "",
-        "cos_type": "必修",
-        "cos_type_e": "Required",
-        "crsoutline_type": "data",
-        "reg_num": "0",
         "depType": "C"
       },
       "1082_1670": {
@@ -87994,33 +87504,6 @@
           "GECIEngName": ""
         }
       },
-      "1082_1662": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
-      "1082_1663": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
-      "1082_1664": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1082_1665": {
         "": {
           "course_category_cname": "",
@@ -88031,33 +87514,6 @@
         }
       },
       "1082_1666": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
-      "1082_1667": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
-      "1082_1668": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
-      "1082_1669": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -88151,24 +87607,6 @@
           "brief": ""
         }
       },
-      "1082_1662": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
-      "1082_1663": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
-      "1082_1664": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1082_1665": {
         "": {
           "brief_code": "",
@@ -88176,24 +87614,6 @@
         }
       },
       "1082_1666": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
-      "1082_1667": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
-      "1082_1668": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
-      "1082_1669": {
         "": {
           "brief_code": "",
           "brief": ""
@@ -88243,28 +87663,10 @@
       "1082_1661": {
         "授課語言代碼": "zh-tw"
       },
-      "1082_1662": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1082_1663": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1082_1664": {
-        "授課語言代碼": "zh-tw"
-      },
       "1082_1665": {
         "授課語言代碼": "zh-tw"
       },
       "1082_1666": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1082_1667": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1082_1668": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1082_1669": {
         "授課語言代碼": "zh-tw"
       },
       "1082_1670": {

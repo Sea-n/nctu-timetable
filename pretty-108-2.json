@@ -1357,6 +1357,34 @@
         "reg_num": "22",
         "depType": "O"
       },
+      "1082_3028": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "3028",
+        "cos_code": "COM1232",
+        "num_limit": "18",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "入門華語會話(二)",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "鄭彩娥",
+        "cos_time": "3CD-A508",
+        "memo": "",
+        "cos_ename": "Introductory Chinese Conversation II",
+        "brief": "",
+        "degree": "0",
+        "dep_id": "U4",
+        "dep_primary": "1",
+        "dep_cname": "華語中心",
+        "dep_ename": "Chinese Language ",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "24",
+        "depType": "O"
+      },
       "1082_3029": {
         "acy": "108",
         "sem": "2",
@@ -1718,6 +1746,15 @@
           "GECIEngName": ""
         }
       },
+      "1082_3028": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1082_3029": {
         "": {
           "course_category_cname": "",
@@ -1882,6 +1919,12 @@
           "brief": "基礎 Beginner(98)"
         }
       },
+      "1082_3028": {
+        "H331": {
+          "brief_code": "H331",
+          "brief": "基礎 Beginner(98)"
+        }
+      },
       "1082_3029": {
         "H331": {
           "brief_code": "H331",
@@ -1975,6 +2018,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_3027": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1082_3028": {
         "授課語言代碼": "zh-tw"
       },
       "1082_3029": {
@@ -3517,7 +3563,7 @@
         "cos_type": "通識",
         "cos_type_e": "General Course",
         "crsoutline_type": "data",
-        "reg_num": "39",
+        "reg_num": "38",
         "depType": "O"
       },
       "1082_6366": {
@@ -24414,7 +24460,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "11",
+        "reg_num": "12",
         "depType": "G"
       },
       "1082_5011": {
@@ -24890,7 +24936,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "64",
+        "reg_num": "63",
         "depType": "G"
       },
       "1082_5028": {
@@ -37187,7 +37233,7 @@
         "cos_credit": "1.00",
         "cos_hours": "3.00",
         "TURL": "",
-        "teacher": "梁美智、陳亭妏、楊裕雄",
+        "teacher": "梁美智、陳亭妏、楊裕雄、尤禎祥",
         "cos_time": "7EFG-",
         "memo": "[English Medium Course]",
         "cos_ename": "Summer / Winter Internship  ",
@@ -43060,13 +43106,13 @@
         "degree": "2",
         "dep_id": "36",
         "dep_primary": "1",
-        "dep_cname": "運輸與物流管理學系物流管理碩博士班",
+        "dep_cname": "運輸與物流管理學系物流管理博士班",
         "dep_ename": "Institute of Logistics Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
         "reg_num": "50",
-        "depType": "G"
+        "depType": "D"
       }
     },
     "costype": {
@@ -45128,7 +45174,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "39",
+        "reg_num": "38",
         "depType": "G"
       },
       "1082_5585": {
@@ -59986,7 +60032,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "曾仁杰",
-        "cos_time": "3IJK-EB227",
+        "cos_time": "6EFG-EB227",
         "memo": "限交大在職專班學生選修",
         "cos_ename": "Project Risk Management and Construction Insurance",
         "brief": "",
@@ -84696,7 +84742,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "43",
+        "reg_num": "45",
         "depType": "U"
       },
       "1082_1643": {

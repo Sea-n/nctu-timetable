@@ -1606,7 +1606,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "11",
+        "reg_num": "9",
         "depType": "O"
       }
     },
@@ -26469,7 +26469,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "林昇甫",
-        "cos_time": "4BCD-EE208",
+        "cos_time": "4BCD-EE106",
         "memo": "【電控所學生注意:畢業學分須修本所課程至少15學分(本所課程為永久課號ICN開頭之課程】",
         "cos_ename": "Pattern Recognition",
         "brief": "",
@@ -39693,7 +39693,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "31",
+        "reg_num": "32",
         "depType": "G"
       },
       "1082_5494": {
@@ -49187,6 +49187,34 @@
         "crsoutline_type": null,
         "reg_num": "14",
         "depType": "G"
+      },
+      "1082_5937": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "5937",
+        "cos_code": "IAR5000",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "個別研究",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "曾成德",
+        "cos_time": "",
+        "memo": "",
+        "cos_ename": "Independent Study",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "47",
+        "dep_primary": "1",
+        "dep_cname": "建築研究所",
+        "dep_ename": "Institute of Architecture",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "1",
+        "depType": "G"
       }
     },
     "costype": {
@@ -49439,6 +49467,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1082_5937": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -49603,6 +49640,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1082_5937": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -49685,6 +49728,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_5936": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1082_5937": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -94036,7 +94082,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "105",
+        "reg_num": "104",
         "depType": "U"
       },
       "1082_1287": {

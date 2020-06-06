@@ -1,6 +1,6 @@
 {
-  "0U3": {
-    "dep_id": "0U3",
+  "B686A720-C6F0-46BC-8BFB-283274A362B7": {
+    "dep_id": "B686A720-C6F0-46BC-8BFB-283274A362B7",
     "dep_cname": "藝文中心",
     "dep_ename": "ARTS Center",
     "1": {
@@ -104,8 +104,8 @@
       }
     }
   },
-  "0U4": {
-    "dep_id": "0U4",
+  "1198DE94-5BBA-49F0-92C5-9CA7368E945C": {
+    "dep_id": "1198DE94-5BBA-49F0-92C5-9CA7368E945C",
     "dep_cname": "華語中心",
     "dep_ename": "Chinese Language ",
     "1": {
@@ -209,8 +209,8 @@
       }
     }
   },
-  "0U5": {
-    "dep_id": "0U5",
+  "F820DFDB-0D95-48BC-B9D9-F7939405AD83": {
+    "dep_id": "F820DFDB-0D95-48BC-B9D9-F7939405AD83",
     "dep_cname": "通識教育中心",
     "dep_ename": "Center of General Education",
     "1": {
@@ -314,8 +314,8 @@
       }
     }
   },
-  "0U6": {
-    "dep_id": "0U6",
+  "F6B39FA0-2284-4B93-B1CF-8ECFF1111A2E": {
+    "dep_id": "F6B39FA0-2284-4B93-B1CF-8ECFF1111A2E",
     "dep_cname": "語言教學與研究中心",
     "dep_ename": "Language Teaching and Research Center",
     "1": {
@@ -373,8 +373,8 @@
       }
     }
   },
-  "0UD": {
-    "dep_id": "0UD",
+  "867086D9-6B6D-46F8-8F76-CC6B834551DB": {
+    "dep_id": "867086D9-6B6D-46F8-8F76-CC6B834551DB",
     "dep_cname": "物理教學小組",
     "dep_ename": "Physical section",
     "1": {
@@ -478,8 +478,8 @@
       }
     }
   },
-  "0UE": {
-    "dep_id": "0UE",
+  "49552B82-2C24-4355-AA37-2E503351C46B": {
+    "dep_id": "49552B82-2C24-4355-AA37-2E503351C46B",
     "dep_cname": "微積分教學小組",
     "dep_ename": "Calculus section",
     "1": {
@@ -675,8 +675,8 @@
       }
     }
   },
-  "0UH": {
-    "dep_id": "0UH",
+  "EDC2AE3B-55E0-40CB-8DA1-BAF46ABAAA7C": {
+    "dep_id": "EDC2AE3B-55E0-40CB-8DA1-BAF46ABAAA7C",
     "dep_cname": "教務處",
     "dep_ename": "Office of Academic Affairs",
     "1": {
@@ -732,7 +732,7 @@
         "dep_ename": "Office of Academic Affairs",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "14",
         "depType": "O"
       },
@@ -817,7 +817,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": null,
-        "reg_num": "16",
+        "reg_num": "17",
         "depType": "O"
       }
     },
@@ -918,8 +918,8 @@
       }
     }
   },
-  "0UO": {
-    "dep_id": "0UO",
+  "B3BDF974-6156-48A8-8D2A-DCC59EAAB19D": {
+    "dep_id": "B3BDF974-6156-48A8-8D2A-DCC59EAAB19D",
     "dep_cname": "國際處",
     "dep_ename": null,
     "1": {
@@ -1171,7 +1171,7 @@
         "dep_ename": null,
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "23",
         "depType": "O"
       },
@@ -1199,7 +1199,7 @@
         "dep_ename": null,
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "18",
         "depType": "O"
       },
@@ -1483,8 +1483,8 @@
       }
     }
   },
-  "211": {
-    "dep_id": "211",
+  "29A058AC-DE9C-4693-8734-B0C601AE6738": {
+    "dep_id": "29A058AC-DE9C-4693-8734-B0C601AE6738",
     "dep_cname": "電子研究所",
     "dep_ename": "Institute of Electronics",
     "1": {
@@ -1588,10 +1588,10 @@
       }
     }
   },
-  "218": {
-    "dep_id": "218",
+  "5970369B-F0A8-4236-AF0F-3261573B6CC2": {
+    "dep_id": "5970369B-F0A8-4236-AF0F-3261573B6CC2",
     "dep_cname": "材料科學與工程學系",
-    "dep_ename": "Institute of Materials Science & Engineering",
+    "dep_ename": "Institute of Materials Science and Engineering",
     "1": {
       "104X_5017": {
         "acy": "104",
@@ -1614,12 +1614,12 @@
         "dep_id": "18",
         "dep_primary": "1",
         "dep_cname": "材料科學與工程學系",
-        "dep_ename": "Institute of Materials Science & Engineering",
+        "dep_ename": "Institute of Materials Science and Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "30",
-        "depType": "D"
+        "depType": "G"
       }
     },
     "costype": {
@@ -1647,8 +1647,8 @@
       }
     }
   },
-  "221": {
-    "dep_id": "221",
+  "41BD6B9E-1F68-4F9C-9762-12776BE7A147": {
+    "dep_id": "41BD6B9E-1F68-4F9C-9762-12776BE7A147",
     "dep_cname": "電子物理學系",
     "dep_ename": "Institute of Electro-Physics",
     "1": {
@@ -1706,8 +1706,8 @@
       }
     }
   },
-  "222": {
-    "dep_id": "222",
+  "1E6033DF-9E59-4AE3-A553-583E11583D47": {
+    "dep_id": "1E6033DF-9E59-4AE3-A553-583E11583D47",
     "dep_cname": "應用數學系",
     "dep_ename": "Institute of Applied Mathematics",
     "1": {
@@ -1765,8 +1765,8 @@
       }
     }
   },
-  "231": {
-    "dep_id": "231",
+  "FFC961F1-2C03-4FB3-870B-FB60725FDCE3": {
+    "dep_id": "FFC961F1-2C03-4FB3-870B-FB60725FDCE3",
     "dep_cname": "管理科學系",
     "dep_ename": "Institute of Management Science",
     "1": {
@@ -1796,7 +1796,7 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "4",
-        "depType": "D"
+        "depType": "G"
       },
       "104X_5002": {
         "acy": "104",
@@ -1870,8 +1870,8 @@
       }
     }
   },
-  "233": {
-    "dep_id": "233",
+  "82B98FB5-EE9C-4751-A3C1-1C772C204240": {
+    "dep_id": "82B98FB5-EE9C-4751-A3C1-1C772C204240",
     "dep_cname": "工業工程與管理學系",
     "dep_ename": "Department of Industrial Engineering and Management",
     "1": {
@@ -1929,8 +1929,8 @@
       }
     }
   },
-  "239": {
-    "dep_id": "239",
+  "78B86127-A99A-4DCB-9650-B5C8D8F39B59": {
+    "dep_id": "78B86127-A99A-4DCB-9650-B5C8D8F39B59",
     "dep_cname": "資訊管理與財務金融系財務金融碩博士班",
     "dep_ename": "Graduate institute of finance",
     "1": {
@@ -1988,8 +1988,8 @@
       }
     }
   },
-  "241": {
-    "dep_id": "241",
+  "B30BAB23-F209-4C0B-B78C-69FA82B4845C": {
+    "dep_id": "B30BAB23-F209-4C0B-B78C-69FA82B4845C",
     "dep_cname": "傳播研究所",
     "dep_ename": "Institute of Communication Studies",
     "1": {
@@ -2047,8 +2047,8 @@
       }
     }
   },
-  "254": {
-    "dep_id": "254",
+  "FAC06B29-190D-4650-B7EB-10ADEB0D6B0A": {
+    "dep_id": "FAC06B29-190D-4650-B7EB-10ADEB0D6B0A",
     "dep_cname": "傳播與科技學系",
     "dep_ename": "Department of Communication and Technology",
     "1": {
@@ -2106,8 +2106,8 @@
       }
     }
   },
-  "255": {
-    "dep_id": "255",
+  "F097A7AA-BB64-4C3F-B00C-799B5BF76D7F": {
+    "dep_id": "F097A7AA-BB64-4C3F-B00C-799B5BF76D7F",
     "dep_cname": "資訊科學與工程研究所",
     "dep_ename": "Institute of Computer Science and Engineering",
     "1": {
@@ -2165,8 +2165,8 @@
       }
     }
   },
-  "261": {
-    "dep_id": "261",
+  "A9F5FF55-A079-477C-9527-564D092F10C7": {
+    "dep_id": "A9F5FF55-A079-477C-9527-564D092F10C7",
     "dep_cname": "高階主管管理碩士學程",
     "dep_ename": "Degree Program of Management for Executives",
     "1": {
@@ -2270,8 +2270,8 @@
       }
     }
   },
-  "262": {
-    "dep_id": "262",
+  "483A74DF-13DF-40D6-B125-AE7D2F2946BA": {
+    "dep_id": "483A74DF-13DF-40D6-B125-AE7D2F2946BA",
     "dep_cname": "管理學院碩士在職專班-管科組",
     "dep_ename": "Degree Program of Management Science",
     "1": {
@@ -2421,8 +2421,8 @@
       }
     }
   },
-  "263": {
-    "dep_id": "263",
+  "7B1AC97F-AB3C-4A03-AFC4-8B3F825AB632": {
+    "dep_id": "7B1AC97F-AB3C-4A03-AFC4-8B3F825AB632",
     "dep_cname": "管理學院碩士在職專班-工管組",
     "dep_ename": "Degree Program of Industrial Engineering and Management",
     "1": {
@@ -2572,8 +2572,8 @@
       }
     }
   },
-  "265": {
-    "dep_id": "265",
+  "36D1A068-8A6B-4536-9015-D178A59577EC": {
+    "dep_id": "36D1A068-8A6B-4536-9015-D178A59577EC",
     "dep_cname": "管理學院碩士在職專班-科管組",
     "dep_ename": "Degree Program of Management of Technology",
     "1": {
@@ -2723,8 +2723,8 @@
       }
     }
   },
-  "267": {
-    "dep_id": "267",
+  "74E5BE29-E5B7-44D4-B3AE-EDDD225E2A93": {
+    "dep_id": "74E5BE29-E5B7-44D4-B3AE-EDDD225E2A93",
     "dep_cname": "電機學院碩士在職專班",
     "dep_ename": "Degree Program of Electrical and Computer Science",
     "1": {
@@ -2782,8 +2782,8 @@
       }
     }
   },
-  "268": {
-    "dep_id": "268",
+  "E2EF737A-BF42-408A-A2B3-59533017F7C2": {
+    "dep_id": "E2EF737A-BF42-408A-A2B3-59533017F7C2",
     "dep_cname": "科技法律研究所碩士在職專班",
     "dep_ename": "Degree Program of Technology Law",
     "1": {
@@ -2933,8 +2933,8 @@
       }
     }
   },
-  "274": {
-    "dep_id": "274",
+  "A8A7D5C3-9AC4-49E4-A799-3B53CBD46CCE": {
+    "dep_id": "A8A7D5C3-9AC4-49E4-A799-3B53CBD46CCE",
     "dep_cname": "管理學院碩士在職專班-經管組",
     "dep_ename": "Degree Program of Business Management",
     "1": {
@@ -3038,8 +3038,8 @@
       }
     }
   },
-  "278": {
-    "dep_id": "278",
+  "30B55C0F-1EF3-4B53-8EF8-3D26A8DDDC87": {
+    "dep_id": "30B55C0F-1EF3-4B53-8EF8-3D26A8DDDC87",
     "dep_cname": "客家社會與文化碩士在職專班",
     "dep_ename": "Degree Program of Hakka Society and Culture for In-Service Teachers",
     "1": {
@@ -3143,8 +3143,8 @@
       }
     }
   },
-  "2M1": {
-    "dep_id": "2M1",
+  "A61F83C3-A0B8-4457-B535-713BA3CA5DA1": {
+    "dep_id": "A61F83C3-A0B8-4457-B535-713BA3CA5DA1",
     "dep_cname": "管理學院院本部",
     "dep_ename": "College of Management",
     "1": {
@@ -3202,8 +3202,8 @@
       }
     }
   },
-  "311": {
-    "dep_id": "311",
+  "049C687B-46BD-4E42-9A12-1D54874477A0": {
+    "dep_id": "049C687B-46BD-4E42-9A12-1D54874477A0",
     "dep_cname": "電子工程學系",
     "dep_ename": "Department of Electronics Engineering",
     "1": {
@@ -3261,8 +3261,8 @@
       }
     }
   },
-  "314": {
-    "dep_id": "314",
+  "EA401C63-54EF-4F56-B1AE-E398629D9005": {
+    "dep_id": "EA401C63-54EF-4F56-B1AE-E398629D9005",
     "dep_cname": "機械工程學系",
     "dep_ename": "Department of Mechanical Engineering",
     "1": {
@@ -3366,8 +3366,8 @@
       }
     }
   },
-  "316": {
-    "dep_id": "316",
+  "C4C32026-B85E-4A0B-942E-EA4821B77242": {
+    "dep_id": "C4C32026-B85E-4A0B-942E-EA4821B77242",
     "dep_cname": "土木工程學系",
     "dep_ename": "Department of Civil Engineering",
     "1": {
@@ -3425,8 +3425,8 @@
       }
     }
   },
-  "317": {
-    "dep_id": "317",
+  "E2D47D2E-B529-4449-8619-8561D3401D32": {
+    "dep_id": "E2D47D2E-B529-4449-8619-8561D3401D32",
     "dep_cname": "資訊工程學系",
     "dep_ename": "Department of Computer Science",
     "1": {
@@ -3530,8 +3530,8 @@
       }
     }
   },
-  "323": {
-    "dep_id": "323",
+  "73CEC435-74FF-49FE-88E7-63F369B3A3C5": {
+    "dep_id": "73CEC435-74FF-49FE-88E7-63F369B3A3C5",
     "dep_cname": "電機工程學系",
     "dep_ename": "Department of Electrical and Computer Engineering",
     "1": {
@@ -3635,8 +3635,8 @@
       }
     }
   },
-  "325": {
-    "dep_id": "325",
+  "FBD12D47-AE15-4D1E-AA2E-1398CCCADD45": {
+    "dep_id": "FBD12D47-AE15-4D1E-AA2E-1398CCCADD45",
     "dep_cname": "應用化學系",
     "dep_ename": "Department of Applied Chemistry",
     "1": {
@@ -3786,8 +3786,8 @@
       }
     }
   },
-  "344": {
-    "dep_id": "344",
+  "2899D2A7-74F5-4778-9D0E-348CB10E9BCB": {
+    "dep_id": "2899D2A7-74F5-4778-9D0E-348CB10E9BCB",
     "dep_cname": "資訊管理與財務金融系",
     "dep_ename": "Department of Information and Finance Management",
     "1": {
@@ -3845,8 +3845,8 @@
       }
     }
   },
-  "3M1": {
-    "dep_id": "3M1",
+  "5F048E6C-CF97-4BD0-AC8A-6E03B29E201B": {
+    "dep_id": "5F048E6C-CF97-4BD0-AC8A-6E03B29E201B",
     "dep_cname": "管理學院院本部",
     "dep_ename": "College of Management",
     "1": {
@@ -3950,8 +3950,8 @@
       }
     }
   },
-  "3S1": {
-    "dep_id": "3S1",
+  "BE42A7CA-709D-4388-8B9E-9DD9353237B5": {
+    "dep_id": "BE42A7CA-709D-4388-8B9E-9DD9353237B5",
     "dep_cname": "理學院院本部",
     "dep_ename": "College of Science",
     "1": {
@@ -4009,8 +4009,8 @@
       }
     }
   },
-  "3ZZ": {
-    "dep_id": "3ZZ",
+  "6326D7B0-21E6-49F4-A6A3-1E079710C1E2": {
+    "dep_id": "6326D7B0-21E6-49F4-A6A3-1E079710C1E2",
     "dep_cname": "外國學校",
     "dep_ename": "Foreign school",
     "1": {
@@ -4026,7 +4026,7 @@
         "cos_credit": "3.00",
         "cos_hours": "3.00",
         "TURL": "",
-        "teacher": null,
+        "teacher": "",
         "cos_time": "",
         "memo": "",
         "cos_ename": "Financial Management",
@@ -4054,7 +4054,7 @@
         "cos_credit": "3.00",
         "cos_hours": "3.00",
         "TURL": "",
-        "teacher": null,
+        "teacher": "",
         "cos_time": "",
         "memo": "",
         "cos_ename": "Introduction to Asian Art History",
@@ -4082,7 +4082,7 @@
         "cos_credit": "2.00",
         "cos_hours": "2.00",
         "TURL": "",
-        "teacher": null,
+        "teacher": "",
         "cos_time": "",
         "memo": "",
         "cos_ename": "Technology and Application of New Energy",
@@ -4110,7 +4110,7 @@
         "cos_credit": "2.00",
         "cos_hours": "2.00",
         "TURL": "",
-        "teacher": null,
+        "teacher": "",
         "cos_time": "",
         "memo": "",
         "cos_ename": "Sociology of Food",
@@ -4138,7 +4138,7 @@
         "cos_credit": "2.80",
         "cos_hours": "2.80",
         "TURL": "",
-        "teacher": null,
+        "teacher": "",
         "cos_time": "",
         "memo": "",
         "cos_ename": "Introduction to Computing with Excel VBA",
@@ -4166,7 +4166,7 @@
         "cos_credit": ".80",
         "cos_hours": ".80",
         "TURL": "",
-        "teacher": null,
+        "teacher": "",
         "cos_time": "",
         "memo": "",
         "cos_ename": "Independent Study: Statistical Analysis of Network Data",
@@ -4298,8 +4298,8 @@
       }
     }
   },
-  "249": {
-    "dep_id": "249",
+  "79E1732D-99B0-4766-99BB-C2F15042E9AC": {
+    "dep_id": "79E1732D-99B0-4766-99BB-C2F15042E9AC",
     "dep_cname": "社會與文化研究所",
     "dep_ename": "Institute for Social Research and Cultural Studies",
     "1": {
@@ -4357,8 +4357,8 @@
       }
     }
   },
-  "272": {
-    "dep_id": "272",
+  "2842CA5A-8AA1-42DC-BBE5-4293B8F327D1": {
+    "dep_id": "2842CA5A-8AA1-42DC-BBE5-4293B8F327D1",
     "dep_cname": "管理學院碩士在職專班-財金組",
     "dep_ename": "Degree Program of Financ",
     "1": {

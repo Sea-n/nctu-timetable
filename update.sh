@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 cd `dirname $0`
 
-from=${1:-107}
+from=${1:-108}
 to=${2:-109}
 
 for y in `seq $from $to`; do
@@ -12,13 +12,17 @@ for y in `seq $from $to`; do
 			-d "m_sem=$t" \
 			-d "m_acyend=$y" \
 			-d "m_semend=$t" \
-			-d 'm_degree=**' \
-			-d 'm_dep_id=**' \
+			-d 'm_dep_uid=**' \
 			-d 'm_group=**' \
 			-d 'm_grade=**' \
 			-d 'm_class=**' \
 			-d 'm_option=crsname' \
-			-d 'm_crsoutline=' \
+			-d 'm_teaname=**' \
+			-d 'm_cos_id=**' \
+			-d 'm_cos_code=**' \
+			-d 'm_crstime=**' \
+			-d 'm_costype=**' \
+			-d 'm_crsoutline=**' \
 			-d 'm_crsname= ' \
 			> raw-name-$y-$t.json
 
@@ -27,17 +31,34 @@ for y in `seq $from $to`; do
 			-d "m_sem=$t" \
 			-d "m_acyend=$y" \
 			-d "m_semend=$t" \
-			-d 'm_degree=**' \
-			-d 'm_dep_id=**' \
+			-d 'm_dep_uid=**' \
 			-d 'm_group=**' \
 			-d 'm_grade=**' \
 			-d 'm_class=**' \
 			-d 'm_option=crsoutline' \
-			-d 'm_crsoutline=' \
-			-d 'm_crsname= ' \
+			-d 'm_teaname=**' \
+			-d 'm_cos_id=**' \
+			-d 'm_cos_code=**' \
+			-d 'm_crstime=**' \
+			-d 'm_costype=**' \
+			-d 'm_crsname=**' \
+			-d 'm_crsoutline= ' \
 			> raw-outline-$y-$t.json
 
-			jq -s '.[0] * .[1]' raw-name-$y-$t.json raw-outline-$y-$t.json > pretty-$y-$t.json
+			if [ `wc -c < raw-name-$y-$t.json` -gt 1234 ]; then
+				if [ `wc -c < raw-outline-$y-$t.json` -gt 1234 ]; then
+					jq -s '.[0] * .[1]' raw-name-$y-$t.json raw-outline-$y-$t.json > pretty-$y-$t.json
+				else
+					jq raw-name-$y-$t.json > pretty-$y-$t.json
+				fi
+			else
+				if [ `wc -c < raw-outline-$y-$t.json` -gt 1234 ]; then
+					jq raw-outline-$y-$t.json > pretty-$y-$t.json
+				else
+					echo "Failed: $y $t"
+				fi
+			fi
+
 			wc pretty-$y-$t.json
 		) &
 	done

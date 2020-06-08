@@ -38209,7 +38209,7 @@
         "dep_ename": "Language Teaching and Research Center",
         "cos_type": "外語",
         "cos_type_e": "Foreign Languages Course",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -38741,7 +38741,7 @@
         "dep_ename": "Language Teaching and Research Center",
         "cos_type": "外語",
         "cos_type_e": "Foreign Languages Course",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -38993,7 +38993,7 @@
         "dep_ename": "Language Teaching and Research Center",
         "cos_type": "外語",
         "cos_type_e": "Foreign Languages Course",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -39245,7 +39245,7 @@
         "dep_ename": "Language Teaching and Research Center",
         "cos_type": "外語",
         "cos_type_e": "Foreign Languages Course",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -56986,7 +56986,7 @@
         "cos_id": "5241",
         "cos_code": "IOC5008",
         "num_limit": "60",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "基於深度學習之視覺辨識專論(英文授課)",
         "cos_credit": "3.00",
@@ -57014,7 +57014,7 @@
         "cos_id": "5248",
         "cos_code": "IOC5091",
         "num_limit": "40",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "計算機架構(英文授課)",
         "cos_credit": "3.00",
@@ -57042,7 +57042,7 @@
         "cos_id": "5249",
         "cos_code": "IOC5092",
         "num_limit": "80",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "作業系統(英文授課)",
         "cos_credit": "3.00",
@@ -57070,7 +57070,7 @@
         "cos_id": "5251",
         "cos_code": "IOC5144",
         "num_limit": "90",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "正規語言與計算理論(英文授課)",
         "cos_credit": "3.00",
@@ -57098,7 +57098,7 @@
         "cos_id": "5258",
         "cos_code": "IOC5191",
         "num_limit": "45",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "機器學習(英文授課)",
         "cos_credit": "3.00",
@@ -57126,7 +57126,7 @@
         "cos_id": "5264",
         "cos_code": "IOE5041",
         "num_limit": "36",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "計算機網路(英文授課)",
         "cos_credit": "3.00",
@@ -57154,7 +57154,7 @@
         "cos_id": "5265",
         "cos_code": "IOE5047",
         "num_limit": "40",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "排隊理論(英文授課)",
         "cos_credit": "3.00",
@@ -57182,7 +57182,7 @@
         "cos_id": "5266",
         "cos_code": "IOE5048",
         "num_limit": "80",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "網路安全(英文授課)",
         "cos_credit": "3.00",
@@ -57340,7 +57340,7 @@
         "dep_ename": "Electrical Engineering and Computer Science-International Program",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "P"
       },
@@ -57405,8 +57405,8 @@
         "sem": "1",
         "cos_id": "5252",
         "cos_code": "IOC5158",
-        "num_limit": "105",
-        "dep_limit": "*",
+        "num_limit": "70",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "論文研討(英文授課）",
         "cos_credit": ".00",
@@ -71000,34 +71000,6 @@
         "reg_num": "0",
         "depType": "G"
       },
-      "1091_5805": {
-        "acy": "109",
-        "sem": "1",
-        "cos_id": "5805",
-        "cos_code": "IED5201",
-        "num_limit": "9999",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "數位學習論文研討",
-        "cos_credit": "1.00",
-        "cos_hours": "1.00",
-        "TURL": "http://www.ied.nctu.edu.tw/professor/cchou.htm",
-        "teacher": "周倩",
-        "cos_time": "2X-HA216",
-        "memo": "",
-        "cos_ename": "Seminar in E-learning",
-        "brief": "",
-        "degree": "3",
-        "dep_id": "460",
-        "dep_primary": "1",
-        "dep_cname": "教育研究所",
-        "dep_ename": "Institute of Education",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "0",
-        "depType": "G"
-      },
       "1091_5807": {
         "acy": "109",
         "sem": "1",
@@ -71286,15 +71258,6 @@
           "GECIEngName": ""
         }
       },
-      "1091_5805": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1091_5807": {
         "": {
           "course_category_cname": "",
@@ -71429,12 +71392,6 @@
           "brief": ""
         }
       },
-      "1091_5805": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1091_5807": {
         "": {
           "brief_code": "",
@@ -71508,9 +71465,6 @@
       },
       "1091_5804": {
         "授課語言代碼": "en-us"
-      },
-      "1091_5805": {
-        "授課語言代碼": "zh-tw"
       },
       "1091_5807": {
         "授課語言代碼": "zh-tw"
@@ -83140,7 +83094,7 @@
         "cos_id": "5241",
         "cos_code": "IOC5008",
         "num_limit": "60",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "基於深度學習之視覺辨識專論(英文授課)",
         "cos_credit": "3.00",
@@ -83168,7 +83122,7 @@
         "cos_id": "5242",
         "cos_code": "IOC5010",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "個別研究",
         "cos_credit": "1.00",
@@ -83196,7 +83150,7 @@
         "cos_id": "5244",
         "cos_code": "IOC5031",
         "num_limit": "45",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "軟體工程",
         "cos_credit": "3.00",
@@ -83224,7 +83178,7 @@
         "cos_id": "5245",
         "cos_code": "IOC5063",
         "num_limit": "60",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "密碼理論",
         "cos_credit": "3.00",
@@ -83252,7 +83206,7 @@
         "cos_id": "5246",
         "cos_code": "IOC5076",
         "num_limit": "60",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "圖形理論",
         "cos_credit": "3.00",
@@ -83280,7 +83234,7 @@
         "cos_id": "5247",
         "cos_code": "IOC5087",
         "num_limit": "30",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "程式安全",
         "cos_credit": "3.00",
@@ -83308,7 +83262,7 @@
         "cos_id": "5248",
         "cos_code": "IOC5091",
         "num_limit": "40",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "計算機架構(英文授課)",
         "cos_credit": "3.00",
@@ -83336,7 +83290,7 @@
         "cos_id": "5249",
         "cos_code": "IOC5092",
         "num_limit": "80",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "作業系統(英文授課)",
         "cos_credit": "3.00",
@@ -83364,7 +83318,7 @@
         "cos_id": "5250",
         "cos_code": "IOC5121",
         "num_limit": "60",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "電腦對局理論",
         "cos_credit": "3.00",
@@ -83392,7 +83346,7 @@
         "cos_id": "5251",
         "cos_code": "IOC5144",
         "num_limit": "90",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "正規語言與計算理論(英文授課)",
         "cos_credit": "3.00",
@@ -83420,7 +83374,7 @@
         "cos_id": "5253",
         "cos_code": "IOC5159",
         "num_limit": "25",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "生醫資料探勘",
         "cos_credit": "3.00",
@@ -83448,7 +83402,7 @@
         "cos_id": "5254",
         "cos_code": "IOC5169",
         "num_limit": "7",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "校務系統開發與管理(一)",
         "cos_credit": "3.00",
@@ -83476,7 +83430,7 @@
         "cos_id": "5255",
         "cos_code": "IOC5181",
         "num_limit": "130",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "平行程式設計",
         "cos_credit": "3.00",
@@ -83504,7 +83458,7 @@
         "cos_id": "5256",
         "cos_code": "IOC5182",
         "num_limit": "6",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "系統與網路管理實習",
         "cos_credit": ".00",
@@ -83532,7 +83486,7 @@
         "cos_id": "5257",
         "cos_code": "IOC5190",
         "num_limit": "40",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "使用者中心互動介面設計",
         "cos_credit": "3.00",
@@ -83560,7 +83514,7 @@
         "cos_id": "5258",
         "cos_code": "IOC5191",
         "num_limit": "45",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "機器學習(英文授課)",
         "cos_credit": "3.00",
@@ -83588,7 +83542,7 @@
         "cos_id": "5259",
         "cos_code": "IOC5197",
         "num_limit": "6",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "系統與網路服務研究(一)",
         "cos_credit": "3.00",
@@ -83616,7 +83570,7 @@
         "cos_id": "5954",
         "cos_code": "IOC5009",
         "num_limit": "40",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "機器學習晶片架構設計(英文授課)",
         "cos_credit": "3.00",
@@ -83672,7 +83626,7 @@
         "cos_id": "5243",
         "cos_code": "IOC5029",
         "num_limit": "120",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "演算法",
         "cos_credit": "3.00",
@@ -83699,8 +83653,8 @@
         "sem": "1",
         "cos_id": "5252",
         "cos_code": "IOC5158",
-        "num_limit": "105",
-        "dep_limit": "*",
+        "num_limit": "70",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "論文研討(英文授課）",
         "cos_credit": ".00",
@@ -84119,7 +84073,7 @@
         "cos_id": "5261",
         "cos_code": "IOE5010",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "個別研究",
         "cos_credit": "1.00",
@@ -84147,7 +84101,7 @@
         "cos_id": "5262",
         "cos_code": "IOE5015",
         "num_limit": "130",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "網路程式設計",
         "cos_credit": "3.00",
@@ -84175,7 +84129,7 @@
         "cos_id": "5263",
         "cos_code": "IOE5020",
         "num_limit": "60",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "無線多媒體網路",
         "cos_credit": "3.00",
@@ -84203,7 +84157,7 @@
         "cos_id": "5264",
         "cos_code": "IOE5041",
         "num_limit": "36",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "計算機網路(英文授課)",
         "cos_credit": "3.00",
@@ -84231,7 +84185,7 @@
         "cos_id": "5265",
         "cos_code": "IOE5047",
         "num_limit": "40",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "排隊理論(英文授課)",
         "cos_credit": "3.00",
@@ -84259,7 +84213,7 @@
         "cos_id": "5266",
         "cos_code": "IOE5048",
         "num_limit": "80",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "網路安全(英文授課)",
         "cos_credit": "3.00",
@@ -84287,7 +84241,7 @@
         "cos_id": "5267",
         "cos_code": "IOE5088",
         "num_limit": "40",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "嵌入式系統設計",
         "cos_credit": "3.00",
@@ -84315,7 +84269,7 @@
         "cos_id": "5268",
         "cos_code": "IOE5097",
         "num_limit": "60",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "軟體定義網路及網路功能虛擬化",
         "cos_credit": "3.00",
@@ -84343,7 +84297,7 @@
         "cos_id": "5269",
         "cos_code": "IOE5114",
         "num_limit": "36",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "物聯網裝置與平台",
         "cos_credit": "3.00",
@@ -84371,7 +84325,7 @@
         "cos_id": "5270",
         "cos_code": "IOE5108",
         "num_limit": "20",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "科技人職涯發展的軟實力",
         "cos_credit": "3.00",
@@ -84399,7 +84353,7 @@
         "cos_id": "5271",
         "cos_code": "IOE5113",
         "num_limit": "36",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "可程式化網路交換機",
         "cos_credit": "3.00",
@@ -84880,7 +84834,7 @@
         "dep_ename": "Institute of Multimedia Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       }
@@ -100389,34 +100343,6 @@
         "reg_num": "0",
         "depType": "G"
       },
-      "1091_5155": {
-        "acy": "109",
-        "sem": "1",
-        "cos_id": "5155",
-        "cos_code": "IIB5123",
-        "num_limit": "9999",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "光學顯微技術",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "",
-        "teacher": "陳怡君",
-        "cos_time": "5BCD-CM212",
-        "memo": "上課地點：台南校區",
-        "cos_ename": "Optical Microscopy",
-        "brief": "",
-        "degree": "3",
-        "dep_id": "806",
-        "dep_primary": "1",
-        "dep_cname": "影像與生醫光電研究所",
-        "dep_ename": "Institute of Imaging and Biomedical Photonics",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": null,
-        "reg_num": "0",
-        "depType": "G"
-      },
       "1091_5156": {
         "acy": "109",
         "sem": "1",
@@ -100539,15 +100465,6 @@
           "GECIEngName": ""
         }
       },
-      "1091_5155": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1091_5156": {
         "": {
           "course_category_cname": "",
@@ -100601,12 +100518,6 @@
           "brief": ""
         }
       },
-      "1091_5155": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1091_5156": {
         "": {
           "brief_code": "",
@@ -100637,9 +100548,6 @@
         "授課語言代碼": "zh-tw"
       },
       "1091_5154": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1091_5155": {
         "授課語言代碼": "zh-tw"
       },
       "1091_5156": {
@@ -101272,62 +101180,6 @@
         "reg_num": "0",
         "depType": "G"
       },
-      "1091_5162": {
-        "acy": "109",
-        "sem": "1",
-        "cos_id": "5162",
-        "cos_code": "IPO5008",
-        "num_limit": "24",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "光電實驗",
-        "cos_credit": "1.00",
-        "cos_hours": "3.00",
-        "TURL": "",
-        "teacher": "藍宇彬、陳國平、尤信介",
-        "cos_time": "1XEF-CM224",
-        "memo": "為光電系統研究所、照明與能源光電研究所、影像與生醫光電研究所核心必選課程；分兩班開課，請勿重覆選課；上課地點：台南校區",
-        "cos_ename": "Photonies Laboratory",
-        "brief": "",
-        "degree": "3",
-        "dep_id": "8O1",
-        "dep_primary": "1",
-        "dep_cname": "光電學院",
-        "dep_ename": "College of Photonics",
-        "cos_type": "必修",
-        "cos_type_e": "Required",
-        "crsoutline_type": "data",
-        "reg_num": "0",
-        "depType": "G"
-      },
-      "1091_5163": {
-        "acy": "109",
-        "sem": "1",
-        "cos_id": "5163",
-        "cos_code": "IPO5008",
-        "num_limit": "24",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "光電實驗",
-        "cos_credit": "1.00",
-        "cos_hours": "3.00",
-        "TURL": "",
-        "teacher": "藍宇彬、陳國平、尤信介",
-        "cos_time": "1GHY-CM219",
-        "memo": "為光電系統研究所、照明與能源光電研究所、影像與生醫光電研究所核心必選課程；分兩班開課，請勿重覆選課；上課地點：台南校區",
-        "cos_ename": "Photonies Laboratory",
-        "brief": "",
-        "degree": "3",
-        "dep_id": "8O1",
-        "dep_primary": "1",
-        "dep_cname": "光電學院",
-        "dep_ename": "College of Photonics",
-        "cos_type": "必修",
-        "cos_type_e": "Required",
-        "crsoutline_type": "data",
-        "reg_num": "0",
-        "depType": "G"
-      },
       "1091_5165": {
         "acy": "109",
         "sem": "1",
@@ -101432,24 +101284,6 @@
           "GECIEngName": ""
         }
       },
-      "1091_5162": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
-      "1091_5163": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1091_5165": {
         "": {
           "course_category_cname": "",
@@ -101491,18 +101325,6 @@
           "brief": ""
         }
       },
-      "1091_5162": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
-      "1091_5163": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1091_5165": {
         "": {
           "brief_code": "",
@@ -101527,12 +101349,6 @@
         "授課語言代碼": "en-us"
       },
       "1091_5161": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1091_5162": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1091_5163": {
         "授課語言代碼": "zh-tw"
       },
       "1091_5165": {
@@ -111402,7 +111218,7 @@
         "dep_ename": "College of Computer Science",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },

@@ -49,11 +49,11 @@ for y in `seq $from $to`; do
 				if [ `wc -c < raw-outline-$y-$t.json` -gt 1234 ]; then
 					jq -s '.[0] * .[1]' raw-name-$y-$t.json raw-outline-$y-$t.json > pretty-$y-$t.json
 				else
-					jq raw-name-$y-$t.json > pretty-$y-$t.json
+					jq -s . raw-name-$y-$t.json > pretty-$y-$t.json
 				fi
 			else
 				if [ `wc -c < raw-outline-$y-$t.json` -gt 1234 ]; then
-					jq raw-outline-$y-$t.json > pretty-$y-$t.json
+					jq -s . raw-outline-$y-$t.json > pretty-$y-$t.json
 				else
 					echo "Failed: $y $t"
 				fi

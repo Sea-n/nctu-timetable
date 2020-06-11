@@ -339,7 +339,7 @@
         "cos_hours": "2.00",
         "TURL": "",
         "teacher": "吳舜華",
-        "cos_time": "3BCD5BCD-A501",
+        "cos_time": "2EFG4EFG-A501",
         "memo": "日期:7月7日-8月13日[English Medium Course]",
         "cos_ename": "Backpacker English",
         "brief": "",
@@ -2033,7 +2033,7 @@
         "dep_ename": "Department of Computer Science",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -2412,6 +2412,65 @@
         "授課語言代碼": "zh-tw"
       },
       "108X_1042": {
+        "授課語言代碼": "zh-tw"
+      }
+    }
+  },
+  "1CFC1720-6FE9-4265-98E5-06916C1DFF0D": {
+    "dep_id": "1CFC1720-6FE9-4265-98E5-06916C1DFF0D",
+    "dep_cname": "人文社會學系",
+    "dep_ename": "Department of Humanities and Social Sciences",
+    "1": {
+      "108X_1017": {
+        "acy": "108",
+        "sem": "X",
+        "cos_id": "1017",
+        "cos_code": "DHS3169",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "西洋文學名著選讀",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "http://hs.nctu.edu.tw/Faculty/HCTuan",
+        "teacher": "段馨君",
+        "cos_time": "1EFG-CSPC2,5EFG-CS-訓練",
+        "memo": "日期:7月6日-9月4日",
+        "cos_ename": "Selected Readings in Western Literature",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "53",
+        "dep_primary": "1",
+        "dep_cname": "人文社會學系",
+        "dep_ename": "Department of Humanities and Social Sciences",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "U"
+      }
+    },
+    "costype": {
+      "108X_1017": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "108X_1017": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      }
+    },
+    "language": {
+      "108X_1017": {
         "授課語言代碼": "zh-tw"
       }
     }

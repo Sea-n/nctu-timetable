@@ -2078,7 +2078,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "單智君",
-        "cos_time": "2EFG3EFG4EFG-ED202",
+        "cos_time": "2EFG3EFG4EFG-EC115",
         "memo": "日期:7月7日-8月18日,資工系優先.",
         "cos_ename": "Digital Circuit Design",
         "brief": "",
@@ -2304,7 +2304,7 @@
         "dep_ename": "Department of Applied Chemistry",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -2332,7 +2332,7 @@
         "dep_ename": "Department of Applied Chemistry",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       }
@@ -2852,6 +2852,65 @@
     },
     "language": {
       "108X_5034": {
+        "授課語言代碼": "zh-tw"
+      }
+    }
+  },
+  "2842CA5A-8AA1-42DC-BBE5-4293B8F327D1": {
+    "dep_id": "2842CA5A-8AA1-42DC-BBE5-4293B8F327D1",
+    "dep_cname": "管理學院碩士在職專班-財金組",
+    "dep_ename": "Degree Program of Financ",
+    "1": {
+      "108X_5025": {
+        "acy": "108",
+        "sem": "X",
+        "cos_id": "5025",
+        "cos_code": "IOF5040",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "統計學",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "鄧惠文",
+        "cos_time": "7BCDEFG-M101",
+        "memo": "日期:7月5日-8月30日,限本校在職專班學生與資財系財金碩博士班學生選修；依財金所網站公告之課程時間表上課。",
+        "cos_ename": "Statistics",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "72",
+        "dep_primary": "1",
+        "dep_cname": "管理學院碩士在職專班-財金組",
+        "dep_ename": "Degree Program of Financ",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "J"
+      }
+    },
+    "costype": {
+      "108X_5025": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "108X_5025": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      }
+    },
+    "language": {
+      "108X_5025": {
         "授課語言代碼": "zh-tw"
       }
     }

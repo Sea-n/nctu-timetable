@@ -914,7 +914,7 @@
         "dep_ename": "Institute of Applied Chemistry",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       }
@@ -2704,7 +2704,7 @@
         "TURL": "",
         "teacher": "蔡璧徽",
         "cos_time": "3EFG-M205",
-        "memo": "日期:7月8日- 8月5日,網路課程",
+        "memo": "日期:7月8日- 8月5日,網路課程,7/8、7/15、7/22、7/29線上和M205教室同步授課，同學可於M205教室或Teams線上和老師交流，8月5日新竹校區M205考試.",
         "cos_ename": "Accounting",
         "brief": "",
         "degree": "2",
@@ -2888,10 +2888,47 @@
         "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
+      },
+      "108X_5026": {
+        "acy": "108",
+        "sem": "X",
+        "cos_id": "5026",
+        "cos_code": "IOF5046",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "會計學",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "林瑞嘉",
+        "cos_time": "6BCDEFG-M101",
+        "memo": "日期:7月4日-8月29日,限本校在職專班學生與資財系財金碩博士班學生選修；依財金所網站公告之課程時間表上課。",
+        "cos_ename": "Accounting",
+        "brief": "",
+        "degree": "2",
+        "dep_id": "72",
+        "dep_primary": "1",
+        "dep_cname": "管理學院碩士在職專班-財金組",
+        "dep_ename": "Degree Program of Financ",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "J"
       }
     },
     "costype": {
       "108X_5025": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "108X_5026": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -2907,10 +2944,19 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "108X_5026": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
       "108X_5025": {
+        "授課語言代碼": "zh-tw"
+      },
+      "108X_5026": {
         "授課語言代碼": "zh-tw"
       }
     }

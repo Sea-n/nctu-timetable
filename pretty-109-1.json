@@ -840,7 +840,7 @@
         "dep_ename": "Department of Biological Science and Technology",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -1960,7 +1960,7 @@
         "dep_ename": "Department of Foreign Languages and Literatures",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -8963,7 +8963,7 @@
         "cos_cname": "離散數學",
         "cos_credit": "3.00",
         "cos_hours": "3.00",
-        "TURL": "http://moser.cm.nctu.edu.tw/rini/",
+        "TURL": "https://itlab.nctu.edu.tw/",
         "teacher": "李冕",
         "cos_time": "2H5EF-EDB07",
         "memo": "[English Medium Course]",
@@ -8976,7 +8976,7 @@
         "dep_ename": "Department of Electrical and Computer Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "5",
         "depType": "U"
       },
@@ -9609,7 +9609,7 @@
         "cos_hours": "3.00",
         "TURL": "https://sites.google.com/site/ycjerryhuang/",
         "teacher": "黃昱智",
-        "cos_time": "2F-ED203,4CD-ED303",
+        "cos_time": "2H4CD-ED303",
         "memo": "",
         "cos_ename": "Principles of Artificial Intelligence",
         "brief": "",
@@ -11868,6 +11868,34 @@
         "crsoutline_type": "data",
         "reg_num": "30",
         "depType": "U"
+      },
+      "1091_1112": {
+        "acy": "109",
+        "sem": "1",
+        "cos_id": "1112",
+        "cos_code": "DEO2102",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "電磁學(一)",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "吳致盛",
+        "cos_time": "2E4GH-EO105",
+        "memo": "",
+        "cos_ename": "Electromagnetism(I)",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "514",
+        "dep_primary": "1",
+        "dep_cname": "光電工程學系",
+        "dep_ename": "Department  of Photonics",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "U"
       }
     },
     "costype": {
@@ -12041,6 +12069,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1091_1112": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -12157,6 +12194,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1091_1112": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -12215,6 +12258,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1091_1099": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1091_1112": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -14649,7 +14695,7 @@
         "dep_ename": "Department of Mechanical Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "57",
         "depType": "U"
       },
@@ -16568,7 +16614,7 @@
         "dep_ename": "Department of Civil Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "45",
         "depType": "U"
       },
@@ -20543,7 +20589,7 @@
         "sem": "1",
         "cos_id": "1378",
         "cos_code": "DAM2307",
-        "num_limit": "60",
+        "num_limit": "0",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "機率論",
@@ -22744,7 +22790,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "59",
+        "reg_num": "58",
         "depType": "U"
       },
       "1091_1460": {
@@ -22772,7 +22818,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "56",
+        "reg_num": "55",
         "depType": "U"
       },
       "1091_1462": {
@@ -43997,8 +44043,8 @@
         "cos_cname": "教育心理學",
         "cos_credit": "2.00",
         "cos_hours": "2.00",
-        "TURL": "http://totem.cte.nctu.edu.tw/",
-        "teacher": "林珊如",
+        "TURL": "",
+        "teacher": "吳俊育",
         "cos_time": "2EF-HA219",
         "memo": "1.學習科學跨域學程 2.非師資生修讀本課程，亦須繳交學分費。3.非師資生修讀本課程，需至課務組下載並填寫網路選課加退選處理表(無法於網路上加退選時)，經任課老師同意送師培中心辦理。如欲將本課程視為通識學分，另需送交課務組辦理登記。心理學學分學程.",
         "cos_ename": "Educational Psychology",
@@ -44025,8 +44071,8 @@
         "cos_cname": "教育時事議題",
         "cos_credit": "2.00",
         "cos_hours": "2.00",
-        "TURL": "",
-        "teacher": "鄭朝陽",
+        "TURL": "http://totem.cte.nctu.edu.tw/",
+        "teacher": "林珊如",
         "cos_time": "4GH-HA219",
         "memo": "103-107學年度進入教育學程學生屬於必選課程.",
         "cos_ename": "Current Issues of Eduaction",
@@ -57593,7 +57639,7 @@
         "cos_cname": "離散數學",
         "cos_credit": "3.00",
         "cos_hours": "3.00",
-        "TURL": "http://moser.cm.nctu.edu.tw/rini/",
+        "TURL": "https://itlab.nctu.edu.tw/",
         "teacher": "李冕",
         "cos_time": "2H5EF-EDB07",
         "memo": "[English Medium Course]",
@@ -57606,7 +57652,7 @@
         "dep_ename": "Electrical Engineering and Computer Science-International Program",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "5",
         "depType": "P"
       },
@@ -58069,7 +58115,7 @@
         "cos_cname": "微分方程(英文班)",
         "cos_credit": "3.00",
         "cos_hours": "3.00",
-        "TURL": "http://moser.cm.nctu.edu.tw/rini/",
+        "TURL": "https://itlab.nctu.edu.tw/",
         "teacher": "李冕",
         "cos_time": "1CD3B-ED203",
         "memo": "[English Medium Course]",
@@ -61301,7 +61347,7 @@
         "cos_credit": "2.00",
         "cos_hours": "2.00",
         "TURL": "",
-        "teacher": "鄭朝陽",
+        "teacher": "吳俊育",
         "cos_time": "3AB-HA219",
         "memo": "",
         "cos_ename": "Introduction to Educational Statistics",
@@ -62488,7 +62534,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "65",
+        "reg_num": "64",
         "depType": "P"
       },
       "1091_1527": {
@@ -62572,7 +62618,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "45",
+        "reg_num": "44",
         "depType": "P"
       },
       "1091_1530": {
@@ -64830,7 +64876,7 @@
         "dep_ename": "Department of Mechanical Engineering  for Cross-disciplinary B",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "57",
         "depType": "Q"
       },
@@ -66108,7 +66154,7 @@
         "sem": "1",
         "cos_id": "1378",
         "cos_code": "DAM2307",
-        "num_limit": "60",
+        "num_limit": "0",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "機率論",
@@ -73349,7 +73395,7 @@
         "dep_ename": "Department of Civil Engineering for Cross-Disciplinary Program",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "45",
         "depType": "Q"
       },
@@ -74294,7 +74340,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "56",
+        "reg_num": "55",
         "depType": "Q"
       },
       "1091_1462": {
@@ -74955,7 +75001,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "65",
+        "reg_num": "64",
         "depType": "Q"
       },
       "1091_5493": {
@@ -77587,7 +77633,7 @@
         "cos_credit": "2.00",
         "cos_hours": "2.00",
         "TURL": "",
-        "teacher": "鄭朝陽",
+        "teacher": "吳俊育",
         "cos_time": "3AB-HA219",
         "memo": "",
         "cos_ename": "Introduction to Educational Statistics",
@@ -80070,7 +80116,7 @@
         "cos_credit": "2.00",
         "cos_hours": "2.00",
         "TURL": "",
-        "teacher": "鄭朝陽",
+        "teacher": "吳俊育",
         "cos_time": "3AB-HA219",
         "memo": "",
         "cos_ename": "Introduction to Educational Statistics",
@@ -81721,7 +81767,7 @@
         "cos_hours": "3.00",
         "TURL": "https://sites.google.com/site/ycjerryhuang/",
         "teacher": "黃昱智",
-        "cos_time": "2F-ED203,4CD-ED303",
+        "cos_time": "2H4CD-ED303",
         "memo": "",
         "cos_ename": "Principles of Artificial Intelligence",
         "brief": "",
@@ -83594,7 +83640,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "59",
+        "reg_num": "58",
         "depType": "Q"
       },
       "1091_1504": {
@@ -85265,7 +85311,7 @@
         "cos_hours": "3.00",
         "TURL": "https://sites.google.com/site/ycjerryhuang/",
         "teacher": "黃昱智",
-        "cos_time": "2F-ED203,4CD-ED303",
+        "cos_time": "2H4CD-ED303",
         "memo": "",
         "cos_ename": "Principles of Artificial Intelligence",
         "brief": "",
@@ -90142,7 +90188,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "柯立偉、林奇宏",
-        "cos_time": "3EF-",
+        "cos_time": "3EF-BI301",
         "memo": "",
         "cos_ename": "Introduction to Current Smart Healthcare Trends",
         "brief": "",
@@ -92343,7 +92389,7 @@
         "cos_credit": "2.00",
         "cos_hours": "2.00",
         "TURL": "",
-        "teacher": "鄭朝陽",
+        "teacher": "吳俊育",
         "cos_time": "3AB-HA219",
         "memo": "",
         "cos_ename": "Introduction to Educational Statistics",
@@ -101354,7 +101400,7 @@
         "cos_credit": "3.00",
         "cos_hours": "3.00",
         "TURL": "",
-        "teacher": "",
+        "teacher": "李慶鴻",
         "cos_time": "2BCD-EE208",
         "memo": "*電控所學生注意：畢業學分須修本所課程至少15學分(本所課程為永久課號ICN開頭之課程)",
         "cos_ename": "Intelligent Control",
@@ -101366,7 +101412,7 @@
         "dep_ename": "Institute of Electrical Control Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "6",
         "depType": "G"
       },
@@ -123387,34 +123433,6 @@
         "reg_num": "1",
         "depType": "G"
       },
-      "1091_5235": {
-        "acy": "109",
-        "sem": "1",
-        "cos_id": "5235",
-        "cos_code": "IOG5011",
-        "num_limit": "9999",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "電腦視覺與深度學習",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "",
-        "teacher": "謝君偉",
-        "cos_time": "2EFG-CM214",
-        "memo": "[English Medium Course]",
-        "cos_ename": "Computer Vision and Deep Learning",
-        "brief": "",
-        "degree": "3",
-        "dep_id": "8G1",
-        "dep_primary": "1",
-        "dep_cname": "智慧科學暨綠能學院",
-        "dep_ename": "",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "1",
-        "depType": "G"
-      },
       "1091_5236": {
         "acy": "109",
         "sem": "1",
@@ -123527,6 +123545,34 @@
         "reg_num": "3",
         "depType": "G"
       },
+      "1091_5966": {
+        "acy": "109",
+        "sem": "1",
+        "cos_id": "5966",
+        "cos_code": "IOG5023",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "深度學習與人機互動技術",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "謝君偉",
+        "cos_time": "2EFG-CM214",
+        "memo": "[English Medium Course]",
+        "cos_ename": "Deep Learning and Human Interface",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "8G1",
+        "dep_primary": "1",
+        "dep_cname": "智慧科學暨綠能學院",
+        "dep_ename": "",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "G"
+      },
       "1091_5232": {
         "acy": "109",
         "sem": "1",
@@ -123584,15 +123630,6 @@
           "GECIEngName": ""
         }
       },
-      "1091_5235": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1091_5236": {
         "": {
           "course_category_cname": "",
@@ -123621,6 +123658,15 @@
         }
       },
       "1091_5239": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1091_5966": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -123658,12 +123704,6 @@
           "brief": ""
         }
       },
-      "1091_5235": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1091_5236": {
         "": {
           "brief_code": "",
@@ -123683,6 +123723,12 @@
         }
       },
       "1091_5239": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1091_5966": {
         "": {
           "brief_code": "",
           "brief": ""
@@ -123705,9 +123751,6 @@
       "1091_5234": {
         "授課語言代碼": "en-us"
       },
-      "1091_5235": {
-        "授課語言代碼": "en-us"
-      },
       "1091_5236": {
         "授課語言代碼": "zh-tw"
       },
@@ -123718,6 +123761,9 @@
         "授課語言代碼": "en-us"
       },
       "1091_5239": {
+        "授課語言代碼": "en-us"
+      },
+      "1091_5966": {
         "授課語言代碼": "en-us"
       },
       "1091_5232": {
@@ -135737,7 +135783,7 @@
         "cos_cname": "微分方程(英文班)",
         "cos_credit": "3.00",
         "cos_hours": "3.00",
-        "TURL": "http://moser.cm.nctu.edu.tw/rini/",
+        "TURL": "https://itlab.nctu.edu.tw/",
         "teacher": "李冕",
         "cos_time": "1CD3B-ED203",
         "memo": "[English Medium Course]",
@@ -136236,7 +136282,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "65",
+        "reg_num": "64",
         "depType": "U"
       },
       "1091_1527": {
@@ -136320,7 +136366,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "45",
+        "reg_num": "44",
         "depType": "U"
       },
       "1091_1530": {

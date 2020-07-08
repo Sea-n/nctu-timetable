@@ -18038,7 +18038,7 @@
         "sem": "1",
         "cos_id": "1308",
         "cos_code": "DMA1141",
-        "num_limit": "9999",
+        "num_limit": "50",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "計算機概論",
@@ -18365,7 +18365,7 @@
         "dep_ename": "Department of Materials Science and Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "26",
         "depType": "U"
       }
@@ -20804,7 +20804,7 @@
         "dep_ename": "Department of Applied Mathematics",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "2",
         "depType": "U"
       },
@@ -20832,7 +20832,7 @@
         "dep_ename": "Department of Applied Mathematics",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "1",
         "depType": "U"
       },
@@ -44218,34 +44218,6 @@
         "reg_num": "19",
         "depType": "O"
       },
-      "1091_9909": {
-        "acy": "109",
-        "sem": "1",
-        "cos_id": "9909",
-        "cos_code": "EDU1081",
-        "num_limit": "9999",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "電腦與教學",
-        "cos_credit": "2.00",
-        "cos_hours": "2.00",
-        "TURL": "",
-        "teacher": "楊子奇",
-        "cos_time": "5EF-HA220",
-        "memo": "學習科學跨域學程",
-        "cos_ename": "Computers and Education",
-        "brief": "",
-        "degree": "1",
-        "dep_id": "OU7",
-        "dep_primary": "1",
-        "dep_cname": "師資培育中心",
-        "dep_ename": "Center for Teacher Education",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "11",
-        "depType": "O"
-      },
       "1091_9910": {
         "acy": "109",
         "sem": "1",
@@ -44386,34 +44358,6 @@
         "reg_num": "3",
         "depType": "O"
       },
-      "1091_9915": {
-        "acy": "109",
-        "sem": "1",
-        "cos_id": "9915",
-        "cos_code": "EDU1216",
-        "num_limit": "9999",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "分科教材教法(科技領域/資訊科技)",
-        "cos_credit": "2.00",
-        "cos_hours": "2.00",
-        "TURL": "",
-        "teacher": "楊子奇",
-        "cos_time": "5CD-HA220",
-        "memo": "",
-        "cos_ename": "Subject-related Teaching Materials & Methods(Information Technology)",
-        "brief": "",
-        "degree": "1",
-        "dep_id": "OU7",
-        "dep_primary": "1",
-        "dep_cname": "師資培育中心",
-        "dep_ename": "Center for Teacher Education",
-        "cos_type": "必修",
-        "cos_type_e": "Required",
-        "crsoutline_type": "data",
-        "reg_num": "1",
-        "depType": "O"
-      },
       "1091_9916": {
         "acy": "109",
         "sem": "1",
@@ -44551,15 +44495,6 @@
           "GECIEngName": ""
         }
       },
-      "1091_9909": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1091_9910": {
         "": {
           "course_category_cname": "",
@@ -44597,15 +44532,6 @@
         }
       },
       "1091_9914": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
-      "1091_9915": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -44682,12 +44608,6 @@
           "brief": "教育學程(87)"
         }
       },
-      "1091_9909": {
-        "D099": {
-          "brief_code": "D099",
-          "brief": "教育學程(87)"
-        }
-      },
       "1091_9910": {
         "D099": {
           "brief_code": "D099",
@@ -44713,12 +44633,6 @@
         }
       },
       "1091_9914": {
-        "D099": {
-          "brief_code": "D099",
-          "brief": "教育學程(87)"
-        }
-      },
-      "1091_9915": {
         "D099": {
           "brief_code": "D099",
           "brief": "教育學程(87)"
@@ -44762,9 +44676,6 @@
       "1091_9908": {
         "授課語言代碼": "zh-tw"
       },
-      "1091_9909": {
-        "授課語言代碼": "zh-tw"
-      },
       "1091_9910": {
         "授課語言代碼": "zh-tw"
       },
@@ -44778,9 +44689,6 @@
         "授課語言代碼": "zh-tw"
       },
       "1091_9914": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1091_9915": {
         "授課語言代碼": "zh-tw"
       },
       "1091_9916": {
@@ -58612,8 +58520,8 @@
         "TURL": "",
         "teacher": "白田理一郎",
         "cos_time": "1GHY-EE117",
-        "memo": "[English Medium Course]",
-        "cos_ename": "Semiconductor Device Physics",
+        "memo": "[English Medium Course (II)]",
+        "cos_ename": "Semiconductor Device Physics II",
         "brief": "",
         "degree": "1",
         "dep_id": "PAN",
@@ -66387,7 +66295,7 @@
         "dep_ename": "Department of Applied Mathematics for Cross-Disciplinary Program B",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "2",
         "depType": "Q"
       },
@@ -66415,7 +66323,7 @@
         "dep_ename": "Department of Applied Mathematics for Cross-Disciplinary Program B",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "1",
         "depType": "Q"
       },
@@ -77750,34 +77658,6 @@
         "crsoutline_type": "data",
         "reg_num": "12",
         "depType": "Q"
-      },
-      "1091_5808": {
-        "acy": "109",
-        "sem": "1",
-        "cos_id": "5808",
-        "cos_code": "IED5314",
-        "num_limit": "9999",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "行動學習設計",
-        "cos_credit": "2.00",
-        "cos_hours": "2.00",
-        "TURL": "",
-        "teacher": "楊子奇",
-        "cos_time": "4EF-HA108",
-        "memo": "",
-        "cos_ename": "Design of Mobile Learning Environments",
-        "brief": "",
-        "degree": "1",
-        "dep_id": "QKT",
-        "dep_primary": "1",
-        "dep_cname": "教育研究所學習科學跨域學程",
-        "dep_ename": "Institute of Education for Learning Science Cross-Disciplinary Prog",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "9",
-        "depType": "Q"
       }
     },
     "costype": {
@@ -77834,15 +77714,6 @@
           "GECIName": "",
           "GECIEngName": ""
         }
-      },
-      "1091_5808": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
       }
     },
     "brief": {
@@ -77881,12 +77752,6 @@
           "brief_code": "",
           "brief": ""
         }
-      },
-      "1091_5808": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
       }
     },
     "language": {
@@ -77906,9 +77771,6 @@
         "授課語言代碼": "zh-tw"
       },
       "1091_5802": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1091_5808": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -83638,7 +83500,7 @@
         "sem": "1",
         "cos_id": "1308",
         "cos_code": "DMA1141",
-        "num_limit": "9999",
+        "num_limit": "50",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "計算機概論",
@@ -85657,7 +85519,7 @@
         "sem": "1",
         "cos_id": "1308",
         "cos_code": "DMA1141",
-        "num_limit": "9999",
+        "num_limit": "50",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "計算機概論",
@@ -92647,34 +92509,6 @@
         "reg_num": "3",
         "depType": "G"
       },
-      "1091_5808": {
-        "acy": "109",
-        "sem": "1",
-        "cos_id": "5808",
-        "cos_code": "IED5314",
-        "num_limit": "9999",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "行動學習設計",
-        "cos_credit": "2.00",
-        "cos_hours": "2.00",
-        "TURL": "",
-        "teacher": "楊子奇",
-        "cos_time": "4EF-HA108",
-        "memo": "",
-        "cos_ename": "Design of Mobile Learning Environments",
-        "brief": "",
-        "degree": "3",
-        "dep_id": "460",
-        "dep_primary": "1",
-        "dep_cname": "教育研究所",
-        "dep_ename": "Institute of Education",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "9",
-        "depType": "G"
-      },
       "1091_5946": {
         "acy": "109",
         "sem": "1",
@@ -92886,15 +92720,6 @@
           "GECIEngName": ""
         }
       },
-      "1091_5808": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1091_5946": {
         "": {
           "course_category_cname": "",
@@ -93017,12 +92842,6 @@
           "brief": ""
         }
       },
-      "1091_5808": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1091_5946": {
         "": {
           "brief_code": "",
@@ -93086,9 +92905,6 @@
         "授課語言代碼": "en-us"
       },
       "1091_5805": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1091_5808": {
         "授課語言代碼": "zh-tw"
       },
       "1091_5946": {
@@ -102663,8 +102479,8 @@
         "TURL": "",
         "teacher": "白田理一郎",
         "cos_time": "1GHY-EE117",
-        "memo": "[English Medium Course]",
-        "cos_ename": "Semiconductor Device Physics",
+        "memo": "[English Medium Course (II)]",
+        "cos_ename": "Semiconductor Device Physics II",
         "brief": "",
         "degree": "3",
         "dep_id": "513",
@@ -110770,6 +110586,34 @@
         "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
+      },
+      "1091_5372": {
+        "acy": "109",
+        "sem": "1",
+        "cos_id": "5372",
+        "cos_code": "IMA5520",
+        "num_limit": "60",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "晶體學",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "謝宗雍",
+        "cos_time": "1CDX-EF352",
+        "memo": "1.第一階段限材料系、奈米所加選 2.開學後開放外系或外校加選",
+        "cos_ename": "Crystallography",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "613",
+        "dep_primary": "1",
+        "dep_cname": "材料科學與工程學系",
+        "dep_ename": "Institute of Materials Science and Engineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "6",
+        "depType": "G"
       }
     },
     "costype": {
@@ -110907,6 +110751,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1091_5372": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -110999,6 +110852,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1091_5372": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -111046,6 +110905,9 @@
       },
       "1091_5383": {
         "授課語言代碼": "en-us"
+      },
+      "1091_5372": {
+        "授課語言代碼": "zh-tw"
       }
     }
   },
@@ -112738,6 +112600,34 @@
         "crsoutline_type": null,
         "reg_num": "1",
         "depType": "G"
+      },
+      "1091_5427": {
+        "acy": "109",
+        "sem": "1",
+        "cos_id": "5427",
+        "cos_code": "IAM7682",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "論文研討",
+        "cos_credit": ".00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "黃信元",
+        "cos_time": "2EF-SA223",
+        "memo": "",
+        "cos_ename": "Colloquium",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "652",
+        "dep_primary": "1",
+        "dep_cname": "應用數學系",
+        "dep_ename": "Institute of Applied Mathematics",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "3",
+        "depType": "G"
       }
     },
     "costype": {
@@ -112929,6 +112819,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1091_5427": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -113057,6 +112956,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1091_5427": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -113121,6 +113026,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1091_9505": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1091_5427": {
         "授課語言代碼": "zh-tw"
       }
     }

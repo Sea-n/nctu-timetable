@@ -2324,7 +2324,7 @@
         "dep_ename": "Department of Foreign Languages and Literatures",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "16",
         "depType": "U"
       },
@@ -2800,7 +2800,7 @@
         "dep_ename": "Department of Foreign Languages and Literatures",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "19",
         "depType": "U"
       },
@@ -91650,6 +91650,34 @@
         "crsoutline_type": "data",
         "reg_num": "6",
         "depType": "G"
+      },
+      "1091_5776": {
+        "acy": "109",
+        "sem": "1",
+        "cos_id": "5776",
+        "cos_code": "ILC5101",
+        "num_limit": "9999",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "語音學",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "潘荷仙",
+        "cos_time": "2EFG-F322",
+        "memo": "",
+        "cos_ename": "Phonetics",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "451",
+        "dep_primary": "1",
+        "dep_cname": "外國語文學系外國文學與語言學碩士班",
+        "dep_ename": "Institute of Foreign Literatures and Linguistics",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "2",
+        "depType": "G"
       }
     },
     "costype": {
@@ -91715,6 +91743,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1091_5776": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -91759,6 +91796,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1091_5776": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -91781,6 +91824,9 @@
         "授課語言代碼": "en-us"
       },
       "1091_5955": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1091_5776": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -104062,7 +104108,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "111",
+        "reg_num": "110",
         "depType": "G"
       },
       "1091_5123": {
@@ -108296,7 +108342,7 @@
         "sem": "1",
         "cos_id": "5340",
         "cos_code": "IME6502",
-        "num_limit": "9999",
+        "num_limit": "59",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "紊流導論",
@@ -113997,7 +114043,7 @@
         "dep_ename": "Institute of Molecular Science",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "1",
         "depType": "G"
       },
@@ -123425,34 +123471,6 @@
         "reg_num": "3",
         "depType": "G"
       },
-      "1091_5239": {
-        "acy": "109",
-        "sem": "1",
-        "cos_id": "5239",
-        "cos_code": "IOG5019",
-        "num_limit": "9999",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "資訊檢索與擷取",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "",
-        "teacher": "郭志義",
-        "cos_time": "1BCD-CM216",
-        "memo": "[English Medium Course]",
-        "cos_ename": "Information Retrieval and Extraction",
-        "brief": "",
-        "degree": "3",
-        "dep_id": "8G1",
-        "dep_primary": "1",
-        "dep_cname": "智慧科學暨綠能學院",
-        "dep_ename": "",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "2",
-        "depType": "G"
-      },
       "1091_5966": {
         "acy": "109",
         "sem": "1",
@@ -123478,6 +123496,34 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "G"
+      },
+      "1091_5969": {
+        "acy": "109",
+        "sem": "1",
+        "cos_id": "5969",
+        "cos_code": "IOG5024",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "雲端系統與雲服務架構",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "郭志義",
+        "cos_time": "1BCD-CM216",
+        "memo": "",
+        "cos_ename": "Cloud Computing & Service Architecture",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "8G1",
+        "dep_primary": "1",
+        "dep_cname": "智慧科學暨綠能學院",
+        "dep_ename": "",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
         "reg_num": "0",
         "depType": "G"
       },
@@ -123565,7 +123611,7 @@
           "GECIEngName": ""
         }
       },
-      "1091_5239": {
+      "1091_5966": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -123574,7 +123620,7 @@
           "GECIEngName": ""
         }
       },
-      "1091_5966": {
+      "1091_5969": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -123630,13 +123676,13 @@
           "brief": ""
         }
       },
-      "1091_5239": {
+      "1091_5966": {
         "": {
           "brief_code": "",
           "brief": ""
         }
       },
-      "1091_5966": {
+      "1091_5969": {
         "": {
           "brief_code": "",
           "brief": ""
@@ -123668,11 +123714,11 @@
       "1091_5238": {
         "授課語言代碼": "en-us"
       },
-      "1091_5239": {
-        "授課語言代碼": "en-us"
-      },
       "1091_5966": {
         "授課語言代碼": "en-us"
+      },
+      "1091_5969": {
+        "授課語言代碼": "zh-tw"
       },
       "1091_5232": {
         "授課語言代碼": "zh-tw"

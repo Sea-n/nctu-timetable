@@ -6460,34 +6460,6 @@
         "reg_num": "15",
         "depType": "U"
       },
-      "1091_1631": {
-        "acy": "109",
-        "sem": "1",
-        "cos_id": "1631",
-        "cos_code": "DOH1036",
-        "num_limit": "20",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "動漫文化與網路傳播",
-        "cos_credit": "2.00",
-        "cos_hours": "2.00",
-        "TURL": "https://ics.nctu.edu.tw/professors/luohelin",
-        "teacher": "羅禾淋",
-        "cos_time": "4EF-HC103",
-        "memo": "",
-        "cos_ename": "Anime(ACG or Otaku) Culture and Internet Communication",
-        "brief": "",
-        "degree": "1",
-        "dep_id": "4A1",
-        "dep_primary": "1",
-        "dep_cname": "人文社會學院院本部",
-        "dep_ename": "College of Humanities and Social Science",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "20",
-        "depType": "U"
-      },
       "1091_1633": {
         "acy": "109",
         "sem": "1",
@@ -7068,15 +7040,6 @@
           "GECIEngName": ""
         }
       },
-      "1091_1631": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1091_1633": {
         "": {
           "course_category_cname": "",
@@ -7286,12 +7249,6 @@
           "brief": ""
         }
       },
-      "1091_1631": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1091_1633": {
         "": {
           "brief_code": "",
@@ -7421,9 +7378,6 @@
         "授課語言代碼": "zh-tw"
       },
       "1091_1630": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1091_1631": {
         "授課語言代碼": "zh-tw"
       },
       "1091_1633": {
@@ -35156,7 +35110,7 @@
         "cos_type": "通識",
         "cos_type_e": "General Course",
         "crsoutline_type": "data",
-        "reg_num": "40",
+        "reg_num": "39",
         "depType": "O"
       },
       "1091_6364": {
@@ -44333,7 +44287,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "21",
+        "reg_num": "20",
         "depType": "O"
       },
       "1091_9905": {
@@ -44361,7 +44315,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "10",
+        "reg_num": "9",
         "depType": "O"
       },
       "1091_9906": {
@@ -44417,7 +44371,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "16",
+        "reg_num": "15",
         "depType": "O"
       },
       "1091_9908": {
@@ -44445,7 +44399,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "19",
+        "reg_num": "18",
         "depType": "O"
       },
       "1091_9910": {
@@ -44473,7 +44427,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "20",
+        "reg_num": "19",
         "depType": "O"
       },
       "1091_9911": {
@@ -44613,7 +44567,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "18",
+        "reg_num": "17",
         "depType": "O"
       },
       "1091_9917": {
@@ -54274,8 +54228,8 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "林映彤",
-        "cos_time": "1YI3EF-",
-        "memo": "1.本課程採線上授課+實體討論進行，線上課程時段1YI，實體討論課時段3EF(2週一次)\n2.統一於開學後受理加簽，人機智能與哲學跨域生優先",
+        "cos_time": "1YI-,3EF-SC204",
+        "memo": "1.本課程採線上授課+實體討論進行，線上課程時段1YI，實體討論課時段3EF(2週一次)\r\n2.統一於開學後受理加簽，人機智能與哲學跨域生優先",
         "cos_ename": "AI, Self and Consciousness",
         "brief": "",
         "degree": "1",
@@ -56503,6 +56457,62 @@
         "crsoutline_type": "data",
         "reg_num": "30",
         "depType": "O"
+      },
+      "1091_1923": {
+        "acy": "109",
+        "sem": "1",
+        "cos_id": "1923",
+        "cos_code": "DOA1020",
+        "num_limit": "15",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "電影拍攝製作",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "詹家維",
+        "cos_time": "6BCD-EA101",
+        "memo": "",
+        "cos_ename": "Film Production",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "OUZ",
+        "dep_primary": "1",
+        "dep_cname": "創創工坊",
+        "dep_ename": "",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "O"
+      },
+      "1091_1924": {
+        "acy": "109",
+        "sem": "1",
+        "cos_id": "1924",
+        "cos_code": "DOA1021",
+        "num_limit": "15",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "逐格動畫製作",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "詹家維",
+        "cos_time": "6EFG-EA101",
+        "memo": "",
+        "cos_ename": "Stop Motion Animation",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "OUZ",
+        "dep_primary": "1",
+        "dep_cname": "創創工坊",
+        "dep_ename": "",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "O"
       }
     },
     "costype": {
@@ -56537,6 +56547,24 @@
           "GECIName": "電,管,人,客",
           "GECIEngName": "ECE,COM,CHS,CHK"
         }
+      },
+      "1091_1923": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1091_1924": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -56551,6 +56579,18 @@
           "brief_code": "A205,A504,A505",
           "brief": "自然/進階(96),跨院基本素養(106),校基本素養(106)"
         }
+      },
+      "1091_1923": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1091_1924": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -56558,6 +56598,12 @@
         "授課語言代碼": "zh-tw"
       },
       "1091_1922": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1091_1923": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1091_1924": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -56676,7 +56722,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "9",
+        "reg_num": "8",
         "depType": "P"
       }
     },
@@ -68685,7 +68731,7 @@
         "dep_ename": "Institute of Bioinformatics for Cross-Disciplinary Program",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "2",
         "depType": "Q"
       },
@@ -71018,34 +71064,6 @@
         "reg_num": "15",
         "depType": "Q"
       },
-      "1091_1631": {
-        "acy": "109",
-        "sem": "1",
-        "cos_id": "1631",
-        "cos_code": "DOH1036",
-        "num_limit": "20",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "動漫文化與網路傳播",
-        "cos_credit": "2.00",
-        "cos_hours": "2.00",
-        "TURL": "https://ics.nctu.edu.tw/professors/luohelin",
-        "teacher": "羅禾淋",
-        "cos_time": "4EF-HC103",
-        "memo": "",
-        "cos_ename": "Anime(ACG or Otaku) Culture and Internet Communication",
-        "brief": "",
-        "degree": "1",
-        "dep_id": "QJZ",
-        "dep_primary": "1",
-        "dep_cname": "人文社會學院跨領域設計與創新科技跨域學程",
-        "dep_ename": "College of Humanities and Social Sciences for Transdisciplinary Inn",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "20",
-        "depType": "Q"
-      },
       "1091_1633": {
         "acy": "109",
         "sem": "1",
@@ -71402,15 +71420,6 @@
           "GECIEngName": ""
         }
       },
-      "1091_1631": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1091_1633": {
         "": {
           "course_category_cname": "",
@@ -71548,12 +71557,6 @@
           "brief": ""
         }
       },
-      "1091_1631": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1091_1633": {
         "": {
           "brief_code": "",
@@ -71635,9 +71638,6 @@
         "授課語言代碼": "zh-tw"
       },
       "1091_1630": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1091_1631": {
         "授課語言代碼": "zh-tw"
       },
       "1091_1633": {
@@ -79865,8 +79865,8 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "林映彤",
-        "cos_time": "1YI3EF-",
-        "memo": "1.本課程採線上授課+實體討論進行，線上課程時段1YI，實體討論課時段3EF(2週一次)\n2.統一於開學後受理加簽，人機智能與哲學跨域生優先",
+        "cos_time": "1YI-,3EF-SC204",
+        "memo": "1.本課程採線上授課+實體討論進行，線上課程時段1YI，實體討論課時段3EF(2週一次)\r\n2.統一於開學後受理加簽，人機智能與哲學跨域生優先",
         "cos_ename": "AI, Self and Consciousness",
         "brief": "",
         "degree": "1",
@@ -81188,7 +81188,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "9",
+        "reg_num": "8",
         "depType": "Q"
       },
       "1091_5213": {
@@ -90029,7 +90029,7 @@
         "dep_ename": "Institute of Bioinformatics and System Biology",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "2",
         "depType": "G"
       },
@@ -95874,7 +95874,7 @@
         "cos_credit": "3.00",
         "cos_hours": "3.00",
         "TURL": "",
-        "teacher": "王識源",
+        "teacher": "王識源、盧彥臣",
         "cos_time": "6CDX-HAB1",
         "memo": "",
         "cos_ename": "Introduction to Design Computing",
@@ -95903,7 +95903,7 @@
         "cos_hours": "6.00",
         "TURL": "",
         "teacher": "凌天、何欣怡",
-        "cos_time": "1FGH4FGH-HAB1",
+        "cos_time": "1FGH4FGH-HA107",
         "memo": "",
         "cos_ename": "Architectural Design(I)",
         "brief": "",
@@ -95931,7 +95931,7 @@
         "cos_hours": "6.00",
         "TURL": "",
         "teacher": "凌天、何欣怡",
-        "cos_time": "1FGH4FGH-HA104",
+        "cos_time": "1FGH4FGH-HA108",
         "memo": "",
         "cos_ename": "Architectural Design(I)",
         "brief": "",
@@ -95959,7 +95959,7 @@
         "cos_hours": "6.00",
         "TURL": "http://www.linglitseng.com",
         "teacher": "曾令理",
-        "cos_time": "1FGH4FGH-HA101",
+        "cos_time": "1FGH4FGH-HA105",
         "memo": "",
         "cos_ename": "Architectural Design(III)",
         "brief": "",
@@ -95987,8 +95987,8 @@
         "cos_hours": "6.00",
         "TURL": "http://www.linglitseng.com",
         "teacher": "曾令理",
-        "cos_time": "1FGH4FGH-HA102",
-        "memo": "",
+        "cos_time": "1FGH4FGH-建築所大廳",
+        "memo": "建築所大廳",
         "cos_ename": "Architectural Design(III)",
         "brief": "",
         "degree": "3",
@@ -96015,7 +96015,7 @@
         "cos_hours": "2.00",
         "TURL": "",
         "teacher": "曾成德",
-        "cos_time": "3CD-HA105",
+        "cos_time": "3CD-HA101",
         "memo": "",
         "cos_ename": "Architectural Basic Elements",
         "brief": "",
@@ -96043,7 +96043,7 @@
         "cos_hours": "6.00",
         "TURL": "",
         "teacher": "許倍銜",
-        "cos_time": "1FGH4FGH-HA105",
+        "cos_time": "1FGH4FGH-HA102",
         "memo": "",
         "cos_ename": "Architectural Design",
         "brief": "",
@@ -96070,8 +96070,8 @@
         "cos_credit": "6.00",
         "cos_hours": "6.00",
         "TURL": "",
-        "teacher": "王識源",
-        "cos_time": "1FGH4FGH-HA103B",
+        "teacher": "王識源、盧彥臣",
+        "cos_time": "1FGH4FGH-HA104",
         "memo": "",
         "cos_ename": "Architectural Design",
         "brief": "",
@@ -96098,8 +96098,8 @@
         "cos_credit": "6.00",
         "cos_hours": "6.00",
         "TURL": "",
-        "teacher": "",
-        "cos_time": "1FGH4FGH-HA103D",
+        "teacher": "邱文傑",
+        "cos_time": "1FGH4FGH-HA109",
         "memo": "",
         "cos_ename": "Architectural Design",
         "brief": "",
@@ -96126,8 +96126,8 @@
         "cos_credit": "6.00",
         "cos_hours": "6.00",
         "TURL": "",
-        "teacher": "",
-        "cos_time": "1FGH4FGH-HA112",
+        "teacher": "林家如",
+        "cos_time": "1FGH4FGH-HA104",
         "memo": "",
         "cos_ename": "Architectural Design",
         "brief": "",
@@ -96183,7 +96183,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "苟昌煥",
-        "cos_time": "5IJK-HA105",
+        "cos_time": "3FGH-HA105",
         "memo": "限建築所",
         "cos_ename": "Architectural Structure System(I)",
         "brief": "",
@@ -96267,7 +96267,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "陳紹彬",
-        "cos_time": "3CDX-HA101",
+        "cos_time": "3CDX-HA105",
         "memo": "限建築所",
         "cos_ename": "Environmental Control and System of Architecture(I)",
         "brief": "",
@@ -96294,8 +96294,8 @@
         "cos_credit": "2.00",
         "cos_hours": "2.00",
         "TURL": "",
-        "teacher": "李仁豪",
-        "cos_time": "3IJ-HA105",
+        "teacher": "",
+        "cos_time": "2CD-HA105",
         "memo": "",
         "cos_ename": "Building Code",
         "brief": "",
@@ -96350,8 +96350,8 @@
         "cos_credit": "3.00",
         "cos_hours": "3.00",
         "TURL": "",
-        "teacher": "周書賢",
-        "cos_time": "2FGH-HA105",
+        "teacher": "林靜娟",
+        "cos_time": "5BCD-HA105",
         "memo": "",
         "cos_ename": "Site and Landscape Planning",
         "brief": "",
@@ -96574,36 +96574,8 @@
         "cos_credit": "4.00",
         "cos_hours": "4.00",
         "TURL": "",
-        "teacher": "凌天、曾令理",
+        "teacher": "凌天",
         "cos_time": "7CDEF-HA105",
-        "memo": "",
-        "cos_ename": "Architecture Design(Basic)",
-        "brief": "",
-        "degree": "3",
-        "dep_id": "465",
-        "dep_primary": "1",
-        "dep_cname": "建築研究所",
-        "dep_ename": "Institute of Architecture",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "0",
-        "depType": "G"
-      },
-      "1091_5890": {
-        "acy": "109",
-        "sem": "1",
-        "cos_id": "5890",
-        "cos_code": "IAR5240",
-        "num_limit": "9999",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "建築設計(基礎)",
-        "cos_credit": "4.00",
-        "cos_hours": "4.00",
-        "TURL": "",
-        "teacher": "凌天、曾令理",
-        "cos_time": "7CDEF-HA101",
         "memo": "",
         "cos_ename": "Architecture Design(Basic)",
         "brief": "",
@@ -96629,8 +96601,8 @@
         "cos_cname": "建築專題討論(一)",
         "cos_credit": "1.00",
         "cos_hours": "1.00",
-        "TURL": "http://www.linglitseng.com",
-        "teacher": "曾令理",
+        "TURL": "",
+        "teacher": "",
         "cos_time": "7CDX-HA102",
         "memo": "限博班[English Medium Course]",
         "cos_ename": "Seminar in Architecture(I)",
@@ -96687,7 +96659,7 @@
         "cos_hours": "2.00",
         "TURL": "http://www.linglitseng.com",
         "teacher": "曾令理、李舲",
-        "cos_time": "",
+        "cos_time": "2EF-HA105",
         "memo": "",
         "cos_ename": "",
         "brief": "",
@@ -96965,15 +96937,6 @@
           "GECIEngName": ""
         }
       },
-      "1091_5890": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1091_5892": {
         "": {
           "course_category_cname": "",
@@ -97177,12 +97140,6 @@
           "brief": ""
         }
       },
-      "1091_5890": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1091_5892": {
         "": {
           "brief_code": "",
@@ -97288,9 +97245,6 @@
         "授課語言代碼": "zh-tw"
       },
       "1091_5889": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1091_5890": {
         "授課語言代碼": "zh-tw"
       },
       "1091_5892": {
@@ -102773,7 +102727,7 @@
         "TURL": "http://bun.cm.nctu.edu.tw/~ting/",
         "teacher": "林亭佑",
         "cos_time": "2BCD-ED219",
-        "memo": "Lab:ED814",
+        "memo": "Lab:ED713",
         "cos_ename": "Wireless Ad  Hoc Networks",
         "brief": "",
         "degree": "3",
@@ -113552,7 +113506,7 @@
         "dep_ename": "Institute of Applied Chemistry",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "4",
         "depType": "G"
       },
@@ -113780,6 +113734,34 @@
         "reg_num": "0",
         "depType": "G"
       },
+      "1091_5434": {
+        "acy": "109",
+        "sem": "1",
+        "cos_id": "5434",
+        "cos_code": "IAC5416",
+        "num_limit": "20",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "書報討論－高分子組",
+        "cos_credit": "1.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "許千樹",
+        "cos_time": "1BC-EO701",
+        "memo": "[English Medium Course]",
+        "cos_ename": "Seminar",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "654",
+        "dep_primary": "1",
+        "dep_cname": "應用化學系",
+        "dep_ename": "Institute of Applied Chemistry",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "3",
+        "depType": "G"
+      },
       "1091_5435": {
         "acy": "109",
         "sem": "1",
@@ -113973,6 +113955,15 @@
           "GECIEngName": ""
         }
       },
+      "1091_5434": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1091_5435": {
         "": {
           "course_category_cname": "",
@@ -114083,6 +114074,12 @@
           "brief": ""
         }
       },
+      "1091_5434": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1091_5435": {
         "": {
           "brief_code": "",
@@ -114140,6 +114137,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1091_5432": {
+        "授課語言代碼": "en-us"
+      },
+      "1091_5434": {
         "授課語言代碼": "en-us"
       },
       "1091_5435": {
@@ -122053,7 +122053,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "9",
+        "reg_num": "8",
         "depType": "G"
       },
       "1091_5208": {

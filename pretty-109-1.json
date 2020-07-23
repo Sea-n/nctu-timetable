@@ -20805,7 +20805,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "2",
+        "reg_num": "3",
         "depType": "U"
       },
       "1091_1387": {
@@ -44218,9 +44218,9 @@
         "cos_credit": "2.00",
         "cos_hours": "2.00",
         "TURL": "http://elearning-lab.nctu.edu.tw",
-        "teacher": "孫之元",
-        "cos_time": "3EF-HA109",
-        "memo": "",
+        "teacher": "孫之元、游師柔",
+        "cos_time": "3EF-HA220",
+        "memo": "上限25人",
         "cos_ename": "Principle of Instruction",
         "brief": "",
         "degree": "1",
@@ -66572,7 +66572,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "2",
+        "reg_num": "3",
         "depType": "Q"
       },
       "1091_1387": {
@@ -83990,8 +83990,8 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "呂嘉維",
-        "cos_time": "3IJK-M205",
-        "memo": "先修:微積分\r\n人數限制:50人",
+        "cos_time": "",
+        "memo": "先修:微積分，人數限制:50人(地點：資訊中心電腦教室2)",
         "cos_ename": "Introduction to the big data and machine learning algorithms",
         "brief": "",
         "degree": "1",
@@ -92840,6 +92840,34 @@
         "crsoutline_type": "data",
         "reg_num": "4",
         "depType": "G"
+      },
+      "1091_5970": {
+        "acy": "109",
+        "sem": "1",
+        "cos_id": "5970",
+        "cos_code": "IED5207",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "數位學習論文研討:行動學習",
+        "cos_credit": "1.00",
+        "cos_hours": "1.00",
+        "TURL": "http://elearning-lab.nctu.edu.tw",
+        "teacher": "孫之元",
+        "cos_time": "3H-HA208",
+        "memo": "博班優先",
+        "cos_ename": "Seminar in Mobile Learning",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "460",
+        "dep_primary": "1",
+        "dep_cname": "教育研究所",
+        "dep_ename": "Institute of Education",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "G"
       }
     },
     "costype": {
@@ -93013,6 +93041,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1091_5970": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -93129,6 +93166,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1091_5970": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -93187,6 +93230,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1091_5947": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1091_5970": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -99351,7 +99397,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "10",
+        "reg_num": "9",
         "depType": "G"
       },
       "1091_5014": {
@@ -99575,7 +99621,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "7",
+        "reg_num": "6",
         "depType": "G"
       },
       "1091_5022": {
@@ -99771,7 +99817,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "12",
+        "reg_num": "11",
         "depType": "G"
       },
       "1091_5029": {
@@ -112017,7 +112063,7 @@
         "cos_hours": "3.00",
         "TURL": "http://140.113.28.160/",
         "teacher": "趙天生",
-        "cos_time": "1BCD-SC160",
+        "cos_time": "1CD-SC160",
         "memo": "網路課程",
         "cos_ename": "Semiconductor Process and Technology",
         "brief": "",
@@ -115987,8 +116033,8 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "呂嘉維",
-        "cos_time": "3IJK-M205",
-        "memo": "先修:微積分\r\n人數限制:50人",
+        "cos_time": "",
+        "memo": "先修:微積分，人數限制:50人(地點：資訊中心電腦教室2)",
         "cos_ename": "Introduction to the big data and machine learning algorithms",
         "brief": "",
         "degree": "3",
@@ -131460,7 +131506,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "黃思皓、陳安斌",
-        "cos_time": "1IJK-M101",
+        "cos_time": "1IJK-M-b01",
         "memo": "限本校在職專班學生選修；依財金所網站公告之課程時間表上課",
         "cos_ename": "Artificial Intelligence for Financial Investment Decision-making",
         "brief": "",

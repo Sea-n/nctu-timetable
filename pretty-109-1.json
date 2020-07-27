@@ -41373,7 +41373,7 @@
         "dep_ename": "Language Teaching and Research Center",
         "cos_type": "外語",
         "cos_type_e": "Foreign Languages Course",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "8",
         "depType": "O"
       },
@@ -42243,6 +42243,62 @@
         "cos_type_e": "Foreign Languages Course",
         "crsoutline_type": "data",
         "reg_num": "30",
+        "depType": "O"
+      },
+      "1091_7533": {
+        "acy": "109",
+        "sem": "1",
+        "cos_id": "7533",
+        "cos_code": "DFR4104",
+        "num_limit": "50",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "法文(一)",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "張玉蕙",
+        "cos_time": "5EF-A501",
+        "memo": "",
+        "cos_ename": "French(I)",
+        "brief": "其它",
+        "degree": "1",
+        "dep_id": "OU6",
+        "dep_primary": "1",
+        "dep_cname": "語言教學與研究中心",
+        "dep_ename": "Language Teaching and Research Center",
+        "cos_type": "外語",
+        "cos_type_e": "Foreign Languages Course",
+        "crsoutline_type": "data",
+        "reg_num": "31",
+        "depType": "O"
+      },
+      "1091_7536": {
+        "acy": "109",
+        "sem": "1",
+        "cos_id": "7536",
+        "cos_code": "DFR4105",
+        "num_limit": "50",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "法文(三)",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "張玉蕙",
+        "cos_time": "5CD-A501",
+        "memo": "",
+        "cos_ename": "French(III)",
+        "brief": "其它",
+        "degree": "1",
+        "dep_id": "OU6",
+        "dep_primary": "1",
+        "dep_cname": "語言教學與研究中心",
+        "dep_ename": "Language Teaching and Research Center",
+        "cos_type": "外語",
+        "cos_type_e": "Foreign Languages Course",
+        "crsoutline_type": "data",
+        "reg_num": "4",
         "depType": "O"
       },
       "1091_7539": {
@@ -43194,6 +43250,24 @@
           "GECIEngName": ""
         }
       },
+      "1091_7533": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1091_7536": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1091_7539": {
         "": {
           "course_category_cname": "",
@@ -43808,6 +43882,18 @@
           "brief": "其它(87)"
         }
       },
+      "1091_7533": {
+        "B075": {
+          "brief_code": "B075",
+          "brief": "其它(87)"
+        }
+      },
+      "1091_7536": {
+        "B075": {
+          "brief_code": "B075",
+          "brief": "其它(87)"
+        }
+      },
       "1091_7539": {
         "B075": {
           "brief_code": "B075",
@@ -44117,6 +44203,12 @@
         "授課語言代碼": "zh-tw"
       },
       "1091_7532": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1091_7533": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1091_7536": {
         "授課語言代碼": "zh-tw"
       },
       "1091_7539": {

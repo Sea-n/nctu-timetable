@@ -13110,7 +13110,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "14",
+        "reg_num": "13",
         "depType": "U"
       },
       "1091_1121": {
@@ -39781,6 +39781,34 @@
         "reg_num": "0",
         "depType": "O"
       },
+      "1091_7112": {
+        "acy": "109",
+        "sem": "1",
+        "cos_id": "7112",
+        "cos_code": "DFR1105",
+        "num_limit": "30",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "大一英文（一）",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "語言中心",
+        "cos_time": "3AB-A405",
+        "memo": "",
+        "cos_ename": "Freshman English (I)",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "OU6",
+        "dep_primary": "1",
+        "dep_cname": "語言教學與研究中心",
+        "dep_ename": "Language Teaching and Research Center",
+        "cos_type": "外語",
+        "cos_type_e": "Foreign Languages Course",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "O"
+      },
       "1091_7113": {
         "acy": "109",
         "sem": "1",
@@ -42458,6 +42486,15 @@
           "GECIEngName": ""
         }
       },
+      "1091_7112": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1091_7113": {
         "": {
           "course_category_cname": "",
@@ -43354,6 +43391,12 @@
           "brief": "基礎(87)"
         }
       },
+      "1091_7112": {
+        "B071": {
+          "brief_code": "B071",
+          "brief": "基礎(87)"
+        }
+      },
       "1091_7113": {
         "B071": {
           "brief_code": "B071",
@@ -43939,6 +43982,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1091_7111": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1091_7112": {
         "授課語言代碼": "zh-tw"
       },
       "1091_7113": {
@@ -54400,6 +54446,34 @@
         "crsoutline_type": "data",
         "reg_num": "30",
         "depType": "O"
+      },
+      "1091_1909": {
+        "acy": "109",
+        "sem": "1",
+        "cos_id": "1909",
+        "cos_code": "DOA1023",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "進階說故事工作坊:影視布袋戲創意實務",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "黃亮勛",
+        "cos_time": "5EFGH-EAB06",
+        "memo": "",
+        "cos_ename": "Advanced Storytelling Workshop: Creactive Practice of TV Puppet Show",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "OUH",
+        "dep_primary": "1",
+        "dep_cname": "教學發展中心",
+        "dep_ename": "Center of Teaching and Learning Development",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "O"
       }
     },
     "costype": {
@@ -54509,6 +54583,15 @@
           "GECIName": "電,資,理,生,人,客",
           "GECIEngName": "ECE,CCS,COS,CBT,CHS,CHK"
         }
+      },
+      "1091_1909": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -54559,6 +54642,12 @@
           "brief_code": "A201,A504",
           "brief": "文化/進階(96),跨院基本素養(106)"
         }
+      },
+      "1091_1909": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -54584,6 +54673,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1091_1908": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1091_1909": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -56559,6 +56651,34 @@
         "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
+      },
+      "1091_1925": {
+        "acy": "109",
+        "sem": "1",
+        "cos_id": "1925",
+        "cos_code": "DOA1022",
+        "num_limit": "30",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "ARDUINO/RPI議題專題實作",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "http://rtes.cn.nctu.edu.tw",
+        "teacher": "黃育綸",
+        "cos_time": "5EFG-EE635",
+        "memo": "",
+        "cos_ename": "Project Design Using Arduino/RPi",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "OUZ",
+        "dep_primary": "1",
+        "dep_cname": "創創工坊",
+        "dep_ename": "",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "O"
       }
     },
     "costype": {
@@ -56611,6 +56731,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1091_1925": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -56637,6 +56766,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1091_1925": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -56650,6 +56785,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1091_1924": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1091_1925": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -59273,7 +59411,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "80",
+        "reg_num": "79",
         "depType": "P"
       },
       "1091_5274": {
@@ -79647,6 +79785,34 @@
         "reg_num": "30",
         "depType": "Q"
       },
+      "1091_1909": {
+        "acy": "109",
+        "sem": "1",
+        "cos_id": "1909",
+        "cos_code": "DOA1023",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "進階說故事工作坊:影視布袋戲創意實務",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "黃亮勛",
+        "cos_time": "5EFGH-EAB06",
+        "memo": "",
+        "cos_ename": "Advanced Storytelling Workshop: Creactive Practice of TV Puppet Show",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "QKZ",
+        "dep_primary": "1",
+        "dep_cname": "說故事與多媒體跨域學程",
+        "dep_ename": "",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "Q"
+      },
       "1091_6110": {
         "acy": "109",
         "sem": "1",
@@ -79769,6 +79935,15 @@
           "GECIEngName": "ECE,CCS,COS,CBT,CHS,CHK"
         }
       },
+      "1091_1909": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1091_6110": {
         "通識核心課程_通識核心": {
           "course_category_cname": "通識核心課程_通識核心",
@@ -79822,6 +79997,12 @@
           "brief": "文化/進階(96),跨院基本素養(106)"
         }
       },
+      "1091_1909": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1091_6110": {
         "A101,A501": {
           "brief_code": "A101,A501",
@@ -79852,6 +80033,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1091_1908": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1091_1909": {
         "授課語言代碼": "zh-tw"
       },
       "1091_6110": {
@@ -88037,7 +88221,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "14",
+        "reg_num": "13",
         "depType": "Q"
       },
       "1091_1932": {
@@ -96050,7 +96234,7 @@
         "cos_credit": "6.00",
         "cos_hours": "6.00",
         "TURL": "http://www.linglitseng.com",
-        "teacher": "曾令理",
+        "teacher": "曾令理、徐宇亮",
         "cos_time": "1FGH4FGH-HA105",
         "memo": "",
         "cos_ename": "Architectural Design(III)",
@@ -96078,7 +96262,7 @@
         "cos_credit": "6.00",
         "cos_hours": "6.00",
         "TURL": "http://www.linglitseng.com",
-        "teacher": "曾令理",
+        "teacher": "曾令理、徐宇亮",
         "cos_time": "1FGH4FGH-建築所大廳",
         "memo": "建築所大廳",
         "cos_ename": "Architectural Design(III)",
@@ -96386,7 +96570,7 @@
         "cos_credit": "2.00",
         "cos_hours": "2.00",
         "TURL": "",
-        "teacher": "",
+        "teacher": "呂恭安",
         "cos_time": "2CD-HA105",
         "memo": "",
         "cos_ename": "Building Code",
@@ -96694,7 +96878,7 @@
         "cos_credit": "1.00",
         "cos_hours": "1.00",
         "TURL": "",
-        "teacher": "",
+        "teacher": "徐宇亮",
         "cos_time": "7CDX-HA102",
         "memo": "限博班[English Medium Course]",
         "cos_ename": "Seminar in Architecture(I)",
@@ -100411,7 +100595,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "魏哲和",
-        "cos_time": "3EFG-ED220",
+        "cos_time": "4EFG-EDB06",
         "memo": "",
         "cos_ename": "Channel Coding",
         "brief": "",
@@ -102916,6 +103100,34 @@
         "crsoutline_type": "data",
         "reg_num": "31",
         "depType": "G"
+      },
+      "1091_5971": {
+        "acy": "109",
+        "sem": "1",
+        "cos_id": "5971",
+        "cos_code": "ECM5106",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "無線通訊",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "李明峻",
+        "cos_time": "4EFG-EE117",
+        "memo": "",
+        "cos_ename": "Wireless Communications",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "513",
+        "dep_primary": "1",
+        "dep_cname": "電信工程研究所",
+        "dep_ename": "Institute of Communication Engineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "G"
       }
     },
     "costype": {
@@ -103143,6 +103355,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1091_5971": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -103295,6 +103516,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1091_5971": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -103372,6 +103599,9 @@
       },
       "1091_5098": {
         "授課語言代碼": "en-us"
+      },
+      "1091_5971": {
+        "授課語言代碼": "zh-tw"
       }
     }
   },
@@ -104430,7 +104660,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "110",
+        "reg_num": "109",
         "depType": "G"
       },
       "1091_5123": {
@@ -106068,7 +106298,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "32",
+        "reg_num": "31",
         "depType": "G"
       },
       "1091_5263": {
@@ -106180,7 +106410,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "80",
+        "reg_num": "79",
         "depType": "G"
       },
       "1091_5267": {
@@ -106320,7 +106550,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "8",
+        "reg_num": "7",
         "depType": "G"
       }
     },
@@ -135650,7 +135880,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "30",
+        "reg_num": "29",
         "depType": "U"
       },
       "1091_1138": {

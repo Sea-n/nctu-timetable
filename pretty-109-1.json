@@ -24813,65 +24813,6 @@
       }
     }
   },
-  "A97505B4-0AC3-4E22-AFFD-E11038A2E4AA": {
-    "dep_id": "A97505B4-0AC3-4E22-AFFD-E11038A2E4AA",
-    "dep_cname": "科技法律學院",
-    "dep_ename": "School of Law",
-    "1": {
-      "1091_5213": {
-        "acy": "109",
-        "sem": "1",
-        "cos_id": "5213",
-        "cos_code": "ITL5401",
-        "num_limit": "50",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "老年、社會與法律",
-        "cos_credit": "2.00",
-        "cos_hours": "2.00",
-        "TURL": "",
-        "teacher": "張兆恬",
-        "cos_time": "4EF-EE623",
-        "memo": "開放通識;限大學部、跨域學程同學選修; 跨域學程",
-        "cos_ename": "Aging, Law and Society",
-        "brief": "",
-        "degree": "1",
-        "dep_id": "7L1",
-        "dep_primary": "1",
-        "dep_cname": "科技法律學院",
-        "dep_ename": "School of Law",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "11",
-        "depType": "U"
-      }
-    },
-    "costype": {
-      "1091_5213": {
-        "通識跨院基本素養_通識跨院": {
-          "course_category_cname": "通識跨院基本素養_通識跨院",
-          "course_category_ename": "General Education Course: Intercollegiate_GECI",
-          "course_category_type": "16",
-          "GECIName": "資,理,生,人,客",
-          "GECIEngName": "CCS,COS,CBT,CHS,CHK"
-        }
-      }
-    },
-    "brief": {
-      "1091_5213": {
-        "A504": {
-          "brief_code": "A504",
-          "brief": "跨院基本素養(106)"
-        }
-      }
-    },
-    "language": {
-      "1091_5213": {
-        "授課語言代碼": "zh-tw"
-      }
-    }
-  },
   "028758A1-A365-44DB-9EF4-5B97C510A2E2": {
     "dep_id": "028758A1-A365-44DB-9EF4-5B97C510A2E2",
     "dep_cname": "百川學士學位學程",
@@ -34214,7 +34155,7 @@
         "cos_type": "通識",
         "cos_type_e": "General Course",
         "crsoutline_type": "data",
-        "reg_num": "60",
+        "reg_num": "59",
         "depType": "O"
       },
       "1091_6165": {
@@ -36099,9 +36040,9 @@
         }
       },
       "1091_6129": {
-        "A104,A502": {
-          "brief_code": "A104,A502",
-          "brief": "群己/基礎(96),核心-社會(106)"
+        "A104,A502,A503": {
+          "brief_code": "A104,A502,A503",
+          "brief": "群己/基礎(96),核心-社會(106),核心-自然(106)"
         }
       },
       "1091_6134": {
@@ -62207,9 +62148,9 @@
         }
       },
       "1091_6129": {
-        "A104,A502": {
-          "brief_code": "A104,A502",
-          "brief": "群己/基礎(96),核心-社會(106)"
+        "A104,A502,A503": {
+          "brief_code": "A104,A502,A503",
+          "brief": "群己/基礎(96),核心-社會(106),核心-自然(106)"
         }
       },
       "1091_6148": {
@@ -62284,34 +62225,6 @@
     "dep_cname": "生醫產業經營與法律學分學程",
     "dep_ename": "Program of Law and Management of Biomedical Industry",
     "1": {
-      "1091_5175": {
-        "acy": "109",
-        "sem": "1",
-        "cos_id": "5175",
-        "cos_code": "ITL5258",
-        "num_limit": "30",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "生命科技法律與倫理",
-        "cos_credit": "2.00",
-        "cos_hours": "2.00",
-        "TURL": "",
-        "teacher": "張兆恬",
-        "cos_time": "4CD-AB102",
-        "memo": "開放通識；跨域學程；生醫產業經營與法律學分學程",
-        "cos_ename": "Bioethics and Law",
-        "brief": "",
-        "degree": "1",
-        "dep_id": "PCF",
-        "dep_primary": "1",
-        "dep_cname": "生醫產業經營與法律學分學程",
-        "dep_ename": "Program of Law and Management of Biomedical Industry",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "22",
-        "depType": "P"
-      },
       "1091_5184": {
         "acy": "109",
         "sem": "1",
@@ -62398,22 +62311,6 @@
       }
     },
     "costype": {
-      "1091_5175": {
-        "通識校基本素養_通識校基本": {
-          "course_category_cname": "通識校基本素養_通識校基本",
-          "course_category_ename": "General Education Course: Literacy_GECL",
-          "course_category_type": "15",
-          "GECIName": "工,理,生,人",
-          "GECIEngName": "COE,COS,CBT,CHS"
-        },
-        "通識跨院基本素養_通識跨院": {
-          "course_category_cname": "通識跨院基本素養_通識跨院",
-          "course_category_ename": "General Education Course: Intercollegiate_GECI",
-          "course_category_type": "16",
-          "GECIName": "工,理,生,人",
-          "GECIEngName": "COE,COS,CBT,CHS"
-        }
-      },
       "1091_5184": {
         "": {
           "course_category_cname": "",
@@ -62443,12 +62340,6 @@
       }
     },
     "brief": {
-      "1091_5175": {
-        "A203,A504,A505": {
-          "brief_code": "A203,A504,A505",
-          "brief": "公民/進階(96),跨院基本素養(106),校基本素養(106)"
-        }
-      },
       "1091_5184": {
         "": {
           "brief_code": "",
@@ -62469,9 +62360,6 @@
       }
     },
     "language": {
-      "1091_5175": {
-        "授課語言代碼": "zh-tw"
-      },
       "1091_5184": {
         "授課語言代碼": "zh-tw"
       },
@@ -80833,34 +80721,6 @@
         "reg_num": "44",
         "depType": "Q"
       },
-      "1091_5175": {
-        "acy": "109",
-        "sem": "1",
-        "cos_id": "5175",
-        "cos_code": "ITL5258",
-        "num_limit": "30",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "生命科技法律與倫理",
-        "cos_credit": "2.00",
-        "cos_hours": "2.00",
-        "TURL": "",
-        "teacher": "張兆恬",
-        "cos_time": "4CD-AB102",
-        "memo": "開放通識；跨域學程；生醫產業經營與法律學分學程",
-        "cos_ename": "Bioethics and Law",
-        "brief": "",
-        "degree": "1",
-        "dep_id": "QLI",
-        "dep_primary": "1",
-        "dep_cname": "科技法律學院跨域學程",
-        "dep_ename": "",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "22",
-        "depType": "Q"
-      },
       "1091_5176": {
         "acy": "109",
         "sem": "1",
@@ -81210,7 +81070,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "劉尚志、陳豐奇、陳在方",
-        "cos_time": "3GHY-ES806",
+        "cos_time": "6GHY-AB102",
         "memo": "限科法所及科法專班同學選修；跨域學程",
         "cos_ename": "Advanced Topics on Patent Law and Practice ",
         "brief": "",
@@ -81322,7 +81182,7 @@
         "cos_hours": "2.00",
         "TURL": "",
         "teacher": "陳鋕雄、秋原奈穗子、郭詠華",
-        "cos_time": "1EF-MB1069",
+        "cos_time": "3IJ-ES806",
         "memo": "開放台聯大大三以上同學選修，開放通識；跨域學程",
         "cos_ename": "Information Privacy Law",
         "brief": "",
@@ -81335,34 +81195,6 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "8",
-        "depType": "Q"
-      },
-      "1091_5198": {
-        "acy": "109",
-        "sem": "1",
-        "cos_id": "5198",
-        "cos_code": "ITL5640",
-        "num_limit": "9999",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "日本法專題(英文授課)",
-        "cos_credit": "1.00",
-        "cos_hours": "1.00",
-        "TURL": "",
-        "teacher": "陳鋕雄",
-        "cos_time": "7E-MB1069",
-        "memo": "英文授課；開放台聯大大三以上同學選修；跨域學程[English Medium Course]",
-        "cos_ename": "Special Topics on Japanese Law",
-        "brief": "",
-        "degree": "1",
-        "dep_id": "QLI",
-        "dep_primary": "1",
-        "dep_cname": "科技法律學院跨域學程",
-        "dep_ename": "",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "6",
         "depType": "Q"
       },
       "1091_5199": {
@@ -81421,34 +81253,6 @@
         "reg_num": "8",
         "depType": "Q"
       },
-      "1091_5213": {
-        "acy": "109",
-        "sem": "1",
-        "cos_id": "5213",
-        "cos_code": "ITL5401",
-        "num_limit": "50",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "老年、社會與法律",
-        "cos_credit": "2.00",
-        "cos_hours": "2.00",
-        "TURL": "",
-        "teacher": "張兆恬",
-        "cos_time": "4EF-EE623",
-        "memo": "開放通識;限大學部、跨域學程同學選修; 跨域學程",
-        "cos_ename": "Aging, Law and Society",
-        "brief": "",
-        "degree": "1",
-        "dep_id": "QLI",
-        "dep_primary": "1",
-        "dep_cname": "科技法律學院跨域學程",
-        "dep_ename": "",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "11",
-        "depType": "Q"
-      },
       "1091_5960": {
         "acy": "109",
         "sem": "1",
@@ -81495,22 +81299,6 @@
           "course_category_type": "",
           "GECIName": "",
           "GECIEngName": ""
-        }
-      },
-      "1091_5175": {
-        "通識校基本素養_通識校基本": {
-          "course_category_cname": "通識校基本素養_通識校基本",
-          "course_category_ename": "General Education Course: Literacy_GECL",
-          "course_category_type": "15",
-          "GECIName": "工,理,生,人",
-          "GECIEngName": "COE,COS,CBT,CHS"
-        },
-        "通識跨院基本素養_通識跨院": {
-          "course_category_cname": "通識跨院基本素養_通識跨院",
-          "course_category_ename": "General Education Course: Intercollegiate_GECI",
-          "course_category_type": "16",
-          "GECIName": "工,理,生,人",
-          "GECIEngName": "COE,COS,CBT,CHS"
         }
       },
       "1091_5176": {
@@ -81673,15 +81461,6 @@
           "GECIEngName": ""
         }
       },
-      "1091_5198": {
-        "網路課程_網路": {
-          "course_category_cname": "網路課程_網路",
-          "course_category_ename": "Network Courses_NET",
-          "course_category_type": "5",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1091_5199": {
         "通識校基本素養_通識校基本": {
           "course_category_cname": "通識校基本素養_通識校基本",
@@ -81698,15 +81477,6 @@
           "course_category_type": "",
           "GECIName": "",
           "GECIEngName": ""
-        }
-      },
-      "1091_5213": {
-        "通識跨院基本素養_通識跨院": {
-          "course_category_cname": "通識跨院基本素養_通識跨院",
-          "course_category_ename": "General Education Course: Intercollegiate_GECI",
-          "course_category_type": "16",
-          "GECIName": "資,理,生,人,客",
-          "GECIEngName": "CCS,COS,CBT,CHS,CHK"
         }
       },
       "1091_5960": {
@@ -81730,12 +81500,6 @@
         "": {
           "brief_code": "",
           "brief": ""
-        }
-      },
-      "1091_5175": {
-        "A203,A504,A505": {
-          "brief_code": "A203,A504,A505",
-          "brief": "公民/進階(96),跨院基本素養(106),校基本素養(106)"
         }
       },
       "1091_5176": {
@@ -81840,12 +81604,6 @@
           "brief": "核心-社會(106)"
         }
       },
-      "1091_5198": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1091_5199": {
         "A505": {
           "brief_code": "A505",
@@ -81856,12 +81614,6 @@
         "": {
           "brief_code": "",
           "brief": ""
-        }
-      },
-      "1091_5213": {
-        "A504": {
-          "brief_code": "A504",
-          "brief": "跨院基本素養(106)"
         }
       },
       "1091_5960": {
@@ -81876,9 +81628,6 @@
         "授課語言代碼": "zh-tw"
       },
       "1091_5173": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1091_5175": {
         "授課語言代碼": "zh-tw"
       },
       "1091_5176": {
@@ -81932,16 +81681,10 @@
       "1091_5197": {
         "授課語言代碼": "zh-tw"
       },
-      "1091_5198": {
-        "授課語言代碼": "en-us"
-      },
       "1091_5199": {
         "授課語言代碼": "en-us"
       },
       "1091_5207": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1091_5213": {
         "授課語言代碼": "zh-tw"
       },
       "1091_5960": {
@@ -93070,6 +92813,34 @@
         "crsoutline_type": "data",
         "reg_num": "4",
         "depType": "G"
+      },
+      "1091_5970": {
+        "acy": "109",
+        "sem": "1",
+        "cos_id": "5970",
+        "cos_code": "IED5217",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "數位學習論文研討:學術期刊論文寫作",
+        "cos_credit": "1.00",
+        "cos_hours": "1.00",
+        "TURL": "http://elearning-lab.nctu.edu.tw",
+        "teacher": "孫之元",
+        "cos_time": "3H-HA208",
+        "memo": "博班優先",
+        "cos_ename": "Seminar in E-learning:Academic Journal Writing",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "460",
+        "dep_primary": "1",
+        "dep_cname": "教育研究所",
+        "dep_ename": "Institute of Education",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "G"
       }
     },
     "costype": {
@@ -93243,6 +93014,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1091_5970": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -93359,6 +93139,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1091_5970": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -93417,6 +93203,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1091_5947": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1091_5970": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -104614,7 +104403,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "109",
+        "reg_num": "105",
         "depType": "G"
       },
       "1091_5123": {
@@ -105581,7 +105370,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "129",
+        "reg_num": "128",
         "depType": "G"
       },
       "1091_5256": {
@@ -106827,7 +106616,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "49",
+        "reg_num": "48",
         "depType": "G"
       },
       "1091_5276": {
@@ -125737,7 +125526,7 @@
         "dep_ename": "International Graduate Program of Sustainable Chemical Science & Te",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "M"
       },
@@ -125765,7 +125554,7 @@
         "dep_ename": "International Graduate Program of Sustainable Chemical Science & Te",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "M"
       },
@@ -125793,7 +125582,7 @@
         "dep_ename": "International Graduate Program of Sustainable Chemical Science & Te",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "M"
       },
@@ -125821,7 +125610,7 @@
         "dep_ename": "International Graduate Program of Sustainable Chemical Science & Te",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "M"
       },
@@ -125849,7 +125638,7 @@
         "dep_ename": "International Graduate Program of Sustainable Chemical Science & Te",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "1",
         "depType": "M"
       },
@@ -125877,7 +125666,7 @@
         "dep_ename": "International Graduate Program of Sustainable Chemical Science & Te",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "M"
       },
@@ -125905,7 +125694,7 @@
         "dep_ename": "International Graduate Program of Sustainable Chemical Science & Te",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "M"
       },
@@ -125933,7 +125722,7 @@
         "dep_ename": "International Graduate Program of Sustainable Chemical Science & Te",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "2",
         "depType": "M"
       },
@@ -125961,7 +125750,63 @@
         "dep_ename": "International Graduate Program of Sustainable Chemical Science & Te",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "M"
+      },
+      "1091_4009": {
+        "acy": "109",
+        "sem": "1",
+        "cos_id": "4009",
+        "cos_code": "ISC5105",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題演講",
+        "cos_credit": "1.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "Academia Sinica SCST",
+        "cos_time": "6CD-",
+        "memo": "上課地點:中研院化學所[English Medium Course]",
+        "cos_ename": "Colloquium",
+        "brief": "",
+        "degree": "4",
+        "dep_id": "656",
+        "dep_primary": "1",
+        "dep_cname": "永續化學科技國際研究生博士學位學程",
+        "dep_ename": "International Graduate Program of Sustainable Chemical Science & Te",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "M"
+      },
+      "1091_4010": {
+        "acy": "109",
+        "sem": "1",
+        "cos_id": "4010",
+        "cos_code": "ISC5106",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "書報討論",
+        "cos_credit": "1.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "Academia Sinica SCST",
+        "cos_time": "3GH-",
+        "memo": "上課地點:中研院化學所B105[English Medium Course]",
+        "cos_ename": "Seminar",
+        "brief": "",
+        "degree": "4",
+        "dep_id": "656",
+        "dep_primary": "1",
+        "dep_cname": "永續化學科技國際研究生博士學位學程",
+        "dep_ename": "International Graduate Program of Sustainable Chemical Science & Te",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "M"
       }
@@ -126047,6 +125892,24 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1091_4009": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1091_4010": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -126103,6 +125966,18 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1091_4009": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1091_4010": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -126131,6 +126006,12 @@
         "授課語言代碼": "en-us"
       },
       "1091_4017": {
+        "授課語言代碼": "en-us"
+      },
+      "1091_4009": {
+        "授課語言代碼": "en-us"
+      },
+      "1091_4010": {
         "授課語言代碼": "en-us"
       }
     }
@@ -132922,34 +132803,6 @@
         "reg_num": "3",
         "depType": "J"
       },
-      "1091_5175": {
-        "acy": "109",
-        "sem": "1",
-        "cos_id": "5175",
-        "cos_code": "ITL5258",
-        "num_limit": "30",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "生命科技法律與倫理",
-        "cos_credit": "2.00",
-        "cos_hours": "2.00",
-        "TURL": "",
-        "teacher": "張兆恬",
-        "cos_time": "4CD-AB102",
-        "memo": "開放通識；跨域學程；生醫產業經營與法律學分學程",
-        "cos_ename": "Bioethics and Law",
-        "brief": "",
-        "degree": "5",
-        "dep_id": "730",
-        "dep_primary": "1",
-        "dep_cname": "科技法律研究所碩士在職專班",
-        "dep_ename": "Degree Program of Technology Law",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "22",
-        "depType": "J"
-      },
       "1091_5176": {
         "acy": "109",
         "sem": "1",
@@ -133018,7 +132871,7 @@
         "cos_credit": "2.00",
         "cos_hours": "2.00",
         "TURL": "",
-        "teacher": "林志潔、邵之雋、黃天牧",
+        "teacher": "林志潔、邵之雋",
         "cos_time": "5IJ-EE623",
         "memo": "限科法所及科法專班同學選修;網路課程",
         "cos_ename": "Financial Regulations and its Supervisions ",
@@ -133383,7 +133236,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "劉尚志、陳豐奇、陳在方",
-        "cos_time": "3GHY-ES806",
+        "cos_time": "6GHY-AB102",
         "memo": "限科法所及科法專班同學選修；跨域學程",
         "cos_ename": "Advanced Topics on Patent Law and Practice ",
         "brief": "",
@@ -133495,7 +133348,7 @@
         "cos_hours": "2.00",
         "TURL": "",
         "teacher": "陳鋕雄、秋原奈穗子、郭詠華",
-        "cos_time": "1EF-MB1069",
+        "cos_time": "3IJ-ES806",
         "memo": "開放台聯大大三以上同學選修，開放通識；跨域學程",
         "cos_ename": "Information Privacy Law",
         "brief": "",
@@ -133508,34 +133361,6 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "8",
-        "depType": "J"
-      },
-      "1091_5198": {
-        "acy": "109",
-        "sem": "1",
-        "cos_id": "5198",
-        "cos_code": "ITL5640",
-        "num_limit": "9999",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "日本法專題(英文授課)",
-        "cos_credit": "1.00",
-        "cos_hours": "1.00",
-        "TURL": "",
-        "teacher": "陳鋕雄",
-        "cos_time": "7E-MB1069",
-        "memo": "英文授課；開放台聯大大三以上同學選修；跨域學程[English Medium Course]",
-        "cos_ename": "Special Topics on Japanese Law",
-        "brief": "",
-        "degree": "5",
-        "dep_id": "730",
-        "dep_primary": "1",
-        "dep_cname": "科技法律研究所碩士在職專班",
-        "dep_ename": "Degree Program of Technology Law",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "6",
         "depType": "J"
       }
     },
@@ -133592,22 +133417,6 @@
           "course_category_type": "",
           "GECIName": "",
           "GECIEngName": ""
-        }
-      },
-      "1091_5175": {
-        "通識校基本素養_通識校基本": {
-          "course_category_cname": "通識校基本素養_通識校基本",
-          "course_category_ename": "General Education Course: Literacy_GECL",
-          "course_category_type": "15",
-          "GECIName": "工,理,生,人",
-          "GECIEngName": "COE,COS,CBT,CHS"
-        },
-        "通識跨院基本素養_通識跨院": {
-          "course_category_cname": "通識跨院基本素養_通識跨院",
-          "course_category_ename": "General Education Course: Intercollegiate_GECI",
-          "course_category_type": "16",
-          "GECIName": "工,理,生,人",
-          "GECIEngName": "COE,COS,CBT,CHS"
         }
       },
       "1091_5176": {
@@ -133796,15 +133605,6 @@
           "GECIName": "",
           "GECIEngName": ""
         }
-      },
-      "1091_5198": {
-        "網路課程_網路": {
-          "course_category_cname": "網路課程_網路",
-          "course_category_ename": "Network Courses_NET",
-          "course_category_type": "5",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
       }
     },
     "brief": {
@@ -133842,12 +133642,6 @@
         "": {
           "brief_code": "",
           "brief": ""
-        }
-      },
-      "1091_5175": {
-        "A203,A504,A505": {
-          "brief_code": "A203,A504,A505",
-          "brief": "公民/進階(96),跨院基本素養(106),校基本素養(106)"
         }
       },
       "1091_5176": {
@@ -133969,12 +133763,6 @@
           "brief_code": "A502",
           "brief": "核心-社會(106)"
         }
-      },
-      "1091_5198": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
       }
     },
     "language": {
@@ -133994,9 +133782,6 @@
         "授課語言代碼": "zh-tw"
       },
       "1091_5174": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1091_5175": {
         "授課語言代碼": "zh-tw"
       },
       "1091_5176": {
@@ -134058,9 +133843,6 @@
       },
       "1091_5197": {
         "授課語言代碼": "zh-tw"
-      },
-      "1091_5198": {
-        "授課語言代碼": "en-us"
       }
     }
   },

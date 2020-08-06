@@ -281,7 +281,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "46",
+        "reg_num": "45",
         "depType": "U"
       },
       "1091_1549": {
@@ -309,7 +309,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "120",
+        "reg_num": "119",
         "depType": "U"
       },
       "1091_1550": {
@@ -337,7 +337,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "61",
+        "reg_num": "60",
         "depType": "U"
       },
       "1091_1551": {
@@ -421,7 +421,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "40",
+        "reg_num": "39",
         "depType": "U"
       },
       "1091_1554": {
@@ -561,7 +561,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "25",
+        "reg_num": "24",
         "depType": "U"
       },
       "1091_1562": {
@@ -645,7 +645,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "78",
+        "reg_num": "77",
         "depType": "U"
       },
       "1091_1566": {
@@ -729,7 +729,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "57",
+        "reg_num": "56",
         "depType": "U"
       },
       "1091_1569": {
@@ -1824,6 +1824,34 @@
         "reg_num": "0",
         "depType": "U"
       },
+      "1091_1580": {
+        "acy": "109",
+        "sem": "1",
+        "cos_id": "1580",
+        "cos_code": "DFL1103",
+        "num_limit": "18",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "英文作文（一）",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "http://www.fl.nctu.edu.tw/~limk/",
+        "teacher": "林建國",
+        "cos_time": "1CD-F205",
+        "memo": "C組,限外文系[English Medium Course]",
+        "cos_ename": "English Composition (1)",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "450",
+        "dep_primary": "1",
+        "dep_cname": "外國語文學系",
+        "dep_ename": "Department of Foreign Languages and Literatures",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "U"
+      },
       "1091_1581": {
         "acy": "109",
         "sem": "1",
@@ -2381,7 +2409,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "25",
+        "reg_num": "24",
         "depType": "U"
       },
       "1091_1604": {
@@ -2521,7 +2549,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "19",
+        "reg_num": "18",
         "depType": "U"
       },
       "1091_1609": {
@@ -2633,7 +2661,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "53",
+        "reg_num": "52",
         "depType": "U"
       },
       "1091_1616": {
@@ -2804,6 +2832,34 @@
         "reg_num": "0",
         "depType": "U"
       },
+      "1091_1602": {
+        "acy": "109",
+        "sem": "1",
+        "cos_id": "1602",
+        "cos_code": "DFL2221",
+        "num_limit": "70",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "語音學/音韻學",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "盧郁安",
+        "cos_time": "4EFG-F210",
+        "memo": "[English Medium Course]",
+        "cos_ename": "Phonetics/Phonology",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "450",
+        "dep_primary": "1",
+        "dep_cname": "外國語文學系",
+        "dep_ename": "Department of Foreign Languages and Literatures",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "59",
+        "depType": "U"
+      },
       "1091_1615": {
         "acy": "109",
         "sem": "1",
@@ -2844,6 +2900,15 @@
         }
       },
       "1091_1579": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1091_1580": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -3181,6 +3246,15 @@
           "GECIEngName": ""
         }
       },
+      "1091_1602": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1091_1615": {
         "": {
           "course_category_cname": "",
@@ -3199,6 +3273,12 @@
         }
       },
       "1091_1579": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1091_1580": {
         "": {
           "brief_code": "",
           "brief": ""
@@ -3414,6 +3494,12 @@
           "brief": ""
         }
       },
+      "1091_1602": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1091_1615": {
         "": {
           "brief_code": "",
@@ -3427,6 +3513,9 @@
       },
       "1091_1579": {
         "授課語言代碼": "zh-tw"
+      },
+      "1091_1580": {
+        "授課語言代碼": "en-us"
       },
       "1091_1581": {
         "授課語言代碼": "zh-tw"
@@ -3531,6 +3620,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1091_1621": {
+        "授課語言代碼": "en-us"
+      },
+      "1091_1602": {
         "授課語言代碼": "en-us"
       },
       "1091_1615": {
@@ -3764,7 +3856,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "26",
+        "reg_num": "25",
         "depType": "U"
       },
       "1091_1663": {
@@ -3792,7 +3884,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "59",
+        "reg_num": "58",
         "depType": "U"
       },
       "1091_1664": {
@@ -3820,7 +3912,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": null,
-        "reg_num": "58",
+        "reg_num": "57",
         "depType": "U"
       },
       "1091_1665": {
@@ -4296,7 +4388,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "10",
+        "reg_num": "9",
         "depType": "U"
       },
       "1091_1683": {
@@ -6169,7 +6261,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "15",
+        "reg_num": "14",
         "depType": "U"
       },
       "1091_1624": {
@@ -14492,7 +14584,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "103",
+        "reg_num": "102",
         "depType": "U"
       },
       "1091_1238": {
@@ -16327,7 +16419,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "45",
+        "reg_num": "44",
         "depType": "U"
       },
       "1091_1272": {
@@ -16439,7 +16531,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "63",
+        "reg_num": "62",
         "depType": "U"
       },
       "1091_1276": {
@@ -16467,7 +16559,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "80",
+        "reg_num": "79",
         "depType": "U"
       },
       "1091_1277": {
@@ -16747,7 +16839,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "55",
+        "reg_num": "54",
         "depType": "U"
       },
       "1091_1289": {
@@ -16979,7 +17071,7 @@
         "sem": "1",
         "cos_id": "1299",
         "cos_code": "DCV4605",
-        "num_limit": "9999",
+        "num_limit": "55",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "計算機概論",
@@ -34343,7 +34435,7 @@
         "cos_type": "通識",
         "cos_type_e": "General Course",
         "crsoutline_type": "data",
-        "reg_num": "40",
+        "reg_num": "39",
         "depType": "O"
       },
       "1091_6318": {
@@ -34567,7 +34659,7 @@
         "cos_type": "通識",
         "cos_type_e": "General Course",
         "crsoutline_type": "data",
-        "reg_num": "23",
+        "reg_num": "22",
         "depType": "O"
       },
       "1091_6336": {
@@ -34903,7 +34995,7 @@
         "cos_type": "通識",
         "cos_type_e": "General Course",
         "crsoutline_type": "data",
-        "reg_num": "150",
+        "reg_num": "149",
         "depType": "O"
       },
       "1091_6362": {
@@ -35015,7 +35107,7 @@
         "cos_type": "通識",
         "cos_type_e": "General Course",
         "crsoutline_type": "data",
-        "reg_num": "8",
+        "reg_num": "7",
         "depType": "O"
       },
       "1091_6366": {
@@ -41671,7 +41763,7 @@
         "cos_type": "外語",
         "cos_type_e": "Foreign Languages Course",
         "crsoutline_type": "data",
-        "reg_num": "45",
+        "reg_num": "44",
         "depType": "O"
       },
       "1091_7508": {
@@ -47523,7 +47615,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "36",
+        "reg_num": "35",
         "depType": "O"
       },
       "1091_8555": {
@@ -48503,7 +48595,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "29",
+        "reg_num": "28",
         "depType": "O"
       },
       "1091_8715": {
@@ -48531,7 +48623,7 @@
         "cos_type": "體育",
         "cos_type_e": "Physical Education",
         "crsoutline_type": "data",
-        "reg_num": "40",
+        "reg_num": "39",
         "depType": "O"
       }
     },
@@ -51251,7 +51343,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "44",
+        "reg_num": "43",
         "depType": "O"
       },
       "1091_3004": {
@@ -53008,7 +53100,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "71",
+        "reg_num": "70",
         "depType": "O"
       },
       "1091_0353": {
@@ -54283,7 +54375,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "17",
+        "reg_num": "16",
         "depType": "O"
       },
       "1091_1907": {
@@ -56383,7 +56475,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "43",
+        "reg_num": "42",
         "depType": "O"
       }
     },
@@ -61697,7 +61789,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "12",
+        "reg_num": "11",
         "depType": "P"
       },
       "1091_5814": {
@@ -64576,7 +64668,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "10",
+        "reg_num": "9",
         "depType": "P"
       },
       "1091_1683": {
@@ -67933,7 +68025,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "40",
+        "reg_num": "39",
         "depType": "Q"
       },
       "1091_1554": {
@@ -67989,7 +68081,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "78",
+        "reg_num": "77",
         "depType": "Q"
       },
       "1091_1567": {
@@ -68590,7 +68682,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "61",
+        "reg_num": "60",
         "depType": "Q"
       },
       "1091_1552": {
@@ -68646,7 +68738,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "40",
+        "reg_num": "39",
         "depType": "Q"
       },
       "1091_1554": {
@@ -69873,7 +69965,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "53",
+        "reg_num": "52",
         "depType": "Q"
       },
       "1091_1621": {
@@ -69986,6 +70078,34 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "7",
+        "depType": "Q"
+      },
+      "1091_1602": {
+        "acy": "109",
+        "sem": "1",
+        "cos_id": "1602",
+        "cos_code": "DFL2221",
+        "num_limit": "70",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "語音學/音韻學",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "盧郁安",
+        "cos_time": "4EFG-F210",
+        "memo": "[English Medium Course]",
+        "cos_ename": "Phonetics/Phonology",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "QJU",
+        "dep_primary": "1",
+        "dep_cname": "外國語文學系跨域學程(B)外系學生",
+        "dep_ename": "Department of Foreign Languages and Literatures",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "59",
         "depType": "Q"
       },
       "1091_1615": {
@@ -70131,6 +70251,15 @@
           "GECIEngName": ""
         }
       },
+      "1091_1602": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1091_1615": {
         "": {
           "course_category_cname": "",
@@ -70208,6 +70337,12 @@
           "brief": ""
         }
       },
+      "1091_1602": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1091_1615": {
         "": {
           "brief_code": "",
@@ -70247,6 +70382,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1091_5783": {
+        "授課語言代碼": "en-us"
+      },
+      "1091_1602": {
         "授課語言代碼": "en-us"
       },
       "1091_1615": {
@@ -70845,7 +70983,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "15",
+        "reg_num": "14",
         "depType": "Q"
       },
       "1091_1624": {
@@ -71349,7 +71487,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "17",
+        "reg_num": "16",
         "depType": "Q"
       },
       "1091_5835": {
@@ -73670,7 +73808,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "80",
+        "reg_num": "79",
         "depType": "Q"
       },
       "1091_1278": {
@@ -76192,7 +76330,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "40",
+        "reg_num": "39",
         "depType": "Q"
       },
       "1091_1554": {
@@ -76248,7 +76386,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "78",
+        "reg_num": "77",
         "depType": "Q"
       },
       "1091_1567": {
@@ -78004,7 +78142,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "12",
+        "reg_num": "11",
         "depType": "Q"
       }
     },
@@ -79660,7 +79798,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "17",
+        "reg_num": "16",
         "depType": "Q"
       },
       "1091_1907": {
@@ -80459,7 +80597,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "12",
+        "reg_num": "11",
         "depType": "Q"
       },
       "1091_5814": {
@@ -83721,7 +83859,7 @@
         "sem": "1",
         "cos_id": "1299",
         "cos_code": "DCV4605",
-        "num_limit": "9999",
+        "num_limit": "55",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "計算機概論",
@@ -85740,7 +85878,7 @@
         "sem": "1",
         "cos_id": "1299",
         "cos_code": "DCV4605",
-        "num_limit": "9999",
+        "num_limit": "55",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "計算機概論",
@@ -85872,7 +86010,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "61",
+        "reg_num": "60",
         "depType": "Q"
       },
       "1091_3005": {
@@ -88038,7 +88176,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "43",
+        "reg_num": "42",
         "depType": "Q"
       },
       "1091_5569": {
@@ -92717,7 +92855,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "12",
+        "reg_num": "11",
         "depType": "G"
       },
       "1091_5803": {
@@ -97968,18 +98106,18 @@
         "acy": "109",
         "sem": "1",
         "cos_id": "5921",
-        "cos_code": "IMU5602",
+        "cos_code": "IMU5607",
         "num_limit": "12",
         "dep_limit": "*",
         "URL": null,
-        "cos_cname": "音樂、科技與社會：從愛迪生的留聲機到李格悌的另類前衛",
+        "cos_cname": "音樂、科技與社會:1877年以來",
         "cos_credit": "3.00",
         "cos_hours": "3.00",
         "TURL": "http://www.imu.nctu.edu.tw/imu/f-teacher.php?INPUT_FUNCT=SHOW&INPUT_ID=9&INPUT_PAGE=&INPUT_TypeID=&",
         "teacher": "金立群",
         "cos_time": "2GHY-HC514",
         "memo": "補修課程",
-        "cos_ename": "Music, Technology, and Society: From Edison's Phonograph to Ligeti's Alternative Avant-Garde",
+        "cos_ename": "Music, Technology, and Society since 1876",
         "brief": "",
         "degree": "3",
         "dep_id": "466",
@@ -98024,18 +98162,18 @@
         "acy": "109",
         "sem": "1",
         "cos_id": "5923",
-        "cos_code": "IMU5604",
+        "cos_code": "IMU5606",
         "num_limit": "12",
         "dep_limit": "*",
         "URL": null,
-        "cos_cname": "音樂、科技與社會：巴洛克至1876年",
+        "cos_cname": "音樂、科技與社會:1876年以前",
         "cos_credit": "3.00",
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "李奉書",
         "cos_time": "4EFG-HC501",
         "memo": "補修課程",
-        "cos_ename": "Music, Technology, and Society: Late Baroque to 1876",
+        "cos_ename": "Music, Technology, and Society up to 1876",
         "brief": "",
         "degree": "3",
         "dep_id": "466",
@@ -104357,7 +104495,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "103",
+        "reg_num": "102",
         "depType": "G"
       },
       "1091_5123": {
@@ -104883,7 +105021,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "52",
+        "reg_num": "51",
         "depType": "M"
       },
       "1091_5133": {
@@ -110655,7 +110793,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "16",
+        "reg_num": "15",
         "depType": "G"
       },
       "1091_5376": {
@@ -110795,7 +110933,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "23",
+        "reg_num": "22",
         "depType": "G"
       },
       "1091_5381": {
@@ -130222,7 +130360,7 @@
         "TURL": "",
         "teacher": "張家齊、朱博湧、林春成、傅恆霖、鍾惠民、戴天時",
         "cos_time": "7HYI-",
-        "memo": "限EMBA學生選修",
+        "memo": "限EMBA二年級以上學生選修",
         "cos_ename": "Seminar on Management of Chinese Enterprises",
         "brief": "",
         "degree": "5",

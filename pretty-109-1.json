@@ -11270,7 +11270,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "0",
+        "reg_num": "41",
         "depType": "U"
       },
       "1091_1091": {
@@ -11326,7 +11326,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "0",
+        "reg_num": "41",
         "depType": "U"
       },
       "1091_1093": {
@@ -11354,7 +11354,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "2",
+        "reg_num": "53",
         "depType": "U"
       },
       "1091_1094": {
@@ -16012,6 +16012,34 @@
     "dep_cname": "土木工程學系",
     "dep_ename": "Department of Civil Engineering",
     "1": {
+      "1091_1200": {
+        "acy": "109",
+        "sem": "1",
+        "cos_id": "1200",
+        "cos_code": "DCV4595",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "應用基礎工程",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "方永壽",
+        "cos_time": "3BCD-EB108",
+        "memo": "",
+        "cos_ename": "Applied Foundation Engineering",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "612",
+        "dep_primary": "1",
+        "dep_cname": "土木工程學系",
+        "dep_ename": "Department of Civil Engineering",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "U"
+      },
       "1091_1258": {
         "acy": "109",
         "sem": "1",
@@ -17106,6 +17134,15 @@
       }
     },
     "costype": {
+      "1091_1200": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1091_1258": {
         "": {
           "course_category_cname": "",
@@ -17459,6 +17496,12 @@
       }
     },
     "brief": {
+      "1091_1200": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1091_1258": {
         "": {
           "brief_code": "",
@@ -17695,6 +17738,9 @@
       }
     },
     "language": {
+      "1091_1200": {
+        "授課語言代碼": "zh-tw"
+      },
       "1091_1258": {
         "授課語言代碼": "zh-tw"
       },
@@ -33790,7 +33836,7 @@
         "TURL": "https://ics.nctu.edu.tw/professors/shihyulo",
         "teacher": "羅仕宇",
         "cos_time": "4CD-F110",
-        "memo": "不接受修讀過「心理學」或「心理學概論」同學修讀。[English Medium Course]",
+        "memo": "不接受修讀過「心理學」或「心理學概論」同學修讀。系統預設 核心社會,欲採計核心自然請至通識中心書面申請[English Medium Course]",
         "cos_ename": "Introduction to Psychology",
         "brief": "",
         "degree": "1",
@@ -45273,7 +45319,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "2",
+        "reg_num": "1",
         "depType": "O"
       },
       "1091_8105": {
@@ -51612,7 +51658,7 @@
         "sem": "1",
         "cos_id": "0514",
         "cos_code": "DEP1111",
-        "num_limit": "95",
+        "num_limit": "65",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "物理(一)",
@@ -51688,6 +51734,34 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "O"
+      },
+      "1091_0517": {
+        "acy": "109",
+        "sem": "1",
+        "cos_id": "0517",
+        "cos_code": "DEP1111",
+        "num_limit": "65",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "物理(一)",
+        "cos_credit": "4.00",
+        "cos_hours": "4.00",
+        "TURL": "",
+        "teacher": "楊毅",
+        "cos_time": "1CD4GH-SC105",
+        "memo": "",
+        "cos_ename": "Physics (I)",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "OUD",
+        "dep_primary": "1",
+        "dep_cname": "物理教學小組",
+        "dep_ename": "Physical section",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": null,
         "reg_num": "0",
         "depType": "O"
       },
@@ -51943,6 +52017,34 @@
         "reg_num": "0",
         "depType": "O"
       },
+      "1091_0547": {
+        "acy": "109",
+        "sem": "1",
+        "cos_id": "0547",
+        "cos_code": "DEP1115",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "物理一作業演算",
+        "cos_credit": ".00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "楊毅",
+        "cos_time": "5JK-SA321",
+        "memo": "",
+        "cos_ename": "Physics Recitation (I)",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "OUD",
+        "dep_primary": "1",
+        "dep_cname": "物理教學小組",
+        "dep_ename": "Physical section",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "O"
+      },
       "1091_0551": {
         "acy": "109",
         "sem": "1",
@@ -52116,7 +52218,7 @@
         "sem": "1",
         "cos_id": "0511",
         "cos_code": "DEP1113",
-        "num_limit": "65",
+        "num_limit": "70",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "物理(一)榮譽班",
@@ -52144,7 +52246,7 @@
         "sem": "1",
         "cos_id": "0512",
         "cos_code": "DEP1113",
-        "num_limit": "65",
+        "num_limit": "70",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "物理(一)榮譽班",
@@ -52261,6 +52363,15 @@
           "GECIEngName": "CHK"
         }
       },
+      "1091_0517": {
+        "通識跨院基本素養_通識跨院": {
+          "course_category_cname": "通識跨院基本素養_通識跨院",
+          "course_category_ename": "General Education Course: Intercollegiate_GECI",
+          "course_category_type": "16",
+          "GECIName": "客",
+          "GECIEngName": "CHK"
+        }
+      },
       "1091_0518": {
         "網路課程_網路": {
           "course_category_cname": "網路課程_網路",
@@ -52341,6 +52452,15 @@
         }
       },
       "1091_0546": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1091_0547": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -52465,6 +52585,12 @@
           "brief": "自然/基礎(96),跨院基本素養(106)"
         }
       },
+      "1091_0517": {
+        "A105,A504": {
+          "brief_code": "A105,A504",
+          "brief": "自然/基礎(96),跨院基本素養(106)"
+        }
+      },
       "1091_0518": {
         "A105,A504": {
           "brief_code": "A105,A504",
@@ -52514,6 +52640,12 @@
         }
       },
       "1091_0546": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1091_0547": {
         "": {
           "brief_code": "",
           "brief": ""
@@ -52593,6 +52725,9 @@
       "1091_0516": {
         "授課語言代碼": "zh-tw"
       },
+      "1091_0517": {
+        "授課語言代碼": "zh-tw"
+      },
       "1091_0518": {
         "授課語言代碼": "zh-tw"
       },
@@ -52618,6 +52753,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1091_0546": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1091_0547": {
         "授課語言代碼": "zh-tw"
       },
       "1091_0551": {
@@ -61780,7 +61918,7 @@
         "TURL": "https://ics.nctu.edu.tw/professors/shihyulo",
         "teacher": "羅仕宇",
         "cos_time": "4CD-F110",
-        "memo": "不接受修讀過「心理學」或「心理學概論」同學修讀。[English Medium Course]",
+        "memo": "不接受修讀過「心理學」或「心理學概論」同學修讀。系統預設 核心社會,欲採計核心自然請至通識中心書面申請[English Medium Course]",
         "cos_ename": "Introduction to Psychology",
         "brief": "",
         "degree": "1",
@@ -72470,7 +72608,7 @@
         "dep_ename": "",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "27",
         "depType": "Q"
       }
@@ -109364,7 +109502,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "12",
+        "reg_num": "11",
         "depType": "G"
       },
       "1091_5351": {
@@ -109756,7 +109894,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "12",
+        "reg_num": "11",
         "depType": "G"
       },
       "1091_5366": {
@@ -111815,7 +111953,7 @@
         "dep_ename": "Institute of Electro-Physics",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "27",
         "depType": "G"
       },
@@ -115254,7 +115392,7 @@
         "cos_hours": "3.00",
         "TURL": "http://web.it.nctu.edu.tw/~wfgore/home1.html",
         "teacher": "高文芳",
-        "cos_time": "1YIJ-SC151",
+        "cos_time": "5YIJ-SC105",
         "memo": "",
         "cos_ename": "Topics in Gravitational Matter Physics",
         "brief": "",
@@ -135252,7 +135390,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "60",
+        "reg_num": "59",
         "depType": "U"
       },
       "1091_1125": {

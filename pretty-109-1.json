@@ -281,7 +281,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "44",
+        "reg_num": "43",
         "depType": "U"
       },
       "1091_1549": {
@@ -309,7 +309,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "117",
+        "reg_num": "116",
         "depType": "U"
       },
       "1091_1550": {
@@ -337,7 +337,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "59",
+        "reg_num": "58",
         "depType": "U"
       },
       "1091_1551": {
@@ -421,7 +421,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "38",
+        "reg_num": "37",
         "depType": "U"
       },
       "1091_1554": {
@@ -561,7 +561,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "23",
+        "reg_num": "22",
         "depType": "U"
       },
       "1091_1562": {
@@ -645,7 +645,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "76",
+        "reg_num": "75",
         "depType": "U"
       },
       "1091_1566": {
@@ -729,7 +729,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "55",
+        "reg_num": "54",
         "depType": "U"
       },
       "1091_1569": {
@@ -2213,7 +2213,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "15",
+        "reg_num": "14",
         "depType": "U"
       },
       "1091_1595": {
@@ -5196,7 +5196,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "5",
+        "reg_num": "4",
         "depType": "U"
       },
       "1091_1695": {
@@ -5280,7 +5280,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "51",
+        "reg_num": "50",
         "depType": "U"
       },
       "1091_1699": {
@@ -5308,7 +5308,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "50",
+        "reg_num": "49",
         "depType": "U"
       },
       "1091_1700": {
@@ -5392,7 +5392,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "32",
+        "reg_num": "31",
         "depType": "U"
       },
       "1091_1704": {
@@ -5504,7 +5504,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "42",
+        "reg_num": "41",
         "depType": "U"
       },
       "1091_1709": {
@@ -5588,7 +5588,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "11",
+        "reg_num": "10",
         "depType": "U"
       },
       "1091_1713": {
@@ -6637,7 +6637,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "9",
+        "reg_num": "8",
         "depType": "U"
       },
       "1091_1646": {
@@ -8271,7 +8271,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "269",
+        "reg_num": "267",
         "depType": "U"
       },
       "1091_1028": {
@@ -12493,8 +12493,8 @@
         "sem": "1",
         "cos_id": "1170",
         "cos_code": "DCP1263",
-        "num_limit": "40",
-        "dep_limit": "*",
+        "num_limit": "30",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "資工探索",
         "cos_credit": "3.00",
@@ -12512,7 +12512,7 @@
         "dep_ename": "Department of Computer Science",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       }
@@ -12832,7 +12832,7 @@
   },
   "CCF66C6B-573F-4C59-B03F-EEB6DE3FF989": {
     "dep_id": "CCF66C6B-573F-4C59-B03F-EEB6DE3FF989",
-    "dep_cname": "電機學院(大學部)",
+    "dep_cname": "電機學院院級(學士班)",
     "dep_ename": "College of Electrical and Computer Engineering",
     "1": {
       "1091_1114": {
@@ -12855,7 +12855,7 @@
         "degree": "1",
         "dep_id": "5I1",
         "dep_primary": "1",
-        "dep_cname": "電機學院(大學部)",
+        "dep_cname": "電機學院院級(學士班)",
         "dep_ename": "College of Electrical and Computer Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
@@ -12883,7 +12883,7 @@
         "degree": "1",
         "dep_id": "5I1",
         "dep_primary": "1",
-        "dep_cname": "電機學院(大學部)",
+        "dep_cname": "電機學院院級(學士班)",
         "dep_ename": "College of Electrical and Computer Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
@@ -12911,7 +12911,7 @@
         "degree": "1",
         "dep_id": "5I1",
         "dep_primary": "1",
-        "dep_cname": "電機學院(大學部)",
+        "dep_cname": "電機學院院級(學士班)",
         "dep_ename": "College of Electrical and Computer Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
@@ -12939,7 +12939,7 @@
         "degree": "1",
         "dep_id": "5I1",
         "dep_primary": "1",
-        "dep_cname": "電機學院(大學部)",
+        "dep_cname": "電機學院院級(學士班)",
         "dep_ename": "College of Electrical and Computer Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
@@ -12967,7 +12967,7 @@
         "degree": "1",
         "dep_id": "5I1",
         "dep_primary": "1",
-        "dep_cname": "電機學院(大學部)",
+        "dep_cname": "電機學院院級(學士班)",
         "dep_ename": "College of Electrical and Computer Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
@@ -12995,7 +12995,7 @@
         "degree": "1",
         "dep_id": "5I1",
         "dep_primary": "1",
-        "dep_cname": "電機學院(大學部)",
+        "dep_cname": "電機學院院級(學士班)",
         "dep_ename": "College of Electrical and Computer Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
@@ -13023,7 +13023,7 @@
         "degree": "1",
         "dep_id": "5I1",
         "dep_primary": "1",
-        "dep_cname": "電機學院(大學部)",
+        "dep_cname": "電機學院院級(學士班)",
         "dep_ename": "College of Electrical and Computer Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
@@ -13051,7 +13051,7 @@
         "degree": "1",
         "dep_id": "5I1",
         "dep_primary": "1",
-        "dep_cname": "電機學院(大學部)",
+        "dep_cname": "電機學院院級(學士班)",
         "dep_ename": "College of Electrical and Computer Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
@@ -17862,7 +17862,7 @@
         "sem": "1",
         "cos_id": "1304",
         "cos_code": "DMA1201",
-        "num_limit": "9999",
+        "num_limit": "65",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "材料科學與工程導論 (一)",
@@ -21126,7 +21126,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "53",
+        "reg_num": "52",
         "depType": "U"
       },
       "1091_1392": {
@@ -21154,7 +21154,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "0",
+        "reg_num": "16",
         "depType": "U"
       },
       "1091_1393": {
@@ -21182,7 +21182,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "59",
+        "reg_num": "58",
         "depType": "U"
       },
       "1091_1394": {
@@ -21238,7 +21238,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "56",
+        "reg_num": "55",
         "depType": "U"
       },
       "1091_1396": {
@@ -21266,7 +21266,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "1",
+        "reg_num": "18",
         "depType": "U"
       },
       "1091_1397": {
@@ -21294,7 +21294,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "28",
+        "reg_num": "27",
         "depType": "U"
       },
       "1091_1398": {
@@ -23437,7 +23437,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "65",
+        "reg_num": "64",
         "depType": "U"
       },
       "1091_1476": {
@@ -23465,7 +23465,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "98",
+        "reg_num": "97",
         "depType": "U"
       },
       "1091_1478": {
@@ -34875,7 +34875,7 @@
         "cos_type": "通識",
         "cos_type_e": "General Course",
         "crsoutline_type": "data",
-        "reg_num": "40",
+        "reg_num": "39",
         "depType": "O"
       },
       "1091_6361": {
@@ -34903,7 +34903,7 @@
         "cos_type": "通識",
         "cos_type_e": "General Course",
         "crsoutline_type": "data",
-        "reg_num": "147",
+        "reg_num": "146",
         "depType": "O"
       },
       "1091_6362": {
@@ -37067,7 +37067,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "266",
+        "reg_num": "264",
         "depType": "O"
       },
       "1091_6702": {
@@ -37319,7 +37319,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "56",
+        "reg_num": "55",
         "depType": "O"
       },
       "1091_6711": {
@@ -37431,7 +37431,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "63",
+        "reg_num": "62",
         "depType": "O"
       },
       "1091_6715": {
@@ -39347,7 +39347,7 @@
         "cos_type": "外語",
         "cos_type_e": "Foreign Languages Course",
         "crsoutline_type": "data",
-        "reg_num": "44",
+        "reg_num": "43",
         "depType": "O"
       },
       "1091_7102": {
@@ -39459,7 +39459,7 @@
         "cos_type": "外語",
         "cos_type_e": "Foreign Languages Course",
         "crsoutline_type": "data",
-        "reg_num": "43",
+        "reg_num": "42",
         "depType": "O"
       },
       "1091_7106": {
@@ -40075,7 +40075,7 @@
         "cos_type": "外語",
         "cos_type_e": "Foreign Languages Course",
         "crsoutline_type": "data",
-        "reg_num": "48",
+        "reg_num": "47",
         "depType": "O"
       },
       "1091_7128": {
@@ -40103,7 +40103,7 @@
         "cos_type": "外語",
         "cos_type_e": "Foreign Languages Course",
         "crsoutline_type": "data",
-        "reg_num": "45",
+        "reg_num": "44",
         "depType": "O"
       },
       "1091_7129": {
@@ -41335,7 +41335,7 @@
         "cos_type": "外語",
         "cos_type_e": "Foreign Languages Course",
         "crsoutline_type": "data",
-        "reg_num": "40",
+        "reg_num": "39",
         "depType": "O"
       },
       "1091_7541": {
@@ -42063,7 +42063,7 @@
         "cos_type": "外語",
         "cos_type_e": "Foreign Languages Course",
         "crsoutline_type": "data",
-        "reg_num": "18",
+        "reg_num": "17",
         "depType": "O"
       },
       "1091_7523": {
@@ -45171,7 +45171,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "45",
+        "reg_num": "43",
         "depType": "O"
       },
       "1091_8103": {
@@ -45423,7 +45423,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "0",
+        "reg_num": "28",
         "depType": "O"
       },
       "1091_8112": {
@@ -45675,7 +45675,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "56",
+        "reg_num": "55",
         "depType": "O"
       },
       "1091_8122": {
@@ -45815,7 +45815,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "63",
+        "reg_num": "62",
         "depType": "O"
       },
       "1091_8127": {
@@ -48307,7 +48307,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "39",
+        "reg_num": "38",
         "depType": "O"
       },
       "1091_8708": {
@@ -48531,7 +48531,7 @@
         "cos_type": "體育",
         "cos_type_e": "Physical Education",
         "crsoutline_type": "data",
-        "reg_num": "39",
+        "reg_num": "38",
         "depType": "O"
       }
     },
@@ -52146,7 +52146,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "24",
+        "reg_num": "40",
         "depType": "O"
       },
       "1091_0512": {
@@ -52174,7 +52174,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "43",
+        "reg_num": "44",
         "depType": "O"
       },
       "1091_0521": {
@@ -53204,7 +53204,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "0",
+        "reg_num": "28",
         "depType": "O"
       },
       "1091_0414": {
@@ -54018,7 +54018,7 @@
         "sem": "1",
         "cos_id": "1438",
         "cos_code": "DOS1009",
-        "num_limit": "9999",
+        "num_limit": "28",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "藝術生活",
@@ -54038,7 +54038,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "0",
+        "reg_num": "28",
         "depType": "O"
       },
       "1091_1439": {
@@ -54046,7 +54046,7 @@
         "sem": "1",
         "cos_id": "1439",
         "cos_code": "DOS1010",
-        "num_limit": "9999",
+        "num_limit": "28",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "個別科學研究",
@@ -54066,7 +54066,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "0",
+        "reg_num": "28",
         "depType": "O"
       }
     },
@@ -56599,7 +56599,7 @@
         "dep_ename": "",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -56627,7 +56627,7 @@
         "dep_ename": "",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       }
@@ -61168,7 +61168,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "9",
+        "reg_num": "8",
         "depType": "P"
       },
       "1091_3061": {
@@ -61280,7 +61280,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "12",
+        "reg_num": "11",
         "depType": "P"
       },
       "1091_5896": {
@@ -62658,7 +62658,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "71",
+        "reg_num": "70",
         "depType": "P"
       },
       "1091_1515": {
@@ -62742,7 +62742,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "71",
+        "reg_num": "70",
         "depType": "P"
       },
       "1091_1518": {
@@ -63647,7 +63647,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "50",
+        "reg_num": "49",
         "depType": "P"
       },
       "1091_1711": {
@@ -63675,7 +63675,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "11",
+        "reg_num": "10",
         "depType": "P"
       }
     },
@@ -65418,7 +65418,7 @@
         "sem": "1",
         "cos_id": "1304",
         "cos_code": "DMA1201",
-        "num_limit": "9999",
+        "num_limit": "65",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "材料科學與工程導論 (一)",
@@ -67841,7 +67841,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "38",
+        "reg_num": "37",
         "depType": "Q"
       },
       "1091_1554": {
@@ -67897,7 +67897,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "76",
+        "reg_num": "75",
         "depType": "Q"
       },
       "1091_1567": {
@@ -68498,7 +68498,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "59",
+        "reg_num": "58",
         "depType": "Q"
       },
       "1091_1552": {
@@ -68554,7 +68554,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "38",
+        "reg_num": "37",
         "depType": "Q"
       },
       "1091_1554": {
@@ -70238,7 +70238,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "5",
+        "reg_num": "4",
         "depType": "Q"
       },
       "1091_1697": {
@@ -70294,7 +70294,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "51",
+        "reg_num": "50",
         "depType": "Q"
       },
       "1091_1700": {
@@ -70378,7 +70378,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "32",
+        "reg_num": "31",
         "depType": "Q"
       },
       "1091_1705": {
@@ -71761,7 +71761,7 @@
         "sem": "1",
         "cos_id": "1304",
         "cos_code": "DMA1201",
-        "num_limit": "9999",
+        "num_limit": "65",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "材料科學與工程導論 (一)",
@@ -74987,7 +74987,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "71",
+        "reg_num": "70",
         "depType": "Q"
       },
       "1091_1515": {
@@ -75071,7 +75071,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "71",
+        "reg_num": "70",
         "depType": "Q"
       },
       "1091_1518": {
@@ -76100,7 +76100,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "38",
+        "reg_num": "37",
         "depType": "Q"
       },
       "1091_1554": {
@@ -76156,7 +76156,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "76",
+        "reg_num": "75",
         "depType": "Q"
       },
       "1091_1567": {
@@ -77027,7 +77027,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "9",
+        "reg_num": "8",
         "depType": "Q"
       },
       "1091_1646": {
@@ -77251,7 +77251,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "12",
+        "reg_num": "11",
         "depType": "Q"
       },
       "1091_5835": {
@@ -85734,7 +85734,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "59",
+        "reg_num": "58",
         "depType": "Q"
       },
       "1091_3005": {
@@ -88767,7 +88767,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "100",
+        "reg_num": "99",
         "depType": "G"
       },
       "1091_5708": {
@@ -94751,7 +94751,7 @@
         "dep_ename": "Institute for Social Research and Cultural Studies",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "5",
         "depType": "G"
       },
@@ -94891,7 +94891,7 @@
         "dep_ename": "Institute for Social Research and Cultural Studies",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "2",
         "depType": "G"
       }
@@ -100098,10 +100098,10 @@
         "cos_cname": "二維半導體概論",
         "cos_credit": "3.00",
         "cos_hours": "3.00",
-        "TURL": "",
+        "TURL": "https://dhlien.wixsite.com/dhlien",
         "teacher": "連德軒",
         "cos_time": "1EF-ED202,4D-ED301",
-        "memo": "",
+        "memo": "[English Medium Course]",
         "cos_ename": "Introduction to 2D Semiconductors",
         "brief": "",
         "degree": "3",
@@ -100821,7 +100821,7 @@
         "授課語言代碼": "en-us"
       },
       "1091_5979": {
-        "授課語言代碼": "zh-tw"
+        "授課語言代碼": "en-us"
       }
     }
   },
@@ -107540,7 +107540,7 @@
         "TURL": "",
         "teacher": "潘康瑞Krishna Pande",
         "cos_time": "5BCD-EE112",
-        "memo": "",
+        "memo": "英文授課[English Medium Course]",
         "cos_ename": "Advanced Compound Semiconductors and Their Applications",
         "brief": "",
         "degree": "3",
@@ -107568,7 +107568,7 @@
         "TURL": "",
         "teacher": "唐奈歐",
         "cos_time": "2CD4F-EE113",
-        "memo": "",
+        "memo": "英文授課[English Medium Course]",
         "cos_ename": "Semiconductor Optoelectronics",
         "brief": "",
         "degree": "3",
@@ -107878,10 +107878,10 @@
         "授課語言代碼": "en-us"
       },
       "1091_5981": {
-        "授課語言代碼": "zh-tw"
+        "授課語言代碼": "en-us"
       },
       "1091_5982": {
-        "授課語言代碼": "zh-tw"
+        "授課語言代碼": "en-us"
       },
       "1091_5216": {
         "授課語言代碼": "en-us"
@@ -118445,34 +118445,6 @@
         "reg_num": "16",
         "depType": "G"
       },
-      "1091_5544": {
-        "acy": "109",
-        "sem": "1",
-        "cos_id": "5544",
-        "cos_code": "IIM5381",
-        "num_limit": "9999",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "經典書文創雲",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "",
-        "teacher": "黎漢林",
-        "cos_time": "3BCD-MB311",
-        "memo": "",
-        "cos_ename": "E-Culture of classic Book",
-        "brief": "",
-        "degree": "3",
-        "dep_id": "706",
-        "dep_primary": "1",
-        "dep_cname": "資訊管理研究所",
-        "dep_ename": "Institute of Information Management",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "2",
-        "depType": "G"
-      },
       "1091_5545": {
         "acy": "109",
         "sem": "1",
@@ -118698,15 +118670,6 @@
           "GECIEngName": ""
         }
       },
-      "1091_5544": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1091_5545": {
         "": {
           "course_category_cname": "",
@@ -118797,12 +118760,6 @@
           "brief": ""
         }
       },
-      "1091_5544": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1091_5545": {
         "": {
           "brief_code": "",
@@ -118854,9 +118811,6 @@
         "授課語言代碼": "zh-tw"
       },
       "1091_5543": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1091_5544": {
         "授課語言代碼": "zh-tw"
       },
       "1091_5545": {
@@ -125838,7 +125792,7 @@
         "TURL": "",
         "teacher": "許恒通",
         "cos_time": "2XEF-EE126A",
-        "memo": "For IIT-DDP students",
+        "memo": "英文授課；For IIT-DDP students；[English Medium Course]",
         "cos_ename": "Special Topics of Semiconductor Devices:Fabrication, Characterization, and Applications",
         "brief": "",
         "degree": "4",
@@ -125866,7 +125820,7 @@
         "TURL": "",
         "teacher": "曾院介",
         "cos_time": "3EFG-EE116",
-        "memo": "For IIT-DDP students",
+        "memo": "For IIT-DDP students；英文授課[English Medium Course]",
         "cos_ename": "Selected Topics in Advanced Nano Electronics",
         "brief": "",
         "degree": "4",
@@ -125894,7 +125848,7 @@
         "TURL": "https://wlabnctu.wixsite.com/wlabnctu",
         "teacher": "吳添立",
         "cos_time": "5EFG-ES601",
-        "memo": "For IIT-DDP students",
+        "memo": "For IIT-DDP students；英文授課[English Medium Course]",
         "cos_ename": "Semiconductor Engineering",
         "brief": "",
         "degree": "4",
@@ -125904,7 +125858,7 @@
         "dep_ename": "International College of Semiconductor Technology",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "D"
       }
@@ -125960,13 +125914,13 @@
     },
     "language": {
       "1091_4056": {
-        "授課語言代碼": "zh-tw"
+        "授課語言代碼": "en-us"
       },
       "1091_4057": {
-        "授課語言代碼": "zh-tw"
+        "授課語言代碼": "en-us"
       },
       "1091_4058": {
-        "授課語言代碼": "zh-tw"
+        "授課語言代碼": "en-us"
       }
     }
   },
@@ -131382,7 +131336,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "陳勝一",
-        "cos_time": "5IJK-MB110",
+        "cos_time": "5IJK-MB415",
         "memo": "本專班課程不准本系及他系一般生選修",
         "cos_ename": "Simulation Modeling and Application",
         "brief": "",
@@ -135623,7 +135577,7 @@
   },
   "75F46684-4732-47B1-8894-E22C9FA6C5A2": {
     "dep_id": "75F46684-4732-47B1-8894-E22C9FA6C5A2",
-    "dep_cname": "電機共同課程",
+    "dep_cname": "電機系共同課程",
     "dep_ename": "College of Electrical Engineering",
     "1": {
       "1091_1122": {
@@ -135646,7 +135600,7 @@
         "degree": "A",
         "dep_id": "5I1",
         "dep_primary": "1",
-        "dep_cname": "電機共同課程",
+        "dep_cname": "電機系共同課程",
         "dep_ename": "College of Electrical Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
@@ -135674,7 +135628,7 @@
         "degree": "A",
         "dep_id": "5I1",
         "dep_primary": "1",
-        "dep_cname": "電機共同課程",
+        "dep_cname": "電機系共同課程",
         "dep_ename": "College of Electrical Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
@@ -135702,7 +135656,7 @@
         "degree": "A",
         "dep_id": "5I1",
         "dep_primary": "1",
-        "dep_cname": "電機共同課程",
+        "dep_cname": "電機系共同課程",
         "dep_ename": "College of Electrical Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
@@ -135730,7 +135684,7 @@
         "degree": "A",
         "dep_id": "5I1",
         "dep_primary": "1",
-        "dep_cname": "電機共同課程",
+        "dep_cname": "電機系共同課程",
         "dep_ename": "College of Electrical Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
@@ -135758,7 +135712,7 @@
         "degree": "A",
         "dep_id": "5I1",
         "dep_primary": "1",
-        "dep_cname": "電機共同課程",
+        "dep_cname": "電機系共同課程",
         "dep_ename": "College of Electrical Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
@@ -135786,7 +135740,7 @@
         "degree": "A",
         "dep_id": "5I1",
         "dep_primary": "1",
-        "dep_cname": "電機共同課程",
+        "dep_cname": "電機系共同課程",
         "dep_ename": "College of Electrical Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
@@ -135814,7 +135768,7 @@
         "degree": "A",
         "dep_id": "5I1",
         "dep_primary": "1",
-        "dep_cname": "電機共同課程",
+        "dep_cname": "電機系共同課程",
         "dep_ename": "College of Electrical Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
@@ -135842,7 +135796,7 @@
         "degree": "A",
         "dep_id": "5I1",
         "dep_primary": "1",
-        "dep_cname": "電機共同課程",
+        "dep_cname": "電機系共同課程",
         "dep_ename": "College of Electrical Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
@@ -135870,7 +135824,7 @@
         "degree": "A",
         "dep_id": "5I1",
         "dep_primary": "1",
-        "dep_cname": "電機共同課程",
+        "dep_cname": "電機系共同課程",
         "dep_ename": "College of Electrical Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
@@ -135898,7 +135852,7 @@
         "degree": "A",
         "dep_id": "5I1",
         "dep_primary": "1",
-        "dep_cname": "電機共同課程",
+        "dep_cname": "電機系共同課程",
         "dep_ename": "College of Electrical Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
@@ -135926,7 +135880,7 @@
         "degree": "A",
         "dep_id": "5I1",
         "dep_primary": "1",
-        "dep_cname": "電機共同課程",
+        "dep_cname": "電機系共同課程",
         "dep_ename": "College of Electrical Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
@@ -135954,7 +135908,7 @@
         "degree": "A",
         "dep_id": "5I1",
         "dep_primary": "1",
-        "dep_cname": "電機共同課程",
+        "dep_cname": "電機系共同課程",
         "dep_ename": "College of Electrical Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
@@ -135982,7 +135936,7 @@
         "degree": "A",
         "dep_id": "5I1",
         "dep_primary": "1",
-        "dep_cname": "電機共同課程",
+        "dep_cname": "電機系共同課程",
         "dep_ename": "College of Electrical Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
@@ -136010,7 +135964,7 @@
         "degree": "A",
         "dep_id": "5I1",
         "dep_primary": "1",
-        "dep_cname": "電機共同課程",
+        "dep_cname": "電機系共同課程",
         "dep_ename": "College of Electrical Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
@@ -136038,7 +135992,7 @@
         "degree": "A",
         "dep_id": "5I1",
         "dep_primary": "1",
-        "dep_cname": "電機共同課程",
+        "dep_cname": "電機系共同課程",
         "dep_ename": "College of Electrical Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
@@ -136066,7 +136020,7 @@
         "degree": "A",
         "dep_id": "5I1",
         "dep_primary": "1",
-        "dep_cname": "電機共同課程",
+        "dep_cname": "電機系共同課程",
         "dep_ename": "College of Electrical Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
@@ -136689,7 +136643,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "71",
+        "reg_num": "70",
         "depType": "U"
       },
       "1091_1515": {
@@ -136773,7 +136727,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "71",
+        "reg_num": "70",
         "depType": "U"
       },
       "1091_1518": {
@@ -136885,7 +136839,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "71",
+        "reg_num": "70",
         "depType": "U"
       },
       "1091_1522": {

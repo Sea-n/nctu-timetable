@@ -3772,7 +3772,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "0",
+        "reg_num": "18",
         "depType": "U"
       },
       "1091_1658": {
@@ -3800,7 +3800,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "0",
+        "reg_num": "18",
         "depType": "U"
       },
       "1091_1659": {
@@ -3828,7 +3828,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "0",
+        "reg_num": "17",
         "depType": "U"
       },
       "1091_1662": {
@@ -4012,7 +4012,7 @@
         "cos_hours": "3.00",
         "TURL": "http://",
         "teacher": "蔣淑貞",
-        "cos_time": "1EFG-HK120",
+        "cos_time": "1EFG-HK105",
         "memo": "客家學院四年級優先",
         "cos_ename": "Hakka Literature",
         "brief": "",
@@ -4292,7 +4292,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "黃紹恆",
-        "cos_time": "1EFG-HK105",
+        "cos_time": "1EFG-HK119",
         "memo": "人社系優先",
         "cos_ename": "Japanese Culture in-Depth",
         "brief": "",
@@ -9473,7 +9473,7 @@
         "cos_hours": "4.00",
         "TURL": "",
         "teacher": "余俊宏",
-        "cos_time": "2EF5CD-EDB26",
+        "cos_time": "2EF-ED103,5CD-EDB26",
         "memo": "",
         "cos_ename": "Introduction to Digital Communications",
         "brief": "",
@@ -9906,6 +9906,34 @@
         "cos_type_e": "Required",
         "crsoutline_type": "data",
         "reg_num": "17",
+        "depType": "U"
+      },
+      "1091_1139": {
+        "acy": "109",
+        "sem": "1",
+        "cos_id": "1139",
+        "cos_code": "UEE3713",
+        "num_limit": "20",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "機器人系統與應用設計實作",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "http://isci.cn.nctu.edu.tw",
+        "teacher": "宋開泰、王學誠、王識源",
+        "cos_time": "5EFG-EE632",
+        "memo": "",
+        "cos_ename": "Design and Implementation of Robotic Systems and Applications",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "511",
+        "dep_primary": "1",
+        "dep_cname": "電機工程學系",
+        "dep_ename": "Department of Electrical and Computer Engineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "0",
         "depType": "U"
       }
     },
@@ -10500,6 +10528,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1091_1139": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -10868,6 +10905,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1091_1139": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -11052,6 +11095,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1091_1089": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1091_1139": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -12251,7 +12297,7 @@
         "sem": "1",
         "cos_id": "1158",
         "cos_code": "DCP2368",
-        "num_limit": "110",
+        "num_limit": "130",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "網路程式設計概論",
@@ -12259,7 +12305,7 @@
         "cos_hours": "3.00",
         "TURL": "http://dcsw3.cis.nctu.edu.tw",
         "teacher": "袁賢銘",
-        "cos_time": "1G4CD-EC114",
+        "cos_time": "1G4CD-ED117",
         "memo": "外系生請於開學上網加選；資工系與電資學士班學生優先選課；須修過基礎程式設計才可修網路程式設計概論；網路與多媒體工程組的網路領域專業課程必修；資訊安全主題學程",
         "cos_ename": "Intro. to Network Programming",
         "brief": "",
@@ -12814,7 +12860,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "0",
+        "reg_num": "19",
         "depType": "U"
       },
       "1091_1115": {
@@ -12842,7 +12888,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "0",
+        "reg_num": "10",
         "depType": "U"
       },
       "1091_1116": {
@@ -12870,7 +12916,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "0",
+        "reg_num": "19",
         "depType": "U"
       },
       "1091_1117": {
@@ -12898,7 +12944,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "0",
+        "reg_num": "20",
         "depType": "U"
       },
       "1091_1120": {
@@ -12954,7 +13000,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "0",
+        "reg_num": "11",
         "depType": "U"
       },
       "1091_1118": {
@@ -13223,7 +13269,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "24",
+        "reg_num": "23",
         "depType": "C"
       },
       "1091_1194": {
@@ -13251,7 +13297,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "24",
+        "reg_num": "23",
         "depType": "C"
       },
       "1091_1196": {
@@ -13279,7 +13325,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "24",
+        "reg_num": "23",
         "depType": "C"
       },
       "1091_1197": {
@@ -16039,7 +16085,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "24",
+        "reg_num": "23",
         "depType": "U"
       },
       "1091_1263": {
@@ -22307,7 +22353,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "52",
+        "reg_num": "51",
         "depType": "U"
       },
       "1091_1445": {
@@ -22335,7 +22381,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "52",
+        "reg_num": "51",
         "depType": "U"
       },
       "1091_1448": {
@@ -22606,7 +22652,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "57",
+        "reg_num": "60",
         "depType": "U"
       },
       "1091_1460": {
@@ -22634,7 +22680,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "54",
+        "reg_num": "57",
         "depType": "U"
       },
       "1091_1462": {
@@ -23818,7 +23864,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "41",
+        "reg_num": "39",
         "depType": "U"
       },
       "1091_1492": {
@@ -23846,7 +23892,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "42",
+        "reg_num": "40",
         "depType": "U"
       },
       "1091_1495": {
@@ -24815,7 +24861,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "安勤之",
-        "cos_time": "1EF3X-",
+        "cos_time": "1EF-SC110,3X-SC204",
         "memo": "",
         "cos_ename": "Life Tour Guide: Reading Nietzsche",
         "brief": "",
@@ -24843,7 +24889,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "安勤之",
-        "cos_time": "1X3CD-",
+        "cos_time": "1X-SC110,3CD-SC204",
         "memo": "",
         "cos_ename": "Why Go to College? Selected Readings of Educational and Social Classics",
         "brief": "",
@@ -24871,7 +24917,7 @@
         "cos_hours": "2.00",
         "TURL": "",
         "teacher": "程源中",
-        "cos_time": "5CD-",
+        "cos_time": "5CD-A309",
         "memo": "",
         "cos_ename": "The Power of Rules: How Could Rules Make the World?",
         "brief": "",
@@ -24899,7 +24945,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "程源中",
-        "cos_time": "4EF5B-",
+        "cos_time": "4EF-SC204,5B-A309",
         "memo": "",
         "cos_ename": "The Most Special Right? An Introduction to Freedom of Speech",
         "brief": "",
@@ -37289,7 +37335,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "26",
+        "reg_num": "25",
         "depType": "O"
       },
       "1091_6705": {
@@ -37513,7 +37559,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "58",
+        "reg_num": "57",
         "depType": "O"
       },
       "1091_6713": {
@@ -37597,7 +37643,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "41",
+        "reg_num": "39",
         "depType": "O"
       },
       "1091_6716": {
@@ -39513,7 +39559,7 @@
         "cos_type": "外語",
         "cos_type_e": "Foreign Languages Course",
         "crsoutline_type": "data",
-        "reg_num": "46",
+        "reg_num": "45",
         "depType": "O"
       },
       "1091_7103": {
@@ -39541,7 +39587,7 @@
         "cos_type": "外語",
         "cos_type_e": "Foreign Languages Course",
         "crsoutline_type": "data",
-        "reg_num": "44",
+        "reg_num": "42",
         "depType": "O"
       },
       "1091_7104": {
@@ -39625,7 +39671,7 @@
         "cos_type": "外語",
         "cos_type_e": "Foreign Languages Course",
         "crsoutline_type": "data",
-        "reg_num": "44",
+        "reg_num": "43",
         "depType": "O"
       },
       "1091_7107": {
@@ -39737,7 +39783,7 @@
         "cos_type": "外語",
         "cos_type_e": "Foreign Languages Course",
         "crsoutline_type": "data",
-        "reg_num": "44",
+        "reg_num": "43",
         "depType": "O"
       },
       "1091_7111": {
@@ -45729,7 +45775,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "58",
+        "reg_num": "57",
         "depType": "O"
       },
       "1091_8118": {
@@ -45897,7 +45943,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "57",
+        "reg_num": "56",
         "depType": "O"
       },
       "1091_8125": {
@@ -46065,7 +46111,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "41",
+        "reg_num": "39",
         "depType": "O"
       },
       "1091_8132": {
@@ -52284,7 +52330,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "40",
+        "reg_num": "39",
         "depType": "O"
       },
       "1091_0512": {
@@ -52950,7 +52996,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "24",
+        "reg_num": "23",
         "depType": "O"
       },
       "1091_0315": {
@@ -53135,7 +53181,7 @@
         "TURL": "",
         "teacher": "林武雄",
         "cos_time": "2IJ4IJ-SA321",
-        "memo": "限重修生",
+        "memo": "重修生優先",
         "cos_ename": "Calculus (I)",
         "brief": "",
         "degree": "1",
@@ -53154,7 +53200,7 @@
         "sem": "1",
         "cos_id": "0353",
         "cos_code": "DAM1368",
-        "num_limit": "75",
+        "num_limit": "76",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "微積分甲（二）",
@@ -53163,7 +53209,7 @@
         "TURL": "",
         "teacher": "余啟哲",
         "cos_time": "1IJ-SA321",
-        "memo": "限霹靂優通過學生與重修生,網路課程",
+        "memo": "霹靂優通過學生與重修生優先,網路課程",
         "cos_ename": "Calculus (II)",
         "brief": "",
         "degree": "1",
@@ -53174,7 +53220,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "75",
+        "reg_num": "76",
         "depType": "O"
       },
       "1091_0355": {
@@ -57215,8 +57261,8 @@
         "cos_credit": "3.00",
         "cos_hours": "3.00",
         "TURL": "",
-        "teacher": "張兆恬",
-        "cos_time": "3IJK-AB102",
+        "teacher": "張文貞",
+        "cos_time": "3IJK-EE623",
         "memo": "跨域學程；法律學分學程；生醫產業經營與法律學分學程",
         "cos_ename": "Constitutional Law",
         "brief": "",
@@ -58388,7 +58434,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "94",
+        "reg_num": "93",
         "depType": "P"
       },
       "1091_1147": {
@@ -58508,7 +58554,7 @@
         "sem": "1",
         "cos_id": "1174",
         "cos_code": "DCP1204",
-        "num_limit": "75",
+        "num_limit": "66",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "計算機概論與程式設計(英文授課)",
@@ -58536,7 +58582,7 @@
         "sem": "1",
         "cos_id": "1177",
         "cos_code": "DCP1234",
-        "num_limit": "70",
+        "num_limit": "65",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "線性代數(英文授課)",
@@ -59768,7 +59814,7 @@
         "sem": "1",
         "cos_id": "1175",
         "cos_code": "DCP1206",
-        "num_limit": "101",
+        "num_limit": "99",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "機率(英文授課)",
@@ -62421,8 +62467,8 @@
         "cos_credit": "3.00",
         "cos_hours": "3.00",
         "TURL": "",
-        "teacher": "張兆恬",
-        "cos_time": "3IJK-AB102",
+        "teacher": "張文貞",
+        "cos_time": "3IJK-EE623",
         "memo": "跨域學程；法律學分學程；生醫產業經營與法律學分學程",
         "cos_ename": "Constitutional Law",
         "brief": "",
@@ -62796,7 +62842,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "68",
+        "reg_num": "67",
         "depType": "P"
       },
       "1091_1515": {
@@ -62824,7 +62870,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "70",
+        "reg_num": "69",
         "depType": "P"
       },
       "1091_1516": {
@@ -62852,7 +62898,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "72",
+        "reg_num": "70",
         "depType": "P"
       },
       "1091_1517": {
@@ -62880,7 +62926,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "68",
+        "reg_num": "66",
         "depType": "P"
       },
       "1091_1518": {
@@ -62908,7 +62954,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "72",
+        "reg_num": "70",
         "depType": "P"
       },
       "1091_1519": {
@@ -63745,7 +63791,7 @@
         "cos_hours": "3.00",
         "TURL": "http://",
         "teacher": "蔣淑貞",
-        "cos_time": "1EFG-HK120",
+        "cos_time": "1EFG-HK105",
         "memo": "客家學院四年級優先",
         "cos_ename": "Hakka Literature",
         "brief": "",
@@ -64738,7 +64784,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "黃紹恆",
-        "cos_time": "1EFG-HK105",
+        "cos_time": "1EFG-HK119",
         "memo": "人社系優先",
         "cos_ename": "Japanese Culture in-Depth",
         "brief": "",
@@ -69518,7 +69564,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "27",
+        "reg_num": "26",
         "depType": "Q"
       },
       "1091_5579": {
@@ -69546,7 +69592,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "13",
+        "reg_num": "12",
         "depType": "Q"
       },
       "1091_5580": {
@@ -73397,7 +73443,7 @@
         "sem": "1",
         "cos_id": "1158",
         "cos_code": "DCP2368",
-        "num_limit": "110",
+        "num_limit": "130",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "網路程式設計概論",
@@ -73405,7 +73451,7 @@
         "cos_hours": "3.00",
         "TURL": "http://dcsw3.cis.nctu.edu.tw",
         "teacher": "袁賢銘",
-        "cos_time": "1G4CD-EC114",
+        "cos_time": "1G4CD-ED117",
         "memo": "外系生請於開學上網加選；資工系與電資學士班學生優先選課；須修過基礎程式設計才可修網路程式設計概論；網路與多媒體工程組的網路領域專業課程必修；資訊安全主題學程",
         "cos_ename": "Intro. to Network Programming",
         "brief": "",
@@ -74642,7 +74688,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "54",
+        "reg_num": "57",
         "depType": "Q"
       },
       "1091_1462": {
@@ -75079,7 +75125,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "68",
+        "reg_num": "67",
         "depType": "Q"
       },
       "1091_1515": {
@@ -75107,7 +75153,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "70",
+        "reg_num": "69",
         "depType": "Q"
       },
       "1091_1516": {
@@ -75135,7 +75181,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "72",
+        "reg_num": "70",
         "depType": "Q"
       },
       "1091_1517": {
@@ -75163,7 +75209,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "68",
+        "reg_num": "66",
         "depType": "Q"
       },
       "1091_1518": {
@@ -75191,7 +75237,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "72",
+        "reg_num": "70",
         "depType": "Q"
       },
       "1091_1519": {
@@ -75499,7 +75545,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "8",
+        "reg_num": "7",
         "depType": "Q"
       },
       "1091_5577": {
@@ -75527,7 +75573,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "27",
+        "reg_num": "26",
         "depType": "Q"
       },
       "1091_5580": {
@@ -78975,7 +79021,7 @@
         "sem": "1",
         "cos_id": "1176",
         "cos_code": "DCP1208",
-        "num_limit": "85",
+        "num_limit": "83",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "演算法概論(英文授課)",
@@ -79031,7 +79077,7 @@
         "sem": "1",
         "cos_id": "1184",
         "cos_code": "DCP3573",
-        "num_limit": "85",
+        "num_limit": "83",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "演算法概論",
@@ -79059,7 +79105,7 @@
         "sem": "1",
         "cos_id": "1185",
         "cos_code": "DCP3573",
-        "num_limit": "85",
+        "num_limit": "83",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "演算法概論",
@@ -80733,7 +80779,7 @@
         "cos_credit": "3.00",
         "cos_hours": "3.00",
         "TURL": "http://www.cc.nctu.edu.tw/~kjni",
-        "teacher": "倪貴榮、許慧瑩、張愷致",
+        "teacher": "倪貴榮、許慧瑩",
         "cos_time": "2FGH-MB1069",
         "memo": "英文授課；開放台聯大大三以上同學選修；跨域學程[English Medium Course]",
         "cos_ename": "International Economic Law",
@@ -80873,8 +80919,8 @@
         "cos_credit": "3.00",
         "cos_hours": "3.00",
         "TURL": "",
-        "teacher": "張兆恬",
-        "cos_time": "3IJK-AB102",
+        "teacher": "張文貞",
+        "cos_time": "3IJK-EE623",
         "memo": "跨域學程；法律學分學程；生醫產業經營與法律學分學程",
         "cos_ename": "Constitutional Law",
         "brief": "",
@@ -81098,7 +81144,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "張文貞、陳在方、施明遠、倪貴榮",
-        "cos_time": "6FGH-ES806",
+        "cos_time": "6FGH-EE623",
         "memo": "限科法所及科法專班同學選修；跨域學程",
         "cos_ename": "Case analysis of international dispute resolution",
         "brief": "",
@@ -81964,7 +82010,7 @@
         "sem": "1",
         "cos_id": "1177",
         "cos_code": "DCP1234",
-        "num_limit": "70",
+        "num_limit": "65",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "線性代數(英文授課)",
@@ -81992,7 +82038,7 @@
         "sem": "1",
         "cos_id": "1179",
         "cos_code": "DCP2354",
-        "num_limit": "150",
+        "num_limit": "130",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "線性代數",
@@ -83489,7 +83535,7 @@
         "sem": "1",
         "cos_id": "1177",
         "cos_code": "DCP1234",
-        "num_limit": "70",
+        "num_limit": "65",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "線性代數(英文授課)",
@@ -83517,7 +83563,7 @@
         "sem": "1",
         "cos_id": "1179",
         "cos_code": "DCP2354",
-        "num_limit": "150",
+        "num_limit": "130",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "線性代數",
@@ -83705,7 +83751,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "57",
+        "reg_num": "60",
         "depType": "Q"
       },
       "1091_1504": {
@@ -85508,7 +85554,7 @@
         "sem": "1",
         "cos_id": "1177",
         "cos_code": "DCP1234",
-        "num_limit": "70",
+        "num_limit": "65",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "線性代數(英文授課)",
@@ -85536,7 +85582,7 @@
         "sem": "1",
         "cos_id": "1179",
         "cos_code": "DCP2354",
-        "num_limit": "150",
+        "num_limit": "130",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "線性代數",
@@ -87806,7 +87852,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "0",
+        "reg_num": "19",
         "depType": "Q"
       },
       "1091_1115": {
@@ -87834,7 +87880,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "0",
+        "reg_num": "10",
         "depType": "Q"
       },
       "1091_1116": {
@@ -87862,7 +87908,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "0",
+        "reg_num": "19",
         "depType": "Q"
       },
       "1091_1117": {
@@ -87890,7 +87936,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "0",
+        "reg_num": "20",
         "depType": "Q"
       },
       "1091_1120": {
@@ -99520,7 +99566,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "汪大暉",
-        "cos_time": "1B3CD-ED116",
+        "cos_time": "1B-ED116,4EF-EDB26",
         "memo": "電子所優先",
         "cos_ename": "Semiconductor Physics and Devices (I)",
         "brief": "",
@@ -104311,7 +104357,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "135",
+        "reg_num": "134",
         "depType": "G"
       },
       "1091_5123": {
@@ -104339,7 +104385,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "50",
+        "reg_num": "49",
         "depType": "G"
       },
       "1091_5125": {
@@ -104507,7 +104553,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "10",
+        "reg_num": "9",
         "depType": "G"
       },
       "1091_5131": {
@@ -117277,7 +117323,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "閻姿慧",
-        "cos_time": "4BCD-A904",
+        "cos_time": "3BCD-A901",
         "memo": "新竹校區開課；英文授課[English Medium Course]",
         "cos_ename": "Travel Demand Analysis",
         "brief": "",
@@ -118319,7 +118365,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "58",
+        "reg_num": "113",
         "depType": "G"
       }
     },
@@ -119849,7 +119895,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "8",
+        "reg_num": "7",
         "depType": "G"
       },
       "1091_5576": {
@@ -119905,7 +119951,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "27",
+        "reg_num": "26",
         "depType": "G"
       },
       "1091_5578": {
@@ -119961,7 +120007,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "13",
+        "reg_num": "12",
         "depType": "G"
       },
       "1091_5580": {
@@ -121641,7 +121687,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "黃仕斌、陳詩欣、黃瓊誼、胡均立",
-        "cos_time": "3EFG-MB110",
+        "cos_time": "3EFG-M116",
         "memo": "英文授課；GMBA及科管所學生優先選課；限碩班以上選課；1. Is currently a graduate student. 2. Is approved by the lecturer.[English Medium Course]",
         "cos_ename": "Global Business Management and Strategy",
         "brief": "",
@@ -122407,34 +122453,6 @@
         "reg_num": "0",
         "depType": "G"
       },
-      "1091_5211": {
-        "acy": "109",
-        "sem": "1",
-        "cos_id": "5211",
-        "cos_code": "ITL5591",
-        "num_limit": "9999",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "國際數位貿易法專題",
-        "cos_credit": "2.00",
-        "cos_hours": "2.00",
-        "TURL": "",
-        "teacher": "陳在方",
-        "cos_time": "2CD-MB1069",
-        "memo": "限科法所及科法專班同學選修",
-        "cos_ename": "Seminar on international digital trade law",
-        "brief": "",
-        "degree": "3",
-        "dep_id": "731",
-        "dep_primary": "1",
-        "dep_cname": "科技法律研究所",
-        "dep_ename": "Institute of Technology Law",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "5",
-        "depType": "G"
-      },
       "1091_5212": {
         "acy": "109",
         "sem": "1",
@@ -122489,6 +122507,34 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "29",
+        "depType": "G"
+      },
+      "1091_5985": {
+        "acy": "109",
+        "sem": "1",
+        "cos_id": "5985",
+        "cos_code": "ITL5595",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "生醫法律專題研究",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "陳鋕雄",
+        "cos_time": "1IJK-MB1069",
+        "memo": "開放台聯大大三以上同學選修",
+        "cos_ename": "Seminar on Biomedical and Health Law",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "731",
+        "dep_primary": "1",
+        "dep_cname": "科技法律研究所",
+        "dep_ename": "Institute of Technology Law",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
         "depType": "G"
       }
     },
@@ -122583,15 +122629,6 @@
           "GECIEngName": ""
         }
       },
-      "1091_5211": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1091_5212": {
         "": {
           "course_category_cname": "",
@@ -122606,6 +122643,15 @@
           "course_category_cname": "通識校基本素養_通識校基本",
           "course_category_ename": "General Education Course: Literacy_GECL",
           "course_category_type": "15",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1091_5985": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
           "GECIName": "",
           "GECIEngName": ""
         }
@@ -122672,12 +122718,6 @@
           "brief": ""
         }
       },
-      "1091_5211": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1091_5212": {
         "": {
           "brief_code": "",
@@ -122688,6 +122728,12 @@
         "A203,A505": {
           "brief_code": "A203,A505",
           "brief": "公民/進階(96),校基本素養(106)"
+        }
+      },
+      "1091_5985": {
+        "": {
+          "brief_code": "",
+          "brief": ""
         }
       }
     },
@@ -122722,13 +122768,13 @@
       "1091_5210": {
         "授課語言代碼": "zh-tw"
       },
-      "1091_5211": {
-        "授課語言代碼": "zh-tw"
-      },
       "1091_5212": {
         "授課語言代碼": "en-us"
       },
       "1091_5960": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1091_5985": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -124066,7 +124112,7 @@
         "TURL": "",
         "teacher": "彭其瀚",
         "cos_time": "1EFG-CM216",
-        "memo": "",
+        "memo": "[English Medium Course]",
         "cos_ename": "Introduction to Computer Graphics",
         "brief": "",
         "degree": "3",
@@ -124289,7 +124335,7 @@
         "授課語言代碼": "en-us"
       },
       "1091_5980": {
-        "授課語言代碼": "zh-tw"
+        "授課語言代碼": "en-us"
       },
       "1091_5232": {
         "授課語言代碼": "zh-tw"
@@ -132046,7 +132092,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "13",
+        "reg_num": "12",
         "depType": "J"
       },
       "1091_5662": {
@@ -132074,7 +132120,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "3",
+        "reg_num": "2",
         "depType": "J"
       },
       "1091_5663": {
@@ -132102,7 +132148,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "13",
+        "reg_num": "12",
         "depType": "J"
       },
       "1091_5659": {
@@ -132130,7 +132176,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "11",
+        "reg_num": "10",
         "depType": "J"
       },
       "1091_5948": {
@@ -133288,7 +133334,7 @@
         "cos_credit": "3.00",
         "cos_hours": "3.00",
         "TURL": "http://www.cc.nctu.edu.tw/~kjni",
-        "teacher": "倪貴榮、許慧瑩、張愷致",
+        "teacher": "倪貴榮、許慧瑩",
         "cos_time": "2FGH-MB1069",
         "memo": "英文授課；開放台聯大大三以上同學選修；跨域學程[English Medium Course]",
         "cos_ename": "International Economic Law",
@@ -133456,8 +133502,8 @@
         "cos_credit": "3.00",
         "cos_hours": "3.00",
         "TURL": "",
-        "teacher": "張兆恬",
-        "cos_time": "3IJK-AB102",
+        "teacher": "張文貞",
+        "cos_time": "3IJK-EE623",
         "memo": "跨域學程；法律學分學程；生醫產業經營與法律學分學程",
         "cos_ename": "Constitutional Law",
         "brief": "",
@@ -133737,7 +133783,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "張文貞、陳在方、施明遠、倪貴榮",
-        "cos_time": "6FGH-ES806",
+        "cos_time": "6FGH-EE623",
         "memo": "限科法所及科法專班同學選修；跨域學程",
         "cos_ename": "Case analysis of international dispute resolution",
         "brief": "",
@@ -134559,7 +134605,7 @@
         "sem": "1",
         "cos_id": "1159",
         "cos_code": "DCP3116",
-        "num_limit": "70",
+        "num_limit": "64",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "微處理機系統實驗(英文授課)",
@@ -134587,7 +134633,7 @@
         "sem": "1",
         "cos_id": "1160",
         "cos_code": "DCP3117",
-        "num_limit": "70",
+        "num_limit": "64",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "微處理機系統實驗",
@@ -134615,7 +134661,7 @@
         "sem": "1",
         "cos_id": "1165",
         "cos_code": "DCP4529",
-        "num_limit": "70",
+        "num_limit": "63",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "編譯器設計概論",
@@ -134643,7 +134689,7 @@
         "sem": "1",
         "cos_id": "1166",
         "cos_code": "DCP4529",
-        "num_limit": "70",
+        "num_limit": "63",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "編譯器設計概論",
@@ -134671,7 +134717,7 @@
         "sem": "1",
         "cos_id": "1172",
         "cos_code": "DCP1203",
-        "num_limit": "75",
+        "num_limit": "66",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "計算機概論與程式設計",
@@ -134699,7 +134745,7 @@
         "sem": "1",
         "cos_id": "1173",
         "cos_code": "DCP1203",
-        "num_limit": "75",
+        "num_limit": "66",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "計算機概論與程式設計",
@@ -134727,7 +134773,7 @@
         "sem": "1",
         "cos_id": "1174",
         "cos_code": "DCP1204",
-        "num_limit": "75",
+        "num_limit": "66",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "計算機概論與程式設計(英文授課)",
@@ -134755,7 +134801,7 @@
         "sem": "1",
         "cos_id": "1176",
         "cos_code": "DCP1208",
-        "num_limit": "85",
+        "num_limit": "83",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "演算法概論(英文授課)",
@@ -134783,7 +134829,7 @@
         "sem": "1",
         "cos_id": "1177",
         "cos_code": "DCP1234",
-        "num_limit": "70",
+        "num_limit": "65",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "線性代數(英文授課)",
@@ -134839,7 +134885,7 @@
         "sem": "1",
         "cos_id": "1179",
         "cos_code": "DCP2354",
-        "num_limit": "150",
+        "num_limit": "130",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "線性代數",
@@ -134951,7 +134997,7 @@
         "sem": "1",
         "cos_id": "1183",
         "cos_code": "DCP3351",
-        "num_limit": "101",
+        "num_limit": "99",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "機率",
@@ -134979,7 +135025,7 @@
         "sem": "1",
         "cos_id": "1184",
         "cos_code": "DCP3573",
-        "num_limit": "85",
+        "num_limit": "83",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "演算法概論",
@@ -135007,7 +135053,7 @@
         "sem": "1",
         "cos_id": "1185",
         "cos_code": "DCP3573",
-        "num_limit": "85",
+        "num_limit": "83",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "演算法概論",
@@ -135119,7 +135165,7 @@
         "sem": "1",
         "cos_id": "1175",
         "cos_code": "DCP1206",
-        "num_limit": "101",
+        "num_limit": "99",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "機率(英文授課)",
@@ -135749,8 +135795,8 @@
         "cos_cname": "電子學(一)",
         "cos_credit": "3.00",
         "cos_hours": "4.00",
-        "TURL": "",
-        "teacher": "陳龍英",
+        "TURL": "http://www.ymlab.org/",
+        "teacher": "李義明",
         "cos_time": "1GH4CD-合勤講堂",
         "memo": "3學分4小時，3小時上課第4小時作業演練，授權每位老師彈性規劃。",
         "cos_ename": "Electronics (I)",
@@ -136015,7 +136061,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "94",
+        "reg_num": "93",
         "depType": "U"
       },
       "1091_1137": {
@@ -136689,7 +136735,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "68",
+        "reg_num": "67",
         "depType": "U"
       },
       "1091_1515": {
@@ -136717,7 +136763,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "70",
+        "reg_num": "69",
         "depType": "U"
       },
       "1091_1516": {
@@ -136745,7 +136791,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "72",
+        "reg_num": "70",
         "depType": "U"
       },
       "1091_1517": {
@@ -136773,7 +136819,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "68",
+        "reg_num": "66",
         "depType": "U"
       },
       "1091_1518": {
@@ -136801,7 +136847,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "72",
+        "reg_num": "70",
         "depType": "U"
       },
       "1091_1519": {
@@ -136857,7 +136903,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "72",
+        "reg_num": "71",
         "depType": "U"
       },
       "1091_1521": {
@@ -136913,7 +136959,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "69",
+        "reg_num": "66",
         "depType": "U"
       },
       "1091_1524": {
@@ -137137,7 +137183,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "41",
+        "reg_num": "39",
         "depType": "U"
       }
     },

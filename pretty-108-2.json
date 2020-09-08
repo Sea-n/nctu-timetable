@@ -20935,6 +20935,34 @@
     "dep_cname": "共同教育委員會",
     "dep_ename": "",
     "1": {
+      "1082_1061": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "1061",
+        "cos_code": "CHU6856",
+        "num_limit": "9999",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "楚漢相爭之職場競爭力",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "https://sites.google.com/g2.nctu.edu.tw/nctu-eelab/home",
+        "teacher": "電子實驗助教",
+        "cos_time": "",
+        "memo": "中原大學通識教育中心 – 曾陽晴",
+        "cos_ename": "The Social Competitiveness Of Career",
+        "brief": "",
+        "degree": "0",
+        "dep_id": "UV",
+        "dep_primary": "1",
+        "dep_cname": "共同教育委員會",
+        "dep_ename": "",
+        "cos_type": "通識",
+        "cos_type_e": "General Course",
+        "crsoutline_type": "data",
+        "reg_num": "50",
+        "depType": "O"
+      },
       "1082_6125": {
         "acy": "108",
         "sem": "2",
@@ -21105,6 +21133,15 @@
       }
     },
     "costype": {
+      "1082_1061": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1082_6125": {
         "性平相關課程_性平相關": {
           "course_category_cname": "性平相關課程_性平相關",
@@ -21196,6 +21233,12 @@
       }
     },
     "brief": {
+      "1082_1061": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1082_6125": {
         "A103,A502": {
           "brief_code": "A103,A502",
@@ -21234,6 +21277,9 @@
       }
     },
     "language": {
+      "1082_1061": {
+        "授課語言代碼": "zh-tw"
+      },
       "1082_6125": {
         "授課語言代碼": "zh-tw"
       },
@@ -79501,34 +79547,6 @@
         "reg_num": "140",
         "depType": "U"
       },
-      "1082_1061": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "1061",
-        "cos_code": "UEE2404",
-        "num_limit": "50",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "電子實驗(二)",
-        "cos_credit": "2.00",
-        "cos_hours": "4.00",
-        "TURL": "https://sites.google.com/g2.nctu.edu.tw/nctu-eelab/home",
-        "teacher": "電子實驗助教",
-        "cos_time": "1IJKL-ED320",
-        "memo": "",
-        "cos_ename": "Electronics Lab. (II)",
-        "brief": "",
-        "degree": "3",
-        "dep_id": "23",
-        "dep_primary": "1",
-        "dep_cname": "電機工程學系",
-        "dep_ename": "Department of Electrical and Computer Engineering",
-        "cos_type": "必修",
-        "cos_type_e": "Required",
-        "crsoutline_type": "data",
-        "reg_num": "50",
-        "depType": "U"
-      },
       "1082_1062": {
         "acy": "108",
         "sem": "2",
@@ -80701,15 +80719,6 @@
           "GECIEngName": ""
         }
       },
-      "1082_1061": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1082_1062": {
         "": {
           "course_category_cname": "",
@@ -81144,12 +81153,6 @@
           "brief": ""
         }
       },
-      "1082_1061": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1082_1062": {
         "": {
           "brief_code": "",
@@ -81420,9 +81423,6 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_1060": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1082_1061": {
         "授課語言代碼": "zh-tw"
       },
       "1082_1062": {

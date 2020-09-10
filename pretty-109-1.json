@@ -5577,7 +5577,7 @@
         "TURL": "",
         "teacher": "黃靜蓉",
         "cos_time": "5CD-HK104",
-        "memo": "限傳科系,不得於同一學期修習二門服務學習課程",
+        "memo": "不得於同一學期修習二門服務學習課程",
         "cos_ename": "Service Learning II",
         "brief": "",
         "degree": "1",
@@ -8970,7 +8970,7 @@
         "TURL": "https://sites.google.com/g2.nctu.edu.tw/nctu-eelab/home",
         "teacher": "電子實驗助教、柯明道",
         "cos_time": "2IJKL-ED222",
-        "memo": "電機系A班(甲組)",
+        "memo": "電機系A班(甲組)優先",
         "cos_ename": "Electronics Lab. (I)",
         "brief": "",
         "degree": "1",
@@ -9963,6 +9963,34 @@
         "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
+      },
+      "1091_1141": {
+        "acy": "109",
+        "sem": "1",
+        "cos_id": "1141",
+        "cos_code": "UEE3503",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "通訊系統電腦模擬",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "吳卓諭",
+        "cos_time": "3BCD-ED713",
+        "memo": "",
+        "cos_ename": "Computer Simulation of Communication Systems ",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "511",
+        "dep_primary": "1",
+        "dep_cname": "電機工程學系",
+        "dep_ename": "Department of Electrical and Computer Engineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "-999",
+        "depType": "U"
       }
     },
     "costype": {
@@ -10574,6 +10602,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1091_1141": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -10954,6 +10991,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1091_1141": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -11144,6 +11187,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1091_1140": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1091_1141": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -14640,9 +14686,9 @@
         "sem": "1",
         "cos_id": "1244",
         "cos_code": "DME4702",
-        "num_limit": "9999",
+        "num_limit": "150",
         "dep_limit": "*",
-        "URL": null,
+        "URL": "https://timetable.nctu.edu.tw/?r=main%2Fcrsoutline&Acy=108&Sem=1&CrsNo=1338&lang=zh-tw",
         "cos_cname": "太空科技應用",
         "cos_credit": "2.00",
         "cos_hours": "2.00",
@@ -19817,7 +19863,7 @@
         "dep_ename": "Department of Electro-Physics",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       }
@@ -20551,7 +20597,7 @@
         "cos_hours": "3.00",
         "TURL": "http://jupiter.math.nctu.edu.tw/~gychen/",
         "teacher": "陳冠宇",
-        "cos_time": "3CD5B-SA214",
+        "cos_time": "3CD5B-SC206",
         "memo": "",
         "cos_ename": "Probability Theory",
         "brief": "",
@@ -20571,7 +20617,7 @@
         "sem": "1",
         "cos_id": "1379",
         "cos_code": "DAM2405",
-        "num_limit": "60",
+        "num_limit": "70",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "微分方程",
@@ -52930,7 +52976,7 @@
         "sem": "1",
         "cos_id": "0314",
         "cos_code": "DAM1367",
-        "num_limit": "55",
+        "num_limit": "60",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "微積分甲（一）",
@@ -52958,7 +53004,7 @@
         "sem": "1",
         "cos_id": "0315",
         "cos_code": "DAM1367",
-        "num_limit": "55",
+        "num_limit": "60",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "微積分甲（一）",
@@ -52986,7 +53032,7 @@
         "sem": "1",
         "cos_id": "0316",
         "cos_code": "DAM1367",
-        "num_limit": "55",
+        "num_limit": "60",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "微積分甲（一）",
@@ -53014,7 +53060,7 @@
         "sem": "1",
         "cos_id": "0317",
         "cos_code": "DAM1367",
-        "num_limit": "55",
+        "num_limit": "60",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "微積分甲（一）",
@@ -53042,7 +53088,7 @@
         "sem": "1",
         "cos_id": "0319",
         "cos_code": "DAM1367",
-        "num_limit": "55",
+        "num_limit": "60",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "微積分甲（一）",
@@ -53070,7 +53116,7 @@
         "sem": "1",
         "cos_id": "0320",
         "cos_code": "DAM1367",
-        "num_limit": "55",
+        "num_limit": "60",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "微積分甲（一）",
@@ -54270,7 +54316,7 @@
         "TURL": "",
         "teacher": "陳亮恭",
         "cos_time": "2EF-SC207",
-        "memo": "遠距教學,陽明大學主開,學期中會有醫院參訪活動.",
+        "memo": "遠距教學,陽明大學主開,1212會有醫院參訪活動.",
         "cos_ename": "Aging, Health and Humanities",
         "brief": "",
         "degree": "1",
@@ -55180,7 +55226,7 @@
         "TURL": "",
         "teacher": "余啟哲",
         "cos_time": "",
-        "memo": "除非經應數系同意，應數系學生不得選修，本課程修課期程:１０９學年度第１學期至１０９學年度第２學期，採人工選課，選課前務必至sail.web.nctu.edu.tw了解相關程序。",
+        "memo": "除非經應數系同意，應數系學生不得選修，大一新生不得選修，本課程修課期程:１０９學年度第１學期至１０９學年度第２學期，採人工選課，選課前務必至sail.web.nctu.edu.tw了解相關程序。",
         "cos_ename": "Calculus (I)",
         "brief": "",
         "degree": "1",
@@ -57131,7 +57177,7 @@
         "cos_credit": "2.00",
         "cos_hours": "2.00",
         "TURL": "http://mhchin.blog.nctu.edu.tw",
-        "teacher": "金孟華、Thomas Wang",
+        "teacher": "金孟華、王緯華",
         "cos_time": "6FG-MB1069",
         "memo": "英文授課;大學部限申請科法學院跨域同學選修;跨域學程;法律學分學程[English Medium Course]",
         "cos_ename": "U.S. Criminal Procedure",
@@ -58396,7 +58442,7 @@
         "sem": "1",
         "cos_id": "1147",
         "cos_code": "DCP1207",
-        "num_limit": "61",
+        "num_limit": "65",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "計算機網路概論(英文授課)",
@@ -58508,7 +58554,7 @@
         "sem": "1",
         "cos_id": "1174",
         "cos_code": "DCP1204",
-        "num_limit": "67",
+        "num_limit": "66",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "計算機概論與程式設計(英文授課)",
@@ -58592,7 +58638,7 @@
         "sem": "1",
         "cos_id": "1181",
         "cos_code": "DCP3108",
-        "num_limit": "96",
+        "num_limit": "98",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "作業系統概論(英文授課)",
@@ -59768,7 +59814,7 @@
         "sem": "1",
         "cos_id": "1175",
         "cos_code": "DCP1206",
-        "num_limit": "109",
+        "num_limit": "111",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "機率(英文授課)",
@@ -61023,7 +61069,7 @@
         "cos_credit": "2.00",
         "cos_hours": "2.00",
         "TURL": "",
-        "teacher": "陳鋕雄、Richard Wu、Sebastian Ko",
+        "teacher": "陳鋕雄、胡惠生、高一鋒",
         "cos_time": "4JK-EE623",
         "memo": "英文授課；開放通識；開放台聯大大三以上同學選修；美國法學分學程；跨域學程[English Medium Course]",
         "cos_ename": "Professional Responsibility",
@@ -62593,9 +62639,9 @@
         "sem": "1",
         "cos_id": "1244",
         "cos_code": "DME4702",
-        "num_limit": "9999",
+        "num_limit": "150",
         "dep_limit": "*",
-        "URL": null,
+        "URL": "https://timetable.nctu.edu.tw/?r=main%2Fcrsoutline&Acy=108&Sem=1&CrsNo=1338&lang=zh-tw",
         "cos_cname": "太空科技應用",
         "cos_credit": "2.00",
         "cos_hours": "2.00",
@@ -66464,7 +66510,7 @@
         "cos_hours": "3.00",
         "TURL": "http://jupiter.math.nctu.edu.tw/~gychen/",
         "teacher": "陳冠宇",
-        "cos_time": "3CD5B-SA214",
+        "cos_time": "3CD5B-SC206",
         "memo": "",
         "cos_ename": "Probability Theory",
         "brief": "",
@@ -66484,7 +66530,7 @@
         "sem": "1",
         "cos_id": "1379",
         "cos_code": "DAM2405",
-        "num_limit": "60",
+        "num_limit": "70",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "微分方程",
@@ -74253,7 +74299,7 @@
         "sem": "1",
         "cos_id": "5564",
         "cos_code": "IOF5143",
-        "num_limit": "50",
+        "num_limit": "60",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "人工智慧與金融科技實務",
@@ -78143,7 +78189,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "蔡璧徽",
-        "cos_time": "5BCD-M205",
+        "cos_time": "5BCD-M101",
         "memo": "",
         "cos_ename": "Financial Management",
         "brief": "",
@@ -78725,7 +78771,7 @@
         "sem": "1",
         "cos_id": "1147",
         "cos_code": "DCP1207",
-        "num_limit": "61",
+        "num_limit": "65",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "計算機網路概論(英文授課)",
@@ -78753,7 +78799,7 @@
         "sem": "1",
         "cos_id": "1150",
         "cos_code": "DCP4513",
-        "num_limit": "61",
+        "num_limit": "65",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "計算機網路概論",
@@ -78781,7 +78827,7 @@
         "sem": "1",
         "cos_id": "1151",
         "cos_code": "DCP4513",
-        "num_limit": "61",
+        "num_limit": "65",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "計算機網路概論",
@@ -78809,7 +78855,7 @@
         "sem": "1",
         "cos_id": "1152",
         "cos_code": "DCP4513",
-        "num_limit": "61",
+        "num_limit": "65",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "計算機網路概論",
@@ -78837,7 +78883,7 @@
         "sem": "1",
         "cos_id": "1176",
         "cos_code": "DCP1208",
-        "num_limit": "92",
+        "num_limit": "94",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "演算法概論(英文授課)",
@@ -78893,7 +78939,7 @@
         "sem": "1",
         "cos_id": "1184",
         "cos_code": "DCP3573",
-        "num_limit": "92",
+        "num_limit": "94",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "演算法概論",
@@ -78921,7 +78967,7 @@
         "sem": "1",
         "cos_id": "1185",
         "cos_code": "DCP3573",
-        "num_limit": "92",
+        "num_limit": "94",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "演算法概論",
@@ -80605,7 +80651,7 @@
         "cos_credit": "2.00",
         "cos_hours": "2.00",
         "TURL": "http://mhchin.blog.nctu.edu.tw",
-        "teacher": "金孟華、Thomas Wang",
+        "teacher": "金孟華、王緯華",
         "cos_time": "6FG-MB1069",
         "memo": "英文授課;大學部限申請科法學院跨域同學選修;跨域學程;法律學分學程[English Medium Course]",
         "cos_ename": "U.S. Criminal Procedure",
@@ -80941,7 +80987,7 @@
         "cos_credit": "2.00",
         "cos_hours": "2.00",
         "TURL": "",
-        "teacher": "陳鋕雄、Richard Wu、Sebastian Ko",
+        "teacher": "陳鋕雄、胡惠生、高一鋒",
         "cos_time": "4JK-EE623",
         "memo": "英文授課；開放通識；開放台聯大大三以上同學選修；美國法學分學程；跨域學程[English Medium Course]",
         "cos_ename": "Professional Responsibility",
@@ -80969,7 +81015,7 @@
         "cos_credit": "2.00",
         "cos_hours": "2.00",
         "TURL": "",
-        "teacher": "陳鋕雄、秋原奈穗子、郭詠華",
+        "teacher": "陳鋕雄、郭詠華、秋原奈穗子",
         "cos_time": "3IJ-ES806",
         "memo": "開放台聯大大三以上同學選修，開放通識；跨域學程",
         "cos_ename": "Information Privacy Law",
@@ -93327,7 +93373,7 @@
         "dep_ename": "Institute of Communication Studies",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       }
@@ -95509,7 +95555,7 @@
         "dep_ename": "Institute of Architecture",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -95677,7 +95723,7 @@
         "dep_ename": "Institute of Architecture",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -95733,7 +95779,7 @@
         "dep_ename": "Institute of Architecture",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -95761,7 +95807,7 @@
         "dep_ename": "Institute of Architecture",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -95789,7 +95835,7 @@
         "dep_ename": "Institute of Architecture",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -95929,7 +95975,7 @@
         "dep_ename": "Institute of Architecture",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -96013,7 +96059,7 @@
         "dep_ename": "Institute of Architecture",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -96125,7 +96171,7 @@
         "dep_ename": "Institute of Architecture",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -106930,7 +106976,7 @@
         "cos_credit": "3.00",
         "cos_hours": "3.00",
         "TURL": "",
-        "teacher": "曾新穆、楊智傑、彭文志",
+        "teacher": "曾新穆、彭文志、楊智傑",
         "cos_time": "1C3EF-EC114",
         "memo": "本院學生優先",
         "cos_ename": "Digital Medicine",
@@ -107109,7 +107155,7 @@
         "dep_ename": "Graduate Degree Program of Cyber Security",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "M"
       }
@@ -111982,7 +112028,7 @@
         "sem": "1",
         "cos_id": "5407",
         "cos_code": "IEP5801",
-        "num_limit": "200",
+        "num_limit": "9999",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "半導體製程技術",
@@ -116202,7 +116248,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "蔡璧徽",
-        "cos_time": "5BCD-M205",
+        "cos_time": "5BCD-M101",
         "memo": "",
         "cos_ename": "Financial Management",
         "brief": "",
@@ -119136,7 +119182,7 @@
         "sem": "1",
         "cos_id": "5564",
         "cos_code": "IOF5143",
-        "num_limit": "50",
+        "num_limit": "60",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "人工智慧與金融科技實務",
@@ -120959,34 +121005,6 @@
         "reg_num": "-999",
         "depType": "G"
       },
-      "1091_5957": {
-        "acy": "109",
-        "sem": "1",
-        "cos_id": "5957",
-        "cos_code": "IBM6190",
-        "num_limit": "9999",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "科技創新與創業",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "http://www.ibm.nctu.edu.tw/ibm/faculty/proTsaidnWebsite/proTsaidn.html",
-        "teacher": "蔡蕙安",
-        "cos_time": "4EFG-M116",
-        "memo": "新竹校區上課",
-        "cos_ename": "Technology Innovation and Entrepreneurship ",
-        "brief": "",
-        "degree": "3",
-        "dep_id": "709",
-        "dep_primary": "1",
-        "dep_cname": "經營管理研究所",
-        "dep_ename": "Institute of Business Management",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "-999",
-        "depType": "G"
-      },
       "1091_5974": {
         "acy": "109",
         "sem": "1",
@@ -121197,15 +121215,6 @@
           "GECIEngName": ""
         }
       },
-      "1091_5957": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1091_5974": {
         "": {
           "course_category_cname": "",
@@ -121337,12 +121346,6 @@
           "brief": ""
         }
       },
-      "1091_5957": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1091_5974": {
         "": {
           "brief_code": "",
@@ -121410,9 +121413,6 @@
       },
       "1091_5604": {
         "授課語言代碼": "en-us"
-      },
-      "1091_5957": {
-        "授課語言代碼": "zh-tw"
       },
       "1091_5974": {
         "授課語言代碼": "zh-tw"
@@ -122398,6 +122398,34 @@
         "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
+      },
+      "1091_5987": {
+        "acy": "109",
+        "sem": "1",
+        "cos_id": "5987",
+        "cos_code": "ITL5619",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "國際模擬法庭(英文授課)",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "http://www.cc.nctu.edu.tw/~kjni",
+        "teacher": "倪貴榮、羅傑",
+        "cos_time": "6BCD-MB1063",
+        "memo": "",
+        "cos_ename": "International Moot Court Competition",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "731",
+        "dep_primary": "1",
+        "dep_cname": "科技法律研究所",
+        "dep_ename": "Institute of Technology Law",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "-999",
+        "depType": "G"
       }
     },
     "costype": {
@@ -122517,6 +122545,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1091_5987": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -122597,6 +122634,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1091_5987": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -122637,6 +122680,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1091_5985": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1091_5987": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -124445,7 +124491,7 @@
         "cos_credit": ".00",
         "cos_hours": "2.00",
         "TURL": "",
-        "teacher": "陳顯禎、林秀菊、盧志文、林伯是",
+        "teacher": "陳顯禎、盧志文、林伯是",
         "cos_time": "5EF-研華廳",
         "memo": "為光電系統研究所、照明與能源光電研究所、影像與生醫光電研究所碩一、博一必修課程，上課地點：台南校區研華廳",
         "cos_ename": "Colloquium",
@@ -127044,7 +127090,7 @@
         "cos_hours": "1.00",
         "TURL": "",
         "teacher": "財務金融碩博士班教授",
-        "cos_time": "5BCD-M101",
+        "cos_time": "5BCD-M102",
         "memo": "博士班專業課程；已擇定指導教授者方可選修；上課時間將依指導教授不同而有異動。修課人數不足5人則停開。",
         "cos_ename": "Independent study",
         "brief": "",
@@ -128041,7 +128087,7 @@
         "sem": "1",
         "cos_id": "5010",
         "cos_code": "IEC5310",
-        "num_limit": "20",
+        "num_limit": "30",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "計算機架構",
@@ -130621,7 +130667,7 @@
         "cos_credit": "3.00",
         "cos_hours": "3.00",
         "TURL": "",
-        "teacher": "鍾惠民、何明雄、曾國楝、林鴻明、黃仕斌",
+        "teacher": "鍾惠民、何明雄、曾國棟、林鴻明、黃仕斌",
         "cos_time": "7BCDEFG-",
         "memo": "兩週上一次課，每次6小時；限EMBA學生選修；全球運籌管理及高科技產業投資與創業分析兩門課程中，至少必選一門修習。",
         "cos_ename": "Investment and Venture Analysis of High Tech Industry",
@@ -133280,7 +133326,7 @@
         "cos_credit": "2.00",
         "cos_hours": "2.00",
         "TURL": "http://mhchin.blog.nctu.edu.tw",
-        "teacher": "金孟華、Thomas Wang",
+        "teacher": "金孟華、王緯華",
         "cos_time": "6FG-MB1069",
         "memo": "英文授課;大學部限申請科法學院跨域同學選修;跨域學程;法律學分學程[English Medium Course]",
         "cos_ename": "U.S. Criminal Procedure",
@@ -133672,7 +133718,7 @@
         "cos_credit": "2.00",
         "cos_hours": "2.00",
         "TURL": "",
-        "teacher": "陳鋕雄、Richard Wu、Sebastian Ko",
+        "teacher": "陳鋕雄、胡惠生、高一鋒",
         "cos_time": "4JK-EE623",
         "memo": "英文授課；開放通識；開放台聯大大三以上同學選修；美國法學分學程；跨域學程[English Medium Course]",
         "cos_ename": "Professional Responsibility",
@@ -133700,7 +133746,7 @@
         "cos_credit": "2.00",
         "cos_hours": "2.00",
         "TURL": "",
-        "teacher": "陳鋕雄、秋原奈穗子、郭詠華",
+        "teacher": "陳鋕雄、郭詠華、秋原奈穗子",
         "cos_time": "3IJ-ES806",
         "memo": "開放台聯大大三以上同學選修，開放通識；跨域學程",
         "cos_ename": "Information Privacy Law",
@@ -134355,7 +134401,7 @@
         "sem": "1",
         "cos_id": "1147",
         "cos_code": "DCP1207",
-        "num_limit": "61",
+        "num_limit": "65",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "計算機網路概論(英文授課)",
@@ -134383,7 +134429,7 @@
         "sem": "1",
         "cos_id": "1150",
         "cos_code": "DCP4513",
-        "num_limit": "61",
+        "num_limit": "65",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "計算機網路概論",
@@ -134411,7 +134457,7 @@
         "sem": "1",
         "cos_id": "1151",
         "cos_code": "DCP4513",
-        "num_limit": "61",
+        "num_limit": "65",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "計算機網路概論",
@@ -134439,7 +134485,7 @@
         "sem": "1",
         "cos_id": "1152",
         "cos_code": "DCP4513",
-        "num_limit": "61",
+        "num_limit": "65",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "計算機網路概論",
@@ -134523,7 +134569,7 @@
         "sem": "1",
         "cos_id": "1165",
         "cos_code": "DCP4529",
-        "num_limit": "67",
+        "num_limit": "68",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "編譯器設計概論",
@@ -134551,7 +134597,7 @@
         "sem": "1",
         "cos_id": "1166",
         "cos_code": "DCP4529",
-        "num_limit": "67",
+        "num_limit": "68",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "編譯器設計概論",
@@ -134579,7 +134625,7 @@
         "sem": "1",
         "cos_id": "1172",
         "cos_code": "DCP1203",
-        "num_limit": "67",
+        "num_limit": "66",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "計算機概論與程式設計",
@@ -134607,7 +134653,7 @@
         "sem": "1",
         "cos_id": "1173",
         "cos_code": "DCP1203",
-        "num_limit": "67",
+        "num_limit": "66",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "計算機概論與程式設計",
@@ -134635,7 +134681,7 @@
         "sem": "1",
         "cos_id": "1174",
         "cos_code": "DCP1204",
-        "num_limit": "67",
+        "num_limit": "66",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "計算機概論與程式設計(英文授課)",
@@ -134663,7 +134709,7 @@
         "sem": "1",
         "cos_id": "1176",
         "cos_code": "DCP1208",
-        "num_limit": "92",
+        "num_limit": "94",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "演算法概論(英文授課)",
@@ -134803,7 +134849,7 @@
         "sem": "1",
         "cos_id": "1181",
         "cos_code": "DCP3108",
-        "num_limit": "96",
+        "num_limit": "98",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "作業系統概論(英文授課)",
@@ -134859,7 +134905,7 @@
         "sem": "1",
         "cos_id": "1183",
         "cos_code": "DCP3351",
-        "num_limit": "109",
+        "num_limit": "111",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "機率",
@@ -134887,7 +134933,7 @@
         "sem": "1",
         "cos_id": "1184",
         "cos_code": "DCP3573",
-        "num_limit": "92",
+        "num_limit": "94",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "演算法概論",
@@ -134915,7 +134961,7 @@
         "sem": "1",
         "cos_id": "1185",
         "cos_code": "DCP3573",
-        "num_limit": "92",
+        "num_limit": "94",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "演算法概論",
@@ -134971,7 +135017,7 @@
         "sem": "1",
         "cos_id": "1187",
         "cos_code": "DCP4334",
-        "num_limit": "96",
+        "num_limit": "98",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "作業系統概論",
@@ -134999,7 +135045,7 @@
         "sem": "1",
         "cos_id": "1188",
         "cos_code": "DCP4334",
-        "num_limit": "96",
+        "num_limit": "98",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "作業系統概論",
@@ -135027,7 +135073,7 @@
         "sem": "1",
         "cos_id": "1175",
         "cos_code": "DCP1206",
-        "num_limit": "109",
+        "num_limit": "111",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "機率(英文授課)",

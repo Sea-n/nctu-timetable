@@ -402,6 +402,34 @@
         "crsoutline_type": "data",
         "reg_num": "93",
         "depType": "O"
+      },
+      "108X_1051": {
+        "acy": "108",
+        "sem": "X",
+        "cos_id": "1051",
+        "cos_code": "DAM1367",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "微積分甲（一）",
+        "cos_credit": "4.00",
+        "cos_hours": "4.00",
+        "TURL": "",
+        "teacher": "余啟哲",
+        "cos_time": "",
+        "memo": "",
+        "cos_ename": "Calculus (I)",
+        "brief": "",
+        "degree": "0",
+        "dep_id": "UE",
+        "dep_primary": "1",
+        "dep_cname": "微積分教學小組",
+        "dep_ename": "Calculus section",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": null,
+        "reg_num": "17",
+        "depType": "O"
       }
     },
     "costype": {
@@ -431,6 +459,15 @@
           "GECIName": "客",
           "GECIEngName": "CHK"
         }
+      },
+      "108X_1051": {
+        "通識跨院基本素養_通識跨院": {
+          "course_category_cname": "通識跨院基本素養_通識跨院",
+          "course_category_ename": "General Education Course: Intercollegiate_GECI",
+          "course_category_type": "16",
+          "GECIName": "客",
+          "GECIEngName": "CHK"
+        }
       }
     },
     "brief": {
@@ -451,6 +488,12 @@
           "brief_code": "A205,A504",
           "brief": "自然/進階(96),跨院基本素養(106)"
         }
+      },
+      "108X_1051": {
+        "A205,A504": {
+          "brief_code": "A205,A504",
+          "brief": "自然/進階(96),跨院基本素養(106)"
+        }
       }
     },
     "language": {
@@ -461,6 +504,9 @@
         "授課語言代碼": "zh-tw"
       },
       "108X_1003": {
+        "授課語言代碼": "zh-tw"
+      },
+      "108X_1051": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -834,7 +880,7 @@
         "cos_type": "通識",
         "cos_type_e": "General Course",
         "crsoutline_type": null,
-        "reg_num": "10",
+        "reg_num": "11",
         "depType": "O"
       },
       "108X_1072": {

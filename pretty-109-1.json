@@ -9037,7 +9037,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "52",
+        "reg_num": "51",
         "depType": "U"
       },
       "1091_1058": {
@@ -33667,7 +33667,7 @@
         "cos_type": "通識",
         "cos_type_e": "General Course",
         "crsoutline_type": "data",
-        "reg_num": "50",
+        "reg_num": "51",
         "depType": "O"
       },
       "1091_6117": {
@@ -101213,6 +101213,34 @@
         "crsoutline_type": "data",
         "reg_num": "19",
         "depType": "G"
+      },
+      "1091_5049": {
+        "acy": "109",
+        "sem": "1",
+        "cos_id": "5049",
+        "cos_code": "GEE5001",
+        "num_limit": "9999",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "論文研討",
+        "cos_credit": ".00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "白田理一郎、渡邊浩志",
+        "cos_time": "3EF-EE105",
+        "memo": "",
+        "cos_ename": "Seminar",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "511",
+        "dep_primary": "1",
+        "dep_cname": "電機工程學系",
+        "dep_ename": "Institute of Electrical Engineering",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "135",
+        "depType": "G"
       }
     },
     "costype": {
@@ -101260,6 +101288,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1091_5049": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -101292,6 +101329,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1091_5049": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -101309,6 +101352,9 @@
       },
       "1091_5054": {
         "授課語言代碼": "en-us"
+      },
+      "1091_5049": {
+        "授課語言代碼": "zh-tw"
       }
     }
   },

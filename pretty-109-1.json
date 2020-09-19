@@ -5563,34 +5563,6 @@
         "reg_num": "-999",
         "depType": "U"
       },
-      "1091_1725": {
-        "acy": "109",
-        "sem": "1",
-        "cos_id": "1725",
-        "cos_code": "DCT1046",
-        "num_limit": "9999",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "服務學習(二)",
-        "cos_credit": "2.00",
-        "cos_hours": "2.00",
-        "TURL": "",
-        "teacher": "黃靜蓉",
-        "cos_time": "5CD-HK104",
-        "memo": "不得於同一學期修習二門服務學習課程",
-        "cos_ename": "Service Learning II",
-        "brief": "",
-        "degree": "1",
-        "dep_id": "483",
-        "dep_primary": "1",
-        "dep_cname": "傳播與科技學系",
-        "dep_ename": "Department of Communication and Technology",
-        "cos_type": "必修",
-        "cos_type_e": "Required",
-        "crsoutline_type": "data",
-        "reg_num": "-999",
-        "depType": "U"
-      },
       "1091_1713": {
         "acy": "109",
         "sem": "1",
@@ -5806,15 +5778,6 @@
           "GECIEngName": ""
         }
       },
-      "1091_1725": {
-        "服務學習_服務學習": {
-          "course_category_cname": "服務學習_服務學習",
-          "course_category_ename": "Service Learning_SL",
-          "course_category_type": "7",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1091_1713": {
         "": {
           "course_category_cname": "",
@@ -5940,12 +5903,6 @@
           "brief": "校基本素養(106)"
         }
       },
-      "1091_1725": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1091_1713": {
         "": {
           "brief_code": "",
@@ -6009,9 +5966,6 @@
         "授課語言代碼": "zh-tw"
       },
       "1091_1711": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1091_1725": {
         "授課語言代碼": "zh-tw"
       },
       "1091_1713": {
@@ -6597,7 +6551,7 @@
         "cos_hours": "2.00",
         "TURL": "http://www.mitchlinmusic.com",
         "teacher": "林明學",
-        "cos_time": "5CD-HC512",
+        "cos_time": "5CD-HC514",
         "memo": "",
         "cos_ename": "Theory of Harmony",
         "brief": "",
@@ -7476,7 +7430,7 @@
         "cos_hours": "3.00",
         "TURL": "https://sites.google.com/view/lighttaiwan",
         "teacher": "譚至善",
-        "cos_time": "3CD-ED220,5E-ED201",
+        "cos_time": "3CD-ED301,5E-ED201",
         "memo": "",
         "cos_ename": "Introduction to Materials Science",
         "brief": "",
@@ -12324,7 +12278,7 @@
         "TURL": "http://www.cs.nctu.edu.tw/~cjtsai",
         "teacher": "蔡淳仁",
         "cos_time": "2G5CD-ED302",
-        "memo": "外系生請於開學上網加選；本院學生優先；軟硬體整合主題學程；英文授課[English Medium Course]",
+        "memo": "外系生請於開學上網加選；本院學生優先；軟硬體整合主題學程；本課程不能抵免「微處理機系統實驗」；英文授課[English Medium Course]",
         "cos_ename": "Microprocessor Systems: Principles andImplementation",
         "brief": "",
         "degree": "1",
@@ -12410,34 +12364,6 @@
         "cos_time": "2EFG-EC016",
         "memo": "外系生請於開學上網加選；資工系與電資學士班學生優先選課",
         "cos_ename": "Advanced Design and Implementation of IOT Applications",
-        "brief": "",
-        "degree": "1",
-        "dep_id": "550",
-        "dep_primary": "1",
-        "dep_cname": "資訊工程學系",
-        "dep_ename": "Department of Computer Science",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "-999",
-        "depType": "U"
-      },
-      "1091_1163": {
-        "acy": "109",
-        "sem": "1",
-        "cos_id": "1163",
-        "cos_code": "DCP3603",
-        "num_limit": "175",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "競技程式設計(一)",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "http://sites.google.com/site/mzshieh/",
-        "teacher": "謝旻錚",
-        "cos_time": "2G5CD-EDB27",
-        "memo": "外系生請於開學上網加選；須修過基礎程式設計才可修競技程式設計(一)；資工系與電資學士班學生優先選課；計算理論主題學程",
-        "cos_ename": "Competitive Programming(I)",
         "brief": "",
         "degree": "1",
         "dep_id": "550",
@@ -12672,15 +12598,6 @@
           "GECIEngName": ""
         }
       },
-      "1091_1163": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1091_1164": {
         "": {
           "course_category_cname": "",
@@ -12791,12 +12708,6 @@
           "brief": ""
         }
       },
-      "1091_1163": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1091_1164": {
         "": {
           "brief_code": "",
@@ -12857,9 +12768,6 @@
         "授課語言代碼": "en-us"
       },
       "1091_1162": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1091_1163": {
         "授課語言代碼": "zh-tw"
       },
       "1091_1164": {
@@ -13583,7 +13491,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "梁興弛",
-        "cos_time": "3GHY-EE112",
+        "cos_time": "3GHY-SC105",
         "memo": "",
         "cos_ename": "Int. to Quantum Mechanics",
         "brief": "",
@@ -15068,7 +14976,7 @@
         "cos_hours": "3.00",
         "TURL": "http://www.cc.nctu.edu.tw/~skhung/chinese/tpi_member.html",
         "teacher": "洪紹剛",
-        "cos_time": "4EF5C-EE210",
+        "cos_time": "4EF5C-EE105",
         "memo": "",
         "cos_ename": "Mechanism",
         "brief": "",
@@ -20710,7 +20618,7 @@
         "acy": "109",
         "sem": "1",
         "cos_id": "1385",
-        "cos_code": "DAM3307",
+        "cos_code": "DAM3315",
         "num_limit": "9999",
         "dep_limit": "*",
         "URL": null,
@@ -20721,7 +20629,7 @@
         "teacher": "彭南夫",
         "cos_time": "2EF5G-SA214",
         "memo": "",
-        "cos_ename": "Advanced Statistic",
+        "cos_ename": "Advanced Statistics",
         "brief": "",
         "degree": "1",
         "dep_id": "652",
@@ -21563,7 +21471,7 @@
         "dep_ename": "Department of Applied Chemistry",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -24851,7 +24759,7 @@
         "cos_hours": "1.00",
         "TURL": "http://aretehp.nctu.edu.tw/",
         "teacher": "百川學士學位學程",
-        "cos_time": "6C-",
+        "cos_time": "",
         "memo": "",
         "cos_ename": "Topics Exploration (III)",
         "brief": "",
@@ -33685,7 +33593,7 @@
         "sem": "1",
         "cos_id": "6125",
         "cos_code": "GEC7440",
-        "num_limit": "45",
+        "num_limit": "40",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "國際關係",
@@ -34413,7 +34321,7 @@
         "sem": "1",
         "cos_id": "6303",
         "cos_code": "GEC6076",
-        "num_limit": "30",
+        "num_limit": "32",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "閱讀與寫作",
@@ -34945,7 +34853,7 @@
         "sem": "1",
         "cos_id": "6349",
         "cos_code": "GEC8814",
-        "num_limit": "41",
+        "num_limit": "47",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "幾何造形",
@@ -35029,7 +34937,7 @@
         "sem": "1",
         "cos_id": "6354",
         "cos_code": "GEC8814",
-        "num_limit": "41",
+        "num_limit": "45",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "幾何造形",
@@ -36768,7 +36676,7 @@
         "sem": "1",
         "cos_id": "6605",
         "cos_code": "CGE1026",
-        "num_limit": "76",
+        "num_limit": "75",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "科技與社會",
@@ -36908,7 +36816,7 @@
         "sem": "1",
         "cos_id": "6610",
         "cos_code": "CGE1030",
-        "num_limit": "25",
+        "num_limit": "30",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "媒體、科技與社會",
@@ -51816,7 +51724,7 @@
         "sem": "1",
         "cos_id": "0518",
         "cos_code": "DEP1111",
-        "num_limit": "180",
+        "num_limit": "190",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "物理(一)",
@@ -52846,7 +52754,7 @@
         "sem": "1",
         "cos_id": "0311",
         "cos_code": "DAM1367",
-        "num_limit": "125",
+        "num_limit": "130",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "微積分甲（一）",
@@ -53098,7 +53006,7 @@
         "sem": "1",
         "cos_id": "0321",
         "cos_code": "DAM1367",
-        "num_limit": "55",
+        "num_limit": "60",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "微積分甲（一）",
@@ -53302,7 +53210,7 @@
         "cos_hours": "4.00",
         "TURL": "",
         "teacher": "千野由喜",
-        "cos_time": "1GH4CD-SC105",
+        "cos_time": "1GH4CD-SC106",
         "memo": "[English Medium Course]",
         "cos_ename": "Calculus (I)",
         "brief": "",
@@ -53386,7 +53294,7 @@
         "cos_hours": "4.00",
         "TURL": "",
         "teacher": "王夏聲",
-        "cos_time": "1GH4CD-SC106",
+        "cos_time": "1GH4CD-SC105",
         "memo": "",
         "cos_ename": "Calculus (I)",
         "brief": "",
@@ -54429,7 +54337,7 @@
         "sem": "1",
         "cos_id": "1907",
         "cos_code": "DOA1107",
-        "num_limit": "30",
+        "num_limit": "25",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "說故事魔法工作坊",
@@ -58429,7 +58337,7 @@
         "TURL": "http://www.cs.nctu.edu.tw/~cjtsai",
         "teacher": "蔡淳仁",
         "cos_time": "2G5CD-ED302",
-        "memo": "外系生請於開學上網加選；本院學生優先；軟硬體整合主題學程；英文授課[English Medium Course]",
+        "memo": "外系生請於開學上網加選；本院學生優先；軟硬體整合主題學程；本課程不能抵免「微處理機系統實驗」；英文授課[English Medium Course]",
         "cos_ename": "Microprocessor Systems: Principles andImplementation",
         "brief": "",
         "degree": "1",
@@ -58932,7 +58840,7 @@
         "cos_hours": "3.00",
         "TURL": "http://isci.cn.nctu.edu.tw",
         "teacher": "宋開泰",
-        "cos_time": "5BCD-ED229",
+        "cos_time": "5BCD-EE632",
         "memo": "*電控所學生注意：畢業學分須修本所課程至少15學分(本所課程為永久課號ICN開頭之課程)[English Medium Course]",
         "cos_ename": "Mobile Robots",
         "brief": "",
@@ -58980,7 +58888,7 @@
         "sem": "1",
         "cos_id": "5066",
         "cos_code": "ICN5801",
-        "num_limit": "9999",
+        "num_limit": "110",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "影像處理",
@@ -59632,7 +59540,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "施仁忠",
-        "cos_time": "2EF5B-ED305",
+        "cos_time": "2EF5B-ED102",
         "memo": "本院學生優先；英文授課[English Medium Course]",
         "cos_ename": "Real-Time Rendering",
         "brief": "",
@@ -61234,7 +61142,7 @@
         "cos_hours": "2.00",
         "TURL": "http://www.mitchlinmusic.com",
         "teacher": "林明學",
-        "cos_time": "5CD-HC512",
+        "cos_time": "5CD-HC514",
         "memo": "",
         "cos_ename": "Theory of Harmony",
         "brief": "",
@@ -65321,7 +65229,7 @@
         "cos_hours": "3.00",
         "TURL": "http://www.cc.nctu.edu.tw/~skhung/chinese/tpi_member.html",
         "teacher": "洪紹剛",
-        "cos_time": "4EF5C-EE210",
+        "cos_time": "4EF5C-EE105",
         "memo": "",
         "cos_ename": "Mechanism",
         "brief": "",
@@ -67046,7 +66954,7 @@
         "dep_ename": "Department of Applied Chemistry for Cross-Disciplinary Program B",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "Q"
       },
@@ -69544,34 +69452,6 @@
         "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "Q"
-      },
-      "1091_5668": {
-        "acy": "109",
-        "sem": "1",
-        "cos_id": "5668",
-        "cos_code": "ITM5167",
-        "num_limit": "9999",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "顧客關係管理與服務行銷",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "",
-        "teacher": "林亭汝",
-        "cos_time": "3IJK-A701",
-        "memo": "專碩合開；專班主開",
-        "cos_ename": "Consumer Relationship Management and Service Marketing",
-        "brief": "",
-        "degree": "1",
-        "dep_id": "QJS",
-        "dep_primary": "1",
-        "dep_cname": "科技管理研究所跨域學程(B)外系學生",
-        "dep_ename": "Institute of Management of Technology for Cross-Disciplinary Progra",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "-999",
-        "depType": "Q"
       }
     },
     "costype": {
@@ -69619,15 +69499,6 @@
           "GECIName": "",
           "GECIEngName": ""
         }
-      },
-      "1091_5668": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
       }
     },
     "brief": {
@@ -69660,12 +69531,6 @@
           "brief_code": "",
           "brief": ""
         }
-      },
-      "1091_5668": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
       }
     },
     "language": {
@@ -69683,9 +69548,6 @@
       },
       "1091_5580": {
         "授課語言代碼": "en-us"
-      },
-      "1091_5668": {
-        "授課語言代碼": "zh-tw"
       }
     }
   },
@@ -72427,7 +72289,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "陳衛國",
-        "cos_time": "3GHY-SC162",
+        "cos_time": "3GHY-SA320",
         "memo": "",
         "cos_ename": "Semiconductor Physics and Devices (I)",
         "brief": "",
@@ -77001,7 +76863,7 @@
         "cos_hours": "2.00",
         "TURL": "http://www.mitchlinmusic.com",
         "teacher": "林明學",
-        "cos_time": "5CD-HC512",
+        "cos_time": "5CD-HC514",
         "memo": "",
         "cos_ename": "Theory of Harmony",
         "brief": "",
@@ -78195,7 +78057,7 @@
         "sem": "1",
         "cos_id": "5509",
         "cos_code": "IMS5516",
-        "num_limit": "122",
+        "num_limit": "110",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "財務管理",
@@ -79498,7 +79360,7 @@
         "sem": "1",
         "cos_id": "1907",
         "cos_code": "DOA1107",
-        "num_limit": "30",
+        "num_limit": "25",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "說故事魔法工作坊",
@@ -83747,7 +83609,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "呂嘉維",
-        "cos_time": "3IJK-",
+        "cos_time": "3IJK-PC4",
         "memo": "先修:微積分，人數限制:70人(地點：資訊中心電腦教室PC4)",
         "cos_ename": "Introduction to the big data and machine learning algorithms",
         "brief": "",
@@ -83775,7 +83637,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "吳浩庠",
-        "cos_time": "4IJK-M105",
+        "cos_time": "4IJK-M205",
         "memo": "1.限管科系所學生選修 2. 開放大三大四同學選修",
         "cos_ename": "Python Programming and Basic Data Structures",
         "brief": "",
@@ -85758,7 +85620,7 @@
         "sem": "1",
         "cos_id": "5066",
         "cos_code": "ICN5801",
-        "num_limit": "9999",
+        "num_limit": "110",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "影像處理",
@@ -86102,7 +85964,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "吳浩庠",
-        "cos_time": "4IJK-M105",
+        "cos_time": "4IJK-M205",
         "memo": "1.限管科系所學生選修 2. 開放大三大四同學選修",
         "cos_ename": "Python Programming and Basic Data Structures",
         "brief": "",
@@ -99773,7 +99635,7 @@
         "cos_hours": "3.00",
         "TURL": "http://cwww.ee.nctu.edu.tw/~ftchien/",
         "teacher": "簡鳳村",
-        "cos_time": "3BCD-ED103",
+        "cos_time": "3B-ED117,3CD-ED220",
         "memo": "",
         "cos_ename": "Stochastic Processes",
         "brief": "",
@@ -101421,7 +101283,7 @@
         "cos_hours": "3.00",
         "TURL": "http://isci.cn.nctu.edu.tw",
         "teacher": "宋開泰",
-        "cos_time": "5BCD-ED229",
+        "cos_time": "5BCD-EE632",
         "memo": "*電控所學生注意：畢業學分須修本所課程至少15學分(本所課程為永久課號ICN開頭之課程)[English Medium Course]",
         "cos_ename": "Mobile Robots",
         "brief": "",
@@ -101581,7 +101443,7 @@
         "sem": "1",
         "cos_id": "5066",
         "cos_code": "ICN5801",
-        "num_limit": "9999",
+        "num_limit": "110",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "影像處理",
@@ -102646,7 +102508,7 @@
         "sem": "1",
         "cos_id": "5091",
         "cos_code": "ECM5705",
-        "num_limit": "9999",
+        "num_limit": "50",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "射頻積體電路設計",
@@ -102654,7 +102516,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "蔡作敏",
-        "cos_time": "5EFG-ED525",
+        "cos_time": "5EFG-ED102",
         "memo": "",
         "cos_ename": "Radio Frequency Integrated Circuits",
         "brief": "",
@@ -104720,7 +104582,7 @@
         "sem": "1",
         "cos_id": "5131",
         "cos_code": "IIE5052",
-        "num_limit": "40",
+        "num_limit": "65",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "奈米與生物技術-原理與實作",
@@ -104728,7 +104590,7 @@
         "cos_hours": "3.00",
         "TURL": "http://bm2923.wix.com/gychen",
         "teacher": "陳冠宇",
-        "cos_time": "5BCD-EDB07",
+        "cos_time": "5BCD-EE106",
         "memo": "",
         "cos_ename": "Nano and Biotechnology-Principle and Practice",
         "brief": "",
@@ -106811,7 +106673,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "施仁忠",
-        "cos_time": "2EF5B-ED305",
+        "cos_time": "2EF5B-ED102",
         "memo": "本院學生優先；英文授課[English Medium Course]",
         "cos_ename": "Real-Time Rendering",
         "brief": "",
@@ -107586,7 +107448,7 @@
         "sem": "1",
         "cos_id": "5221",
         "cos_code": "CST5042",
-        "num_limit": "51",
+        "num_limit": "50",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "半導體材料與元件特性分析",
@@ -112147,7 +112009,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "陳衛國",
-        "cos_time": "3GHY-SC162",
+        "cos_time": "3GHY-SA320",
         "memo": "",
         "cos_ename": "Semiconductor Physics and Devices (I)",
         "brief": "",
@@ -113934,7 +113796,7 @@
         "TURL": "https://sites.google.com/site/thechuanggroup/",
         "teacher": "莊士卿",
         "cos_time": "2G3GH-SB202",
-        "memo": "",
+        "memo": "[English Medium Course]",
         "cos_ename": "Special Topics on Organic Chemistry (II)",
         "brief": "",
         "degree": "3",
@@ -113990,6 +113852,34 @@
         "TURL": "",
         "teacher": "謝有容",
         "cos_time": "1DX-EO701",
+        "memo": "[English Medium Course]",
+        "cos_ename": "Seminar",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "654",
+        "dep_primary": "1",
+        "dep_cname": "應用化學系",
+        "dep_ename": "Institute of Applied Chemistry",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "-999",
+        "depType": "G"
+      },
+      "1091_5433": {
+        "acy": "109",
+        "sem": "1",
+        "cos_id": "5433",
+        "cos_code": "IAC5413",
+        "num_limit": "20",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "書報討論－無機組",
+        "cos_credit": "1.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "劉學儒",
+        "cos_time": "1CD-SB202",
         "memo": "[English Medium Course]",
         "cos_ename": "Seminar",
         "brief": "",
@@ -114197,6 +114087,15 @@
           "GECIEngName": ""
         }
       },
+      "1091_5433": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1091_5434": {
         "": {
           "course_category_cname": "",
@@ -114307,6 +114206,12 @@
           "brief": ""
         }
       },
+      "1091_5433": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1091_5434": {
         "": {
           "brief_code": "",
@@ -114358,12 +114263,15 @@
         "授課語言代碼": "zh-tw"
       },
       "1091_5983": {
-        "授課語言代碼": "zh-tw"
+        "授課語言代碼": "en-us"
       },
       "1091_5984": {
         "授課語言代碼": "zh-tw"
       },
       "1091_5432": {
+        "授課語言代碼": "en-us"
+      },
+      "1091_5433": {
         "授課語言代碼": "en-us"
       },
       "1091_5434": {
@@ -114392,7 +114300,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "朱超原",
-        "cos_time": "1EFG-SB201",
+        "cos_time": "4BCD-SB203",
         "memo": "[English Medium Course]",
         "cos_ename": "Quantum Chemistry",
         "brief": "",
@@ -116257,7 +116165,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "呂嘉維",
-        "cos_time": "3IJK-",
+        "cos_time": "3IJK-PC4",
         "memo": "先修:微積分，人數限制:70人(地點：資訊中心電腦教室PC4)",
         "cos_ename": "Introduction to the big data and machine learning algorithms",
         "brief": "",
@@ -116445,7 +116353,7 @@
         "sem": "1",
         "cos_id": "5509",
         "cos_code": "IMS5516",
-        "num_limit": "122",
+        "num_limit": "110",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "財務管理",
@@ -116565,7 +116473,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "吳浩庠",
-        "cos_time": "4IJK-M105",
+        "cos_time": "4IJK-M205",
         "memo": "1.限管科系所學生選修 2. 開放大三大四同學選修",
         "cos_ename": "Python Programming and Basic Data Structures",
         "brief": "",
@@ -122884,7 +122792,7 @@
         "sem": "1",
         "cos_id": "5140",
         "cos_code": "IPS5106",
-        "num_limit": "60",
+        "num_limit": "68",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "固態物理",
@@ -123777,7 +123685,7 @@
         "cos_hours": "5.00",
         "TURL": "http://www.cs.nctu.edu.tw/~yctseng",
         "teacher": "曾煜棋、魏澤人、林勻蔚、馬清文、張明峰、邱俊誠、歐陽盟",
-        "cos_time": "4BCDEF-CM631",
+        "cos_time": "4BCDEF-CM218",
         "memo": "智慧計算與科技研究所必修",
         "cos_ename": "Special Topics and Labs on Artificial Intelligence",
         "brief": "",
@@ -123836,7 +123744,7 @@
         "cos_hours": "5.00",
         "TURL": "http://www.cs.nctu.edu.tw/~yctseng",
         "teacher": "曾煜棋、魏澤人、林勻蔚、馬清文、張明峰、邱俊誠、歐陽盟",
-        "cos_time": "2BCD4EF-CM631",
+        "cos_time": "2BCD-CM215,4EF-CM218",
         "memo": "智慧系統與應用研究所必修",
         "cos_ename": "Special Topics and Labs on Intelligent Software",
         "brief": "",
@@ -123895,7 +123803,7 @@
         "cos_hours": "5.00",
         "TURL": "http://www.cs.nctu.edu.tw/~yctseng",
         "teacher": "曾煜棋、魏澤人、林勻蔚、馬清文、張明峰、邱俊誠、歐陽盟",
-        "cos_time": "3BCD4EF-CM631",
+        "cos_time": "3BCD-CM215,4EF-CM218",
         "memo": "智慧與綠能產學研究所必修",
         "cos_ename": "Special Topics and Labs on Intelligent Manufacture",
         "brief": "",
@@ -124010,7 +123918,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "林勻蔚",
-        "cos_time": "3EFG-CM631",
+        "cos_time": "3EFG-CM214",
         "memo": "[English Medium Course]",
         "cos_ename": "Design and Implementation of IoT applications  ",
         "brief": "",
@@ -124066,7 +123974,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "魏澤人",
-        "cos_time": "2EFG-CM216",
+        "cos_time": "2EFG-CM218",
         "memo": "",
         "cos_ename": "Data Science Software and Computation Experiments",
         "brief": "",
@@ -130252,7 +130160,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "陳宗岡",
-        "cos_time": "4IJK-M205",
+        "cos_time": "4IJK-M105",
         "memo": "限專班選修",
         "cos_ename": "Financial Statement Analysis",
         "brief": "",
@@ -132479,34 +132387,6 @@
         "reg_num": "-999",
         "depType": "J"
       },
-      "1091_5668": {
-        "acy": "109",
-        "sem": "1",
-        "cos_id": "5668",
-        "cos_code": "ITM5167",
-        "num_limit": "9999",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "顧客關係管理與服務行銷",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "",
-        "teacher": "林亭汝",
-        "cos_time": "3IJK-A701",
-        "memo": "專碩合開；專班主開",
-        "cos_ename": "Consumer Relationship Management and Service Marketing",
-        "brief": "",
-        "degree": "5",
-        "dep_id": "718",
-        "dep_primary": "1",
-        "dep_cname": "管理學院碩士在職專班-科管組",
-        "dep_ename": "Degree Program of Management of Technology",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "-999",
-        "depType": "J"
-      },
       "1091_5669": {
         "acy": "109",
         "sem": "1",
@@ -132713,15 +132593,6 @@
           "GECIEngName": ""
         }
       },
-      "1091_5668": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1091_5669": {
         "": {
           "course_category_cname": "",
@@ -132802,12 +132673,6 @@
           "brief": "公民/進階(96),校基本素養(106)"
         }
       },
-      "1091_5668": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1091_5669": {
         "": {
           "brief_code": "",
@@ -132856,9 +132721,6 @@
         "授課語言代碼": "zh-tw"
       },
       "1091_5667": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1091_5668": {
         "授課語言代碼": "zh-tw"
       },
       "1091_5669": {

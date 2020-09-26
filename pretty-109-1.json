@@ -7327,7 +7327,7 @@
         "cos_credit": "1.00",
         "cos_hours": "1.00",
         "TURL": "",
-        "teacher": "電工系",
+        "teacher": "簡昭欣",
         "cos_time": "",
         "memo": "電資學士班同學在二年級以上必須選修電機學院與資訊學院同一系所開至少2學期專題課程。",
         "cos_ename": "Special Project on Electronic Engineering",
@@ -7634,8 +7634,8 @@
         "cos_cname": "進階電子工程專題(一)",
         "cos_credit": "1.00",
         "cos_hours": "1.00",
-        "TURL": "",
-        "teacher": "電工系",
+        "TURL": "https://sites.google.com/nctu.edu.tw/jeng/home",
+        "teacher": "鄭耿璽",
         "cos_time": "",
         "memo": "限修過電子工程專題且通過之同學修課；電資學士班同學在二年級以上必須選修電機學院與資訊學院同一系所開至少2學期專題課程。",
         "cos_ename": "Special Project on Electronics Engineering(I)",
@@ -25035,6 +25035,34 @@
         "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "C"
+      },
+      "1091_1724": {
+        "acy": "109",
+        "sem": "1",
+        "cos_id": "1724",
+        "cos_code": "DWA1067",
+        "num_limit": "0",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題探索(三)",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "http://aretehp.nctu.edu.tw/",
+        "teacher": "百川學士學位學程",
+        "cos_time": "",
+        "memo": "",
+        "cos_ename": "Topics Exploration (III)",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "950",
+        "dep_primary": "1",
+        "dep_cname": "百川學士學位學程",
+        "dep_ename": "",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "-999",
+        "depType": "C"
       }
     },
     "costype": {
@@ -25181,6 +25209,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1091_1724": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -25279,6 +25316,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1091_1724": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -25328,6 +25371,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1091_1443": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1091_1724": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -33416,7 +33462,7 @@
         "TURL": "",
         "teacher": "梁瓊惠",
         "cos_time": "2CD-A103",
-        "memo": "1.不接受修讀過「心理學」或「心理學概論」同學修讀。2.系統預設\n核心社會,欲採計核心自然請至通識中心書面申請",
+        "memo": "1.不接受修讀過「心理學」或「心理學概論」同學修讀。2.系統預設\r\n核心社會,欲採計核心自然請至通識中心書面申請",
         "cos_ename": "Introduction to Psychology",
         "brief": "",
         "degree": "1",
@@ -34807,7 +34853,7 @@
         "sem": "1",
         "cos_id": "6349",
         "cos_code": "GEC8814",
-        "num_limit": "47",
+        "num_limit": "30",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "幾何造形",
@@ -34863,7 +34909,7 @@
         "sem": "1",
         "cos_id": "6353",
         "cos_code": "GEC6103",
-        "num_limit": "63",
+        "num_limit": "64",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "性別與電影",
@@ -34891,7 +34937,7 @@
         "sem": "1",
         "cos_id": "6354",
         "cos_code": "GEC8814",
-        "num_limit": "45",
+        "num_limit": "30",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "幾何造形",
@@ -35924,9 +35970,9 @@
         }
       },
       "1091_6114": {
-        "A104,A502": {
-          "brief_code": "A104,A502",
-          "brief": "群己/基礎(96),核心-社會(106)"
+        "A104,A502,A503": {
+          "brief_code": "A104,A502,A503",
+          "brief": "群己/基礎(96),核心-社會(106),核心-自然(106)"
         }
       },
       "1091_6115": {
@@ -36008,9 +36054,9 @@
         }
       },
       "1091_6148": {
-        "A104,A502": {
-          "brief_code": "A104,A502",
-          "brief": "群己/基礎(96),核心-社會(106)"
+        "A104,A502,A503": {
+          "brief_code": "A104,A502,A503",
+          "brief": "群己/基礎(96),核心-社會(106),核心-自然(106)"
         }
       },
       "1091_6151": {
@@ -36602,7 +36648,7 @@
         "sem": "1",
         "cos_id": "6604",
         "cos_code": "CGE1018",
-        "num_limit": "56",
+        "num_limit": "57",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "生物科技與生活",
@@ -61830,7 +61876,7 @@
         "TURL": "",
         "teacher": "梁瓊惠",
         "cos_time": "2CD-A103",
-        "memo": "1.不接受修讀過「心理學」或「心理學概論」同學修讀。2.系統預設\n核心社會,欲採計核心自然請至通識中心書面申請",
+        "memo": "1.不接受修讀過「心理學」或「心理學概論」同學修讀。2.系統預設\r\n核心社會,欲採計核心自然請至通識中心書面申請",
         "cos_ename": "Introduction to Psychology",
         "brief": "",
         "degree": "1",
@@ -62156,9 +62202,9 @@
         }
       },
       "1091_6114": {
-        "A104,A502": {
-          "brief_code": "A104,A502",
-          "brief": "群己/基礎(96),核心-社會(106)"
+        "A104,A502,A503": {
+          "brief_code": "A104,A502,A503",
+          "brief": "群己/基礎(96),核心-社會(106),核心-自然(106)"
         }
       },
       "1091_6129": {
@@ -62168,9 +62214,9 @@
         }
       },
       "1091_6148": {
-        "A104,A502": {
-          "brief_code": "A104,A502",
-          "brief": "群己/基礎(96),核心-社會(106)"
+        "A104,A502,A503": {
+          "brief_code": "A104,A502,A503",
+          "brief": "群己/基礎(96),核心-社會(106),核心-自然(106)"
         }
       },
       "1091_6366": {
@@ -62662,7 +62708,7 @@
         "sem": "1",
         "cos_id": "1516",
         "cos_code": "DOM1001",
-        "num_limit": "91",
+        "num_limit": "93",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "經濟學(一)",
@@ -74807,7 +74853,7 @@
         "sem": "1",
         "cos_id": "1516",
         "cos_code": "DOM1001",
-        "num_limit": "91",
+        "num_limit": "93",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "經濟學(一)",
@@ -79334,7 +79380,7 @@
         "sem": "1",
         "cos_id": "6353",
         "cos_code": "GEC6103",
-        "num_limit": "63",
+        "num_limit": "64",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "性別與電影",
@@ -99886,34 +99932,6 @@
         "reg_num": "-999",
         "depType": "G"
       },
-      "1091_5048": {
-        "acy": "109",
-        "sem": "1",
-        "cos_id": "5048",
-        "cos_code": "IEE7746",
-        "num_limit": "9999",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "通道編碼",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "",
-        "teacher": "魏哲和",
-        "cos_time": "4EFG-EDB06",
-        "memo": "",
-        "cos_ename": "Channel Coding",
-        "brief": "",
-        "degree": "3",
-        "dep_id": "510",
-        "dep_primary": "1",
-        "dep_cname": "電子研究所",
-        "dep_ename": "Institute of Electronics",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "-999",
-        "depType": "G"
-      },
       "1091_5135": {
         "acy": "109",
         "sem": "1",
@@ -100315,15 +100333,6 @@
           "GECIEngName": ""
         }
       },
-      "1091_5048": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1091_5135": {
         "": {
           "course_category_cname": "",
@@ -100563,12 +100572,6 @@
           "brief": ""
         }
       },
-      "1091_5048": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1091_5135": {
         "": {
           "brief_code": "",
@@ -100692,9 +100695,6 @@
         "授課語言代碼": "zh-tw"
       },
       "1091_5047": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1091_5048": {
         "授課語言代碼": "zh-tw"
       },
       "1091_5135": {
@@ -112739,14 +112739,14 @@
         "num_limit": "15",
         "dep_limit": "*",
         "URL": null,
-        "cos_cname": "隨機過程導論",
+        "cos_cname": "隨機過程導論(一)",
         "cos_credit": "3.00",
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "許元春",
         "cos_time": "4EF5G-SA212",
         "memo": "",
-        "cos_ename": "Intr. to Stochastic Processes",
+        "cos_ename": "Intr. to Stochastic Processes (I)",
         "brief": "",
         "degree": "3",
         "dep_id": "652",
@@ -115831,7 +115831,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "張力元",
-        "cos_time": "4FGH-M105",
+        "cos_time": "4EFG-M105",
         "memo": "1.英語授課2.開放碩士班、博士班選修[English Medium Course]",
         "cos_ename": "Technology Marketing",
         "brief": "",
@@ -136424,7 +136424,7 @@
         "sem": "1",
         "cos_id": "1516",
         "cos_code": "DOM1001",
-        "num_limit": "91",
+        "num_limit": "93",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "經濟學(一)",

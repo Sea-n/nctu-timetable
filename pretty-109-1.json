@@ -29097,6 +29097,34 @@
         "reg_num": "29",
         "depType": "T"
       },
+      "1091_2172": {
+        "acy": "109",
+        "sem": "1",
+        "cos_id": "2172",
+        "cos_code": "SET1006",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "普通物理(2)",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "系統工程與科技學程",
+        "cos_time": "4IJK-",
+        "memo": "上課地點：國防大學理工學院",
+        "cos_ename": "General Physics(2)",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "951",
+        "dep_primary": "1",
+        "dep_cname": "系統工程與科技學士學位學程",
+        "dep_ename": "Undergraduate Degree Program of System Engineering and Technology",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": null,
+        "reg_num": "23",
+        "depType": "T"
+      },
       "1091_2055": {
         "acy": "109",
         "sem": "1",
@@ -30989,6 +31017,15 @@
           "GECIEngName": ""
         }
       },
+      "1091_2172": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1091_2055": {
         "": {
           "course_category_cname": "",
@@ -32077,6 +32114,12 @@
           "brief": ""
         }
       },
+      "1091_2172": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1091_2055": {
         "": {
           "brief_code": "",
@@ -32647,6 +32690,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1091_2171": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1091_2172": {
         "授課語言代碼": "zh-tw"
       },
       "1091_2055": {
@@ -81293,7 +81339,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "王志軒",
-        "cos_time": "2EFG-MB418",
+        "cos_time": "2EFG-MB414",
         "memo": "英語授課；博士班專業核心課程[English Medium Course]",
         "cos_ename": "Data Mining",
         "brief": "",
@@ -86227,7 +86273,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "147",
+        "reg_num": "148",
         "depType": "G"
       },
       "1091_5708": {
@@ -103411,7 +103457,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "109",
+        "reg_num": "108",
         "depType": "G"
       },
       "1091_5273": {
@@ -122952,7 +122998,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "王志軒",
-        "cos_time": "2EFG-MB418",
+        "cos_time": "2EFG-MB414",
         "memo": "英語授課；博士班專業核心課程[English Medium Course]",
         "cos_ename": "Data Mining",
         "brief": "",

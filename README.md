@@ -6,3 +6,5 @@
 
 ## 開發者 Developer
 交大資工 112 級 [Sean 韋詠祥](https://www.sean.taipei/)
+
+<!-- the absolute path of commit log: https://github.com/Sea-n/nctu-timetable/commits/master -->

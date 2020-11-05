@@ -23330,6 +23330,65 @@
       }
     }
   },
+  "AC49AA82-16C6-4202-8D26-34E727C9FCF6": {
+    "dep_id": "AC49AA82-16C6-4202-8D26-34E727C9FCF6",
+    "dep_cname": "社會與文化研究所",
+    "dep_ename": "Institute for Social Research and Cultural Studies",
+    "1": {
+      "1082_4027": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "4027",
+        "cos_code": "ICS5015",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "學術訓練討論課(博)",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "http://www.srcs.nctu.edu.tw/joyceliu/",
+        "teacher": "劉紀蕙",
+        "cos_time": "3CDX-F106A",
+        "memo": "",
+        "cos_ename": "Pro-seminar (PHD)",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "49",
+        "dep_primary": "1",
+        "dep_cname": "社會與文化研究所",
+        "dep_ename": "Institute for Social Research and Cultural Studies",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "6",
+        "depType": "D"
+      }
+    },
+    "costype": {
+      "1082_4027": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "1082_4027": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      }
+    },
+    "language": {
+      "1082_4027": {
+        "授課語言代碼": "zh-tw"
+      }
+    }
+  },
   "4E4EC294-E2F0-4A2E-94A8-E0E3E5F8204D": {
     "dep_id": "4E4EC294-E2F0-4A2E-94A8-E0E3E5F8204D",
     "dep_cname": "生物資訊及系統生物研究所",
@@ -109065,65 +109124,6 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_1914": {
-        "授課語言代碼": "zh-tw"
-      }
-    }
-  },
-  "AC49AA82-16C6-4202-8D26-34E727C9FCF6": {
-    "dep_id": "AC49AA82-16C6-4202-8D26-34E727C9FCF6",
-    "dep_cname": "社會與文化研究所",
-    "dep_ename": "Institute for Social Research and Cultural Studies",
-    "1": {
-      "1082_4027": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "4027",
-        "cos_code": "ICS5015",
-        "num_limit": "9999",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "學術訓練討論課(博)",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "http://www.srcs.nctu.edu.tw/joyceliu/",
-        "teacher": "劉紀蕙",
-        "cos_time": "3CDX-F106A",
-        "memo": "",
-        "cos_ename": "Pro-seminar",
-        "brief": "",
-        "degree": "1",
-        "dep_id": "49",
-        "dep_primary": "1",
-        "dep_cname": "社會與文化研究所",
-        "dep_ename": "Institute for Social Research and Cultural Studies",
-        "cos_type": "必修",
-        "cos_type_e": "Required",
-        "crsoutline_type": "data",
-        "reg_num": "6",
-        "depType": "D"
-      }
-    },
-    "costype": {
-      "1082_4027": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      }
-    },
-    "brief": {
-      "1082_4027": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      }
-    },
-    "language": {
-      "1082_4027": {
         "授課語言代碼": "zh-tw"
       }
     }

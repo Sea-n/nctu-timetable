@@ -89139,6 +89139,34 @@
         "reg_num": "39",
         "depType": "U"
       },
+      "1082_1573": {
+        "acy": "108",
+        "sem": "2",
+        "cos_id": "1573",
+        "cos_code": "DIF1098",
+        "num_limit": "120",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "經濟學原理",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "http://www.cc.nctu.edu.tw/~hhhuang",
+        "teacher": "黃星華",
+        "cos_time": "4BCD-M-b10",
+        "memo": "限非管院學生選課。本課程上限120人，不開放加簽。",
+        "cos_ename": "Principles pf Economics",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "44",
+        "dep_primary": "1",
+        "dep_cname": "資訊管理與財務金融系",
+        "dep_ename": "Department of Information and Finance Management",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "120",
+        "depType": "U"
+      },
       "1082_1576": {
         "acy": "108",
         "sem": "2",
@@ -89447,34 +89475,6 @@
         "reg_num": "16",
         "depType": "U"
       },
-      "1082_1573": {
-        "acy": "108",
-        "sem": "2",
-        "cos_id": "1573",
-        "cos_code": "DIF1098",
-        "num_limit": "120",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "經濟學原理",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "http://www.cc.nctu.edu.tw/~hhhuang",
-        "teacher": "黃星華",
-        "cos_time": "4BCD-M-b10",
-        "memo": "限非管院學生選課。本課程上限120人，不開放加簽。",
-        "cos_ename": "",
-        "brief": "",
-        "degree": "3",
-        "dep_id": "44",
-        "dep_primary": "1",
-        "dep_cname": "資訊管理與財務金融系",
-        "dep_ename": "Department of Information and Finance Management",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "120",
-        "depType": "U"
-      },
       "1082_1575": {
         "acy": "108",
         "sem": "2",
@@ -89560,6 +89560,15 @@
           "GECIEngName": ""
         }
       },
+      "1082_1573": {
+        "通識跨院基本素養_通識跨院": {
+          "course_category_cname": "通識跨院基本素養_通識跨院",
+          "course_category_ename": "General Education Course: Intercollegiate_GECI",
+          "course_category_type": "16",
+          "GECIName": "電,資,工,理,生,人,客",
+          "GECIEngName": "ECE,CCS,COE,COS,CBT,CHS,CHK"
+        }
+      },
       "1082_1576": {
         "": {
           "course_category_cname": "",
@@ -89678,15 +89687,6 @@
           "course_category_type": "",
           "GECIName": "",
           "GECIEngName": ""
-        }
-      },
-      "1082_1573": {
-        "通識跨院基本素養_通識跨院": {
-          "course_category_cname": "通識跨院基本素養_通識跨院",
-          "course_category_ename": "General Education Course: Intercollegiate_GECI",
-          "course_category_type": "16",
-          "GECIName": "電,資,工,理,生,人,客",
-          "GECIEngName": "ECE,CCS,COE,COS,CBT,CHS,CHK"
         }
       },
       "1082_1575": {
@@ -89727,6 +89727,12 @@
           "brief": ""
         }
       },
+      "1082_1573": {
+        "A103,A504": {
+          "brief_code": "A103,A504",
+          "brief": "公民/基礎(96),跨院基本素養(106)"
+        }
+      },
       "1082_1576": {
         "": {
           "brief_code": "",
@@ -89791,12 +89797,6 @@
         "": {
           "brief_code": "",
           "brief": ""
-        }
-      },
-      "1082_1573": {
-        "A103,A504": {
-          "brief_code": "A103,A504",
-          "brief": "公民/基礎(96),跨院基本素養(106)"
         }
       },
       "1082_1575": {
@@ -89822,6 +89822,9 @@
       "1082_1572": {
         "授課語言代碼": "zh-tw"
       },
+      "1082_1573": {
+        "授課語言代碼": "zh-tw"
+      },
       "1082_1576": {
         "授課語言代碼": "zh-tw"
       },
@@ -89853,9 +89856,6 @@
         "授課語言代碼": "zh-tw"
       },
       "1082_1589": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1082_1573": {
         "授課語言代碼": "zh-tw"
       },
       "1082_1575": {

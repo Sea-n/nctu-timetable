@@ -13169,7 +13169,7 @@
         "dep_ename": "Department of Mechanical Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -13309,7 +13309,7 @@
         "dep_ename": "Department of Mechanical Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -45474,7 +45474,7 @@
         "dep_ename": "Center for Teacher Education",
         "cos_type": "教育",
         "cos_type_e": "Teacher Education",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -56395,7 +56395,7 @@
         "dep_ename": "Program of International Management ＆ Business Administration",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "P"
       },
@@ -56423,7 +56423,7 @@
         "dep_ename": "Program of International Management ＆ Business Administration",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "P"
       },
@@ -56451,7 +56451,7 @@
         "dep_ename": "Program of International Management ＆ Business Administration",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "P"
       },
@@ -69644,7 +69644,7 @@
         "dep_ename": "Institute of Education",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -70387,7 +70387,7 @@
         "cos_hours": "3.00",
         "TURL": "https://ics.nctu.edu.tw/professors/taiyeewu",
         "teacher": "吳泰毅",
-        "cos_time": "F234-F204",
+        "cos_time": "W234-F204",
         "memo": "傳播所必修",
         "cos_ename": "Communication Theories",
         "brief": "",
@@ -70426,34 +70426,6 @@
         "dep_ename": "Institute of Communication Studies",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
-        "reg_num": "0",
-        "depType": "G"
-      },
-      "1092_5798": {
-        "acy": "109",
-        "sem": "2",
-        "cos_id": "5798",
-        "cos_code": "ICT5348",
-        "num_limit": "9999",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "傳播研究方法:質化取向",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "https://ics.nctu.edu.tw/professors/tkchang",
-        "teacher": "張讚國",
-        "cos_time": "W234-F204",
-        "memo": "傳播所必修",
-        "cos_ename": "Communication Research Methods:Qualitative Approach",
-        "brief": "",
-        "degree": "3",
-        "dep_id": "461",
-        "dep_primary": "1",
-        "dep_cname": "傳播研究所",
-        "dep_ename": "Institute of Communication Studies",
-        "cos_type": "必修",
-        "cos_type_e": "Required",
         "crsoutline_type": null,
         "reg_num": "0",
         "depType": "G"
@@ -70581,8 +70553,8 @@
         "cos_cname": "新媒體與傳播工作坊",
         "cos_credit": ".00",
         "cos_hours": "3.00",
-        "TURL": "https://ics.nctu.edu.tw/professors/tkchang",
-        "teacher": "張讚國",
+        "TURL": "https://ics.nctu.edu.tw/professors/hphuang",
+        "teacher": "黃惠萍",
         "cos_time": "F567-F204",
         "memo": "傳播所必修",
         "cos_ename": "New Media and Communication Workshop",
@@ -70667,7 +70639,7 @@
         "cos_hours": "3.00",
         "TURL": "https://ics.nctu.edu.tw/professors/taiyeewu",
         "teacher": "吳泰毅",
-        "cos_time": "Wabc-F204",
+        "cos_time": "Rabc-F204",
         "memo": "",
         "cos_ename": "Persuasion: Theories and Practice",
         "brief": "",
@@ -70695,7 +70667,7 @@
         "cos_hours": "3.00",
         "TURL": "https://ics.nctu.edu.tw/professors/hphuang",
         "teacher": "黃惠萍",
-        "cos_time": "F567-F216",
+        "cos_time": "F34n-F216",
         "memo": "",
         "cos_ename": "Special Topic on New Media, Environment and Communication",
         "brief": "",
@@ -70722,15 +70694,6 @@
         }
       },
       "1092_5797": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
-      "1092_5798": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -70834,12 +70797,6 @@
           "brief": ""
         }
       },
-      "1092_5798": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1092_5799": {
         "": {
           "brief_code": "",
@@ -70900,9 +70857,6 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_5797": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1092_5798": {
         "授課語言代碼": "zh-tw"
       },
       "1092_5799": {
@@ -71224,7 +71178,7 @@
         "sem": "2",
         "cos_id": "5818",
         "cos_code": "IAA5744",
-        "num_limit": "9999",
+        "num_limit": "8",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "非人、跨物種與菌絲體聲響專題",
@@ -81664,7 +81618,7 @@
         "dep_ename": "Institute of Computer Science and Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -81934,7 +81888,7 @@
         "TURL": "http://java.csie.nctu.edu.tw/~icwu",
         "teacher": "吳毅成、陳永昇、彭文孝",
         "cos_time": "TabcRn56-EC114",
-        "memo": "請依各所入學年度之修業要點選課；本院學生優先；機器人學程學生注意：為此學程必修課3 門選1 門；機器人學程學生注意：此為本學程必修課3門選1 門；【AI學程專業必修】",
+        "memo": "請依各所入學年度之修業要點選課；本院學生優先；博士班資格考考核科目；機器人學程學生注意：為此學程必修課3 門選1 門；機器人學程學生注意：此為本學程必修課3門選1 門；【AI學程專業必修】",
         "cos_ename": "Deep Learning and Practice",
         "brief": "",
         "degree": "3",
@@ -82367,6 +82321,34 @@
         "crsoutline_type": null,
         "reg_num": "0",
         "depType": "G"
+      },
+      "1092_5930": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5930",
+        "cos_code": "IOC5219",
+        "num_limit": "60",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "智慧系統之感知與決策(英文授課)",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "陳奕廷",
+        "cos_time": "M7R34-EC122",
+        "memo": "本院學生優先； 英文授課[English Medium Course]",
+        "cos_ename": "Perception and Decision Making in Intelligent Systems",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "551",
+        "dep_primary": "1",
+        "dep_cname": "資訊科學與工程研究所",
+        "dep_ename": "Institute of Computer Science and Engineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "G"
       }
     },
     "costype": {
@@ -82621,6 +82603,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_5930": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -82791,6 +82782,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_5930": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -82876,6 +82873,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_5277": {
+        "授課語言代碼": "en-us"
+      },
+      "1092_5930": {
         "授課語言代碼": "en-us"
       }
     }
@@ -85466,7 +85466,7 @@
         "dep_ename": "Institute of Mechanical Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -91664,7 +91664,7 @@
         "sem": "2",
         "cos_id": "5496",
         "cos_code": "IMS5364",
-        "num_limit": "30",
+        "num_limit": "20",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "基礎演算法與應用 ",
@@ -91673,7 +91673,7 @@
         "TURL": "",
         "teacher": "吳浩庠",
         "cos_time": "Wabc-M205",
-        "memo": "限管科系所學生選修；開放大學部三、四年級選修",
+        "memo": "限管科系所學生選修",
         "cos_ename": "Fundamentals of Algorithms with Applications",
         "brief": "",
         "degree": "3",
@@ -91728,7 +91728,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "黃瓊誼",
-        "cos_time": "S234-M104",
+        "cos_time": "U234-M104",
         "memo": "限管科系大三、大四、管科所選修",
         "cos_ename": "Innovation and entrepreneurship theory seminar(II)",
         "brief": "",
@@ -95957,7 +95957,7 @@
         "dep_ename": "Institute of Business Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -95985,7 +95985,7 @@
         "dep_ename": "Institute of Business Management",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -96013,7 +96013,7 @@
         "dep_ename": "Institute of Business Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -96041,7 +96041,7 @@
         "dep_ename": "Institute of Business Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -96069,7 +96069,7 @@
         "dep_ename": "Institute of Business Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -96097,7 +96097,7 @@
         "dep_ename": "Institute of Business Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -96125,7 +96125,7 @@
         "dep_ename": "Institute of Business Management",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -96153,7 +96153,7 @@
         "dep_ename": "Institute of Business Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -96181,7 +96181,7 @@
         "dep_ename": "Institute of Business Management",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -96209,7 +96209,7 @@
         "dep_ename": "Institute of Business Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -96237,7 +96237,7 @@
         "dep_ename": "Institute of Business Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -96265,7 +96265,7 @@
         "dep_ename": "Institute of Business Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -96349,7 +96349,7 @@
         "dep_ename": "Institute of Business Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -96377,7 +96377,7 @@
         "dep_ename": "Institute of Business Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -96405,7 +96405,7 @@
         "dep_ename": "Institute of Business Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -96433,7 +96433,7 @@
         "dep_ename": "Institute of Business Management",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -96489,7 +96489,7 @@
         "dep_ename": "Institute of Business Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -96517,7 +96517,7 @@
         "dep_ename": "Institute of Business Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       }
@@ -98631,7 +98631,7 @@
         "dep_ename": "Institute of Lighting and Energy Photonics",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -98715,7 +98715,7 @@
         "dep_ename": "Institute of Lighting and Energy Photonics",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -100631,65 +100631,6 @@
       }
     }
   },
-  "368CD765-807A-4CB9-95E9-EA92C2F132E4": {
-    "dep_id": "368CD765-807A-4CB9-95E9-EA92C2F132E4",
-    "dep_cname": "應用藝術研究所",
-    "dep_ename": "Institute of Applied Arts",
-    "1": {
-      "1092_4050": {
-        "acy": "109",
-        "sem": "2",
-        "cos_id": "4050",
-        "cos_code": "IAA5414",
-        "num_limit": "9999",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "知識與方法",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "https://ics.nctu.edu.tw/professors/tkchang",
-        "teacher": "張讚國",
-        "cos_time": "R234-F109",
-        "memo": "博士班傳播科技組必修",
-        "cos_ename": "Knowledge and Method",
-        "brief": "",
-        "degree": "4",
-        "dep_id": "462",
-        "dep_primary": "1",
-        "dep_cname": "應用藝術研究所",
-        "dep_ename": "Institute of Applied Arts",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": null,
-        "reg_num": "0",
-        "depType": "D"
-      }
-    },
-    "costype": {
-      "1092_4050": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      }
-    },
-    "brief": {
-      "1092_4050": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      }
-    },
-    "language": {
-      "1092_4050": {
-        "授課語言代碼": "zh-tw"
-      }
-    }
-  },
   "AC49AA82-16C6-4202-8D26-34E727C9FCF6": {
     "dep_id": "AC49AA82-16C6-4202-8D26-34E727C9FCF6",
     "dep_cname": "社會與文化研究所",
@@ -102334,7 +102275,7 @@
         "dep_ename": "Institute of Business Management",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "D"
       },
@@ -102362,7 +102303,7 @@
         "dep_ename": "Institute of Business Management",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "D"
       },
@@ -102390,7 +102331,35 @@
         "dep_ename": "Institute of Business Management",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "D"
+      },
+      "1092_4040": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "4040",
+        "cos_code": "IBM6013",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "計量經濟學(博士班)",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "http://web2.cc.nctu.edu.tw/~jinlihu/Chinese.htm",
+        "teacher": "胡均立",
+        "cos_time": "Tabc-TD",
+        "memo": "經管所主開、管科所輔開；上課地點:台北校區",
+        "cos_ename": "Econometrics",
+        "brief": "",
+        "degree": "4",
+        "dep_id": "709",
+        "dep_primary": "1",
+        "dep_cname": "經營管理研究所",
+        "dep_ename": "Institute of Business Management",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "D"
       }
@@ -102422,6 +102391,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_4040": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -102442,6 +102420,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_4040": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -102452,6 +102436,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_4042": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_4040": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -102769,7 +102756,7 @@
         "dep_ename": "Degree Program of Electrical and Computer Science",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },
@@ -106071,7 +106058,7 @@
         "dep_ename": "Degree Program of Information Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },
@@ -106099,7 +106086,7 @@
         "dep_ename": "Degree Program of Information Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },
@@ -106127,7 +106114,7 @@
         "dep_ename": "Degree Program of Information Management",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },

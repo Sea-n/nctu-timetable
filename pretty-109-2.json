@@ -4451,6 +4451,34 @@
         "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
+      },
+      "1092_1707": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1707",
+        "cos_code": "DCT1047",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "社會行銷傳播-服務學習二",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "黃靜蓉",
+        "cos_time": "F34-A308",
+        "memo": "",
+        "cos_ename": "",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "483",
+        "dep_primary": "1",
+        "dep_cname": "傳播與科技學系",
+        "dep_ename": "Department of Communication and Technology",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "U"
       }
     },
     "costype": {
@@ -4656,6 +4684,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_1707": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -4784,6 +4821,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_1707": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -4848,6 +4891,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_1706": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_1707": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -6990,7 +7036,7 @@
         "dep_ename": "Department of Electrical and Computer Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -7018,7 +7064,7 @@
         "dep_ename": "Department of Electrical and Computer Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -7046,7 +7092,7 @@
         "dep_ename": "Department of Electrical and Computer Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -7074,7 +7120,7 @@
         "dep_ename": "Department of Electrical and Computer Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -7102,7 +7148,7 @@
         "dep_ename": "Department of Electrical and Computer Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -7158,7 +7204,7 @@
         "dep_ename": "Department of Electrical and Computer Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -7186,7 +7232,7 @@
         "dep_ename": "Department of Electrical and Computer Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -7214,7 +7260,7 @@
         "dep_ename": "Department of Electrical and Computer Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -7242,7 +7288,7 @@
         "dep_ename": "Department of Electrical and Computer Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -7270,7 +7316,7 @@
         "dep_ename": "Department of Electrical and Computer Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -7298,7 +7344,7 @@
         "dep_ename": "Department of Electrical and Computer Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -7326,7 +7372,7 @@
         "dep_ename": "Department of Electrical and Computer Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -7354,7 +7400,7 @@
         "dep_ename": "Department of Electrical and Computer Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -7382,7 +7428,7 @@
         "dep_ename": "Department of Electrical and Computer Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -7410,7 +7456,7 @@
         "dep_ename": "Department of Electrical and Computer Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -7494,7 +7540,7 @@
         "dep_ename": "Department of Electrical and Computer Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -11243,7 +11289,7 @@
         "dep_ename": "Department of Computer Science",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -12721,7 +12767,7 @@
         "dep_ename": "Department of Mechanical Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -55652,7 +55698,7 @@
         "dep_ename": "Program of Intellectual Property Rights",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "P"
       },
@@ -55680,7 +55726,7 @@
         "dep_ename": "Program of Intellectual Property Rights",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "P"
       },
@@ -55708,7 +55754,7 @@
         "dep_ename": "Program of Intellectual Property Rights",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "P"
       },
@@ -55736,7 +55782,7 @@
         "dep_ename": "Program of Intellectual Property Rights",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "P"
       }
@@ -55849,7 +55895,7 @@
         "dep_ename": "Program of Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "P"
       },
@@ -55877,7 +55923,7 @@
         "dep_ename": "Program of Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "P"
       },
@@ -55905,7 +55951,7 @@
         "dep_ename": "Program of Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "P"
       },
@@ -55933,7 +55979,7 @@
         "dep_ename": "Program of Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "P"
       },
@@ -55961,7 +56007,7 @@
         "dep_ename": "Program of Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "P"
       },
@@ -55989,7 +56035,7 @@
         "dep_ename": "Program of Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "P"
       },
@@ -56017,7 +56063,7 @@
         "dep_ename": "Program of Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "P"
       },
@@ -56045,7 +56091,7 @@
         "dep_ename": "Program of Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "P"
       },
@@ -56073,7 +56119,7 @@
         "dep_ename": "Program of Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "P"
       }
@@ -56479,7 +56525,7 @@
         "dep_ename": "Program of International Management ＆ Business Administration",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "P"
       }
@@ -57934,7 +57980,7 @@
         "dep_ename": "Electrical Engineering and Computer Science-International Program",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "P"
       },
@@ -58260,7 +58306,7 @@
         "TURL": "https://www.cs.nctu.edu.tw/members/detail/lin",
         "teacher": "林彥宇",
         "cos_time": "W34n-EC115",
-        "memo": "請依各所入學年度之修業要點選課；本院學生優先； 英文授課[English Medium Course]",
+        "memo": "請依各所入學年度之修業要點選課；本院學生優先；博士班資格考考核科目； 英文授課[English Medium Course]",
         "cos_ename": "Pattern Recognition",
         "brief": "",
         "degree": "1",
@@ -59418,7 +59464,7 @@
         "dep_ename": "American Law Program",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "P"
       },
@@ -59446,7 +59492,7 @@
         "dep_ename": "American Law Program",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "P"
       },
@@ -59474,7 +59520,7 @@
         "dep_ename": "American Law Program",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "P"
       }
@@ -61133,7 +61179,7 @@
         "dep_ename": "Program of Law and Management of Biomedical Industry",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "P"
       },
@@ -61161,7 +61207,7 @@
         "dep_ename": "Program of Law and Management of Biomedical Industry",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "P"
       },
@@ -61189,7 +61235,7 @@
         "dep_ename": "Program of Law and Management of Biomedical Industry",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "P"
       },
@@ -61217,7 +61263,7 @@
         "dep_ename": "Program of Law and Management of Biomedical Industry",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "P"
       },
@@ -61245,7 +61291,7 @@
         "dep_ename": "Program of Law and Management of Biomedical Industry",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "P"
       },
@@ -61273,7 +61319,7 @@
         "dep_ename": "Program of Law and Management of Biomedical Industry",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "P"
       }
@@ -62791,7 +62837,7 @@
         "dep_ename": "Institute of Physics for Cross-Disciplinary Program",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "Q"
       },
@@ -65428,7 +65474,7 @@
         "dep_ename": "",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "Q"
       },
@@ -65838,7 +65884,7 @@
         "dep_ename": "",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "Q"
       },
@@ -65866,7 +65912,7 @@
         "dep_ename": "",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "Q"
       },
@@ -65894,7 +65940,7 @@
         "dep_ename": "",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "Q"
       },
@@ -65922,7 +65968,7 @@
         "dep_ename": "",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "Q"
       },
@@ -65950,7 +65996,7 @@
         "dep_ename": "",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "Q"
       },
@@ -65978,7 +66024,7 @@
         "dep_ename": "",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "Q"
       },
@@ -66006,7 +66052,7 @@
         "dep_ename": "",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "Q"
       },
@@ -66062,7 +66108,7 @@
         "dep_ename": "",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "Q"
       },
@@ -66118,7 +66164,7 @@
         "dep_ename": "",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "Q"
       },
@@ -66146,7 +66192,7 @@
         "dep_ename": "",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "Q"
       },
@@ -66174,7 +66220,7 @@
         "dep_ename": "",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "Q"
       },
@@ -66202,7 +66248,7 @@
         "dep_ename": "",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "Q"
       },
@@ -81814,7 +81860,7 @@
         "dep_ename": "Institute of Computer Science and Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -83494,7 +83540,7 @@
         "TURL": "https://www.cs.nctu.edu.tw/members/detail/lin",
         "teacher": "林彥宇",
         "cos_time": "W34n-EC115",
-        "memo": "請依各所入學年度之修業要點選課；本院學生優先； 英文授課[English Medium Course]",
+        "memo": "請依各所入學年度之修業要點選課；本院學生優先；博士班資格考考核科目； 英文授課[English Medium Course]",
         "cos_ename": "Pattern Recognition",
         "brief": "",
         "degree": "3",
@@ -85494,7 +85540,7 @@
         "dep_ename": "Institute of Mechanical Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -90642,7 +90688,7 @@
         "dep_ename": "Institute of Molecular Science",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -91200,7 +91246,7 @@
         "dep_ename": "Institute of Physics",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -93887,7 +93933,7 @@
         "dep_ename": "Institute of Information Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -93915,7 +93961,7 @@
         "dep_ename": "Institute of Information Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -93943,7 +93989,7 @@
         "dep_ename": "Institute of Information Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -93971,7 +94017,7 @@
         "dep_ename": "Institute of Information Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -93999,7 +94045,7 @@
         "dep_ename": "Institute of Information Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -94027,7 +94073,7 @@
         "dep_ename": "Institute of Information Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -94055,7 +94101,7 @@
         "dep_ename": "Institute of Information Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -94083,7 +94129,7 @@
         "dep_ename": "Institute of Information Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -94111,7 +94157,7 @@
         "dep_ename": "Institute of Information Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -94139,7 +94185,7 @@
         "dep_ename": "Institute of Information Management",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -94167,7 +94213,7 @@
         "dep_ename": "Institute of Information Management",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -94195,7 +94241,7 @@
         "dep_ename": "Institute of Information Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       }
@@ -96293,7 +96339,7 @@
         "dep_ename": "Institute of Business Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -96321,7 +96367,7 @@
         "dep_ename": "Institute of Business Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -96461,7 +96507,7 @@
         "dep_ename": "Institute of Business Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -97271,7 +97317,7 @@
         "dep_ename": "Institute of Technology Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -97299,7 +97345,7 @@
         "dep_ename": "Institute of Technology Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -97327,7 +97373,7 @@
         "dep_ename": "Institute of Technology Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -97355,7 +97401,7 @@
         "dep_ename": "Institute of Technology Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -97383,7 +97429,7 @@
         "dep_ename": "Institute of Technology Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -97411,7 +97457,7 @@
         "dep_ename": "Institute of Technology Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -97439,7 +97485,7 @@
         "dep_ename": "Institute of Technology Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -97467,7 +97513,7 @@
         "dep_ename": "Institute of Technology Law",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -97495,7 +97541,7 @@
         "dep_ename": "Institute of Technology Law",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -97523,7 +97569,7 @@
         "dep_ename": "Institute of Technology Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -97551,7 +97597,7 @@
         "dep_ename": "Institute of Technology Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -97579,7 +97625,7 @@
         "dep_ename": "Institute of Technology Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -97607,7 +97653,7 @@
         "dep_ename": "Institute of Technology Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -97635,7 +97681,7 @@
         "dep_ename": "Institute of Technology Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -97663,7 +97709,7 @@
         "dep_ename": "Institute of Technology Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -97691,7 +97737,7 @@
         "dep_ename": "Institute of Technology Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -97719,7 +97765,7 @@
         "dep_ename": "Institute of Technology Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -97775,7 +97821,7 @@
         "dep_ename": "Institute of Technology Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -101960,7 +102006,7 @@
         "dep_ename": "Institute of Information Management",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "D"
       }
@@ -102472,7 +102518,7 @@
         "dep_ename": "Institute of Technology Law",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "D"
       }
@@ -106142,7 +106188,7 @@
         "dep_ename": "Degree Program of Information Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },
@@ -106170,7 +106216,7 @@
         "dep_ename": "Degree Program of Information Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },
@@ -106198,7 +106244,7 @@
         "dep_ename": "Degree Program of Information Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },
@@ -106226,7 +106272,7 @@
         "dep_ename": "Degree Program of Information Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },
@@ -106254,7 +106300,7 @@
         "dep_ename": "Degree Program of Information Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },
@@ -106282,7 +106328,7 @@
         "dep_ename": "Degree Program of Information Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },
@@ -106310,7 +106356,7 @@
         "dep_ename": "Degree Program of Information Management",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       }
@@ -106766,7 +106812,7 @@
         "dep_ename": "Degree Program of Management of Technology",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },
@@ -107451,7 +107497,7 @@
         "dep_ename": "Degree Program of Technology Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },
@@ -107479,7 +107525,7 @@
         "dep_ename": "Degree Program of Technology Law",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },
@@ -107507,7 +107553,7 @@
         "dep_ename": "Degree Program of Technology Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },
@@ -107535,7 +107581,7 @@
         "dep_ename": "Degree Program of Technology Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },
@@ -107563,7 +107609,7 @@
         "dep_ename": "Degree Program of Technology Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },
@@ -107591,7 +107637,7 @@
         "dep_ename": "Degree Program of Technology Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },
@@ -107619,7 +107665,7 @@
         "dep_ename": "Degree Program of Technology Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },
@@ -107647,7 +107693,7 @@
         "dep_ename": "Degree Program of Technology Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },
@@ -107675,7 +107721,7 @@
         "dep_ename": "Degree Program of Technology Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },
@@ -107703,7 +107749,7 @@
         "dep_ename": "Degree Program of Technology Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },
@@ -107731,7 +107777,7 @@
         "dep_ename": "Degree Program of Technology Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },
@@ -107759,7 +107805,7 @@
         "dep_ename": "Degree Program of Technology Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },
@@ -107787,7 +107833,7 @@
         "dep_ename": "Degree Program of Technology Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },
@@ -107815,7 +107861,7 @@
         "dep_ename": "Degree Program of Technology Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },
@@ -107843,7 +107889,7 @@
         "dep_ename": "Degree Program of Technology Law",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },
@@ -107871,7 +107917,7 @@
         "dep_ename": "Degree Program of Technology Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },
@@ -107899,7 +107945,7 @@
         "dep_ename": "Degree Program of Technology Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },
@@ -107927,7 +107973,7 @@
         "dep_ename": "Degree Program of Technology Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },
@@ -107955,7 +108001,7 @@
         "dep_ename": "Degree Program of Technology Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },
@@ -107983,7 +108029,7 @@
         "dep_ename": "Degree Program of Technology Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },
@@ -108039,7 +108085,7 @@
         "dep_ename": "Degree Program of Technology Law",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },
@@ -108067,7 +108113,7 @@
         "dep_ename": "Degree Program of Technology Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },
@@ -108095,7 +108141,7 @@
         "dep_ename": "Degree Program of Technology Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },
@@ -108151,7 +108197,7 @@
         "dep_ename": "Degree Program of Technology Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },
@@ -108263,7 +108309,7 @@
         "dep_ename": "Degree Program of Technology Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },

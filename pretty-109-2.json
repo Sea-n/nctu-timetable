@@ -1496,9 +1496,9 @@
         "cos_credit": "3.00",
         "cos_hours": "3.00",
         "TURL": "",
-        "teacher": "劉啟明",
-        "cos_time": "T567-F206",
-        "memo": "C組,限外文系[English Medium Course]",
+        "teacher": "曾佳婕",
+        "cos_time": "T567-F203",
+        "memo": "A組,限外文系[English Medium Course]",
         "cos_ename": "Communicative Skills Workshop (2)",
         "brief": "",
         "degree": "1",
@@ -1524,9 +1524,9 @@
         "cos_credit": "3.00",
         "cos_hours": "3.00",
         "TURL": "",
-        "teacher": "曾佳婕",
-        "cos_time": "T567-F203",
-        "memo": "A組,限外文系[English Medium Course]",
+        "teacher": "周昭廷",
+        "cos_time": "T567-HC401",
+        "memo": "B組,限外文系[English Medium Course]",
         "cos_ename": "Communicative Skills Workshop (2)",
         "brief": "",
         "degree": "1",
@@ -1552,9 +1552,9 @@
         "cos_credit": "3.00",
         "cos_hours": "3.00",
         "TURL": "",
-        "teacher": "周昭廷",
-        "cos_time": "T567-HC401",
-        "memo": "B組,限外文系[English Medium Course]",
+        "teacher": "劉啟明",
+        "cos_time": "T567-F206",
+        "memo": "C組,限外文系[English Medium Course]",
         "cos_ename": "Communicative Skills Workshop (2)",
         "brief": "",
         "degree": "1",
@@ -1664,9 +1664,9 @@
         "cos_credit": "2.00",
         "cos_hours": "2.00",
         "TURL": "",
-        "teacher": "潘荷仙",
-        "cos_time": "M34-F322",
-        "memo": "C組,限外文系",
+        "teacher": "曾佳婕",
+        "cos_time": "M34-HC402",
+        "memo": "B組,限外文系[English Medium Course]",
         "cos_ename": "English Composition (2)",
         "brief": "",
         "degree": "1",
@@ -1692,9 +1692,9 @@
         "cos_credit": "2.00",
         "cos_hours": "2.00",
         "TURL": "",
-        "teacher": "曾佳婕",
-        "cos_time": "M34-HC402",
-        "memo": "B組,限外文系[English Medium Course]",
+        "teacher": "潘荷仙",
+        "cos_time": "M34-F322",
+        "memo": "C組,限外文系",
         "cos_ename": "English Composition (2)",
         "brief": "",
         "degree": "1",
@@ -2835,10 +2835,10 @@
         "授課語言代碼": "en-us"
       },
       "1092_1597": {
-        "授課語言代碼": "zh-tw"
+        "授課語言代碼": "en-us"
       },
       "1092_1598": {
-        "授課語言代碼": "en-us"
+        "授課語言代碼": "zh-tw"
       },
       "1092_1599": {
         "授課語言代碼": "en-us"
@@ -5612,6 +5612,34 @@
         "crsoutline_type": null,
         "reg_num": "0",
         "depType": "U"
+      },
+      "1092_1651": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1651",
+        "cos_code": "DOH1050",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "視覺敘事中的時空再現",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "談明軒",
+        "cos_time": "W34-HC103",
+        "memo": "",
+        "cos_ename": "Representation of Time-Space in Visual Narratives",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "4A1",
+        "dep_primary": "1",
+        "dep_cname": "人文社會學院院本部",
+        "dep_ename": "College of Humanities and Social Science",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "U"
       }
     },
     "costype": {
@@ -5857,6 +5885,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_1651": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -6021,6 +6058,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_1651": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -6103,6 +6146,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_1650": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_1651": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -45376,6 +45422,34 @@
         "reg_num": "0",
         "depType": "O"
       },
+      "1092_9905": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "9905",
+        "cos_code": "EDU1056",
+        "num_limit": "20",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "教學媒體與操作",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "游師柔、張志銘",
+        "cos_time": "W56-HA220",
+        "memo": "學習科學跨域學程",
+        "cos_ename": "Instructional Media and Operations",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "OU7",
+        "dep_primary": "1",
+        "dep_cname": "師資培育中心",
+        "dep_ename": "Center for Teacher Education",
+        "cos_type": "教育",
+        "cos_type_e": "Teacher Education",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "O"
+      },
       "1092_9906": {
         "acy": "109",
         "sem": "2",
@@ -45750,6 +45824,15 @@
           "GECIEngName": ""
         }
       },
+      "1092_9905": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1092_9906": {
         "": {
           "course_category_cname": "",
@@ -45891,6 +45974,12 @@
           "brief": "教育學程(87)"
         }
       },
+      "1092_9905": {
+        "D099": {
+          "brief_code": "D099",
+          "brief": "教育學程(87)"
+        }
+      },
       "1092_9906": {
         "D099": {
           "brief_code": "D099",
@@ -45975,6 +46064,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_9904": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_9905": {
         "授課語言代碼": "zh-tw"
       },
       "1092_9906": {
@@ -56555,10 +56647,10 @@
     "dep_cname": "生物電子學分學程",
     "dep_ename": "Program of Bioelectronics",
     "1": {
-      "1092_5764": {
+      "1092_5753": {
         "acy": "109",
         "sem": "2",
-        "cos_id": "5764",
+        "cos_id": "5753",
         "cos_code": "IBT5504",
         "num_limit": "9999",
         "dep_limit": "*",
@@ -56585,7 +56677,7 @@
       }
     },
     "costype": {
-      "1092_5764": {
+      "1092_5753": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -56596,7 +56688,7 @@
       }
     },
     "brief": {
-      "1092_5764": {
+      "1092_5753": {
         "": {
           "brief_code": "",
           "brief": ""
@@ -56604,7 +56696,7 @@
       }
     },
     "language": {
-      "1092_5764": {
+      "1092_5753": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -63384,6 +63476,34 @@
         "reg_num": "0",
         "depType": "Q"
       },
+      "1092_1651": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1651",
+        "cos_code": "DOH1050",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "視覺敘事中的時空再現",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "談明軒",
+        "cos_time": "W34-HC103",
+        "memo": "",
+        "cos_ename": "Representation of Time-Space in Visual Narratives",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "QJZ",
+        "dep_primary": "1",
+        "dep_cname": "人文社會學院跨領域設計與創新科技跨域學程",
+        "dep_ename": "College of Humanities and Social Sciences for Transdisciplinary Inn",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "Q"
+      },
       "1092_5814": {
         "acy": "109",
         "sem": "2",
@@ -63558,6 +63678,15 @@
           "GECIEngName": ""
         }
       },
+      "1092_1651": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1092_5814": {
         "": {
           "course_category_cname": "",
@@ -63665,6 +63794,12 @@
           "brief": ""
         }
       },
+      "1092_1651": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1092_5814": {
         "": {
           "brief_code": "",
@@ -63719,6 +63854,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_1639": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_1651": {
         "授課語言代碼": "zh-tw"
       },
       "1092_5814": {
@@ -67096,6 +67234,34 @@
         "crsoutline_type": null,
         "reg_num": "0",
         "depType": "G"
+      },
+      "1092_5754": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5754",
+        "cos_code": "IBT5676",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "微生物生理及遺傳學",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "曾慶平",
+        "cos_time": "R34-BI311",
+        "memo": "",
+        "cos_ename": "Microbial Physiology and Genetics",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "350",
+        "dep_primary": "1",
+        "dep_cname": "生物科技學系",
+        "dep_ename": "Institute of Biological Science and Technology",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "G"
       }
     },
     "costype": {
@@ -67314,6 +67480,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_5754": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -67460,6 +67635,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_5754": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -67534,6 +67715,9 @@
       },
       "1092_5718": {
         "授課語言代碼": "en-us"
+      },
+      "1092_5754": {
+        "授課語言代碼": "zh-tw"
       }
     }
   },
@@ -68365,10 +68549,10 @@
         "reg_num": "0",
         "depType": "G"
       },
-      "1092_5744": {
+      "1092_5743": {
         "acy": "109",
         "sem": "2",
-        "cos_id": "5744",
+        "cos_id": "5743",
         "cos_code": "IBD5009",
         "num_limit": "9999",
         "dep_limit": "*",
@@ -68393,10 +68577,10 @@
         "reg_num": "0",
         "depType": "G"
       },
-      "1092_5748": {
+      "1092_5745": {
         "acy": "109",
         "sem": "2",
-        "cos_id": "5748",
+        "cos_id": "5745",
         "cos_code": "IBE5022",
         "num_limit": "9999",
         "dep_limit": "*",
@@ -68421,10 +68605,10 @@
         "reg_num": "0",
         "depType": "G"
       },
-      "1092_5750": {
+      "1092_5746": {
         "acy": "109",
         "sem": "2",
-        "cos_id": "5750",
+        "cos_id": "5746",
         "cos_code": "IBE5034",
         "num_limit": "9999",
         "dep_limit": "*",
@@ -68449,10 +68633,10 @@
         "reg_num": "0",
         "depType": "G"
       },
-      "1092_5752": {
+      "1092_5747": {
         "acy": "109",
         "sem": "2",
-        "cos_id": "5752",
+        "cos_id": "5747",
         "cos_code": "IBE5044",
         "num_limit": "9999",
         "dep_limit": "*",
@@ -68477,10 +68661,10 @@
         "reg_num": "0",
         "depType": "G"
       },
-      "1092_5756": {
+      "1092_5749": {
         "acy": "109",
         "sem": "2",
-        "cos_id": "5756",
+        "cos_id": "5749",
         "cos_code": "IBE5067",
         "num_limit": "9999",
         "dep_limit": "*",
@@ -68505,10 +68689,10 @@
         "reg_num": "0",
         "depType": "G"
       },
-      "1092_5758": {
+      "1092_5750": {
         "acy": "109",
         "sem": "2",
-        "cos_id": "5758",
+        "cos_id": "5750",
         "cos_code": "IBE5071",
         "num_limit": "9999",
         "dep_limit": "*",
@@ -68533,10 +68717,10 @@
         "reg_num": "0",
         "depType": "G"
       },
-      "1092_5760": {
+      "1092_5751": {
         "acy": "109",
         "sem": "2",
-        "cos_id": "5760",
+        "cos_id": "5751",
         "cos_code": "IBE5074",
         "num_limit": "9999",
         "dep_limit": "*",
@@ -68561,10 +68745,10 @@
         "reg_num": "0",
         "depType": "G"
       },
-      "1092_5762": {
+      "1092_5752": {
         "acy": "109",
         "sem": "2",
-        "cos_id": "5762",
+        "cos_id": "5752",
         "cos_code": "IBE5301",
         "num_limit": "9999",
         "dep_limit": "*",
@@ -68589,10 +68773,10 @@
         "reg_num": "0",
         "depType": "G"
       },
-      "1092_5764": {
+      "1092_5753": {
         "acy": "109",
         "sem": "2",
-        "cos_id": "5764",
+        "cos_id": "5753",
         "cos_code": "IBT5504",
         "num_limit": "9999",
         "dep_limit": "*",
@@ -68628,7 +68812,7 @@
           "GECIEngName": ""
         }
       },
-      "1092_5744": {
+      "1092_5743": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -68637,7 +68821,34 @@
           "GECIEngName": ""
         }
       },
-      "1092_5748": {
+      "1092_5745": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1092_5746": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1092_5747": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1092_5749": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -68647,6 +68858,15 @@
         }
       },
       "1092_5750": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1092_5751": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -68664,43 +68884,7 @@
           "GECIEngName": "ECE,CCS,CHS"
         }
       },
-      "1092_5756": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
-      "1092_5758": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
-      "1092_5760": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
-      "1092_5762": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
-      "1092_5764": {
+      "1092_5753": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -68717,13 +68901,31 @@
           "brief": ""
         }
       },
-      "1092_5744": {
+      "1092_5743": {
         "": {
           "brief_code": "",
           "brief": ""
         }
       },
-      "1092_5748": {
+      "1092_5745": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1092_5746": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1092_5747": {
+        "A205,A504": {
+          "brief_code": "A205,A504",
+          "brief": "自然/進階(96),跨院基本素養(106)"
+        }
+      },
+      "1092_5749": {
         "": {
           "brief_code": "",
           "brief": ""
@@ -68735,37 +68937,19 @@
           "brief": ""
         }
       },
+      "1092_5751": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1092_5752": {
-        "A205,A504": {
-          "brief_code": "A205,A504",
-          "brief": "自然/進階(96),跨院基本素養(106)"
-        }
-      },
-      "1092_5756": {
         "": {
           "brief_code": "",
           "brief": ""
         }
       },
-      "1092_5758": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
-      "1092_5760": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
-      "1092_5762": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
-      "1092_5764": {
+      "1092_5753": {
         "": {
           "brief_code": "",
           "brief": ""
@@ -68776,31 +68960,31 @@
       "1092_5742": {
         "授課語言代碼": "zh-tw"
       },
-      "1092_5744": {
+      "1092_5743": {
         "授課語言代碼": "zh-tw"
       },
-      "1092_5748": {
+      "1092_5745": {
         "授課語言代碼": "zh-tw"
+      },
+      "1092_5746": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_5747": {
+        "授課語言代碼": "en-us"
+      },
+      "1092_5749": {
+        "授課語言代碼": "en-us"
       },
       "1092_5750": {
         "授課語言代碼": "zh-tw"
       },
+      "1092_5751": {
+        "授課語言代碼": "zh-tw"
+      },
       "1092_5752": {
-        "授課語言代碼": "en-us"
-      },
-      "1092_5756": {
-        "授課語言代碼": "en-us"
-      },
-      "1092_5758": {
         "授課語言代碼": "zh-tw"
       },
-      "1092_5760": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1092_5762": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1092_5764": {
+      "1092_5753": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -84538,6 +84722,65 @@
     },
     "language": {
       "1092_5308": {
+        "授課語言代碼": "zh-tw"
+      }
+    }
+  },
+  "88250CAD-55F7-45E2-B9A4-D551D323B757": {
+    "dep_id": "88250CAD-55F7-45E2-B9A4-D551D323B757",
+    "dep_cname": "機器人碩士學位學程",
+    "dep_ename": "Graduate Degree Program of Robotics",
+    "1": {
+      "1092_5310": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5310",
+        "cos_code": "ROB5101",
+        "num_limit": "20",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "機器人文化與人機互動研究",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "葉李華",
+        "cos_time": "R567-EE230",
+        "memo": "",
+        "cos_ename": "Cultural Study Approach Toward Human-robot Interactions",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "605",
+        "dep_primary": "1",
+        "dep_cname": "機器人碩士學位學程",
+        "dep_ename": "Graduate Degree Program of Robotics",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "M"
+      }
+    },
+    "costype": {
+      "1092_5310": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "1092_5310": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      }
+    },
+    "language": {
+      "1092_5310": {
         "授課語言代碼": "zh-tw"
       }
     }

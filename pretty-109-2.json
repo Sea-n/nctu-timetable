@@ -4140,7 +4140,7 @@
         "dep_ename": "Department of Communication and Technology",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -12861,7 +12861,7 @@
         "dep_ename": "Department of Mechanical Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -30524,7 +30524,7 @@
         "dep_ename": "Undergraduate Degree Program of System Engineering and Technology",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "T"
       },
@@ -39854,7 +39854,7 @@
         "TURL": "",
         "teacher": "張宏宇",
         "cos_time": "Tab-ED116",
-        "memo": "不接受傳科系學生修讀。不接受加簽,請隨時留意網路選課系統有無人退選。本課為MOOCs,相關公告均透過New e3進行,請修課生隨時留意通知,以維護您的成績與權益。",
+        "memo": "不接受傳科系學生修讀。不接受加簽,請隨時留意網路選課系統有無人退選。本課為MOOCs,相關公告均透過New E3進行,請修課生隨時留意通知,以維護您的成績與權益。",
         "cos_ename": "Storytelling and Narrative",
         "brief": "",
         "degree": "1",
@@ -39882,7 +39882,7 @@
         "TURL": "https://dbt.nctu.edu.tw/faculty/%e9%bb%83%e6%a4%8d%e6%87%8b/",
         "teacher": "黃植懋",
         "cos_time": "Rab-ED116",
-        "memo": "本課為MOOCs,相關公告均透過New e3進行,請修課生隨時留意通知,以維護您的成績與權益。",
+        "memo": "本課為MOOCs,相關公告均透過New E3進行,請修課生隨時留意通知,以維護您的成績與權益。",
         "cos_ename": "Psychology of Ageing",
         "brief": "",
         "degree": "1",
@@ -59737,7 +59737,7 @@
         "dep_ename": "Program of Music",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "P"
       },
@@ -64341,7 +64341,7 @@
         "dep_ename": "College of Humanities and Social Sciences for Transdisciplinary Inn",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "Q"
       },
@@ -74104,7 +74104,7 @@
         "dep_ename": "Institute of Music",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -74244,7 +74244,7 @@
         "dep_ename": "Institute of Music",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -74272,7 +74272,7 @@
         "dep_ename": "Institute of Music",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -74300,7 +74300,7 @@
         "dep_ename": "Institute of Music",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -85489,6 +85489,34 @@
         "crsoutline_type": null,
         "reg_num": "0",
         "depType": "G"
+      },
+      "1092_5354": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5354",
+        "cos_code": "IME5613",
+        "num_limit": "20",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "機器人學：多軸旋翼機",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "http://ncrl.nctu.edu.tw",
+        "teacher": "程登湖",
+        "cos_time": "M234-EE132",
+        "memo": "",
+        "cos_ename": "Robotics:multirotors",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "611",
+        "dep_primary": "1",
+        "dep_cname": "機械工程學系",
+        "dep_ename": "Institute of Mechanical Engineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "G"
       }
     },
     "costype": {
@@ -85716,6 +85744,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_5354": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -85868,6 +85905,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_5354": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -85944,6 +85987,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_5356": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_5354": {
         "授課語言代碼": "zh-tw"
       }
     }

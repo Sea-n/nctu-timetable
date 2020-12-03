@@ -10879,7 +10879,7 @@
         "dep_ename": "Department of Computer Science",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -19394,7 +19394,7 @@
         "dep_ename": "Department of Applied Chemistry",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -19422,7 +19422,7 @@
         "dep_ename": "Department of Applied Chemistry",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -56870,7 +56870,7 @@
         "dep_ename": "Electrical Engineering and Computer Science-International Program",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "P"
       },
@@ -56982,7 +56982,7 @@
         "dep_ename": "Electrical Engineering and Computer Science-International Program",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "P"
       },
@@ -69924,7 +69924,7 @@
         "dep_ename": "Institute of Education",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -83619,6 +83619,34 @@
         "crsoutline_type": null,
         "reg_num": "0",
         "depType": "G"
+      },
+      "1092_5929": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5929",
+        "cos_code": "ILE5055",
+        "num_limit": "40",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "創業實務(英文授課)",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "http://cs.nctu.edu.tw/~jcc",
+        "teacher": "陳志成、謝志鴻",
+        "cos_time": "R567-EC115",
+        "memo": "人數上限40人(老師指定)；本院學生優先；英文授課[English Medium Course]",
+        "cos_ename": "Entrepreneurship Realization",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "553",
+        "dep_primary": "1",
+        "dep_cname": "多媒體工程研究所",
+        "dep_ename": "Institute of Multimedia Engineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "G"
       }
     },
     "costype": {
@@ -83727,6 +83755,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_5929": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -83795,6 +83832,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_5929": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -83830,6 +83873,9 @@
       },
       "1092_5297": {
         "授課語言代碼": "zh-tw"
+      },
+      "1092_5929": {
+        "授課語言代碼": "en-us"
       }
     }
   },
@@ -98613,7 +98659,7 @@
         "dep_ename": "Institute of Lighting and Energy Photonics",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -99060,7 +99106,7 @@
         "dep_ename": "Institute of Imaging and Biomedical Photonics",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       }
@@ -99470,7 +99516,7 @@
         "dep_ename": "College of Artificial Intelligence and Green Energy",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -109249,7 +109295,7 @@
         "dep_ename": "College of Computer Science",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },

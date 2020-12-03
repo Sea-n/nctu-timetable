@@ -39854,7 +39854,7 @@
         "TURL": "",
         "teacher": "張宏宇",
         "cos_time": "Tab-ED116",
-        "memo": "不接受傳科系學生修讀，不接受加簽。",
+        "memo": "不接受傳科系學生修讀。不接受加簽,請隨時留意網路選課系統有無人退選。本課為MOOCs,相關公告均透過New e3進行,請修課生隨時留意通知,以維護您的成績與權益。",
         "cos_ename": "Storytelling and Narrative",
         "brief": "",
         "degree": "1",
@@ -39882,7 +39882,7 @@
         "TURL": "https://dbt.nctu.edu.tw/faculty/%e9%bb%83%e6%a4%8d%e6%87%8b/",
         "teacher": "黃植懋",
         "cos_time": "Rab-ED116",
-        "memo": "",
+        "memo": "本課為MOOCs,相關公告均透過New e3進行,請修課生隨時留意通知,以維護您的成績與權益。",
         "cos_ename": "Psychology of Ageing",
         "brief": "",
         "degree": "1",
@@ -55135,7 +55135,7 @@
         "cos_hours": "2.00",
         "TURL": "",
         "teacher": "嚴偉哲",
-        "cos_time": "M34-",
+        "cos_time": "T34-",
         "memo": "[English Medium Course]",
         "cos_ename": "Critical Thinking",
         "brief": "",
@@ -65249,7 +65249,7 @@
         "cos_hours": "2.00",
         "TURL": "",
         "teacher": "嚴偉哲",
-        "cos_time": "M34-",
+        "cos_time": "T34-",
         "memo": "[English Medium Course]",
         "cos_ename": "Critical Thinking",
         "brief": "",
@@ -68840,12 +68840,12 @@
         }
       },
       "1092_5747": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
+        "通識跨院基本素養_通識跨院": {
+          "course_category_cname": "通識跨院基本素養_通識跨院",
+          "course_category_ename": "General Education Course: Intercollegiate_GECI",
+          "course_category_type": "16",
+          "GECIName": "電,資,人",
+          "GECIEngName": "ECE,CCS,CHS"
         }
       },
       "1092_5749": {
@@ -68876,12 +68876,12 @@
         }
       },
       "1092_5752": {
-        "通識跨院基本素養_通識跨院": {
-          "course_category_cname": "通識跨院基本素養_通識跨院",
-          "course_category_ename": "General Education Course: Intercollegiate_GECI",
-          "course_category_type": "16",
-          "GECIName": "電,資,人",
-          "GECIEngName": "ECE,CCS,CHS"
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
         }
       },
       "1092_5753": {
@@ -111145,6 +111145,65 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_1536": {
+        "授課語言代碼": "zh-tw"
+      }
+    }
+  },
+  "959D70AB-C5F4-408C-9BDF-3AC79C12FB18": {
+    "dep_id": "959D70AB-C5F4-408C-9BDF-3AC79C12FB18",
+    "dep_cname": "人工智慧技術與應用碩士學位學程",
+    "dep_ename": "Artificial Intelligence Graduate Program",
+    "1": {
+      "1092_5001": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5001",
+        "cos_code": "AIG5001",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "論文研討",
+        "cos_credit": ".00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "鄭文皇",
+        "cos_time": "",
+        "memo": "限人工智慧技術與應用碩士學位學程學生",
+        "cos_ename": "Seminars",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "505",
+        "dep_primary": "1",
+        "dep_cname": "人工智慧技術與應用碩士學位學程",
+        "dep_ename": "Artificial Intelligence Graduate Program",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "M"
+      }
+    },
+    "costype": {
+      "1092_5001": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "1092_5001": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      }
+    },
+    "language": {
+      "1092_5001": {
         "授課語言代碼": "zh-tw"
       }
     }

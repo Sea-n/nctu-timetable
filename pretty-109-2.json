@@ -21911,7 +21911,7 @@
         "dep_ename": "Department of Information and Finance Management",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -22194,6 +22194,34 @@
         "crsoutline_type": null,
         "reg_num": "0",
         "depType": "U"
+      },
+      "1092_1502": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1502",
+        "cos_code": "DIF1030",
+        "num_limit": "60",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "投資學",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "李漢星",
+        "cos_time": "M7R34-M101",
+        "memo": "資財系優先選課。",
+        "cos_ename": "Investments",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "705",
+        "dep_primary": "1",
+        "dep_cname": "資訊管理與財務金融系",
+        "dep_ename": "Department of Information and Finance Management",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "U"
       }
     },
     "costype": {
@@ -22327,6 +22355,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_1502": {
+        "通識跨院基本素養_通識跨院": {
+          "course_category_cname": "通識跨院基本素養_通識跨院",
+          "course_category_ename": "General Education Course: Intercollegiate_GECI",
+          "course_category_type": "16",
+          "GECIName": "電,資,工,理,生",
+          "GECIEngName": "ECE,CCS,COE,COS,CBT"
+        }
       }
     },
     "brief": {
@@ -22407,6 +22444,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_1502": {
+        "A203,A504": {
+          "brief_code": "A203,A504",
+          "brief": "公民/進階(96),跨院基本素養(106)"
+        }
       }
     },
     "language": {
@@ -22447,6 +22490,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_1513": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_1502": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -47456,7 +47502,7 @@
         "dep_ename": "Physical Education Office",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -47484,7 +47530,7 @@
         "dep_ename": "Physical Education Office",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -47512,7 +47558,7 @@
         "dep_ename": "Physical Education Office",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -47540,7 +47586,7 @@
         "dep_ename": "Physical Education Office",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -47568,7 +47614,7 @@
         "dep_ename": "Physical Education Office",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -47596,7 +47642,7 @@
         "dep_ename": "Physical Education Office",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -47624,7 +47670,7 @@
         "dep_ename": "Physical Education Office",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -47652,7 +47698,7 @@
         "dep_ename": "Physical Education Office",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -47680,7 +47726,7 @@
         "dep_ename": "Physical Education Office",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -47708,7 +47754,7 @@
         "dep_ename": "Physical Education Office",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -47736,7 +47782,7 @@
         "dep_ename": "Physical Education Office",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -47764,7 +47810,7 @@
         "dep_ename": "Physical Education Office",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -47792,7 +47838,7 @@
         "dep_ename": "Physical Education Office",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -58207,7 +58253,7 @@
         "dep_ename": "Electrical Engineering and Computer Science-International Program",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "P"
       },
@@ -68638,7 +68684,7 @@
         "dep_ename": "Institute of Bioinformatics and System Biology",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -82440,7 +82486,7 @@
         "dep_ename": "Institute of Computer Science and Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -95529,6 +95575,34 @@
         "crsoutline_type": null,
         "reg_num": "0",
         "depType": "G"
+      },
+      "1092_5558": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5558",
+        "cos_code": "IOF5031",
+        "num_limit": "60",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "投資學",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "李漢星",
+        "cos_time": "R567-M-b09",
+        "memo": "財務金融碩博士班學生優先。",
+        "cos_ename": "Investment",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "707",
+        "dep_primary": "1",
+        "dep_cname": "資訊管理與財務金融系財務金融碩博士班",
+        "dep_ename": "Graduate institute of finance",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "G"
       }
     },
     "costype": {
@@ -95657,6 +95731,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_5558": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -95743,6 +95826,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_5558": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -95786,6 +95875,9 @@
         "授課語言代碼": "en-us"
       },
       "1092_5569": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_5558": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -107300,6 +107392,34 @@
         "crsoutline_type": null,
         "reg_num": "0",
         "depType": "J"
+      },
+      "1092_5661": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5661",
+        "cos_code": "IOF5031",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "投資學",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "李漢星",
+        "cos_time": "S234-M101",
+        "memo": "限本校在職專班同學選修；依財金所網站公告之課程時間表上課",
+        "cos_ename": "Investment",
+        "brief": "",
+        "degree": "5",
+        "dep_id": "717",
+        "dep_primary": "1",
+        "dep_cname": "管理學院碩士在職專班-財金組",
+        "dep_ename": "Degree Program of Financ",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "J"
       }
     },
     "costype": {
@@ -107329,6 +107449,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_5661": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -107349,6 +107478,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_5661": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -107359,6 +107494,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_5662": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_5661": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -109852,7 +109990,7 @@
         "dep_ename": "College of Computer Science",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },

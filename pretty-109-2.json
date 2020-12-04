@@ -1610,7 +1610,7 @@
         "dep_ename": "Department of Foreign Languages and Literatures",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -1862,7 +1862,7 @@
         "dep_ename": "Department of Foreign Languages and Literatures",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -4705,10 +4705,10 @@
         }
       },
       "1092_1702": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
+        "通識跨院基本素養_通識跨院": {
+          "course_category_cname": "通識跨院基本素養_通識跨院",
+          "course_category_ename": "General Education Course: Intercollegiate_GECI",
+          "course_category_type": "16",
           "GECIName": "",
           "GECIEngName": ""
         }
@@ -4851,9 +4851,9 @@
         }
       },
       "1092_1702": {
-        "": {
-          "brief_code": "",
-          "brief": ""
+        "A504": {
+          "brief_code": "A504",
+          "brief": "跨院基本素養(106)"
         }
       },
       "1092_1703": {
@@ -8398,7 +8398,7 @@
         "dep_ename": "Department of Electrical and Computer Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -11518,10 +11518,10 @@
         }
       },
       "1092_1151": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
+        "通識跨院基本素養_通識跨院": {
+          "course_category_cname": "通識跨院基本素養_通識跨院",
+          "course_category_ename": "General Education Course: Intercollegiate_GECI",
+          "course_category_type": "16",
           "GECIName": "",
           "GECIEngName": ""
         }
@@ -11706,9 +11706,9 @@
         }
       },
       "1092_1151": {
-        "": {
-          "brief_code": "",
-          "brief": ""
+        "A504": {
+          "brief_code": "A504",
+          "brief": "跨院基本素養(106)"
         }
       },
       "1092_1152": {
@@ -55462,6 +55462,118 @@
         "crsoutline_type": null,
         "reg_num": "0",
         "depType": "O"
+      },
+      "1092_1913": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1913",
+        "cos_code": "DOA1108",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "進階說故事工作坊:影視布袋戲創意實務篇",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "黃亮勛",
+        "cos_time": "F56-HA109",
+        "memo": "",
+        "cos_ename": "Advanced Storytelling Workshop: Puppet Show Creactive Practice in Film and Television",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "OUH",
+        "dep_primary": "1",
+        "dep_cname": "教學發展中心",
+        "dep_ename": "Center of Teaching and Learning Development",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "O"
+      },
+      "1092_1914": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1914",
+        "cos_code": "DOA1109",
+        "num_limit": "25",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "推測設計與說故事",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "顧廣毅",
+        "cos_time": "T78-HC102",
+        "memo": "",
+        "cos_ename": "Speculative Design and Storytelling",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "OUH",
+        "dep_primary": "1",
+        "dep_cname": "教學發展中心",
+        "dep_ename": "Center of Teaching and Learning Development",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "O"
+      },
+      "1092_1915": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1915",
+        "cos_code": "DOA1110",
+        "num_limit": "30",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "社會敘事與博物館",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "郭瑞坤",
+        "cos_time": "T34-HC102",
+        "memo": "",
+        "cos_ename": "Social Narrative and Museeum",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "OUH",
+        "dep_primary": "1",
+        "dep_cname": "教學發展中心",
+        "dep_ename": "Center of Teaching and Learning Development",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "O"
+      },
+      "1092_1916": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1916",
+        "cos_code": "DOA1111",
+        "num_limit": "20",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "圖像說故事",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "江坤森",
+        "cos_time": "W34-HC102",
+        "memo": "",
+        "cos_ename": "Graphic Storytelling",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "OUH",
+        "dep_primary": "1",
+        "dep_cname": "教學發展中心",
+        "dep_ename": "Center of Teaching and Learning Development",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "O"
       }
     },
     "costype": {
@@ -55534,6 +55646,42 @@
           "GECIName": "電,生,人,客",
           "GECIEngName": "ECE,CBT,CHS,CHK"
         }
+      },
+      "1092_1913": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1092_1914": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1092_1915": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1092_1916": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -55578,6 +55726,30 @@
           "brief_code": "A205,A504,A505",
           "brief": "自然/進階(96),跨院基本素養(106),校基本素養(106)"
         }
+      },
+      "1092_1913": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1092_1914": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1092_1915": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1092_1916": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -55600,6 +55772,18 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_1907": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_1913": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_1914": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_1915": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_1916": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -65465,6 +65649,203 @@
       },
       "1092_5790": {
         "授課語言代碼": "en-us"
+      }
+    }
+  },
+  "1908531A-F394-46F5-BEAA-8B96AC5F109A": {
+    "dep_id": "1908531A-F394-46F5-BEAA-8B96AC5F109A",
+    "dep_cname": "說故事與多媒體跨域學程",
+    "dep_ename": "",
+    "1": {
+      "1092_1913": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1913",
+        "cos_code": "DOA1108",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "進階說故事工作坊:影視布袋戲創意實務篇",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "黃亮勛",
+        "cos_time": "F56-HA109",
+        "memo": "",
+        "cos_ename": "Advanced Storytelling Workshop: Puppet Show Creactive Practice in Film and Television",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "QKZ",
+        "dep_primary": "1",
+        "dep_cname": "說故事與多媒體跨域學程",
+        "dep_ename": "",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "Q"
+      },
+      "1092_1914": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1914",
+        "cos_code": "DOA1109",
+        "num_limit": "25",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "推測設計與說故事",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "顧廣毅",
+        "cos_time": "T78-HC102",
+        "memo": "",
+        "cos_ename": "Speculative Design and Storytelling",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "QKZ",
+        "dep_primary": "1",
+        "dep_cname": "說故事與多媒體跨域學程",
+        "dep_ename": "",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "Q"
+      },
+      "1092_1915": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1915",
+        "cos_code": "DOA1110",
+        "num_limit": "30",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "社會敘事與博物館",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "郭瑞坤",
+        "cos_time": "T34-HC102",
+        "memo": "",
+        "cos_ename": "Social Narrative and Museeum",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "QKZ",
+        "dep_primary": "1",
+        "dep_cname": "說故事與多媒體跨域學程",
+        "dep_ename": "",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "Q"
+      },
+      "1092_1916": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1916",
+        "cos_code": "DOA1111",
+        "num_limit": "20",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "圖像說故事",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "江坤森",
+        "cos_time": "W34-HC102",
+        "memo": "",
+        "cos_ename": "Graphic Storytelling",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "QKZ",
+        "dep_primary": "1",
+        "dep_cname": "說故事與多媒體跨域學程",
+        "dep_ename": "",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "Q"
+      }
+    },
+    "costype": {
+      "1092_1913": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1092_1914": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1092_1915": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1092_1916": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "1092_1913": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1092_1914": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1092_1915": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1092_1916": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      }
+    },
+    "language": {
+      "1092_1913": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_1914": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_1915": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_1916": {
+        "授課語言代碼": "zh-tw"
       }
     }
   },
@@ -77364,7 +77745,7 @@
         "dep_ename": "Institute of Electronics",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -110523,6 +110904,34 @@
         "reg_num": "0",
         "depType": "U"
       },
+      "1092_1130": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1130",
+        "cos_code": "UEE2102",
+        "num_limit": "80",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "機率",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "http://cwww.ee.nctu.edu.tw/~ftchien/",
+        "teacher": "簡鳳村",
+        "cos_time": "T56F2-ED201",
+        "memo": "",
+        "cos_ename": "Probability",
+        "brief": "",
+        "degree": "A",
+        "dep_id": "5I1",
+        "dep_primary": "1",
+        "dep_cname": "電機系共同課程",
+        "dep_ename": "College of Electrical Engineering",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "U"
+      },
       "1092_1131": {
         "acy": "109",
         "sem": "2",
@@ -110784,6 +111193,15 @@
           "GECIEngName": "COE"
         }
       },
+      "1092_1130": {
+        "通識跨院基本素養_通識跨院": {
+          "course_category_cname": "通識跨院基本素養_通識跨院",
+          "course_category_ename": "General Education Course: Intercollegiate_GECI",
+          "course_category_type": "16",
+          "GECIName": "工",
+          "GECIEngName": "COE"
+        }
+      },
       "1092_1131": {
         "通識跨院基本素養_通識跨院": {
           "course_category_cname": "通識跨院基本素養_通識跨院",
@@ -110891,6 +111309,12 @@
           "brief": "自然/進階(96),跨院基本素養(106)"
         }
       },
+      "1092_1130": {
+        "A205,A504": {
+          "brief_code": "A205,A504",
+          "brief": "自然/進階(96),跨院基本素養(106)"
+        }
+      },
       "1092_1131": {
         "A205,A504": {
           "brief_code": "A205,A504",
@@ -110954,6 +111378,9 @@
         "授課語言代碼": "en-us"
       },
       "1092_1127": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_1130": {
         "授課語言代碼": "zh-tw"
       },
       "1092_1131": {

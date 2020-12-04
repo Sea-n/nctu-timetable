@@ -7614,7 +7614,7 @@
         "dep_ename": "Department of Electrical and Computer Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -7642,7 +7642,7 @@
         "dep_ename": "Department of Electrical and Computer Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -7670,7 +7670,7 @@
         "dep_ename": "Department of Electrical and Computer Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -7698,7 +7698,7 @@
         "dep_ename": "Department of Electrical and Computer Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -7726,7 +7726,7 @@
         "dep_ename": "Department of Electrical and Computer Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -7754,7 +7754,7 @@
         "dep_ename": "Department of Electrical and Computer Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -8034,7 +8034,7 @@
         "dep_ename": "Department of Electrical and Computer Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -8454,7 +8454,7 @@
         "dep_ename": "Department of Electrical and Computer Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -8566,7 +8566,7 @@
         "dep_ename": "Department of Electrical and Computer Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -14362,7 +14362,7 @@
         "dep_ename": "Department of Civil Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -20896,7 +20896,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
-        "reg_num": "0",
+        "reg_num": "46",
         "depType": "U"
       },
       "1092_1469": {
@@ -20924,7 +20924,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": null,
-        "reg_num": "0",
+        "reg_num": "46",
         "depType": "U"
       },
       "1092_1470": {
@@ -20932,7 +20932,7 @@
         "sem": "2",
         "cos_id": "1470",
         "cos_code": "DTM1332",
-        "num_limit": "9999",
+        "num_limit": "65",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "交通工程",
@@ -20952,7 +20952,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": null,
-        "reg_num": "0",
+        "reg_num": "46",
         "depType": "U"
       },
       "1092_1472": {
@@ -20980,7 +20980,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": null,
-        "reg_num": "0",
+        "reg_num": "47",
         "depType": "U"
       },
       "1092_1474": {
@@ -20989,7 +20989,7 @@
         "cos_id": "1474",
         "cos_code": "DTM1122",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "交通控制",
         "cos_credit": "3.00",
@@ -21016,8 +21016,8 @@
         "sem": "2",
         "cos_id": "1475",
         "cos_code": "DTM1144",
-        "num_limit": "9999",
-        "dep_limit": "*",
+        "num_limit": "38",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "國際物流管理",
         "cos_credit": "3.00",
@@ -21045,7 +21045,7 @@
         "cos_id": "1476",
         "cos_code": "DTM1146",
         "num_limit": "35",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "專案規劃與評估",
         "cos_credit": "3.00",
@@ -21072,8 +21072,8 @@
         "sem": "2",
         "cos_id": "1477",
         "cos_code": "DTM4625",
-        "num_limit": "9999",
-        "dep_limit": "*",
+        "num_limit": "55",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "運輸規劃",
         "cos_credit": "3.00",
@@ -21092,7 +21092,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": null,
-        "reg_num": "0",
+        "reg_num": "41",
         "depType": "U"
       },
       "1092_1478": {
@@ -21100,8 +21100,8 @@
         "sem": "2",
         "cos_id": "1478",
         "cos_code": "DTM4636",
-        "num_limit": "9999",
-        "dep_limit": "*",
+        "num_limit": "55",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "運輸網路概論",
         "cos_credit": "3.00",
@@ -21129,7 +21129,7 @@
         "cos_id": "1480",
         "cos_code": "DTM4648",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "大學部個別研究",
         "cos_credit": "2.00",
@@ -21368,7 +21368,7 @@
         "dep_ename": "Department of Industrial Engineering and Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -21396,7 +21396,7 @@
         "dep_ename": "Department of Industrial Engineering and Management",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -21424,7 +21424,7 @@
         "dep_ename": "Department of Industrial Engineering and Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -21452,7 +21452,7 @@
         "dep_ename": "Department of Industrial Engineering and Management",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -21480,7 +21480,7 @@
         "dep_ename": "Department of Industrial Engineering and Management",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -21508,7 +21508,7 @@
         "dep_ename": "Department of Industrial Engineering and Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -21536,7 +21536,7 @@
         "dep_ename": "Department of Industrial Engineering and Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -21564,7 +21564,7 @@
         "dep_ename": "Department of Industrial Engineering and Management",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -21592,7 +21592,35 @@
         "dep_ename": "Department of Industrial Engineering and Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "U"
+      },
+      "1092_1492": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1492",
+        "cos_code": "DEM3511",
+        "num_limit": "60",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "模擬學",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "陳勝一",
+        "cos_time": "M7F78-MB415",
+        "memo": "限60人，工工系學生優先，不可旁聽",
+        "cos_ename": "Simulation",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "704",
+        "dep_primary": "1",
+        "dep_cname": "工業工程與管理學系",
+        "dep_ename": "Department of Industrial Engineering and Management",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       }
@@ -21685,6 +21713,22 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_1492": {
+        "通識校基本素養_通識校基本": {
+          "course_category_cname": "通識校基本素養_通識校基本",
+          "course_category_ename": "General Education Course: Literacy_GECL",
+          "course_category_type": "15",
+          "GECIName": "電,資",
+          "GECIEngName": "ECE,CCS"
+        },
+        "通識跨院基本素養_通識跨院": {
+          "course_category_cname": "通識跨院基本素養_通識跨院",
+          "course_category_ename": "General Education Course: Intercollegiate_GECI",
+          "course_category_type": "16",
+          "GECIName": "電,資",
+          "GECIEngName": "ECE,CCS"
+        }
       }
     },
     "brief": {
@@ -21741,6 +21785,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_1492": {
+        "A205,A504,A505": {
+          "brief_code": "A205,A504,A505",
+          "brief": "自然/進階(96),跨院基本素養(106),校基本素養(106)"
+        }
       }
     },
     "language": {
@@ -21769,6 +21819,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_1494": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_1492": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -56375,7 +56428,7 @@
         "dep_ename": "Program of International Management ＆ Business Administration",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "P"
       },
@@ -56403,7 +56456,7 @@
         "dep_ename": "Program of International Management ＆ Business Administration",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "P"
       },
@@ -78163,6 +78216,34 @@
         "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
+      },
+      "1092_5049": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5049",
+        "cos_code": "GEE5001",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "論文研討",
+        "cos_credit": ".00",
+        "cos_hours": "2.00",
+        "TURL": "http://cialab.blog.nctu.edu.tw",
+        "teacher": "溫宏斌",
+        "cos_time": "W56-EE105",
+        "memo": "",
+        "cos_ename": "Seminar",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "511",
+        "dep_primary": "1",
+        "dep_cname": "電機工程學系",
+        "dep_ename": "Institute of Electrical Engineering",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "G"
       }
     },
     "costype": {
@@ -78219,6 +78300,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_5049": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -78257,6 +78347,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_5049": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -78276,6 +78372,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_5055": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_5049": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -86765,7 +86864,7 @@
         "dep_ename": "Institute of Civil Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -92679,7 +92778,7 @@
         "sem": "2",
         "cos_id": "5512",
         "cos_code": "ITS5018",
-        "num_limit": "9999",
+        "num_limit": "35",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "運輸網路均衡模式",
@@ -92819,7 +92918,7 @@
         "sem": "2",
         "cos_id": "5518",
         "cos_code": "ITS5111",
-        "num_limit": "9999",
+        "num_limit": "35",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "網路模式分析",
@@ -93484,7 +93583,7 @@
         "sem": "2",
         "cos_id": "5531",
         "cos_code": "ITS5016",
-        "num_limit": "9999",
+        "num_limit": "35",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "海空運與複合運輸最佳化",
@@ -93512,7 +93611,7 @@
         "sem": "2",
         "cos_id": "5532",
         "cos_code": "ITS5020",
-        "num_limit": "9999",
+        "num_limit": "35",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "物流系統模擬",
@@ -93736,7 +93835,7 @@
         "dep_ename": "Department of Industrial Engineering and Management",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -93764,7 +93863,7 @@
         "dep_ename": "Department of Industrial Engineering and Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -93792,7 +93891,7 @@
         "dep_ename": "Department of Industrial Engineering and Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -93820,7 +93919,7 @@
         "dep_ename": "Department of Industrial Engineering and Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -93848,7 +93947,7 @@
         "dep_ename": "Department of Industrial Engineering and Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -93876,7 +93975,7 @@
         "dep_ename": "Department of Industrial Engineering and Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -93904,7 +94003,7 @@
         "dep_ename": "Department of Industrial Engineering and Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -93932,7 +94031,7 @@
         "dep_ename": "Department of Industrial Engineering and Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       }
@@ -102039,7 +102138,7 @@
         "dep_ename": "Institute of Industrial Engineering and Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "D"
       },
@@ -102067,7 +102166,7 @@
         "dep_ename": "Institute of Industrial Engineering and Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "D"
       },
@@ -102095,7 +102194,7 @@
         "dep_ename": "Institute of Industrial Engineering and Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "D"
       }
@@ -106101,7 +106200,7 @@
         "dep_ename": "Degree Program of Industrial Engineering and Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },

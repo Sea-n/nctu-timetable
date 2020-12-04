@@ -18717,7 +18717,7 @@
         "dep_ename": "Department of Applied Mathematics",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -44046,6 +44046,34 @@
         "reg_num": "0",
         "depType": "O"
       },
+      "1092_7502": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "7502",
+        "cos_code": "DFR1231",
+        "num_limit": "45",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "日文(一)",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "賴郁芳",
+        "cos_time": "M78-A307",
+        "memo": "",
+        "cos_ename": "Japanese(I)",
+        "brief": "其它",
+        "degree": "1",
+        "dep_id": "OU6",
+        "dep_primary": "1",
+        "dep_cname": "語言教學與研究中心",
+        "dep_ename": "Language Teaching and Research Center",
+        "cos_type": "外語",
+        "cos_type_e": "Foreign Languages Course",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "O"
+      },
       "1092_7504": {
         "acy": "109",
         "sem": "2",
@@ -44074,6 +44102,34 @@
         "reg_num": "0",
         "depType": "O"
       },
+      "1092_7509": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "7509",
+        "cos_code": "DFR1232",
+        "num_limit": "45",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "日文(二)",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "賴郁芳",
+        "cos_time": "M56-A307",
+        "memo": "",
+        "cos_ename": "Japanese(II)",
+        "brief": "其它",
+        "degree": "1",
+        "dep_id": "OU6",
+        "dep_primary": "1",
+        "dep_cname": "語言教學與研究中心",
+        "dep_ename": "Language Teaching and Research Center",
+        "cos_type": "外語",
+        "cos_type_e": "Foreign Languages Course",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "O"
+      },
       "1092_7510": {
         "acy": "109",
         "sem": "2",
@@ -44088,6 +44144,34 @@
         "TURL": "",
         "teacher": "賴薇如",
         "cos_time": "T12-A405",
+        "memo": "",
+        "cos_ename": "Japanese(II)",
+        "brief": "其它",
+        "degree": "1",
+        "dep_id": "OU6",
+        "dep_primary": "1",
+        "dep_cname": "語言教學與研究中心",
+        "dep_ename": "Language Teaching and Research Center",
+        "cos_type": "外語",
+        "cos_type_e": "Foreign Languages Course",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "O"
+      },
+      "1092_7512": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "7512",
+        "cos_code": "DFR1232",
+        "num_limit": "45",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "日文(二)",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "賴郁芳",
+        "cos_time": "T56-A501",
         "memo": "",
         "cos_ename": "Japanese(II)",
         "brief": "其它",
@@ -44779,6 +44863,15 @@
           "GECIEngName": ""
         }
       },
+      "1092_7502": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1092_7504": {
         "": {
           "course_category_cname": "",
@@ -44788,7 +44881,25 @@
           "GECIEngName": ""
         }
       },
+      "1092_7509": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1092_7510": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1092_7512": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -45249,13 +45360,31 @@
           "brief": "其它(87)"
         }
       },
+      "1092_7502": {
+        "B075": {
+          "brief_code": "B075",
+          "brief": "其它(87)"
+        }
+      },
       "1092_7504": {
         "B075": {
           "brief_code": "B075",
           "brief": "其它(87)"
         }
       },
+      "1092_7509": {
+        "B075": {
+          "brief_code": "B075",
+          "brief": "其它(87)"
+        }
+      },
       "1092_7510": {
+        "B075": {
+          "brief_code": "B075",
+          "brief": "其它(87)"
+        }
+      },
+      "1092_7512": {
         "B075": {
           "brief_code": "B075",
           "brief": "其它(87)"
@@ -45488,10 +45617,19 @@
       "1092_7544": {
         "授課語言代碼": "zh-tw"
       },
+      "1092_7502": {
+        "授課語言代碼": "zh-tw"
+      },
       "1092_7504": {
         "授課語言代碼": "zh-tw"
       },
+      "1092_7509": {
+        "授課語言代碼": "zh-tw"
+      },
       "1092_7510": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_7512": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -54084,7 +54222,7 @@
         "dep_ename": "Calculus section",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -69255,7 +69393,7 @@
         "dep_ename": "Institute of Molecular and Bioengineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },

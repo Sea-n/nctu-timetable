@@ -44185,6 +44185,90 @@
         "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
+      },
+      "1092_7530": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "7530",
+        "cos_code": "DFR4104",
+        "num_limit": "50",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "法文(一)",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "潘怡君",
+        "cos_time": "M34-A502",
+        "memo": "",
+        "cos_ename": "French(I)",
+        "brief": "其它",
+        "degree": "1",
+        "dep_id": "OU6",
+        "dep_primary": "1",
+        "dep_cname": "語言教學與研究中心",
+        "dep_ename": "Language Teaching and Research Center",
+        "cos_type": "外語",
+        "cos_type_e": "Foreign Languages Course",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "O"
+      },
+      "1092_7531": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "7531",
+        "cos_code": "DFR4104",
+        "num_limit": "50",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "法文(一)",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "潘怡君",
+        "cos_time": "M56-A502",
+        "memo": "",
+        "cos_ename": "French(I)",
+        "brief": "其它",
+        "degree": "1",
+        "dep_id": "OU6",
+        "dep_primary": "1",
+        "dep_cname": "語言教學與研究中心",
+        "dep_ename": "Language Teaching and Research Center",
+        "cos_type": "外語",
+        "cos_type_e": "Foreign Languages Course",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "O"
+      },
+      "1092_7534": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "7534",
+        "cos_code": "DFR4105",
+        "num_limit": "50",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "法文(三)",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "潘怡君",
+        "cos_time": "M78-A502",
+        "memo": "",
+        "cos_ename": "French(III)",
+        "brief": "其它",
+        "degree": "1",
+        "dep_id": "OU6",
+        "dep_primary": "1",
+        "dep_cname": "語言教學與研究中心",
+        "dep_ename": "Language Teaching and Research Center",
+        "cos_type": "外語",
+        "cos_type_e": "Foreign Languages Course",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "O"
       }
     },
     "costype": {
@@ -44907,6 +44991,33 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_7530": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1092_7531": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1092_7534": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -45389,6 +45500,24 @@
           "brief_code": "B075",
           "brief": "其它(87)"
         }
+      },
+      "1092_7530": {
+        "B075": {
+          "brief_code": "B075",
+          "brief": "其它(87)"
+        }
+      },
+      "1092_7531": {
+        "B075": {
+          "brief_code": "B075",
+          "brief": "其它(87)"
+        }
+      },
+      "1092_7534": {
+        "B075": {
+          "brief_code": "B075",
+          "brief": "其它(87)"
+        }
       }
     },
     "language": {
@@ -45630,6 +45759,15 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_7512": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_7530": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_7531": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_7534": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -71246,7 +71384,7 @@
         "dep_ename": "Institute of Communication Studies",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -71498,7 +71636,7 @@
         "dep_ename": "Institute of Communication Studies",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },

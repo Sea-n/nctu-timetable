@@ -3344,7 +3344,7 @@
         "dep_ename": "Department of Humanities and Social Sciences",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -44186,6 +44186,34 @@
         "reg_num": "0",
         "depType": "O"
       },
+      "1092_7520": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "7520",
+        "cos_code": "DFR1235",
+        "num_limit": "45",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "日文(五)",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "洪淑娟",
+        "cos_time": "M34-A508",
+        "memo": "",
+        "cos_ename": "Japanese(V)",
+        "brief": "其它",
+        "degree": "1",
+        "dep_id": "OU6",
+        "dep_primary": "1",
+        "dep_cname": "語言教學與研究中心",
+        "dep_ename": "Language Teaching and Research Center",
+        "cos_type": "外語",
+        "cos_type_e": "Foreign Languages Course",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "O"
+      },
       "1092_7530": {
         "acy": "109",
         "sem": "2",
@@ -44992,6 +45020,15 @@
           "GECIEngName": ""
         }
       },
+      "1092_7520": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1092_7530": {
         "": {
           "course_category_cname": "",
@@ -45501,6 +45538,12 @@
           "brief": "其它(87)"
         }
       },
+      "1092_7520": {
+        "B075": {
+          "brief_code": "B075",
+          "brief": "其它(87)"
+        }
+      },
       "1092_7530": {
         "B075": {
           "brief_code": "B075",
@@ -45759,6 +45802,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_7512": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_7520": {
         "授課語言代碼": "zh-tw"
       },
       "1092_7530": {
@@ -63264,7 +63310,7 @@
         "dep_ename": "Program of Cultural Industries",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "P"
       },
@@ -76577,7 +76623,7 @@
         "dep_ename": "Graduate Program of Ethnicity and Culture",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -82490,7 +82536,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "0",
+        "reg_num": "48",
         "depType": "M"
       },
       "1092_5133": {
@@ -82499,7 +82545,7 @@
         "cos_id": "5133",
         "cos_code": "ECS5101",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "專題研討",
         "cos_credit": ".00",
@@ -82518,7 +82564,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "0",
+        "reg_num": "130",
         "depType": "M"
       }
     },

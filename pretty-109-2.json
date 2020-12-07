@@ -10144,7 +10144,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "34",
+        "reg_num": "36",
         "depType": "U"
       },
       "1092_1099": {
@@ -10200,7 +10200,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "34",
+        "reg_num": "18",
         "depType": "U"
       },
       "1092_1101": {
@@ -10228,7 +10228,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "34",
+        "reg_num": "18",
         "depType": "U"
       },
       "1092_1102": {
@@ -10256,7 +10256,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "34",
+        "reg_num": "36",
         "depType": "U"
       },
       "1092_1103": {
@@ -10312,7 +10312,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "34",
+        "reg_num": "36",
         "depType": "U"
       },
       "1092_1105": {
@@ -10396,7 +10396,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "35",
+        "reg_num": "32",
         "depType": "U"
       },
       "1092_1109": {
@@ -10424,7 +10424,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "0",
+        "reg_num": "1",
         "depType": "U"
       },
       "1092_1110": {
@@ -10480,7 +10480,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "0",
+        "reg_num": "32",
         "depType": "U"
       },
       "1092_1092": {
@@ -12775,7 +12775,7 @@
         "dep_ename": "Department of Mechanical Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -12915,7 +12915,7 @@
         "dep_ename": "Department of Mechanical Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -15444,12 +15444,12 @@
         }
       },
       "1092_1272": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
+        "通識跨院基本素養_通識跨院": {
+          "course_category_cname": "通識跨院基本素養_通識跨院",
+          "course_category_ename": "General Education Course: Intercollegiate_GECI",
+          "course_category_type": "16",
+          "GECIName": "資,理",
+          "GECIEngName": "CCS,COS"
         }
       },
       "1092_1273": {
@@ -15725,9 +15725,9 @@
         }
       },
       "1092_1272": {
-        "": {
-          "brief_code": "",
-          "brief": ""
+        "A504": {
+          "brief_code": "A504",
+          "brief": "跨院基本素養(106)"
         }
       },
       "1092_1273": {
@@ -21081,7 +21081,7 @@
         "dep_ename": "Department of Transportation and Logistics Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -46546,12 +46546,12 @@
         }
       },
       "1092_9912": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
+        "通識跨院基本素養_通識跨院": {
+          "course_category_cname": "通識跨院基本素養_通識跨院",
+          "course_category_ename": "General Education Course: Intercollegiate_GECI",
+          "course_category_type": "16",
+          "GECIName": "理",
+          "GECIEngName": "COS"
         }
       },
       "1092_9913": {
@@ -46668,9 +46668,9 @@
         }
       },
       "1092_9912": {
-        "D099": {
-          "brief_code": "D099",
-          "brief": "教育學程(87)"
+        "A504,D099": {
+          "brief_code": "A504,D099",
+          "brief": "跨院基本素養(106),教育學程(87)"
         }
       },
       "1092_9913": {
@@ -53403,12 +53403,12 @@
         }
       },
       "1092_3007": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
+        "通識跨院基本素養_通識跨院": {
+          "course_category_cname": "通識跨院基本素養_通識跨院",
+          "course_category_ename": "General Education Course: Intercollegiate_GECI",
+          "course_category_type": "16",
+          "GECIName": "理",
+          "GECIEngName": "COS"
         }
       }
     },
@@ -53450,9 +53450,9 @@
         }
       },
       "1092_3007": {
-        "": {
-          "brief_code": "",
-          "brief": ""
+        "A504": {
+          "brief_code": "A504",
+          "brief": "跨院基本素養(106)"
         }
       }
     },
@@ -54488,7 +54488,7 @@
         "dep_ename": "Calculus section",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -54516,7 +54516,7 @@
         "dep_ename": "Calculus section",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -54572,7 +54572,7 @@
         "dep_ename": "Calculus section",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -54600,7 +54600,7 @@
         "dep_ename": "Calculus section",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -54628,7 +54628,7 @@
         "dep_ename": "Calculus section",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -54656,7 +54656,7 @@
         "dep_ename": "Calculus section",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -54684,7 +54684,7 @@
         "dep_ename": "Calculus section",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -54740,7 +54740,7 @@
         "dep_ename": "Calculus section",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -54768,7 +54768,7 @@
         "dep_ename": "Calculus section",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -54880,7 +54880,7 @@
         "dep_ename": "Calculus section",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -54908,7 +54908,7 @@
         "dep_ename": "Calculus section",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -54936,7 +54936,7 @@
         "dep_ename": "Calculus section",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -54964,7 +54964,7 @@
         "dep_ename": "Calculus section",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -54992,7 +54992,7 @@
         "dep_ename": "Calculus section",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -55020,7 +55020,7 @@
         "dep_ename": "Calculus section",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -55048,7 +55048,7 @@
         "dep_ename": "Calculus section",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -55076,7 +55076,7 @@
         "dep_ename": "Calculus section",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       }
@@ -56111,12 +56111,12 @@
         }
       },
       "1092_1904": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
+        "通識跨院基本素養_通識跨院": {
+          "course_category_cname": "通識跨院基本素養_通識跨院",
+          "course_category_ename": "General Education Course: Intercollegiate_GECI",
+          "course_category_type": "16",
+          "GECIName": "資,理",
+          "GECIEngName": "CCS,COS"
         }
       },
       "1092_1905": {
@@ -56154,30 +56154,30 @@
         }
       },
       "1092_1913": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
+        "通識跨院基本素養_通識跨院": {
+          "course_category_cname": "通識跨院基本素養_通識跨院",
+          "course_category_ename": "General Education Course: Intercollegiate_GECI",
+          "course_category_type": "16",
+          "GECIName": "資,理",
+          "GECIEngName": "CCS,COS"
         }
       },
       "1092_1914": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
+        "通識跨院基本素養_通識跨院": {
+          "course_category_cname": "通識跨院基本素養_通識跨院",
+          "course_category_ename": "General Education Course: Intercollegiate_GECI",
+          "course_category_type": "16",
+          "GECIName": "理",
+          "GECIEngName": "COS"
         }
       },
       "1092_1915": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
+        "通識跨院基本素養_通識跨院": {
+          "course_category_cname": "通識跨院基本素養_通識跨院",
+          "course_category_ename": "General Education Course: Intercollegiate_GECI",
+          "course_category_type": "16",
+          "GECIName": "理",
+          "GECIEngName": "COS"
         }
       },
       "1092_1916": {
@@ -56210,9 +56210,9 @@
         }
       },
       "1092_1904": {
-        "": {
-          "brief_code": "",
-          "brief": ""
+        "A504": {
+          "brief_code": "A504",
+          "brief": "跨院基本素養(106)"
         }
       },
       "1092_1905": {
@@ -56234,21 +56234,21 @@
         }
       },
       "1092_1913": {
-        "": {
-          "brief_code": "",
-          "brief": ""
+        "A504": {
+          "brief_code": "A504",
+          "brief": "跨院基本素養(106)"
         }
       },
       "1092_1914": {
-        "": {
-          "brief_code": "",
-          "brief": ""
+        "A504": {
+          "brief_code": "A504",
+          "brief": "跨院基本素養(106)"
         }
       },
       "1092_1915": {
-        "": {
-          "brief_code": "",
-          "brief": ""
+        "A504": {
+          "brief_code": "A504",
+          "brief": "跨院基本素養(106)"
         }
       },
       "1092_1916": {
@@ -66278,30 +66278,30 @@
     },
     "costype": {
       "1092_1913": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
+        "通識跨院基本素養_通識跨院": {
+          "course_category_cname": "通識跨院基本素養_通識跨院",
+          "course_category_ename": "General Education Course: Intercollegiate_GECI",
+          "course_category_type": "16",
+          "GECIName": "資,理",
+          "GECIEngName": "CCS,COS"
         }
       },
       "1092_1914": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
+        "通識跨院基本素養_通識跨院": {
+          "course_category_cname": "通識跨院基本素養_通識跨院",
+          "course_category_ename": "General Education Course: Intercollegiate_GECI",
+          "course_category_type": "16",
+          "GECIName": "理",
+          "GECIEngName": "COS"
         }
       },
       "1092_1915": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
+        "通識跨院基本素養_通識跨院": {
+          "course_category_cname": "通識跨院基本素養_通識跨院",
+          "course_category_ename": "General Education Course: Intercollegiate_GECI",
+          "course_category_type": "16",
+          "GECIName": "理",
+          "GECIEngName": "COS"
         }
       },
       "1092_1916": {
@@ -66316,21 +66316,21 @@
     },
     "brief": {
       "1092_1913": {
-        "": {
-          "brief_code": "",
-          "brief": ""
+        "A504": {
+          "brief_code": "A504",
+          "brief": "跨院基本素養(106)"
         }
       },
       "1092_1914": {
-        "": {
-          "brief_code": "",
-          "brief": ""
+        "A504": {
+          "brief_code": "A504",
+          "brief": "跨院基本素養(106)"
         }
       },
       "1092_1915": {
-        "": {
-          "brief_code": "",
-          "brief": ""
+        "A504": {
+          "brief_code": "A504",
+          "brief": "跨院基本素養(106)"
         }
       },
       "1092_1916": {
@@ -66642,12 +66642,12 @@
         }
       },
       "1092_1904": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
+        "通識跨院基本素養_通識跨院": {
+          "course_category_cname": "通識跨院基本素養_通識跨院",
+          "course_category_ename": "General Education Course: Intercollegiate_GECI",
+          "course_category_type": "16",
+          "GECIName": "資,理",
+          "GECIEngName": "CCS,COS"
         }
       },
       "1092_1905": {
@@ -66716,9 +66716,9 @@
         }
       },
       "1092_1904": {
-        "": {
-          "brief_code": "",
-          "brief": ""
+        "A504": {
+          "brief_code": "A504",
+          "brief": "跨院基本素養(106)"
         }
       },
       "1092_1905": {
@@ -87563,7 +87563,7 @@
         "dep_ename": "Institute of Civil Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -94199,6 +94199,34 @@
         "crsoutline_type": null,
         "reg_num": "0",
         "depType": "G"
+      },
+      "1092_5516": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5516",
+        "cos_code": "ITS5073",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題研討（甲組）一",
+        "cos_credit": "1.00",
+        "cos_hours": "2.00",
+        "TURL": "http://www.tlm.nctu.edu.tw/zh/faculty/%E9%BB%83%E6%98%8E%E5%B1%85/",
+        "teacher": "黃明居",
+        "cos_time": "M56-A901",
+        "memo": "新竹校區開課",
+        "cos_ename": "SeminarⅠ",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "702",
+        "dep_primary": "1",
+        "dep_cname": "運輸與物流管理學系交通運輸碩博士班",
+        "dep_ename": "Institute of Traffic and Transportation",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "G"
       }
     },
     "costype": {
@@ -94345,6 +94373,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_5516": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -94443,6 +94480,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_5516": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -94492,6 +94535,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_5528": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_5516": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -97025,12 +97071,12 @@
         }
       },
       "1092_5578": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
+        "通識跨院基本素養_通識跨院": {
+          "course_category_cname": "通識跨院基本素養_通識跨院",
+          "course_category_ename": "General Education Course: Intercollegiate_GECI",
+          "course_category_type": "16",
+          "GECIName": "理",
+          "GECIEngName": "COS"
         }
       },
       "1092_5579": {
@@ -97165,9 +97211,9 @@
         }
       },
       "1092_5578": {
-        "": {
-          "brief_code": "",
-          "brief": ""
+        "A504": {
+          "brief_code": "A504",
+          "brief": "跨院基本素養(106)"
         }
       },
       "1092_5579": {

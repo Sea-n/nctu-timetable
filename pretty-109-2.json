@@ -1226,15 +1226,15 @@
         }
       },
       "1092_1544": {
-        "A105,A504,A505": {
-          "brief_code": "A105,A504,A505",
-          "brief": "自然/基礎(96),跨院基本素養(106),校基本素養(106)"
+        "A105,A503,A504,A505": {
+          "brief_code": "A105,A503,A504,A505",
+          "brief": "自然/基礎(96),核心-自然(106),跨院基本素養(106),校基本素養(106)"
         }
       },
       "1092_1545": {
-        "A105,A504,A505": {
-          "brief_code": "A105,A504,A505",
-          "brief": "自然/基礎(96),跨院基本素養(106),校基本素養(106)"
+        "A105,A503,A504,A505": {
+          "brief_code": "A105,A503,A504,A505",
+          "brief": "自然/基礎(96),核心-自然(106),跨院基本素養(106),校基本素養(106)"
         }
       },
       "1092_1546": {
@@ -3826,9 +3826,9 @@
         }
       },
       "1092_1658": {
-        "A102,A504,A505": {
-          "brief_code": "A102,A504,A505",
-          "brief": "歷史/基礎(96),跨院基本素養(106),校基本素養(106)"
+        "A102,A501,A504,A505": {
+          "brief_code": "A102,A501,A504,A505",
+          "brief": "歷史/基礎(96),核心-人文(106),跨院基本素養(106),校基本素養(106)"
         }
       },
       "1092_1659": {
@@ -3856,15 +3856,15 @@
         }
       },
       "1092_1664": {
-        "": {
-          "brief_code": "",
-          "brief": ""
+        "A501": {
+          "brief_code": "A501",
+          "brief": "核心-人文(106)"
         }
       },
       "1092_1665": {
-        "": {
-          "brief_code": "",
-          "brief": ""
+        "A502": {
+          "brief_code": "A502",
+          "brief": "核心-社會(106)"
         }
       },
       "1092_1666": {
@@ -5737,7 +5737,7 @@
         "dep_ename": "College of Humanities and Social Science",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -17153,9 +17153,9 @@
     },
     "brief": {
       "1092_1317": {
-        "A205,A504,A505": {
-          "brief_code": "A205,A504,A505",
-          "brief": "自然/進階(96),跨院基本素養(106),校基本素養(106)"
+        "A205,A503,A504,A505": {
+          "brief_code": "A205,A503,A504,A505",
+          "brief": "自然/進階(96),核心-自然(106),跨院基本素養(106),校基本素養(106)"
         }
       },
       "1092_1318": {
@@ -53604,9 +53604,9 @@
         }
       },
       "1092_3002": {
-        "A205,A505": {
-          "brief_code": "A205,A505",
-          "brief": "自然/進階(96),校基本素養(106)"
+        "A205,A503,A505": {
+          "brief_code": "A205,A503,A505",
+          "brief": "自然/進階(96),核心-自然(106),校基本素養(106)"
         }
       },
       "1092_3003": {
@@ -62460,9 +62460,9 @@
         }
       },
       "1092_5177": {
-        "A205,A504,A505": {
-          "brief_code": "A205,A504,A505",
-          "brief": "自然/進階(96),跨院基本素養(106),校基本素養(106)"
+        "A205,A503,A504,A505": {
+          "brief_code": "A205,A503,A504,A505",
+          "brief": "自然/進階(96),核心-自然(106),跨院基本素養(106),校基本素養(106)"
         }
       },
       "1092_5184": {
@@ -62680,7 +62680,7 @@
         "dep_ename": "Fundamental of Management Program",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "P"
       },
@@ -65368,7 +65368,7 @@
         "dep_ename": "College of Humanities and Social Sciences for Transdisciplinary Inn",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "Q"
       },
@@ -95265,7 +95265,7 @@
         "cos_hours": "3.00",
         "TURL": "http://www.cc.nctu.edu.tw/~cclin321/",
         "teacher": "林春成",
-        "cos_time": "T567-MB414",
+        "cos_time": "Mabc-MB414",
         "memo": "",
         "cos_ename": "Special Topic on Algorithms in Management Science",
         "brief": "",
@@ -106554,7 +106554,7 @@
         "dep_ename": "Degree Program of Management Science",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },
@@ -110421,9 +110421,9 @@
         }
       },
       "1092_5177": {
-        "A205,A504,A505": {
-          "brief_code": "A205,A504,A505",
-          "brief": "自然/進階(96),跨院基本素養(106),校基本素養(106)"
+        "A205,A503,A504,A505": {
+          "brief_code": "A205,A503,A504,A505",
+          "brief": "自然/進階(96),核心-自然(106),跨院基本素養(106),校基本素養(106)"
         }
       },
       "1092_5178": {
@@ -113052,7 +113052,7 @@
         "dep_ename": "College of Management",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },

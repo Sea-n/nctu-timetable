@@ -58640,7 +58640,7 @@
         "dep_ename": "Electrical Engineering and Computer Science-International Program",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "P"
       },
@@ -92590,7 +92590,7 @@
         "dep_ename": "Institute of Applied Chemistry",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -92761,6 +92761,34 @@
         "crsoutline_type": null,
         "reg_num": "0",
         "depType": "G"
+      },
+      "1092_5446": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5446",
+        "cos_code": "IAC5417",
+        "num_limit": "20",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "書報討論－有機組",
+        "cos_credit": "1.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "孫仲銘",
+        "cos_time": "R23-SB522",
+        "memo": "[English Medium Course]",
+        "cos_ename": "Seminar",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "654",
+        "dep_primary": "1",
+        "dep_cname": "應用化學系",
+        "dep_ename": "Institute of Applied Chemistry",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "G"
       }
     },
     "costype": {
@@ -92889,6 +92917,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_5446": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -92975,6 +93012,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_5446": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -93019,6 +93062,9 @@
       },
       "1092_5457": {
         "授課語言代碼": "zh-tw"
+      },
+      "1092_5446": {
+        "授課語言代碼": "en-us"
       }
     }
   },
@@ -105611,7 +105657,7 @@
         "dep_ename": "Degree Program of Electrical and Computer Science",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },
@@ -112216,7 +112262,7 @@
         "dep_ename": "College of Computer Science",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },

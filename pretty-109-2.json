@@ -2097,7 +2097,7 @@
         "cos_hours": "3.00",
         "TURL": "http://nctu.academia.edu/DeanBrink",
         "teacher": "包德樂",
-        "cos_time": "T567-F210",
+        "cos_time": "T567-HC103",
         "memo": "限外文系[English Medium Course]",
         "cos_ename": "English Literature (2)",
         "brief": "",
@@ -55545,7 +55545,7 @@
         "cos_id": "0356",
         "cos_code": "DAM1376",
         "num_limit": "60",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "微積分丙（二）",
         "cos_credit": "3.00",
@@ -61856,7 +61856,7 @@
         "dep_ename": "Venture and Innovation Program",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "P"
       },
@@ -83597,7 +83597,7 @@
         "dep_ename": "Institute of Biomedical Imaging and Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -97197,7 +97197,7 @@
         "dep_ename": "Graduate institute of finance",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -97225,7 +97225,7 @@
         "dep_ename": "Graduate institute of finance",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -104716,7 +104716,7 @@
         "dep_ename": "Graduate institute of finance",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "D"
       }
@@ -109296,6 +109296,34 @@
         "reg_num": "0",
         "depType": "J"
       },
+      "1092_5658": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5658",
+        "cos_code": "IOF5022",
+        "num_limit": "9999",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "碩士論文研究",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "財務金融碩博士班教授",
+        "cos_time": "Uabc-M101",
+        "memo": "限財金專班同學選修；上課時間及地點將依指導教授不同而有異動 ；尚未擇定指導教授者不得選修",
+        "cos_ename": "Thesis",
+        "brief": "",
+        "degree": "5",
+        "dep_id": "717",
+        "dep_primary": "1",
+        "dep_cname": "管理學院碩士在職專班-財金組",
+        "dep_ename": "Degree Program of Financ",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "J"
+      },
       "1092_5661": {
         "acy": "109",
         "sem": "2",
@@ -109353,6 +109381,15 @@
           "GECIEngName": ""
         }
       },
+      "1092_5658": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1092_5661": {
         "": {
           "course_category_cname": "",
@@ -109382,6 +109419,12 @@
           "brief": ""
         }
       },
+      "1092_5658": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1092_5661": {
         "": {
           "brief_code": "",
@@ -109397,6 +109440,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_5662": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_5658": {
         "授課語言代碼": "zh-tw"
       },
       "1092_5661": {

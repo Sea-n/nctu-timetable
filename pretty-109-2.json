@@ -19428,7 +19428,7 @@
         "dep_ename": "Department of Applied Chemistry",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -19876,7 +19876,7 @@
         "dep_ename": "Department of Applied Chemistry",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -20072,7 +20072,7 @@
         "dep_ename": "Department of Applied Chemistry",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -56564,7 +56564,7 @@
         "dep_ename": "Center of Teaching and Learning Development",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -56592,7 +56592,7 @@
         "dep_ename": "Center of Teaching and Learning Development",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -56610,7 +56610,7 @@
         "TURL": "",
         "teacher": "王文方",
         "cos_time": "R567-",
-        "memo": "",
+        "memo": "先修課程：「邏輯與ICT應用」",
         "cos_ename": "Advanced Logic and Applications of ICT",
         "brief": "",
         "degree": "1",
@@ -56620,7 +56620,7 @@
         "dep_ename": "Center of Teaching and Learning Development",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -67487,7 +67487,7 @@
         "dep_ename": "",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "Q"
       },
@@ -67515,7 +67515,7 @@
         "dep_ename": "",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "Q"
       },
@@ -67533,7 +67533,7 @@
         "TURL": "",
         "teacher": "王文方",
         "cos_time": "R567-",
-        "memo": "",
+        "memo": "先修課程：「邏輯與ICT應用」",
         "cos_ename": "Advanced Logic and Applications of ICT",
         "brief": "",
         "degree": "1",
@@ -67543,7 +67543,7 @@
         "dep_ename": "",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "Q"
       },
@@ -86672,7 +86672,7 @@
         "dep_ename": "Graduate Degree Program of Cyber Security",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "M"
       }
@@ -105906,7 +105906,7 @@
         "dep_ename": "Degree Program of Cybersecurity Management\r\n",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },
@@ -105934,7 +105934,7 @@
         "dep_ename": "Degree Program of Cybersecurity Management\r\n",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },
@@ -105990,7 +105990,7 @@
         "dep_ename": "Degree Program of Cybersecurity Management\r\n",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       }
@@ -107088,6 +107088,34 @@
         "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
+      },
+      "1092_5487": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5487",
+        "cos_code": "INE5056",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "數據分析簡介與實作",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "吳俊育",
+        "cos_time": "Rabc-SC201",
+        "memo": "二年級,限交大在職專班學生選修",
+        "cos_ename": "",
+        "brief": "",
+        "degree": "5",
+        "dep_id": "660",
+        "dep_primary": "1",
+        "dep_cname": "理學院碩士在職專班-科技與數位學習組",
+        "dep_ename": "Degree Program of E-Learning",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "J"
       }
     },
     "costype": {
@@ -107117,6 +107145,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_5487": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -107137,6 +107174,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_5487": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -107147,6 +107190,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_5484": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_5487": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -111012,7 +111058,7 @@
         "dep_ename": "Degree Program of Technology Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },
@@ -111180,7 +111226,7 @@
         "dep_ename": "Degree Program of Technology Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       }

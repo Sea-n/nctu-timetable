@@ -12184,7 +12184,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "0",
+        "reg_num": "22",
         "depType": "C"
       },
       "1092_1196": {
@@ -12212,7 +12212,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "0",
+        "reg_num": "22",
         "depType": "C"
       },
       "1092_1197": {
@@ -12240,7 +12240,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": null,
-        "reg_num": "0",
+        "reg_num": "22",
         "depType": "C"
       },
       "1092_1198": {
@@ -12268,7 +12268,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "0",
+        "reg_num": "22",
         "depType": "C"
       },
       "1092_1200": {
@@ -12324,7 +12324,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "0",
+        "reg_num": "23",
         "depType": "C"
       },
       "1092_1202": {
@@ -12352,7 +12352,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": null,
-        "reg_num": "0",
+        "reg_num": "23",
         "depType": "C"
       },
       "1092_1204": {
@@ -12436,7 +12436,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": null,
-        "reg_num": "0",
+        "reg_num": "23",
         "depType": "C"
       },
       "1092_1207": {
@@ -12464,7 +12464,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": null,
-        "reg_num": "0",
+        "reg_num": "23",
         "depType": "C"
       },
       "1092_1209": {
@@ -44626,6 +44626,34 @@
         "reg_num": "0",
         "depType": "O"
       },
+      "1092_7501": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "7501",
+        "cos_code": "DFR1231",
+        "num_limit": "45",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "日文(一)",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "陳曉貞",
+        "cos_time": "M12-A501",
+        "memo": "",
+        "cos_ename": "Japanese(I)",
+        "brief": "其它",
+        "degree": "1",
+        "dep_id": "OU6",
+        "dep_primary": "1",
+        "dep_cname": "語言教學與研究中心",
+        "dep_ename": "Language Teaching and Research Center",
+        "cos_type": "外語",
+        "cos_type_e": "Foreign Languages Course",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "O"
+      },
       "1092_7502": {
         "acy": "109",
         "sem": "2",
@@ -44682,6 +44710,34 @@
         "reg_num": "0",
         "depType": "O"
       },
+      "1092_7505": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "7505",
+        "cos_code": "DFR1231",
+        "num_limit": "45",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "日文(一)",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "陳曉貞",
+        "cos_time": "W12-A501",
+        "memo": "",
+        "cos_ename": "Japanese(I)",
+        "brief": "其它",
+        "degree": "1",
+        "dep_id": "OU6",
+        "dep_primary": "1",
+        "dep_cname": "語言教學與研究中心",
+        "dep_ename": "Language Teaching and Research Center",
+        "cos_type": "外語",
+        "cos_type_e": "Foreign Languages Course",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "O"
+      },
       "1092_7506": {
         "acy": "109",
         "sem": "2",
@@ -44698,6 +44754,34 @@
         "cos_time": "W34-A502",
         "memo": "",
         "cos_ename": "Japanese(I)",
+        "brief": "其它",
+        "degree": "1",
+        "dep_id": "OU6",
+        "dep_primary": "1",
+        "dep_cname": "語言教學與研究中心",
+        "dep_ename": "Language Teaching and Research Center",
+        "cos_type": "外語",
+        "cos_type_e": "Foreign Languages Course",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "O"
+      },
+      "1092_7508": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "7508",
+        "cos_code": "DFR1232",
+        "num_limit": "45",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "日文(二)",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "陳曉貞",
+        "cos_time": "M34-A501",
+        "memo": "",
+        "cos_ename": "Japanese(II)",
         "brief": "其它",
         "degree": "1",
         "dep_id": "OU6",
@@ -44866,6 +44950,34 @@
         "cos_time": "R56-A307",
         "memo": "",
         "cos_ename": "Japanese(III)",
+        "brief": "其它",
+        "degree": "1",
+        "dep_id": "OU6",
+        "dep_primary": "1",
+        "dep_cname": "語言教學與研究中心",
+        "dep_ename": "Language Teaching and Research Center",
+        "cos_type": "外語",
+        "cos_type_e": "Foreign Languages Course",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "O"
+      },
+      "1092_7517": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "7517",
+        "cos_code": "DFR1234",
+        "num_limit": "45",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "日文(四)",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "陳曉貞",
+        "cos_time": "M56-A403",
+        "memo": "",
+        "cos_ename": "Japanese(IV)",
         "brief": "其它",
         "degree": "1",
         "dep_id": "OU6",
@@ -45723,6 +45835,15 @@
           "GECIEngName": ""
         }
       },
+      "1092_7501": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1092_7502": {
         "": {
           "course_category_cname": "",
@@ -45741,7 +45862,25 @@
           "GECIEngName": ""
         }
       },
+      "1092_7505": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1092_7506": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1092_7508": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -45796,6 +45935,15 @@
         }
       },
       "1092_7516": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1092_7517": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -46310,6 +46458,12 @@
           "brief": "其它(87)"
         }
       },
+      "1092_7501": {
+        "B075": {
+          "brief_code": "B075",
+          "brief": "其它(87)"
+        }
+      },
       "1092_7502": {
         "B075": {
           "brief_code": "B075",
@@ -46322,7 +46476,19 @@
           "brief": "其它(87)"
         }
       },
+      "1092_7505": {
+        "B075": {
+          "brief_code": "B075",
+          "brief": "其它(87)"
+        }
+      },
       "1092_7506": {
+        "B075": {
+          "brief_code": "B075",
+          "brief": "其它(87)"
+        }
+      },
+      "1092_7508": {
         "B075": {
           "brief_code": "B075",
           "brief": "其它(87)"
@@ -46359,6 +46525,12 @@
         }
       },
       "1092_7516": {
+        "B075": {
+          "brief_code": "B075",
+          "brief": "其它(87)"
+        }
+      },
+      "1092_7517": {
         "B075": {
           "brief_code": "B075",
           "brief": "其它(87)"
@@ -46627,13 +46799,22 @@
       "1092_7544": {
         "授課語言代碼": "zh-tw"
       },
+      "1092_7501": {
+        "授課語言代碼": "zh-tw"
+      },
       "1092_7502": {
         "授課語言代碼": "zh-tw"
       },
       "1092_7504": {
         "授課語言代碼": "zh-tw"
       },
+      "1092_7505": {
+        "授課語言代碼": "zh-tw"
+      },
       "1092_7506": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_7508": {
         "授課語言代碼": "zh-tw"
       },
       "1092_7509": {
@@ -46652,6 +46833,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_7516": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_7517": {
         "授課語言代碼": "zh-tw"
       },
       "1092_7519": {
@@ -47000,7 +47184,7 @@
         "cos_hours": "2.00",
         "TURL": "",
         "teacher": "段正仁",
-        "cos_time": "T34-HA219",
+        "cos_time": "M34-HA219",
         "memo": "1.學習科學跨域學程 2.本門課限「109學年度（含）以後進入教育學程學生」修讀，如選錯，恐無法承認該學分，請同學特別留意！3.非師資生修讀本課程，亦須繳交學分費。4.非師資生修讀本課程，需至課務組下載並填寫網路選課加退選處理表(無法於網路上加退選時)，經任課老師同意送師培中心辦理。如欲將本課程視為通識學分，另需送交課務組辦理登記。",
         "cos_ename": "Life, Learning, and Brain Science",
         "brief": "",

@@ -16087,7 +16087,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": null,
-        "reg_num": "0",
+        "reg_num": "48",
         "depType": "U"
       },
       "1092_1294": {
@@ -16115,7 +16115,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": null,
-        "reg_num": "0",
+        "reg_num": "48",
         "depType": "U"
       },
       "1092_1295": {
@@ -16143,7 +16143,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": null,
-        "reg_num": "0",
+        "reg_num": "48",
         "depType": "U"
       },
       "1092_1296": {
@@ -16227,7 +16227,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": null,
-        "reg_num": "0",
+        "reg_num": "48",
         "depType": "U"
       },
       "1092_1299": {
@@ -16255,7 +16255,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": null,
-        "reg_num": "0",
+        "reg_num": "48",
         "depType": "U"
       },
       "1092_1301": {
@@ -16283,7 +16283,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": null,
-        "reg_num": "0",
+        "reg_num": "49",
         "depType": "U"
       },
       "1092_1302": {
@@ -16339,7 +16339,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": null,
-        "reg_num": "0",
+        "reg_num": "50",
         "depType": "U"
       },
       "1092_1304": {
@@ -16367,7 +16367,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": null,
-        "reg_num": "0",
+        "reg_num": "50",
         "depType": "U"
       },
       "1092_1305": {
@@ -16395,7 +16395,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": null,
-        "reg_num": "0",
+        "reg_num": "50",
         "depType": "U"
       },
       "1092_1306": {
@@ -16423,7 +16423,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": null,
-        "reg_num": "0",
+        "reg_num": "42",
         "depType": "U"
       },
       "1092_1308": {
@@ -16451,7 +16451,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": null,
-        "reg_num": "0",
+        "reg_num": "42",
         "depType": "U"
       },
       "1092_1309": {
@@ -62053,6 +62053,34 @@
         "crsoutline_type": null,
         "reg_num": "0",
         "depType": "P"
+      },
+      "1092_1520": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1520",
+        "cos_code": "DOM1010",
+        "num_limit": "65",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "管理學",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "http://www.heartcreaction.org/",
+        "teacher": "蕭嬋",
+        "cos_time": "T56R8-M205",
+        "memo": "2月23日合班授課，教室AB103；非管院同學請於2月22日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限65人，得請授課教師簽准後可放寬至70人；管理基礎學分學程課程",
+        "cos_ename": "Management",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "PBZ",
+        "dep_primary": "1",
+        "dep_cname": "創業與創新學分學程",
+        "dep_ename": "Venture and Innovation Program",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "68",
+        "depType": "P"
       }
     },
     "costype": {
@@ -62107,6 +62135,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_1520": {
+        "通識跨院基本素養_通識跨院": {
+          "course_category_cname": "通識跨院基本素養_通識跨院",
+          "course_category_ename": "General Education Course: Intercollegiate_GECI",
+          "course_category_type": "16",
+          "GECIName": "電,資,理,生,人,客",
+          "GECIEngName": "ECE,CCS,COS,CBT,CHS,CHK"
+        }
       }
     },
     "brief": {
@@ -62139,6 +62176,12 @@
           "brief_code": "A203,A505",
           "brief": "公民/進階(96),校基本素養(106)"
         }
+      },
+      "1092_1520": {
+        "A203,A504": {
+          "brief_code": "A203,A504",
+          "brief": "公民/進階(96),跨院基本素養(106)"
+        }
       }
     },
     "language": {
@@ -62155,6 +62198,9 @@
         "授課語言代碼": "en-us"
       },
       "1092_5631": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_1520": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -63551,6 +63597,34 @@
         "crsoutline_type": null,
         "reg_num": "87",
         "depType": "P"
+      },
+      "1092_1520": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1520",
+        "cos_code": "DOM1010",
+        "num_limit": "65",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "管理學",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "http://www.heartcreaction.org/",
+        "teacher": "蕭嬋",
+        "cos_time": "T56R8-M205",
+        "memo": "2月23日合班授課，教室AB103；非管院同學請於2月22日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限65人，得請授課教師簽准後可放寬至70人；管理基礎學分學程課程",
+        "cos_ename": "Management",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "PFH",
+        "dep_primary": "1",
+        "dep_cname": "管理學院:管理基礎學分學程",
+        "dep_ename": "Fundamental of Management Program",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "68",
+        "depType": "P"
       }
     },
     "costype": {
@@ -63661,6 +63735,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_1520": {
+        "通識跨院基本素養_通識跨院": {
+          "course_category_cname": "通識跨院基本素養_通識跨院",
+          "course_category_ename": "General Education Course: Intercollegiate_GECI",
+          "course_category_type": "16",
+          "GECIName": "電,資,理,生,人,客",
+          "GECIEngName": "ECE,CCS,COS,CBT,CHS,CHK"
+        }
       }
     },
     "brief": {
@@ -63735,6 +63818,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_1520": {
+        "A203,A504": {
+          "brief_code": "A203,A504",
+          "brief": "公民/進階(96),跨院基本素養(106)"
+        }
       }
     },
     "language": {
@@ -63772,6 +63861,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_1536": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_1520": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -90995,18 +91087,18 @@
         "acy": "109",
         "sem": "2",
         "cos_id": "5410",
-        "cos_code": "IEV5367",
+        "cos_code": "IEV5626",
         "num_limit": "35",
-        "dep_limit": "N",
+        "dep_limit": "*",
         "URL": null,
-        "cos_cname": "供水管路工程及管理",
+        "cos_cname": "自來水工程及管路設計",
         "cos_credit": "3.00",
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "卓昱宏",
         "cos_time": "M567-EV402",
         "memo": "",
-        "cos_ename": "Water Supply Pipeline Systems:Engineering and Management",
+        "cos_ename": "Water Supply and Pipeline System",
         "brief": "",
         "degree": "3",
         "dep_id": "615",
@@ -107719,7 +107811,7 @@
         "dep_ename": "Degree Program of Management Science",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },
@@ -112058,7 +112150,7 @@
         "dep_ename": "Degree Program of Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       }
@@ -114581,6 +114673,34 @@
         "crsoutline_type": null,
         "reg_num": "87",
         "depType": "U"
+      },
+      "1092_1520": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1520",
+        "cos_code": "DOM1010",
+        "num_limit": "65",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "管理學",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "http://www.heartcreaction.org/",
+        "teacher": "蕭嬋",
+        "cos_time": "T56R8-M205",
+        "memo": "2月23日合班授課，教室AB103；非管院同學請於2月22日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限65人，得請授課教師簽准後可放寬至70人；管理基礎學分學程課程",
+        "cos_ename": "Management",
+        "brief": "",
+        "degree": "A",
+        "dep_id": "7M1",
+        "dep_primary": "1",
+        "dep_cname": "管理學院共同課程",
+        "dep_ename": "College of Management",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "68",
+        "depType": "U"
       }
     },
     "costype": {
@@ -114718,6 +114838,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_1520": {
+        "通識跨院基本素養_通識跨院": {
+          "course_category_cname": "通識跨院基本素養_通識跨院",
+          "course_category_ename": "General Education Course: Intercollegiate_GECI",
+          "course_category_type": "16",
+          "GECIName": "電,資,理,生,人,客",
+          "GECIEngName": "ECE,CCS,COS,CBT,CHS,CHK"
+        }
       }
     },
     "brief": {
@@ -114810,6 +114939,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_1520": {
+        "A203,A504": {
+          "brief_code": "A203,A504",
+          "brief": "公民/進階(96),跨院基本素養(106)"
+        }
       }
     },
     "language": {
@@ -114856,6 +114991,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_1536": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_1520": {
         "授課語言代碼": "zh-tw"
       }
     }

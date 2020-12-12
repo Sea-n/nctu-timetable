@@ -44962,6 +44962,34 @@
         "reg_num": "0",
         "depType": "O"
       },
+      "1092_7518": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "7518",
+        "cos_code": "DFR1234",
+        "num_limit": "45",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "日文(四)",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "賴郁芳",
+        "cos_time": "T78-A501",
+        "memo": "",
+        "cos_ename": "Japanese(IV)",
+        "brief": "其它",
+        "degree": "1",
+        "dep_id": "OU6",
+        "dep_primary": "1",
+        "dep_cname": "語言教學與研究中心",
+        "dep_ename": "Language Teaching and Research Center",
+        "cos_type": "外語",
+        "cos_type_e": "Foreign Languages Course",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "O"
+      },
       "1092_7519": {
         "acy": "109",
         "sem": "2",
@@ -45915,6 +45943,15 @@
           "GECIEngName": ""
         }
       },
+      "1092_7518": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1092_7519": {
         "": {
           "course_category_cname": "",
@@ -46493,6 +46530,12 @@
           "brief": "其它(87)"
         }
       },
+      "1092_7518": {
+        "B075": {
+          "brief_code": "B075",
+          "brief": "其它(87)"
+        }
+      },
       "1092_7519": {
         "B075": {
           "brief_code": "B075",
@@ -46790,6 +46833,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_7517": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_7518": {
         "授課語言代碼": "zh-tw"
       },
       "1092_7519": {
@@ -59982,7 +60028,7 @@
         "dep_ename": "Electrical Engineering and Computer Science-International Program",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "P"
       },
@@ -86301,7 +86347,7 @@
         "dep_ename": "Institute of Multimedia Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },

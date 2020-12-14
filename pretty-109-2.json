@@ -5618,7 +5618,7 @@
         "dep_ename": "College of Humanities and Social Science",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -17416,7 +17416,7 @@
         "dep_ename": "Department of Electro-Physics",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -17472,7 +17472,7 @@
         "dep_ename": "Department of Electro-Physics",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -66487,7 +66487,7 @@
         "dep_ename": "College of Humanities and Social Sciences for Transdisciplinary Inn",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "Q"
       },
@@ -70881,7 +70881,7 @@
         "dep_ename": "Institute of Bioinformatics and System Biology",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -94940,7 +94940,7 @@
         "dep_ename": "Institute of Management Science",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -95136,7 +95136,7 @@
         "dep_ename": "Institute of Management Science",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -102371,7 +102371,7 @@
         "dep_ename": "Institute of Imaging and Biomedical Photonics",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -103282,7 +103282,7 @@
         "dep_ename": "College of Photonics",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -103310,7 +103310,7 @@
         "dep_ename": "College of Photonics",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -115217,6 +115217,34 @@
         "crsoutline_type": "data",
         "reg_num": "66",
         "depType": "U"
+      },
+      "1092_1530": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1530",
+        "cos_code": "DOM1034",
+        "num_limit": "55",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "程式設計",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "吳浩庠",
+        "cos_time": "T78W2-A309",
+        "memo": "非管院同學請於2月22日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限55人，若超過人數上限請至管院辦公室登記。",
+        "cos_ename": "Programming",
+        "brief": "",
+        "degree": "A",
+        "dep_id": "7M1",
+        "dep_primary": "1",
+        "dep_cname": "管理學院共同課程",
+        "dep_ename": "College of Management",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "69",
+        "depType": "U"
       }
     },
     "costype": {
@@ -115381,6 +115409,15 @@
           "GECIName": "電,資,理,生,人,客",
           "GECIEngName": "ECE,CCS,COS,CBT,CHS,CHK"
         }
+      },
+      "1092_1530": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -115491,6 +115528,12 @@
           "brief_code": "A203,A504",
           "brief": "公民/進階(96),跨院基本素養(106)"
         }
+      },
+      "1092_1530": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -115546,6 +115589,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_1521": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_1530": {
         "授課語言代碼": "zh-tw"
       }
     }

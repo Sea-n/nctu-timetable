@@ -58573,7 +58573,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "29",
+        "reg_num": "0",
         "depType": "P"
       },
       "1092_1126": {
@@ -83741,7 +83741,7 @@
         "dep_ename": "Institute of Biomedical Imaging and Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -83797,7 +83797,7 @@
         "dep_ename": "Institute of Biomedical Imaging and Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -83825,7 +83825,7 @@
         "dep_ename": "Institute of Biomedical Imaging and Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -83996,6 +83996,34 @@
         "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
+      },
+      "1092_5132": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5132",
+        "cos_code": "IIE5101",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "論文研討",
+        "cos_credit": ".00",
+        "cos_hours": "2.00",
+        "TURL": "http://neural-lab.nctu.edu.tw/",
+        "teacher": "蔡德明、陳榮治、李博仁、陳冠宇",
+        "cos_time": "W56-EE207",
+        "memo": "",
+        "cos_ename": "Seminar",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "515",
+        "dep_primary": "1",
+        "dep_cname": "生醫工程研究所",
+        "dep_ename": "Institute of Biomedical Imaging and Engineering",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "G"
       }
     },
     "costype": {
@@ -84138,6 +84166,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_5132": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -84224,6 +84261,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_5132": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -84267,6 +84310,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_5131": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_5132": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -113491,7 +113537,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "29",
+        "reg_num": "0",
         "depType": "U"
       },
       "1092_1126": {

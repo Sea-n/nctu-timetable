@@ -5842,7 +5842,7 @@
         "dep_ename": "College of Humanities and Social Science",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       }
@@ -60117,34 +60117,6 @@
         "reg_num": "0",
         "depType": "P"
       },
-      "1092_5283": {
-        "acy": "109",
-        "sem": "2",
-        "cos_id": "5283",
-        "cos_code": "IOE5110",
-        "num_limit": "120",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "無線網路(英文授課)",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "http://cs.nctu.edu.tw/~jcc",
-        "teacher": "陳志成",
-        "cos_time": "M34W2-EC122",
-        "memo": "限資訊學院同學選課，非資訊學院同學請找老師書面加簽； 英文授課[English Medium Course]",
-        "cos_ename": "Wireless Networks",
-        "brief": "",
-        "degree": "1",
-        "dep_id": "PAN",
-        "dep_primary": "1",
-        "dep_cname": "電機資訊英語授課學分學程",
-        "dep_ename": "Electrical Engineering and Computer Science-International Program",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "0",
-        "depType": "P"
-      },
       "1092_5285": {
         "acy": "109",
         "sem": "2",
@@ -60818,15 +60790,6 @@
           "GECIEngName": ""
         }
       },
-      "1092_5283": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1092_5285": {
         "": {
           "course_category_cname": "",
@@ -61204,12 +61167,6 @@
           "brief": ""
         }
       },
-      "1092_5283": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1092_5285": {
         "": {
           "brief_code": "",
@@ -61408,9 +61365,6 @@
         "授課語言代碼": "en-us"
       },
       "1092_5281": {
-        "授課語言代碼": "en-us"
-      },
-      "1092_5283": {
         "授課語言代碼": "en-us"
       },
       "1092_5285": {
@@ -65876,7 +65830,7 @@
         "dep_ename": "College of Humanities and Social Sciences for Transdisciplinary Inn",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "Q"
       },
@@ -84403,7 +84357,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "0",
+        "reg_num": "50",
         "depType": "G"
       }
     },
@@ -86295,34 +86249,6 @@
         "reg_num": "0",
         "depType": "G"
       },
-      "1092_5283": {
-        "acy": "109",
-        "sem": "2",
-        "cos_id": "5283",
-        "cos_code": "IOE5110",
-        "num_limit": "120",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "無線網路(英文授課)",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "http://cs.nctu.edu.tw/~jcc",
-        "teacher": "陳志成",
-        "cos_time": "M34W2-EC122",
-        "memo": "限資訊學院同學選課，非資訊學院同學請找老師書面加簽； 英文授課[English Medium Course]",
-        "cos_ename": "Wireless Networks",
-        "brief": "",
-        "degree": "3",
-        "dep_id": "552",
-        "dep_primary": "1",
-        "dep_cname": "網路工程研究所",
-        "dep_ename": "Institute of Network Engineering",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "0",
-        "depType": "G"
-      },
       "1092_5284": {
         "acy": "109",
         "sem": "2",
@@ -86454,15 +86380,6 @@
           "GECIEngName": ""
         }
       },
-      "1092_5283": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1092_5284": {
         "": {
           "course_category_cname": "",
@@ -86522,12 +86439,6 @@
           "brief": ""
         }
       },
-      "1092_5283": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1092_5284": {
         "": {
           "brief_code": "",
@@ -86562,9 +86473,6 @@
       },
       "1092_5282": {
         "授課語言代碼": "zh-tw"
-      },
-      "1092_5283": {
-        "授課語言代碼": "en-us"
       },
       "1092_5284": {
         "授課語言代碼": "zh-tw"
@@ -102400,18 +102308,18 @@
         "acy": "109",
         "sem": "2",
         "cos_id": "5153",
-        "cos_code": "IIB5102",
+        "cos_code": "IIB5107",
         "num_limit": "9999",
         "dep_limit": "*",
         "URL": null,
-        "cos_cname": "生醫工程概論",
+        "cos_cname": "生醫訊號處理",
         "cos_credit": "3.00",
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "林伯是、蘇海清",
         "cos_time": "Tabc-CM214",
         "memo": "上課地點：台南校區",
-        "cos_ename": "Introduction to Biomedical Engineering\t\t\t\t\t ",
+        "cos_ename": "Biomedical Signal Processing",
         "brief": "",
         "degree": "3",
         "dep_id": "806",
@@ -106988,7 +106896,7 @@
         "cos_credit": "3.00",
         "cos_hours": "3.00",
         "TURL": "",
-        "teacher": "李莉莉、黃建平",
+        "teacher": "傅武雄、黃建平",
         "cos_time": "Rabc-EE324",
         "memo": "限交大在職專班學生選修",
         "cos_ename": "Hazardous Gas Control",
@@ -115323,6 +115231,62 @@
         "reg_num": "66",
         "depType": "U"
       },
+      "1092_1528": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1528",
+        "cos_code": "DOM1034",
+        "num_limit": "55",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "程式設計",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "游家牧",
+        "cos_time": "T78W2-M-b01",
+        "memo": "非管院同學請於2月22日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限55人，若超過人數上限請至管院辦公室登記。",
+        "cos_ename": "Programming",
+        "brief": "",
+        "degree": "A",
+        "dep_id": "7M1",
+        "dep_primary": "1",
+        "dep_cname": "管理學院共同課程",
+        "dep_ename": "College of Management",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "67",
+        "depType": "U"
+      },
+      "1092_1529": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1529",
+        "cos_code": "DOM1034",
+        "num_limit": "55",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "程式設計",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "莊詠婷",
+        "cos_time": "T78W2-MB415",
+        "memo": "非管院同學請於2月22日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限55人，若超過人數上限請至管院辦公室登記。",
+        "cos_ename": "Programming",
+        "brief": "",
+        "degree": "A",
+        "dep_id": "7M1",
+        "dep_primary": "1",
+        "dep_cname": "管理學院共同課程",
+        "dep_ename": "College of Management",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "53",
+        "depType": "U"
+      },
       "1092_1530": {
         "acy": "109",
         "sem": "2",
@@ -115348,7 +115312,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "69",
+        "reg_num": "57",
         "depType": "U"
       }
     },
@@ -115515,6 +115479,24 @@
           "GECIEngName": "ECE,CCS,COS,CBT,CHS,CHK"
         }
       },
+      "1092_1528": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1092_1529": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1092_1530": {
         "": {
           "course_category_cname": "",
@@ -115634,6 +115616,18 @@
           "brief": "公民/進階(96),跨院基本素養(106)"
         }
       },
+      "1092_1528": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1092_1529": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1092_1530": {
         "": {
           "brief_code": "",
@@ -115694,6 +115688,12 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_1521": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_1528": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_1529": {
         "授課語言代碼": "zh-tw"
       },
       "1092_1530": {

@@ -60197,7 +60197,7 @@
         "TURL": "http://www.cs.nctu.edu.tw/~cjtsai",
         "teacher": "蔡淳仁",
         "cos_time": "T56F2-ED202",
-        "memo": "本院學生優先； 英文授課[English Medium Course]",
+        "memo": "本院學生優先； 英文授課[English Medium Course]，原課名為「資訊理論」，新舊課程僅能採計一門為畢業學分，不能重覆採計。",
         "cos_ename": "Information Theory and Data Compression Practices",
         "brief": "",
         "degree": "1",
@@ -62229,7 +62229,7 @@
         "cos_id": "5631",
         "cos_code": "IOM5012",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "創業與創新實作專案(I)",
         "cos_credit": "3.00",
@@ -80057,7 +80057,7 @@
         "dep_ename": "Institute of Electronics",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -80086,6 +80086,34 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "G"
+      },
+      "1092_5044": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5044",
+        "cos_code": "IEE5752",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": "https://sites.google.com/nctu.edu.tw/jeng/medical-imaging-systems-2021?authuser=0",
+        "cos_cname": "醫學成像系統",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "https://sites.google.com/nctu.edu.tw/jeng/home",
+        "teacher": "鄭耿璽",
+        "cos_time": "W567-ED201",
+        "memo": "[English Medium Course]",
+        "cos_ename": "",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "510",
+        "dep_primary": "1",
+        "dep_cname": "電子研究所",
+        "dep_ename": "Institute of Electronics",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       }
@@ -80396,6 +80424,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_5044": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -80602,6 +80639,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_5044": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -80706,6 +80749,9 @@
       },
       "1092_5048": {
         "授課語言代碼": "zh-tw"
+      },
+      "1092_5044": {
+        "授課語言代碼": "en-us"
       }
     }
   },
@@ -87114,7 +87160,7 @@
         "TURL": "http://www.cs.nctu.edu.tw/~cjtsai",
         "teacher": "蔡淳仁",
         "cos_time": "T56F2-ED202",
-        "memo": "本院學生優先； 英文授課[English Medium Course]",
+        "memo": "本院學生優先； 英文授課[English Medium Course]，原課名為「資訊理論」，新舊課程僅能採計一門為畢業學分，不能重覆採計。",
         "cos_ename": "Information Theory and Data Compression Practices",
         "brief": "",
         "degree": "3",
@@ -100280,7 +100326,7 @@
         "cos_id": "5631",
         "cos_code": "IOM5012",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "創業與創新實作專案(I)",
         "cos_credit": "3.00",
@@ -100308,7 +100354,7 @@
         "cos_id": "5632",
         "cos_code": "MBA5016",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "新創事業規劃",
         "cos_credit": "3.00",
@@ -100336,7 +100382,7 @@
         "cos_id": "5633",
         "cos_code": "MBA5018",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "財務管理與投資",
         "cos_credit": "3.00",
@@ -100364,7 +100410,7 @@
         "cos_id": "5634",
         "cos_code": "MBA5024",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "營運與供應鏈管理",
         "cos_credit": "3.00",
@@ -100392,7 +100438,7 @@
         "cos_id": "5635",
         "cos_code": "MBA5027",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "企業管理概論:經濟學",
         "cos_credit": "2.00",
@@ -100420,7 +100466,7 @@
         "cos_id": "5636",
         "cos_code": "MBA5034",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "新興科技專題 ",
         "cos_credit": "3.00",
@@ -100448,7 +100494,7 @@
         "cos_id": "5637",
         "cos_code": "MBA5244",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "MBA碩士論文",
         "cos_credit": "2.00",
@@ -114483,7 +114529,7 @@
         "cos_code": "UEE2601",
         "num_limit": "50",
         "dep_limit": "*",
-        "URL": null,
+        "URL": "https://sites.google.com/nctu.edu.tw/jeng/ss2020?authuser=0",
         "cos_cname": "訊號與系統",
         "cos_credit": "3.00",
         "cos_hours": "3.00",

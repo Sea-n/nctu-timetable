@@ -3561,7 +3561,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "林秀幸",
-        "cos_time": "T234-HK207",
+        "cos_time": "F234-HK207",
         "memo": "",
         "cos_ename": "\"Communitas\" as a method",
         "brief": "",
@@ -5124,7 +5124,7 @@
         "dep_ename": "College of Humanities and Social Science",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -7243,7 +7243,7 @@
         "dep_ename": "Department of Electrical and Computer Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -10964,7 +10964,7 @@
         "cos_id": "1146",
         "cos_code": "DCP1194",
         "num_limit": "218",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "服務學習(一)",
         "cos_credit": ".00",
@@ -17268,7 +17268,7 @@
         "dep_ename": "Department of Electro-Physics",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -17296,7 +17296,7 @@
         "dep_ename": "Department of Electro-Physics",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -39722,7 +39722,7 @@
         "cos_hours": "2.00",
         "TURL": "http://jsjk.cn.nctu.edu.tw",
         "teacher": "陳永平",
-        "cos_time": "T78-EE208",
+        "cos_time": "M56-EE207",
         "memo": "",
         "cos_ename": "Exploring Robotic and Artificial Intelligent Systems",
         "brief": "",
@@ -52951,7 +52951,7 @@
         "dep_ename": "Military Training Office",
         "cos_type": "軍訓",
         "cos_type_e": "Military Training",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -62515,7 +62515,7 @@
         "dep_ename": "Innovative Technology and Art Program",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "P"
       },
@@ -64333,6 +64333,34 @@
         "reg_num": "0",
         "depType": "P"
       },
+      "1092_1681": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1681",
+        "cos_code": "DCT1041",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "客家與傳播",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "黃靜蓉",
+        "cos_time": "M234-HKB08",
+        "memo": "",
+        "cos_ename": "Hakka and Communication",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "PFL",
+        "dep_primary": "1",
+        "dep_cname": "客家學院:客家社會與文化學程",
+        "dep_ename": "Program of Hakka and Culture",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "P"
+      },
       "1092_1684": {
         "acy": "109",
         "sem": "2",
@@ -64427,6 +64455,15 @@
           "GECIEngName": ""
         }
       },
+      "1092_1681": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1092_1684": {
         "通識校基本素養_通識校基本": {
           "course_category_cname": "通識校基本素養_通識校基本",
@@ -64471,6 +64508,12 @@
           "brief": ""
         }
       },
+      "1092_1681": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1092_1684": {
         "A204,A505": {
           "brief_code": "A204,A505",
@@ -64495,6 +64538,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_1676": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_1681": {
         "授課語言代碼": "zh-tw"
       },
       "1092_1684": {
@@ -64579,7 +64625,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "林秀幸",
-        "cos_time": "T234-HK207",
+        "cos_time": "F234-HK207",
         "memo": "",
         "cos_ename": "\"Communitas\" as a method",
         "brief": "",
@@ -65328,7 +65374,7 @@
         "dep_ename": "College of Humanities and Social Sciences for Transdisciplinary Inn",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "Q"
       },
@@ -84892,7 +84938,7 @@
         "cos_id": "5260",
         "cos_code": "IOC5171",
         "num_limit": "7",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "校務系統開發與管理(二)",
         "cos_credit": "3.00",
@@ -85032,7 +85078,7 @@
         "cos_id": "5266",
         "cos_code": "IOC5201",
         "num_limit": "6",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "系統與網路服務研究(二)",
         "cos_credit": "3.00",
@@ -102144,7 +102190,7 @@
         "dep_ename": "Institute of Imaging and Biomedical Photonics",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },

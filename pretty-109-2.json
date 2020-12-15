@@ -11327,7 +11327,7 @@
         "sem": "2",
         "cos_id": "1162",
         "cos_code": "DCP3124",
-        "num_limit": "100",
+        "num_limit": "50",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "網路系統總整與實作",
@@ -20064,7 +20064,7 @@
         "dep_ename": "Department of Applied Chemistry",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       }
@@ -84012,7 +84012,7 @@
         "dep_ename": "Institute of Biomedical Imaging and Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -84152,7 +84152,7 @@
         "dep_ename": "Institute of Biomedical Imaging and Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -87653,6 +87653,34 @@
         "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
+      },
+      "1092_5224": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5224",
+        "cos_code": "CST5017",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "書報討論",
+        "cos_credit": ".00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "國際半導體碩",
+        "cos_time": "W567-EE132",
+        "memo": "英語授課[English Medium Course]",
+        "cos_ename": "Seminar",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "591",
+        "dep_primary": "1",
+        "dep_cname": "國際半導體產業學院碩士班",
+        "dep_ename": "International College of Semiconductor Technology",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "G"
       }
     },
     "costype": {
@@ -87763,6 +87791,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_5224": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -87837,6 +87874,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_5224": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -87874,6 +87917,9 @@
         "授課語言代碼": "en-us"
       },
       "1092_5234": {
+        "授課語言代碼": "en-us"
+      },
+      "1092_5224": {
         "授課語言代碼": "en-us"
       }
     }
@@ -93810,7 +93856,7 @@
         "dep_ename": "Institute of Molecular Science",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -106862,7 +106908,7 @@
         "dep_ename": "Degree Program of Industrial Safety and Risk Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       },

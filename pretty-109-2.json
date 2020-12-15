@@ -16844,8 +16844,8 @@
         "sem": "2",
         "cos_id": "1318",
         "cos_code": "DPS1027",
-        "num_limit": "9999",
-        "dep_limit": "*",
+        "num_limit": "30",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "基礎科學研究方法與實作(二)",
         "cos_credit": "3.00",
@@ -16864,7 +16864,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "0",
+        "reg_num": "32",
         "depType": "C"
       },
       "1092_1320": {
@@ -16872,8 +16872,8 @@
         "sem": "2",
         "cos_id": "1320",
         "cos_code": "DPS1029",
-        "num_limit": "9999",
-        "dep_limit": "*",
+        "num_limit": "30",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "基礎科學研究方法與實作(四)",
         "cos_credit": "3.00",
@@ -16892,7 +16892,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "0",
+        "reg_num": "23",
         "depType": "C"
       },
       "1092_1321": {
@@ -21911,7 +21911,7 @@
         "cos_id": "1497",
         "cos_code": "DIF1091",
         "num_limit": "60",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "生涯規劃與導師時間(二)",
         "cos_credit": "1.00",
@@ -21939,7 +21939,7 @@
         "cos_id": "1498",
         "cos_code": "DIF1098",
         "num_limit": "80",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "經濟學原理",
         "cos_credit": "3.00",
@@ -21967,7 +21967,7 @@
         "cos_id": "1499",
         "cos_code": "DIF1102",
         "num_limit": "60",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "服務學習(二)",
         "cos_credit": "1.00",
@@ -22079,7 +22079,7 @@
         "cos_id": "1507",
         "cos_code": "DIF1019",
         "num_limit": "0",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "資訊管理專題(一)",
         "cos_credit": "2.00",
@@ -22107,7 +22107,7 @@
         "cos_id": "1508",
         "cos_code": "DIF1020",
         "num_limit": "0",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "財務金融專題(一)",
         "cos_credit": "2.00",
@@ -22246,8 +22246,8 @@
         "sem": "2",
         "cos_id": "1513",
         "cos_code": "DIF1099",
-        "num_limit": "9999",
-        "dep_limit": "*",
+        "num_limit": "0",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "金融科技跨域專題(一)",
         "cos_credit": "2.00",
@@ -70694,34 +70694,6 @@
         "reg_num": "0",
         "depType": "G"
       },
-      "1092_5723": {
-        "acy": "109",
-        "sem": "2",
-        "cos_id": "5723",
-        "cos_code": "IBI5149",
-        "num_limit": "9999",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "計算生物無機化學",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "http://wild.life.nctu.edu.tw/~jsyu",
-        "teacher": "尤禎祥",
-        "cos_time": "R567-BI301",
-        "memo": "",
-        "cos_ename": "Computational Bioinorganic Chemistry",
-        "brief": "",
-        "degree": "3",
-        "dep_id": "351",
-        "dep_primary": "1",
-        "dep_cname": "生物資訊及系統生物研究所",
-        "dep_ename": "Institute of Bioinformatics and System Biology",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": null,
-        "reg_num": "0",
-        "depType": "G"
-      },
       "1092_5724": {
         "acy": "109",
         "sem": "2",
@@ -71124,15 +71096,6 @@
           "GECIEngName": ""
         }
       },
-      "1092_5723": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1092_5724": {
         "": {
           "course_category_cname": "",
@@ -71276,12 +71239,6 @@
           "brief": ""
         }
       },
-      "1092_5723": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1092_5724": {
         "": {
           "brief_code": "",
@@ -71373,9 +71330,6 @@
       },
       "1092_5722": {
         "授課語言代碼": "en-us"
-      },
-      "1092_5723": {
-        "授課語言代碼": "zh-tw"
       },
       "1092_5724": {
         "授課語言代碼": "zh-tw"
@@ -86143,7 +86097,7 @@
         "dep_ename": "Institute of Network Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },

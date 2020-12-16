@@ -8133,34 +8133,6 @@
         "reg_num": "0",
         "depType": "U"
       },
-      "1092_1060": {
-        "acy": "109",
-        "sem": "2",
-        "cos_id": "1060",
-        "cos_code": "UEE3101",
-        "num_limit": "60",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "複變函數",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "",
-        "teacher": "李慶鴻",
-        "cos_time": "M2W34-EE208",
-        "memo": "",
-        "cos_ename": "Complex Variables",
-        "brief": "",
-        "degree": "1",
-        "dep_id": "511",
-        "dep_primary": "1",
-        "dep_cname": "電機工程學系",
-        "dep_ename": "Department of Electrical and Computer Engineering",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "0",
-        "depType": "U"
-      },
       "1092_1061": {
         "acy": "109",
         "sem": "2",
@@ -9187,15 +9159,6 @@
           "GECIEngName": ""
         }
       },
-      "1092_1060": {
-        "通識跨院基本素養_通識跨院": {
-          "course_category_cname": "通識跨院基本素養_通識跨院",
-          "course_category_ename": "General Education Course: Intercollegiate_GECI",
-          "course_category_type": "16",
-          "GECIName": "工",
-          "GECIEngName": "COE"
-        }
-      },
       "1092_1061": {
         "通識跨院基本素養_通識跨院": {
           "course_category_cname": "通識跨院基本素養_通識跨院",
@@ -9639,12 +9602,6 @@
           "brief": ""
         }
       },
-      "1092_1060": {
-        "A205,A504": {
-          "brief_code": "A205,A504",
-          "brief": "自然/進階(96),跨院基本素養(106)"
-        }
-      },
       "1092_1061": {
         "A205,A504": {
           "brief_code": "A205,A504",
@@ -9903,9 +9860,6 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_1059": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1092_1060": {
         "授課語言代碼": "zh-tw"
       },
       "1092_1061": {
@@ -82569,6 +82523,34 @@
         "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
+      },
+      "1092_5136": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5136",
+        "cos_code": "ECM9038",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "MIMO通訊系統",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "https://sites.google.com/site/ycjerryhuang/",
+        "teacher": "黃昱智",
+        "cos_time": "T234-ED103",
+        "memo": "",
+        "cos_ename": "MIMO Communication Systems",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "513",
+        "dep_primary": "1",
+        "dep_cname": "電信工程研究所",
+        "dep_ename": "Institute of Communication Engineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "G"
       }
     },
     "costype": {
@@ -82760,6 +82742,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_5136": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -82888,6 +82879,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_5136": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -82953,6 +82950,9 @@
       },
       "1092_5093": {
         "授課語言代碼": "en-us"
+      },
+      "1092_5136": {
+        "授課語言代碼": "zh-tw"
       }
     }
   },
@@ -88520,7 +88520,7 @@
         "cos_id": "5339",
         "cos_code": "IME5343",
         "num_limit": "70",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "半導體製程設備與技術",
         "cos_credit": "3.00",
@@ -88576,7 +88576,7 @@
         "cos_id": "5341",
         "cos_code": "IME5464",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "仿生軟機器人學",
         "cos_credit": "3.00",
@@ -88856,7 +88856,7 @@
         "cos_id": "5351",
         "cos_code": "IME5566",
         "num_limit": "50",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "電腦整合設計與製造",
         "cos_credit": "3.00",
@@ -88996,7 +88996,7 @@
         "cos_id": "5354",
         "cos_code": "IME5613",
         "num_limit": "20",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "機器人學：多軸旋翼機",
         "cos_credit": "3.00",
@@ -109107,7 +109107,7 @@
         "dep_ename": "Degree Program of Management for Executives",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "E"
       },
@@ -113884,8 +113884,8 @@
         "cos_cname": "線性代數",
         "cos_credit": "3.00",
         "cos_hours": "3.00",
-        "TURL": "https://sites.google.com/site/ycjerryhuang/",
-        "teacher": "黃昱智",
+        "TURL": "",
+        "teacher": "李慶鴻",
         "cos_time": "T34R7-ED303",
         "memo": "",
         "cos_ename": "Linear Algebra",

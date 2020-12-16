@@ -1698,7 +1698,7 @@
         "dep_ename": "Department of Foreign Languages and Literatures",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -6586,7 +6586,7 @@
         "dep_ename": "Department of Electronics Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -62329,7 +62329,7 @@
         "TURL": "",
         "teacher": "黃仕斌",
         "cos_time": "W567-A703",
-        "memo": "",
+        "memo": "VIP跨域學程、百川學程學生優先選課。",
         "cos_ename": "Foundations of Management and Entrepreneurship",
         "brief": "",
         "degree": "1",
@@ -94198,7 +94198,35 @@
         "dep_ename": "Institute of Molecular Science",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "G"
+      },
+      "1092_5460": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5460",
+        "cos_code": "IMO5001",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "書報討論-物化組",
+        "cos_credit": "1.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "孫建文",
+        "cos_time": "W34-SB211",
+        "memo": "[English Medium Course]",
+        "cos_ename": "Seminar",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "655",
+        "dep_primary": "1",
+        "dep_cname": "應用化學系分子科學碩博班",
+        "dep_ename": "Institute of Molecular Science",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       }
@@ -94266,6 +94294,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_5460": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -94310,6 +94347,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_5460": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -94333,6 +94376,9 @@
       },
       "1092_5465": {
         "授課語言代碼": "zh-tw"
+      },
+      "1092_5460": {
+        "授課語言代碼": "en-us"
       }
     }
   },
@@ -100518,7 +100564,7 @@
         "TURL": "",
         "teacher": "黃仕斌",
         "cos_time": "W567-A703",
-        "memo": "",
+        "memo": "VIP跨域學程、百川學程學生優先選課。",
         "cos_ename": "Foundations of Management and Entrepreneurship",
         "brief": "",
         "degree": "3",
@@ -100602,7 +100648,7 @@
         "TURL": "",
         "teacher": "姚銘忠、陳文智",
         "cos_time": "Rabc-MB110",
-        "memo": "英文授課、非IMBA課程；限GMBA學生[English Medium Course]",
+        "memo": "英文授課、非IMBA課程；限GMBA學生[English Medium Course] A non-GMBA student, who would take this course, must meet ALL the following conditions. 1. Is currently a graduate student. 2. Had a minimum of one year full-time work experience. 3. Is approved by the lecturer.",
         "cos_ename": "Operations and Supply Chain Management",
         "brief": "",
         "degree": "3",

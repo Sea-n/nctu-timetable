@@ -38026,34 +38026,6 @@
         "reg_num": "0",
         "depType": "O"
       },
-      "1092_6347": {
-        "acy": "109",
-        "sem": "2",
-        "cos_id": "6347",
-        "cos_code": "GEC6104",
-        "num_limit": "25",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "數位影像基礎與實作",
-        "cos_credit": "2.00",
-        "cos_hours": "2.00",
-        "TURL": "",
-        "teacher": "蔡華臻",
-        "cos_time": "F34-F210",
-        "memo": "",
-        "cos_ename": "Introduction to Digital Filmmaking",
-        "brief": "",
-        "degree": "1",
-        "dep_id": "OU1",
-        "dep_primary": "1",
-        "dep_cname": "通識教育中心",
-        "dep_ename": "Center of General Education",
-        "cos_type": "通識",
-        "cos_type_e": "General Course",
-        "crsoutline_type": "data",
-        "reg_num": "0",
-        "depType": "O"
-      },
       "1092_6348": {
         "acy": "109",
         "sem": "2",
@@ -38998,15 +38970,6 @@
           "GECIEngName": ""
         }
       },
-      "1092_6347": {
-        "通識校基本素養_通識校基本": {
-          "course_category_cname": "通識校基本素養_通識校基本",
-          "course_category_ename": "General Education Course: Literacy_GECL",
-          "course_category_type": "15",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1092_6348": {
         "通識校基本素養_通識校基本": {
           "course_category_cname": "通識校基本素養_通識校基本",
@@ -39492,12 +39455,6 @@
           "brief": "群己/進階(96),校基本素養(106)"
         }
       },
-      "1092_6347": {
-        "A201,A505": {
-          "brief_code": "A201,A505",
-          "brief": "文化/進階(96),校基本素養(106)"
-        }
-      },
       "1092_6348": {
         "A205,A505": {
           "brief_code": "A205,A505",
@@ -39762,9 +39719,6 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_6344": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1092_6347": {
         "授課語言代碼": "zh-tw"
       },
       "1092_6348": {
@@ -43522,7 +43476,7 @@
         "dep_ename": "Language Teaching and Research Center",
         "cos_type": "外語",
         "cos_type_e": "Foreign Languages Course",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -43634,7 +43588,7 @@
         "dep_ename": "Language Teaching and Research Center",
         "cos_type": "外語",
         "cos_type_e": "Foreign Languages Course",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -47427,7 +47381,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "29",
+        "reg_num": "28",
         "depType": "O"
       },
       "1092_8102": {
@@ -54860,7 +54814,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "125",
+        "reg_num": "102",
         "depType": "O"
       },
       "1092_0312": {
@@ -54888,7 +54842,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "44",
+        "reg_num": "41",
         "depType": "O"
       },
       "1092_0313": {
@@ -54944,7 +54898,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "63",
+        "reg_num": "58",
         "depType": "O"
       },
       "1092_0315": {
@@ -54972,7 +54926,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "65",
+        "reg_num": "61",
         "depType": "O"
       },
       "1092_0316": {
@@ -55000,7 +54954,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "64",
+        "reg_num": "63",
         "depType": "O"
       },
       "1092_0317": {
@@ -55028,7 +54982,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "64",
+        "reg_num": "57",
         "depType": "O"
       },
       "1092_0319": {
@@ -57811,7 +57765,7 @@
         "cos_id": "5208",
         "cos_code": "ITL5487",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "著作權法專題",
         "cos_credit": "3.00",
@@ -57924,7 +57878,7 @@
         "cos_id": "5167",
         "cos_code": "ITL5223",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "美國財產法",
         "cos_credit": "3.00",
@@ -58008,7 +57962,7 @@
         "cos_id": "5179",
         "cos_code": "ITL5441",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "刑事訴訟法(二)            ",
         "cos_credit": "3.00",
@@ -58092,7 +58046,7 @@
         "cos_id": "5183",
         "cos_code": "ITL5519",
         "num_limit": "25",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "國際公法",
         "cos_credit": "2.00",
@@ -58148,7 +58102,7 @@
         "cos_id": "5198",
         "cos_code": "ITL5222",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "美國法導論(英文授課)",
         "cos_credit": "3.00",
@@ -61585,7 +61539,7 @@
         "cos_id": "5167",
         "cos_code": "ITL5223",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "美國財產法",
         "cos_credit": "3.00",
@@ -61613,7 +61567,7 @@
         "cos_id": "5198",
         "cos_code": "ITL5222",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "美國法導論(英文授課)",
         "cos_credit": "3.00",
@@ -61641,7 +61595,7 @@
         "cos_id": "5204",
         "cos_code": "ITL5308",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "美國憲法(英文授課)",
         "cos_credit": "3.00",
@@ -63504,7 +63458,7 @@
         "cos_id": "5198",
         "cos_code": "ITL5222",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "美國法導論(英文授課)",
         "cos_credit": "3.00",
@@ -63532,7 +63486,7 @@
         "cos_id": "5204",
         "cos_code": "ITL5308",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "美國憲法(英文授課)",
         "cos_credit": "3.00",
@@ -68333,34 +68287,6 @@
         "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "Q"
-      },
-      "1092_6347": {
-        "acy": "109",
-        "sem": "2",
-        "cos_id": "6347",
-        "cos_code": "GEC6104",
-        "num_limit": "25",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "數位影像基礎與實作",
-        "cos_credit": "2.00",
-        "cos_hours": "2.00",
-        "TURL": "",
-        "teacher": "蔡華臻",
-        "cos_time": "F34-F210",
-        "memo": "",
-        "cos_ename": "Introduction to Digital Filmmaking",
-        "brief": "",
-        "degree": "1",
-        "dep_id": "QKZ",
-        "dep_primary": "1",
-        "dep_cname": "說故事與多媒體跨域學程",
-        "dep_ename": "",
-        "cos_type": "通識",
-        "cos_type_e": "General Course",
-        "crsoutline_type": "data",
-        "reg_num": "0",
-        "depType": "Q"
       }
     },
     "costype": {
@@ -68426,15 +68352,6 @@
           "GECIName": "",
           "GECIEngName": ""
         }
-      },
-      "1092_6347": {
-        "通識校基本素養_通識校基本": {
-          "course_category_cname": "通識校基本素養_通識校基本",
-          "course_category_ename": "General Education Course: Literacy_GECL",
-          "course_category_type": "15",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
       }
     },
     "brief": {
@@ -68479,12 +68396,6 @@
           "brief_code": "A101,A501",
           "brief": "文化/基礎(96),核心-人文(106)"
         }
-      },
-      "1092_6347": {
-        "A201,A505": {
-          "brief_code": "A201,A505",
-          "brief": "文化/進階(96),校基本素養(106)"
-        }
       }
     },
     "language": {
@@ -68507,9 +68418,6 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_6132": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1092_6347": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -69103,7 +69011,7 @@
         "cos_id": "5167",
         "cos_code": "ITL5223",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "美國財產法",
         "cos_credit": "3.00",
@@ -69131,7 +69039,7 @@
         "cos_id": "5171",
         "cos_code": "ITL5260",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "法律之經濟分析",
         "cos_credit": "2.00",
@@ -69187,7 +69095,7 @@
         "cos_id": "5179",
         "cos_code": "ITL5441",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "刑事訴訟法(二)            ",
         "cos_credit": "3.00",
@@ -69383,7 +69291,7 @@
         "cos_id": "5198",
         "cos_code": "ITL5222",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "美國法導論(英文授課)",
         "cos_credit": "3.00",
@@ -69411,7 +69319,7 @@
         "cos_id": "5202",
         "cos_code": "ITL5297",
         "num_limit": "60",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "人工智慧與法律",
         "cos_credit": "2.00",
@@ -69439,7 +69347,7 @@
         "cos_id": "5204",
         "cos_code": "ITL5308",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "美國憲法(英文授課)",
         "cos_credit": "3.00",
@@ -69467,7 +69375,7 @@
         "cos_id": "5208",
         "cos_code": "ITL5487",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "著作權法專題",
         "cos_credit": "3.00",
@@ -69495,7 +69403,7 @@
         "cos_id": "5218",
         "cos_code": "ITL5648",
         "num_limit": "30",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "食品法律",
         "cos_credit": "2.00",
@@ -93848,7 +93756,7 @@
         "dep_ename": "Institute of Applied Chemistry",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -96033,6 +95941,34 @@
         "crsoutline_type": null,
         "reg_num": "0",
         "depType": "G"
+      },
+      "1092_5931": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5931",
+        "cos_code": "IMS5374",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "商業智慧分析應用",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "向倩儀",
+        "cos_time": "F234-M105",
+        "memo": "",
+        "cos_ename": "Data Science Applications for Business",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "700",
+        "dep_primary": "1",
+        "dep_cname": "管理科學系",
+        "dep_ename": "Institute of Management Science",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "G"
       }
     },
     "costype": {
@@ -96197,6 +96133,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_5931": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -96307,6 +96252,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_5931": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -96363,6 +96314,9 @@
       },
       "1092_5511": {
         "授課語言代碼": "en-us"
+      },
+      "1092_5931": {
+        "授課語言代碼": "zh-tw"
       }
     }
   },
@@ -97333,6 +97287,34 @@
         "crsoutline_type": null,
         "reg_num": "0",
         "depType": "G"
+      },
+      "1092_5681": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5681",
+        "cos_code": "ITS5051",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "營收管理",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "黃寬丞",
+        "cos_time": "M789-A901",
+        "memo": "英文授課[English Medium Course]",
+        "cos_ename": "Revenue Management",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "703",
+        "dep_primary": "1",
+        "dep_cname": "運輸與物流管理學系物流管理碩博士班",
+        "dep_ename": "Institute of Logistics Management",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "G"
       }
     },
     "costype": {
@@ -97389,6 +97371,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_5681": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -97427,6 +97418,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_5681": {
+        "A203,A505": {
+          "brief_code": "A203,A505",
+          "brief": "公民/進階(96),校基本素養(106)"
+        }
       }
     },
     "language": {
@@ -97447,6 +97444,9 @@
       },
       "1092_5534": {
         "授課語言代碼": "zh-tw"
+      },
+      "1092_5681": {
+        "授課語言代碼": "en-us"
       }
     }
   },
@@ -98171,6 +98171,34 @@
         "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
+      },
+      "1092_5932": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5932",
+        "cos_code": "IIM5432",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "雲端大數據基礎建設之實務",
+        "cos_credit": "2.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "資管所",
+        "cos_time": "W567-AB103",
+        "memo": "",
+        "cos_ename": "IT Infrastructure and Services in Data Centers",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "706",
+        "dep_primary": "1",
+        "dep_cname": "資訊管理研究所",
+        "dep_ename": "Institute of Information Management",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "G"
       }
     },
     "costype": {
@@ -98281,6 +98309,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_5932": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -98355,6 +98392,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_5932": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -98392,6 +98435,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_5554": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_5932": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -101272,7 +101318,7 @@
         "cos_id": "5198",
         "cos_code": "ITL5222",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "美國法導論(英文授課)",
         "cos_credit": "3.00",
@@ -101300,7 +101346,7 @@
         "cos_id": "5199",
         "cos_code": "ITL5238",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "司法實習(一)",
         "cos_credit": "3.00",
@@ -101328,7 +101374,7 @@
         "cos_id": "5200",
         "cos_code": "ITL5239",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "司法實習(二)",
         "cos_credit": "3.00",
@@ -101356,7 +101402,7 @@
         "cos_id": "5201",
         "cos_code": "ITL5268",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "科技法律服務學習",
         "cos_credit": ".00",
@@ -101384,7 +101430,7 @@
         "cos_id": "5202",
         "cos_code": "ITL5297",
         "num_limit": "60",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "人工智慧與法律",
         "cos_credit": "2.00",
@@ -101412,7 +101458,7 @@
         "cos_id": "5203",
         "cos_code": "ITL5302",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "法務法遵實習",
         "cos_credit": "3.00",
@@ -101440,7 +101486,7 @@
         "cos_id": "5204",
         "cos_code": "ITL5308",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "美國憲法(英文授課)",
         "cos_credit": "3.00",
@@ -101468,7 +101514,7 @@
         "cos_id": "5205",
         "cos_code": "ITL5330",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "碩士論文研究",
         "cos_credit": "1.00",
@@ -101496,7 +101542,7 @@
         "cos_id": "5206",
         "cos_code": "ITL5468",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "專題討論(二)",
         "cos_credit": ".00",
@@ -101524,7 +101570,7 @@
         "cos_id": "5207",
         "cos_code": "ITL5483",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "訴訟實務書狀撰寫",
         "cos_credit": "3.00",
@@ -101552,7 +101598,7 @@
         "cos_id": "5208",
         "cos_code": "ITL5487",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "著作權法專題",
         "cos_credit": "3.00",
@@ -101580,7 +101626,7 @@
         "cos_id": "5209",
         "cos_code": "ITL5539",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "法學雜誌編輯",
         "cos_credit": "2.00",
@@ -101608,7 +101654,7 @@
         "cos_id": "5210",
         "cos_code": "ITL5531",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "企業與勞動法專題(二)",
         "cos_credit": "2.00",
@@ -101636,7 +101682,7 @@
         "cos_id": "5211",
         "cos_code": "ITL5583",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "企業金融法",
         "cos_credit": "2.00",
@@ -101664,7 +101710,7 @@
         "cos_id": "5212",
         "cos_code": "ITL5585",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "法務法遵實習 (二)",
         "cos_credit": "3.00",
@@ -101720,7 +101766,7 @@
         "cos_id": "5214",
         "cos_code": "ITL5628",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "法學研究方法專題",
         "cos_credit": "2.00",
@@ -101748,7 +101794,7 @@
         "cos_id": "5215",
         "cos_code": "ITL5625",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "國際商業交易法(英文授課)",
         "cos_credit": "2.00",
@@ -101776,7 +101822,7 @@
         "cos_id": "5216",
         "cos_code": "ITL5646",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "國際模擬法庭專題(英文授課)",
         "cos_credit": "1.00",
@@ -101804,7 +101850,7 @@
         "cos_id": "5217",
         "cos_code": "ITL5647",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "國際商務仲裁模擬庭專題(英文授課)",
         "cos_credit": "2.00",
@@ -101832,7 +101878,7 @@
         "cos_id": "5218",
         "cos_code": "ITL5648",
         "num_limit": "30",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "食品法律",
         "cos_credit": "2.00",
@@ -106171,6 +106217,34 @@
         "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "D"
+      },
+      "1092_4043": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "4043",
+        "cos_code": "IOF5114",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "金融機構專題(博)",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "俞明德、林智勇",
+        "cos_time": "M567-M103",
+        "memo": "",
+        "cos_ename": "Seminar on Financial Institutions",
+        "brief": "",
+        "degree": "4",
+        "dep_id": "707",
+        "dep_primary": "1",
+        "dep_cname": "資訊管理與財務金融系財務金融博士班",
+        "dep_ename": "Graduate institute of finance",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "D"
       }
     },
     "costype": {
@@ -106209,6 +106283,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_4043": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -106235,6 +106318,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_4043": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -106248,6 +106337,9 @@
         "授課語言代碼": "en-us"
       },
       "1092_4037": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_4043": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -108716,7 +108808,7 @@
         "dep_ename": "Degree Program of E-Learning",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "J"
       }
@@ -109422,7 +109514,7 @@
         "cos_id": "5622",
         "cos_code": "IBA1003",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "組織與人力資源管理",
         "cos_credit": "3.00",
@@ -109450,7 +109542,7 @@
         "cos_id": "5623",
         "cos_code": "IBA1004",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "台日企業及醫療產業經營",
         "cos_credit": "2.00",
@@ -109478,7 +109570,7 @@
         "cos_id": "5624",
         "cos_code": "IBA1023",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "中國大陸企業管理研究",
         "cos_credit": "3.00",
@@ -109506,7 +109598,7 @@
         "cos_id": "5625",
         "cos_code": "IBA1030",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "生醫科技創新設計",
         "cos_credit": "3.00",
@@ -109534,7 +109626,7 @@
         "cos_id": "5626",
         "cos_code": "IBA1031",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "財務策略與管理",
         "cos_credit": "3.00",
@@ -109562,7 +109654,7 @@
         "cos_id": "5627",
         "cos_code": "IBA1033",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "公司治理",
         "cos_credit": "3.00",
@@ -109590,7 +109682,7 @@
         "cos_id": "5628",
         "cos_code": "IBA1046",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "營利模式專題研究",
         "cos_credit": "2.00",
@@ -109618,7 +109710,7 @@
         "cos_id": "5629",
         "cos_code": "IBA2001",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "資訊與管理專題",
         "cos_credit": "3.00",
@@ -109803,7 +109895,7 @@
         "cos_id": "5638",
         "cos_code": "ITT5107",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "運輸物流管理個案講座",
         "cos_credit": "3.00",
@@ -109831,7 +109923,7 @@
         "cos_id": "5639",
         "cos_code": "ITT5110",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "數量分析方法",
         "cos_credit": "3.00",
@@ -109859,7 +109951,7 @@
         "cos_id": "5640",
         "cos_code": "ITT5111",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "先進運輸物流科技",
         "cos_credit": "3.00",
@@ -109887,7 +109979,7 @@
         "cos_id": "5641",
         "cos_code": "ITT7676",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "供應鏈規劃與策略",
         "cos_credit": "3.00",
@@ -109915,7 +110007,7 @@
         "cos_id": "5642",
         "cos_code": "ITT7678",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "論文研討二",
         "cos_credit": "3.00",
@@ -110840,6 +110932,90 @@
         "reg_num": "0",
         "depType": "J"
       },
+      "1092_5933": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5933",
+        "cos_code": "IOF5147",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "全球金融與高科技產業個案分析",
+        "cos_credit": "1.00",
+        "cos_hours": "1.00",
+        "TURL": "",
+        "teacher": "王燈山",
+        "cos_time": "Sa-M101",
+        "memo": "",
+        "cos_ename": "Case studies in Global Financing and Hitech Industries",
+        "brief": "",
+        "degree": "5",
+        "dep_id": "717",
+        "dep_primary": "1",
+        "dep_cname": "管理學院碩士在職專班-財金組",
+        "dep_ename": "Degree Program of Financ",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "J"
+      },
+      "1092_5934": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5934",
+        "cos_code": "IOF1060",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "AI人工智慧金融",
+        "cos_credit": "1.00",
+        "cos_hours": "1.00",
+        "TURL": "",
+        "teacher": "黃思皓",
+        "cos_time": "Sb-M101",
+        "memo": "",
+        "cos_ename": "Artificial Intelligence in Finance",
+        "brief": "",
+        "degree": "5",
+        "dep_id": "717",
+        "dep_primary": "1",
+        "dep_cname": "管理學院碩士在職專班-財金組",
+        "dep_ename": "Degree Program of Financ",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "J"
+      },
+      "1092_5935": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5935",
+        "cos_code": "IOF1061",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "金融科技與資產管理",
+        "cos_credit": "1.00",
+        "cos_hours": "1.00",
+        "TURL": "",
+        "teacher": "謝晨彥",
+        "cos_time": "Sc-M101",
+        "memo": "",
+        "cos_ename": "Asset Management in Fintech",
+        "brief": "",
+        "degree": "5",
+        "dep_id": "717",
+        "dep_primary": "1",
+        "dep_cname": "管理學院碩士在職專班-財金組",
+        "dep_ename": "Degree Program of Financ",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "J"
+      },
       "1092_5658": {
         "acy": "109",
         "sem": "2",
@@ -110925,6 +111101,33 @@
           "GECIEngName": ""
         }
       },
+      "1092_5933": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1092_5934": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1092_5935": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1092_5658": {
         "": {
           "course_category_cname": "",
@@ -110963,6 +111166,24 @@
           "brief": ""
         }
       },
+      "1092_5933": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1092_5934": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1092_5935": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1092_5658": {
         "": {
           "brief_code": "",
@@ -110984,6 +111205,15 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_5662": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_5933": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_5934": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_5935": {
         "授課語言代碼": "zh-tw"
       },
       "1092_5658": {
@@ -111774,7 +112004,7 @@
         "cos_id": "5167",
         "cos_code": "ITL5223",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "美國財產法",
         "cos_credit": "3.00",
@@ -111802,7 +112032,7 @@
         "cos_id": "5168",
         "cos_code": "ITL5245",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "碩士論文研究",
         "cos_credit": "3.00",
@@ -111830,7 +112060,7 @@
         "cos_id": "5169",
         "cos_code": "ITL5251",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "跨國商務交易與爭端解決",
         "cos_credit": "2.00",
@@ -111858,7 +112088,7 @@
         "cos_id": "5170",
         "cos_code": "ITL5255",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "白領犯罪與經濟刑法",
         "cos_credit": "2.00",
@@ -111886,7 +112116,7 @@
         "cos_id": "5171",
         "cos_code": "ITL5260",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "法律之經濟分析",
         "cos_credit": "2.00",
@@ -111970,7 +112200,7 @@
         "cos_id": "5174",
         "cos_code": "ITL5354",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "國際商務談判理論與實務",
         "cos_credit": "2.00",
@@ -111998,7 +112228,7 @@
         "cos_id": "5175",
         "cos_code": "ITL5376",
         "num_limit": "40",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "當代法學思想",
         "cos_credit": "2.00",
@@ -112026,7 +112256,7 @@
         "cos_id": "5176",
         "cos_code": "ITL5407",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "智財訴訟實務講座",
         "cos_credit": "2.00",
@@ -112110,7 +112340,7 @@
         "cos_id": "5179",
         "cos_code": "ITL5441",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "刑事訴訟法(二)            ",
         "cos_credit": "3.00",
@@ -112166,7 +112396,7 @@
         "cos_id": "5181",
         "cos_code": "ITL5469",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "專題討論(四)",
         "cos_credit": ".00",
@@ -112222,7 +112452,7 @@
         "cos_id": "5183",
         "cos_code": "ITL5519",
         "num_limit": "25",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "國際公法",
         "cos_credit": "2.00",
@@ -112278,7 +112508,7 @@
         "cos_id": "5185",
         "cos_code": "ITL5564",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "數位經濟與資通訊法律",
         "cos_credit": "2.00",
@@ -112306,7 +112536,7 @@
         "cos_id": "5186",
         "cos_code": "ITL5588",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "行政法實務運用",
         "cos_credit": "2.00",
@@ -112362,7 +112592,7 @@
         "cos_id": "5188",
         "cos_code": "ITL5602",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "法學實證研究",
         "cos_credit": "2.00",
@@ -112418,7 +112648,7 @@
         "cos_id": "5190",
         "cos_code": "ITL5636",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "醫學、心理與法律(英文授課)",
         "cos_credit": "1.00",
@@ -112446,7 +112676,7 @@
         "cos_id": "5191",
         "cos_code": "ITL5640",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "日本法專題(英文授課)",
         "cos_credit": "1.00",
@@ -112474,7 +112704,7 @@
         "cos_id": "5192",
         "cos_code": "ITL5641",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "美國契約法(英文授課)",
         "cos_credit": "2.00",
@@ -112502,7 +112732,7 @@
         "cos_id": "5193",
         "cos_code": "ITL5642",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "社會正義案例研析",
         "cos_credit": "3.00",
@@ -112586,7 +112816,7 @@
         "cos_id": "5196",
         "cos_code": "ITL5645",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "集體勞動法與裁決實務",
         "cos_credit": "3.00",
@@ -112614,7 +112844,7 @@
         "cos_id": "5197",
         "cos_code": "ITL5649",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "生醫科技法律",
         "cos_credit": "3.00",

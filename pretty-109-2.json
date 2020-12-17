@@ -16155,7 +16155,7 @@
         "cos_id": "1298",
         "cos_code": "DMA1205",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "生涯規劃及導師時間(二)",
         "cos_credit": "1.00",
@@ -16183,7 +16183,7 @@
         "cos_id": "1299",
         "cos_code": "DMA1306",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "服務學習 (一)",
         "cos_credit": ".00",
@@ -16211,7 +16211,7 @@
         "cos_id": "1301",
         "cos_code": "DMA2102",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "材料熱力學(二)",
         "cos_credit": "3.00",
@@ -16323,7 +16323,7 @@
         "cos_id": "1305",
         "cos_code": "DMA2402",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "材料基礎實驗（二）　",
         "cos_credit": "2.00",
@@ -16379,7 +16379,7 @@
         "cos_id": "1308",
         "cos_code": "DMA2405",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "材料工程實驗(二)",
         "cos_credit": "2.00",
@@ -72076,6 +72076,34 @@
         "crsoutline_type": null,
         "reg_num": "0",
         "depType": "G"
+      },
+      "1092_5744": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5744",
+        "cos_code": "IBD5010",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "神經科學",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "曲在雯、高智飛、黃植懋、莊碧簪、黃兆祺",
+        "cos_time": "W234-BI302",
+        "memo": "",
+        "cos_ename": "Neuroscience",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "352",
+        "dep_primary": "1",
+        "dep_cname": "分子醫學與生物工程研究所",
+        "dep_ename": "Institute of Molecular and Bioengineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "G"
       }
     },
     "costype": {
@@ -72168,6 +72196,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_5744": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -72230,6 +72267,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_5744": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -72261,6 +72304,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_5753": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_5744": {
         "授課語言代碼": "zh-tw"
       }
     }

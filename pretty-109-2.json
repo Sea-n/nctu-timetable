@@ -43644,7 +43644,7 @@
         "dep_ename": "Language Teaching and Research Center",
         "cos_type": "外語",
         "cos_type_e": "Foreign Languages Course",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -54794,7 +54794,7 @@
         "sem": "2",
         "cos_id": "0311",
         "cos_code": "DAM1368",
-        "num_limit": "120",
+        "num_limit": "125",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "微積分甲（二）",
@@ -55010,7 +55010,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "52",
+        "reg_num": "50",
         "depType": "O"
       },
       "1092_0320": {
@@ -55066,7 +55066,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "59",
+        "reg_num": "58",
         "depType": "O"
       },
       "1092_0353": {
@@ -55206,7 +55206,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "76",
+        "reg_num": "73",
         "depType": "O"
       },
       "1092_0412": {
@@ -55234,7 +55234,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "64",
+        "reg_num": "63",
         "depType": "O"
       },
       "1092_0413": {
@@ -55290,7 +55290,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "57",
+        "reg_num": "50",
         "depType": "O"
       },
       "1092_0415": {
@@ -55346,7 +55346,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "58",
+        "reg_num": "57",
         "depType": "O"
       },
       "1092_0417": {
@@ -97373,10 +97373,10 @@
         }
       },
       "1092_5681": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
+        "通識校基本素養_通識校基本": {
+          "course_category_cname": "通識校基本素養_通識校基本",
+          "course_category_ename": "General Education Course: Literacy_GECL",
+          "course_category_type": "15",
           "GECIName": "",
           "GECIEngName": ""
         }

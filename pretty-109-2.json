@@ -10993,7 +10993,7 @@
         "dep_ename": "Department of Computer Science",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -11283,7 +11283,7 @@
         "cos_id": "1159",
         "cos_code": "DCP1249",
         "num_limit": "36",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "無人機自動飛航與電腦視覺概論",
         "cos_credit": "3.00",
@@ -11339,7 +11339,7 @@
         "cos_id": "1161",
         "cos_code": "DCP3123",
         "num_limit": "110",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "電腦安全總整與實作(英文授課)",
         "cos_credit": "3.00",
@@ -11367,7 +11367,7 @@
         "cos_id": "1162",
         "cos_code": "DCP3124",
         "num_limit": "50",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "網路系統總整與實作",
         "cos_credit": "3.00",
@@ -11395,7 +11395,7 @@
         "cos_id": "1163",
         "cos_code": "DCP3125",
         "num_limit": "100",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "人工智慧總整與實作",
         "cos_credit": "3.00",
@@ -11423,7 +11423,7 @@
         "cos_id": "1164",
         "cos_code": "DCP3126",
         "num_limit": "40",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "企業網路安全",
         "cos_credit": "3.00",
@@ -11451,7 +11451,7 @@
         "cos_id": "1165",
         "cos_code": "DCP3516",
         "num_limit": "60",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "嵌入式系統設計概論與實作",
         "cos_credit": "3.00",
@@ -11479,7 +11479,7 @@
         "cos_id": "1166",
         "cos_code": "DCP3603",
         "num_limit": "117",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "競技程式設計(一)",
         "cos_credit": "3.00",
@@ -11507,7 +11507,7 @@
         "cos_id": "1167",
         "cos_code": "DCP3127",
         "num_limit": "96",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "影像處理概論(英文授課)",
         "cos_credit": "3.00",
@@ -11525,7 +11525,7 @@
         "dep_ename": "Department of Computer Science",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -11563,7 +11563,7 @@
         "cos_id": "1170",
         "cos_code": "DCP4591",
         "num_limit": "110",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "計算機網路管理",
         "cos_credit": "3.00",
@@ -44389,6 +44389,34 @@
         "reg_num": "0",
         "depType": "O"
       },
+      "1092_7538": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "7538",
+        "cos_code": "DFR3107",
+        "num_limit": "50",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "德文（二）",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "周玉蕙",
+        "cos_time": "W34-A402",
+        "memo": "",
+        "cos_ename": "German(II)",
+        "brief": "其它",
+        "degree": "1",
+        "dep_id": "OU6",
+        "dep_primary": "1",
+        "dep_cname": "語言教學與研究中心",
+        "dep_ename": "Language Teaching and Research Center",
+        "cos_type": "外語",
+        "cos_type_e": "Foreign Languages Course",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "O"
+      },
       "1092_7539": {
         "acy": "109",
         "sem": "2",
@@ -44413,7 +44441,7 @@
         "dep_ename": "Language Teaching and Research Center",
         "cos_type": "外語",
         "cos_type_e": "Foreign Languages Course",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       }
@@ -45301,6 +45329,15 @@
           "GECIEngName": ""
         }
       },
+      "1092_7538": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1092_7539": {
         "": {
           "course_category_cname": "",
@@ -45900,6 +45937,12 @@
           "brief": "其它(87)"
         }
       },
+      "1092_7538": {
+        "B075": {
+          "brief_code": "B075",
+          "brief": "其它(87)"
+        }
+      },
       "1092_7539": {
         "B075": {
           "brief_code": "B075",
@@ -46200,6 +46243,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_7537": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_7538": {
         "授課語言代碼": "zh-tw"
       },
       "1092_7539": {
@@ -58948,7 +58994,7 @@
         "cos_id": "1161",
         "cos_code": "DCP3123",
         "num_limit": "110",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "電腦安全總整與實作(英文授課)",
         "cos_credit": "3.00",
@@ -88160,7 +88206,7 @@
         "dep_ename": "International College of Semiconductor Technology",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -103628,7 +103674,7 @@
         "dep_ename": "College of Artificial Intelligence and Green Energy",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -103880,7 +103926,35 @@
         "dep_ename": "College of Artificial Intelligence and Green Energy",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "G"
+      },
+      "1092_5239": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5239",
+        "cos_code": "IOG5002",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題研討",
+        "cos_credit": "1.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "魏澤人、林柏宏、謝君偉、陳建志、林勻蔚、郭志義、馬清文、彭其瀚",
+        "cos_time": "F567-CM218",
+        "memo": "",
+        "cos_ename": "Seminar",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "8G1",
+        "dep_primary": "1",
+        "dep_cname": "智慧科學暨綠能學院",
+        "dep_ename": "College of Artificial Intelligence and Green Energy",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       }
@@ -103975,6 +104049,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_5239": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -104037,6 +104120,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_5239": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -104068,6 +104157,9 @@
         "授課語言代碼": "en-us"
       },
       "1092_5248": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_5239": {
         "授課語言代碼": "zh-tw"
       }
     }

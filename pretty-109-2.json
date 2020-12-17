@@ -1642,7 +1642,7 @@
         "dep_ename": "Department of Foreign Languages and Literatures",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -1866,7 +1866,7 @@
         "dep_ename": "Department of Foreign Languages and Literatures",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -1950,7 +1950,7 @@
         "dep_ename": "Department of Foreign Languages and Literatures",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -2090,7 +2090,7 @@
         "dep_ename": "Department of Foreign Languages and Literatures",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -3575,6 +3575,62 @@
         "crsoutline_type": null,
         "reg_num": "0",
         "depType": "U"
+      },
+      "1092_1679": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1679",
+        "cos_code": "DHS3171",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題寫作與畢業製作(一)",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "人社系",
+        "cos_time": "",
+        "memo": "",
+        "cos_ename": "Theme Writing and Senior Production(I)",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "481",
+        "dep_primary": "1",
+        "dep_cname": "人文社會學系",
+        "dep_ename": "Department of Humanities and Social Sciences",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "U"
+      },
+      "1092_1680": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1680",
+        "cos_code": "DHS3172",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題寫作與畢業製作(二)",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "人社系",
+        "cos_time": "",
+        "memo": "",
+        "cos_ename": "Theme Writing and Senior Production(II)",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "481",
+        "dep_primary": "1",
+        "dep_cname": "人文社會學系",
+        "dep_ename": "Department of Humanities and Social Sciences",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "U"
       }
     },
     "costype": {
@@ -3785,6 +3841,24 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_1679": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1092_1680": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -3907,6 +3981,18 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_1679": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1092_1680": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -3968,6 +4054,12 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_1678": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_1679": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_1680": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -7268,8 +7360,8 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "蔡中庸",
-        "cos_time": "",
-        "memo": "2IJK為實驗課 PC4",
+        "cos_time": "M56-EE105,Mabc-PC4,R2-EE105",
+        "memo": "1IJK為實驗課 PC4",
         "cos_ename": "Object-Oriented Programming",
         "brief": "",
         "degree": "1",
@@ -7280,7 +7372,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "0",
+        "reg_num": "2",
         "depType": "U"
       },
       "1092_1027": {
@@ -7352,8 +7444,8 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "蔡中庸",
-        "cos_time": "M56-EE105,Mabc-PC4,R2-EE105",
-        "memo": "1IJK為實驗課 PC4",
+        "cos_time": "T56-EE102,Tabc-PC4,R8-EE102",
+        "memo": "2IJK為實驗課 PC4",
         "cos_ename": "Object-Oriented Programming",
         "brief": "",
         "degree": "1",
@@ -7476,7 +7568,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "0",
+        "reg_num": "7",
         "depType": "U"
       },
       "1092_1034": {
@@ -7756,7 +7848,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "51",
+        "reg_num": "53",
         "depType": "U"
       },
       "1092_1045": {
@@ -7896,7 +7988,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": null,
-        "reg_num": "19",
+        "reg_num": "17",
         "depType": "U"
       },
       "1092_1050": {
@@ -58788,7 +58880,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": null,
-        "reg_num": "19",
+        "reg_num": "17",
         "depType": "P"
       },
       "1092_1125": {
@@ -58816,7 +58908,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "28",
+        "reg_num": "26",
         "depType": "P"
       },
       "1092_1126": {
@@ -59347,7 +59439,7 @@
         "dep_ename": "Electrical Engineering and Computer Science-International Program",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "P"
       },
@@ -64823,6 +64915,62 @@
         "crsoutline_type": null,
         "reg_num": "0",
         "depType": "P"
+      },
+      "1092_1679": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1679",
+        "cos_code": "DHS3171",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題寫作與畢業製作(一)",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "人社系",
+        "cos_time": "",
+        "memo": "",
+        "cos_ename": "Theme Writing and Senior Production(I)",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "PFN",
+        "dep_primary": "1",
+        "dep_cname": "人社系:社會學與人類學學分學程",
+        "dep_ename": "Program of  Sociology  and Anthropology",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "P"
+      },
+      "1092_1680": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1680",
+        "cos_code": "DHS3172",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題寫作與畢業製作(二)",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "人社系",
+        "cos_time": "",
+        "memo": "",
+        "cos_ename": "Theme Writing and Senior Production(II)",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "PFN",
+        "dep_primary": "1",
+        "dep_cname": "人社系:社會學與人類學學分學程",
+        "dep_ename": "Program of  Sociology  and Anthropology",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "P"
       }
     },
     "costype": {
@@ -64852,6 +65000,24 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_1679": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1092_1680": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -64872,6 +65038,18 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_1679": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1092_1680": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -64882,6 +65060,117 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_1678": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_1679": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_1680": {
+        "授課語言代碼": "zh-tw"
+      }
+    }
+  },
+  "2DC5D62B-70A5-4B45-82F9-E6B070264B74": {
+    "dep_id": "2DC5D62B-70A5-4B45-82F9-E6B070264B74",
+    "dep_cname": "人社系:族群與文化學分學程",
+    "dep_ename": "Program of Ethnicity and Culture",
+    "1": {
+      "1092_1679": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1679",
+        "cos_code": "DHS3171",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題寫作與畢業製作(一)",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "人社系",
+        "cos_time": "",
+        "memo": "",
+        "cos_ename": "Theme Writing and Senior Production(I)",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "PFO",
+        "dep_primary": "1",
+        "dep_cname": "人社系:族群與文化學分學程",
+        "dep_ename": "Program of Ethnicity and Culture",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "P"
+      },
+      "1092_1680": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1680",
+        "cos_code": "DHS3172",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題寫作與畢業製作(二)",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "人社系",
+        "cos_time": "",
+        "memo": "",
+        "cos_ename": "Theme Writing and Senior Production(II)",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "PFO",
+        "dep_primary": "1",
+        "dep_cname": "人社系:族群與文化學分學程",
+        "dep_ename": "Program of Ethnicity and Culture",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "P"
+      }
+    },
+    "costype": {
+      "1092_1679": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1092_1680": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "1092_1679": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1092_1680": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      }
+    },
+    "language": {
+      "1092_1679": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_1680": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -65002,6 +65291,62 @@
         "crsoutline_type": null,
         "reg_num": "0",
         "depType": "P"
+      },
+      "1092_1679": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1679",
+        "cos_code": "DHS3171",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題寫作與畢業製作(一)",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "人社系",
+        "cos_time": "",
+        "memo": "",
+        "cos_ename": "Theme Writing and Senior Production(I)",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "PFR",
+        "dep_primary": "1",
+        "dep_cname": "人社系:文化產業學分學程",
+        "dep_ename": "Program of Cultural Industries",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "P"
+      },
+      "1092_1680": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1680",
+        "cos_code": "DHS3172",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題寫作與畢業製作(二)",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "人社系",
+        "cos_time": "",
+        "memo": "",
+        "cos_ename": "Theme Writing and Senior Production(II)",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "PFR",
+        "dep_primary": "1",
+        "dep_cname": "人社系:文化產業學分學程",
+        "dep_ename": "Program of Cultural Industries",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "P"
       }
     },
     "costype": {
@@ -65054,6 +65399,24 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_1679": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1092_1680": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -65080,6 +65443,18 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_1679": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1092_1680": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -65093,6 +65468,12 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_1673": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_1679": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_1680": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -67495,7 +67876,7 @@
         "dep_ename": "Institute of Education for Learning Science Cross-Disciplinary Prog",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "Q"
       },
@@ -72702,7 +73083,7 @@
         "dep_ename": "Institute of Education",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -73094,7 +73475,7 @@
         "dep_ename": "Institute of Education",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       }
@@ -80055,7 +80436,7 @@
         "dep_ename": "Institute of Electronics",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -114056,7 +114437,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "28",
+        "reg_num": "26",
         "depType": "U"
       },
       "1092_1126": {
@@ -114140,7 +114521,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "0",
+        "reg_num": "2",
         "depType": "U"
       },
       "1092_1131": {

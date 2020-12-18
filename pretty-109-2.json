@@ -12049,6 +12049,34 @@
         "crsoutline_type": null,
         "reg_num": "0",
         "depType": "U"
+      },
+      "1092_1117": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1117",
+        "cos_code": "DCE3001",
+        "num_limit": "110",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "統計學",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "http://www.stat.nctu.edu.tw/subhtml/source/teachers/cchen.htm",
+        "teacher": "陳志榮",
+        "cos_time": "M56R2-EDB27",
+        "memo": "1.電機學院大三、大四優先 2.電機學院學生可列為通識課程(跨院基本素養)",
+        "cos_ename": "Statistics",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "5I1",
+        "dep_primary": "1",
+        "dep_cname": "電機學院院級(學士班)",
+        "dep_ename": "College of Electrical and Computer Engineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "U"
       }
     },
     "costype": {
@@ -12076,6 +12104,29 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_1117": {
+        "通識校基本素養_通識校基本": {
+          "course_category_cname": "通識校基本素養_通識校基本",
+          "course_category_ename": "General Education Course: Literacy_GECL",
+          "course_category_type": "15",
+          "GECIName": "電,資,工",
+          "GECIEngName": "ECE,CCS,COE"
+        },
+        "通識核心課程_通識核心": {
+          "course_category_cname": "通識核心課程_通識核心",
+          "course_category_ename": "General Education Course_GEC",
+          "course_category_type": "17",
+          "GECIName": "電,資,工",
+          "GECIEngName": "ECE,CCS,COE"
+        },
+        "通識跨院基本素養_通識跨院": {
+          "course_category_cname": "通識跨院基本素養_通識跨院",
+          "course_category_ename": "General Education Course: Intercollegiate_GECI",
+          "course_category_type": "16",
+          "GECIName": "電,資,工",
+          "GECIEngName": "ECE,CCS,COE"
+        }
       }
     },
     "brief": {
@@ -12090,6 +12141,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_1117": {
+        "A205,A503,A504,A505": {
+          "brief_code": "A205,A503,A504,A505",
+          "brief": "自然/進階(96),核心-自然(106),跨院基本素養(106),校基本素養(106)"
+        }
       }
     },
     "language": {
@@ -12097,6 +12154,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_1116": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_1117": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -95147,6 +95207,34 @@
         "crsoutline_type": null,
         "reg_num": "0",
         "depType": "G"
+      },
+      "1092_5466": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5466",
+        "cos_code": "IST5401",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題討論",
+        "cos_credit": ".00",
+        "cos_hours": "3.00",
+        "TURL": "http://www.stat.nctu.edu.tw/subhtml/source/teachers/cchen.htm",
+        "teacher": "陳志榮",
+        "cos_time": "F34n-A427",
+        "memo": "[English Medium Course]",
+        "cos_ename": "Seminar",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "657",
+        "dep_primary": "1",
+        "dep_cname": "統計學研究所",
+        "dep_ename": "Institute of Statistics",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "G"
       }
     },
     "costype": {
@@ -95212,6 +95300,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_5466": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -95256,6 +95353,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_5466": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -95279,6 +95382,9 @@
       },
       "1092_9501": {
         "授課語言代碼": "zh-tw"
+      },
+      "1092_5466": {
+        "授課語言代碼": "en-us"
       }
     }
   },

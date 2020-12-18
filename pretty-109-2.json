@@ -4041,7 +4041,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "0",
+        "reg_num": "39",
         "depType": "U"
       },
       "1092_1682": {
@@ -4069,7 +4069,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "0",
+        "reg_num": "37",
         "depType": "U"
       },
       "1092_1683": {
@@ -5414,7 +5414,7 @@
         "sem": "2",
         "cos_id": "1636",
         "cos_code": "DOH1046",
-        "num_limit": "20",
+        "num_limit": "15",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "聲音藝術與科技跨域",
@@ -5862,7 +5862,7 @@
         "sem": "2",
         "cos_id": "1652",
         "cos_code": "DOH3022",
-        "num_limit": "9999",
+        "num_limit": "20",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "藝術創作基礎",
@@ -17308,7 +17308,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "0",
+        "reg_num": "41",
         "depType": "U"
       },
       "1092_1332": {
@@ -17336,7 +17336,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "0",
+        "reg_num": "46",
         "depType": "U"
       },
       "1092_1333": {
@@ -17364,7 +17364,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "23",
+        "reg_num": "69",
         "depType": "U"
       },
       "1092_1334": {
@@ -17811,7 +17811,7 @@
         "dep_ename": "Department of Electro-Physics",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -17839,7 +17839,7 @@
         "dep_ename": "Department of Electro-Physics",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       },
@@ -22081,7 +22081,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": null,
-        "reg_num": "0",
+        "reg_num": "40",
         "depType": "U"
       },
       "1092_1505": {
@@ -23041,6 +23041,13 @@
           "course_category_type": "15",
           "GECIName": "",
           "GECIEngName": ""
+        },
+        "通識核心課程_通識核心": {
+          "course_category_cname": "通識核心課程_通識核心",
+          "course_category_ename": "General Education Course_GEC",
+          "course_category_type": "17",
+          "GECIName": "",
+          "GECIEngName": ""
         }
       },
       "1092_1429": {
@@ -23115,9 +23122,9 @@
         }
       },
       "1092_1428": {
-        "A505": {
-          "brief_code": "A505",
-          "brief": "校基本素養(106)"
+        "A502,A505": {
+          "brief_code": "A502,A505",
+          "brief": "核心-社會(106),校基本素養(106)"
         }
       },
       "1092_1429": {
@@ -39799,7 +39806,7 @@
         "cos_hours": "2.00",
         "TURL": "",
         "teacher": "郭嘉真",
-        "cos_time": "F78-EC114",
+        "cos_time": "M78-EDB27",
         "memo": "",
         "cos_ename": "Technology and Film",
         "brief": "",
@@ -42733,7 +42740,7 @@
         "dep_ename": "Language Teaching and Research Center",
         "cos_type": "外語",
         "cos_type_e": "Foreign Languages Course",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -56262,7 +56269,7 @@
         "cos_hours": "1.00",
         "TURL": "",
         "teacher": "林映彤",
-        "cos_time": "F78-",
+        "cos_time": "Fn-",
         "memo": "",
         "cos_ename": "Seminar on Pilosophy, Itelligence, Brain and Mind Ⅱ",
         "brief": "",
@@ -57079,7 +57086,7 @@
         "dep_ename": "Self-Active I-Learning",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -60058,7 +60065,7 @@
         "cos_id": "5264",
         "cos_code": "IOC5191",
         "num_limit": "60",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "機器學習(英文授課)",
         "cos_credit": "3.00",
@@ -62989,7 +62996,7 @@
         "sem": "2",
         "cos_id": "1636",
         "cos_code": "DOH1046",
-        "num_limit": "20",
+        "num_limit": "15",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "聲音藝術與科技跨域",
@@ -64627,7 +64634,7 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
-        "reg_num": "0",
+        "reg_num": "39",
         "depType": "P"
       },
       "1092_1684": {
@@ -66137,7 +66144,7 @@
         "sem": "2",
         "cos_id": "1636",
         "cos_code": "DOH1046",
-        "num_limit": "20",
+        "num_limit": "15",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "聲音藝術與科技跨域",
@@ -66807,7 +66814,7 @@
         "sem": "2",
         "cos_id": "1636",
         "cos_code": "DOH1046",
-        "num_limit": "20",
+        "num_limit": "15",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "聲音藝術與科技跨域",
@@ -67171,7 +67178,7 @@
         "sem": "2",
         "cos_id": "1652",
         "cos_code": "DOH3022",
-        "num_limit": "9999",
+        "num_limit": "20",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "藝術創作基礎",
@@ -68591,7 +68598,7 @@
         "cos_hours": "1.00",
         "TURL": "",
         "teacher": "林映彤",
-        "cos_time": "F78-",
+        "cos_time": "Fn-",
         "memo": "",
         "cos_ename": "Seminar on Pilosophy, Itelligence, Brain and Mind Ⅱ",
         "brief": "",
@@ -72979,7 +72986,7 @@
         "dep_ename": "Institute of Teaching English to Speakers of Other Languages",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -85367,7 +85374,7 @@
         "TURL": "",
         "teacher": "電資碩士學程",
         "cos_time": "",
-        "memo": "",
+        "memo": "本課程僅開放碩士學生修[English Medium Course]",
         "cos_ename": "Independent Study",
         "brief": "",
         "degree": "3",
@@ -85446,7 +85453,7 @@
     },
     "language": {
       "1092_5134": {
-        "授課語言代碼": "zh-tw"
+        "授課語言代碼": "en-us"
       },
       "1092_5133": {
         "授課語言代碼": "zh-tw"
@@ -85800,7 +85807,7 @@
         "cos_id": "5261",
         "cos_code": "IOC5184",
         "num_limit": "60",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "深度學習與實務",
         "cos_credit": "3.00",
@@ -85884,7 +85891,7 @@
         "cos_id": "5264",
         "cos_code": "IOC5191",
         "num_limit": "60",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "機器學習(英文授課)",
         "cos_credit": "3.00",
@@ -88795,7 +88802,7 @@
         "cos_id": "5310",
         "cos_code": "ROB5101",
         "num_limit": "20",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "機器人文化與人機互動研究",
         "cos_credit": "3.00",

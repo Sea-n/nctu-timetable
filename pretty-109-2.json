@@ -11227,7 +11227,7 @@
         "cos_id": "1157",
         "cos_code": "DCP3103",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "資訊工程專題(一)(英文授課)",
         "cos_credit": "2.00",
@@ -58966,7 +58966,7 @@
         "cos_id": "1157",
         "cos_code": "DCP3103",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "資訊工程專題(一)(英文授課)",
         "cos_credit": "2.00",
@@ -72950,7 +72950,7 @@
         "cos_hours": "3.00",
         "TURL": "http://sun.nctu.edu.tw",
         "teacher": "孫于智",
-        "cos_time": "R567-HC301",
+        "cos_time": "W567-HC301",
         "memo": "[English Medium Course]",
         "cos_ename": "Content and Language Integrated Learning (CLIL)",
         "brief": "",
@@ -93413,6 +93413,34 @@
         "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
+      },
+      "1092_5436": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5436",
+        "cos_code": "IAM6891",
+        "num_limit": "10",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "演算法",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "陳秋媛",
+        "cos_time": "M56W34-SC206",
+        "memo": "",
+        "cos_ename": "Algorithms",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "652",
+        "dep_primary": "1",
+        "dep_cname": "應用數學系",
+        "dep_ename": "Institute of Applied Mathematics",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "G"
       }
     },
     "costype": {
@@ -93586,6 +93614,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_5436": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -93702,6 +93739,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_5436": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -93760,6 +93803,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_5426": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_5436": {
         "授課語言代碼": "zh-tw"
       }
     }

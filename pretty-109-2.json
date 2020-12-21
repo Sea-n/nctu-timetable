@@ -11385,7 +11385,7 @@
         "dep_ename": "Department of Computer Science",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -56425,14 +56425,14 @@
         "cos_code": "DOA1009",
         "num_limit": "20",
         "dep_limit": "*",
-        "URL": null,
+        "URL": "https://timetable.nctu.edu.tw/?r=main/crsoutline&Acy=108&Sem=2&CrsNo=9001&lang=zh-tw",
         "cos_cname": "性別與醫學",
         "cos_credit": "2.00",
         "cos_hours": "2.00",
         "TURL": "",
         "teacher": "任一安",
         "cos_time": "R9a-SC206",
-        "memo": "跨校區實地授課課程（陽明醫學系公共衛生暨醫學人文學科）",
+        "memo": "跨校區實地授課課程@交大（陽明醫學系公共衛生暨醫學人文學科）",
         "cos_ename": "Gender and Medcine",
         "brief": "",
         "degree": "1",
@@ -62471,7 +62471,7 @@
         "TURL": "",
         "teacher": "鍾惠民、王燈山、陳玠甫",
         "cos_time": "Rabc-M115",
-        "memo": "財務金融碩博士班及資財系學生優先；校級創新創業學程VIP",
+        "memo": "財務金融碩士班及資財系學生優先；校級創新創業學程VIP；外系所學生請於開學後加選。",
         "cos_ename": "Entrepreneurship and New Venture Funding",
         "brief": "",
         "degree": "1",
@@ -70378,7 +70378,7 @@
         "dep_ename": "Institute of Biological Science and Technology",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -70546,7 +70546,7 @@
         "dep_ename": "Institute of Biological Science and Technology",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -76189,7 +76189,7 @@
         "cos_hours": "2.00",
         "TURL": "",
         "teacher": "蔡孟哲",
-        "cos_time": "M234n-",
+        "cos_time": "R234n-FB10",
         "memo": "[English Medium Course]",
         "cos_ename": "Seminar on Michel Foucault: Confessions of the Flesh",
         "brief": "",
@@ -95234,34 +95234,6 @@
         "reg_num": "-999",
         "depType": "G"
       },
-      "1092_5470": {
-        "acy": "109",
-        "sem": "2",
-        "cos_id": "5470",
-        "cos_code": "IST5578",
-        "num_limit": "9999",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "智慧數據分析方法II",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "http://www.stat.nctu.edu.tw/~misg/eindex.htm",
-        "teacher": "盧鴻興",
-        "cos_time": "F567-A406",
-        "memo": "[English Medium Course]",
-        "cos_ename": "Introduction to Data Science II",
-        "brief": "",
-        "degree": "3",
-        "dep_id": "657",
-        "dep_primary": "1",
-        "dep_cname": "統計學研究所",
-        "dep_ename": "Institute of Statistics",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": null,
-        "reg_num": "-999",
-        "depType": "G"
-      },
       "1092_5471": {
         "acy": "109",
         "sem": "2",
@@ -95403,15 +95375,6 @@
           "GECIEngName": ""
         }
       },
-      "1092_5470": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1092_5471": {
         "": {
           "course_category_cname": "",
@@ -95468,12 +95431,6 @@
           "brief": ""
         }
       },
-      "1092_5470": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1092_5471": {
         "": {
           "brief_code": "",
@@ -95508,9 +95465,6 @@
       },
       "1092_5469": {
         "授課語言代碼": "zh-tw"
-      },
-      "1092_5470": {
-        "授課語言代碼": "en-us"
       },
       "1092_5471": {
         "授課語言代碼": "zh-tw"
@@ -98981,7 +98935,7 @@
         "TURL": "",
         "teacher": "鄧惠文",
         "cos_time": "T567-M101",
-        "memo": "財務金融碩博士班、GMBA學生優先；英語授課[English Medium Course]",
+        "memo": "財務金融碩博士班、GMBA學生優先；英語授課[English Medium Course]；外系所學生請於開學後加選。",
         "cos_ename": "Financial Econometrics",
         "brief": "",
         "degree": "3",
@@ -99009,7 +98963,7 @@
         "TURL": "",
         "teacher": "林瑞嘉",
         "cos_time": "T89a-M101",
-        "memo": "財務金融碩博士班學生優先。",
+        "memo": "財務金融碩博士班學生優先。外系所學生請於開學後加選。",
         "cos_ename": "Financial Statement Analysis ",
         "brief": "",
         "degree": "3",
@@ -99037,7 +98991,7 @@
         "TURL": "",
         "teacher": "鍾惠民",
         "cos_time": "M567-M115",
-        "memo": "財務金融碩博士班學生優先。",
+        "memo": "財務金融碩博士班學生優先。外系所學生請於開學後加選。",
         "cos_ename": "Multinational Business Finance",
         "brief": "",
         "degree": "3",
@@ -99065,7 +99019,7 @@
         "TURL": "http://financelab.nctu.edu.tw",
         "teacher": "戴天時",
         "cos_time": "Mabc-M-b01",
-        "memo": "財務金融碩博士班學生優先。",
+        "memo": "財務金融碩博士班學生優先。外系所學生請於開學後加選。",
         "cos_ename": "Numerical Methods in Finance",
         "brief": "",
         "degree": "3",
@@ -99093,7 +99047,7 @@
         "TURL": "http://www.cc.nctu.edu.tw/~hhhuang",
         "teacher": "黃星華",
         "cos_time": "R89a-M102",
-        "memo": "財務金融碩博士班及資財系學生優先",
+        "memo": "財務金融碩博士班及資財系學生優先；外系所學生請於開學後加選。",
         "cos_ename": "Financial Innovations",
         "brief": "",
         "degree": "3",
@@ -99121,7 +99075,7 @@
         "TURL": "",
         "teacher": "郭家豪",
         "cos_time": "R234-M-b09",
-        "memo": "財務金融碩博士班學生優先。",
+        "memo": "財務金融碩博士班學生優先。外系所學生請於開學後加選。",
         "cos_ename": "Theory of Derivatives",
         "brief": "",
         "degree": "3",
@@ -99149,7 +99103,7 @@
         "TURL": "http://financelab.nctu.edu.tw",
         "teacher": "戴天時",
         "cos_time": "Tabc-M102",
-        "memo": "財務金融碩博士班學生優先。",
+        "memo": "財務金融碩博士班學生優先。外系所學生請於開學後加選。",
         "cos_ename": "Stochastic Calculus for Finance",
         "brief": "",
         "degree": "3",
@@ -99205,7 +99159,7 @@
         "TURL": "",
         "teacher": "梁婉麗",
         "cos_time": "Wn-M-b10",
-        "memo": "碩一必修課程；財務金融碩博士班學生優先。",
+        "memo": "碩一必修課程；限財務金融碩士班學生選修。",
         "cos_ename": "Theory and practice in finance (2)",
         "brief": "",
         "degree": "3",
@@ -99233,7 +99187,7 @@
         "TURL": "",
         "teacher": "鍾惠民、王燈山、陳玠甫",
         "cos_time": "Rabc-M115",
-        "memo": "財務金融碩博士班及資財系學生優先；校級創新創業學程VIP",
+        "memo": "財務金融碩士班及資財系學生優先；校級創新創業學程VIP；外系所學生請於開學後加選。",
         "cos_ename": "Entrepreneurship and New Venture Funding",
         "brief": "",
         "degree": "3",
@@ -99261,7 +99215,7 @@
         "TURL": "",
         "teacher": "黃思皓",
         "cos_time": "W567-M-b10",
-        "memo": "財務金融碩博士班及資財系學生優先",
+        "memo": "財務金融碩博士班及資財系學生優先；外系所學生請於開學後加選。",
         "cos_ename": "Financial Technology Seminar by Yuanta  ",
         "brief": "",
         "degree": "3",
@@ -99289,7 +99243,7 @@
         "TURL": "",
         "teacher": "鍾惠民、劉宗聖、梁婉麗、黃宜侯、李漢星、謝文良",
         "cos_time": "F567-M101",
-        "memo": "財務金融碩博士班優先",
+        "memo": "財務金融碩博士班優先；外系所學生請於開學後加選。",
         "cos_ename": "ETF Concept, Practice, and Research",
         "brief": "",
         "degree": "3",
@@ -99317,7 +99271,7 @@
         "TURL": "",
         "teacher": "游家牧",
         "cos_time": "T234-M-b09",
-        "memo": "財務金融碩博士班優先、GMBA學生及資財系學生優先；英語授課[English Medium Course]",
+        "memo": "財務金融碩博士班優先、GMBA學生及資財系學生優先；英語授課[English Medium Course]；外系所學生請於開學後加選。",
         "cos_ename": "Data Science",
         "brief": "",
         "degree": "3",
@@ -99373,7 +99327,7 @@
         "TURL": "",
         "teacher": "李漢星",
         "cos_time": "R567-M-b09",
-        "memo": "財務金融碩博士班學生優先。",
+        "memo": "財務金融碩博士班學生優先。外系所學生請於開學後加選。",
         "cos_ename": "Investment",
         "brief": "",
         "degree": "3",
@@ -106798,7 +106752,7 @@
         "TURL": "",
         "teacher": "俞明德、林智勇",
         "cos_time": "M567-M103",
-        "memo": "",
+        "memo": "博士班專業課程；財務金融碩博士班優先",
         "cos_ename": "Seminar on Financial Institutions",
         "brief": "",
         "degree": "4",
@@ -108653,7 +108607,7 @@
         "dep_ename": "Degree Program of Construction Technology and Management",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "J"
       },
@@ -108681,7 +108635,7 @@
         "dep_ename": "Degree Program of Construction Technology and Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "J"
       },
@@ -108709,7 +108663,7 @@
         "dep_ename": "Degree Program of Construction Technology and Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "J"
       },
@@ -108850,7 +108804,7 @@
         "dep_ename": "Degree Program of Semiconductor Material and Processing Equipment",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "J"
       },

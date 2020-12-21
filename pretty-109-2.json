@@ -43370,7 +43370,7 @@
         "cos_id": "7169",
         "cos_code": "DFR1203",
         "num_limit": "25",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "新聞英語",
         "cos_credit": "2.00",
@@ -48103,7 +48103,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "47",
+        "reg_num": "48",
         "depType": "O"
       },
       "1092_8125": {
@@ -56432,7 +56432,7 @@
         "TURL": "",
         "teacher": "任一安",
         "cos_time": "R9a-SC206",
-        "memo": "",
+        "memo": "跨校區實地授課課程（陽明醫學系公共衛生暨醫學人文學科）",
         "cos_ename": "Gender and Medcine",
         "brief": "",
         "degree": "1",
@@ -57713,34 +57713,6 @@
         "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
-      },
-      "1092_1922": {
-        "acy": "109",
-        "sem": "2",
-        "cos_id": "1922",
-        "cos_code": "DOA1032",
-        "num_limit": "0",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "TED當代議題討論",
-        "cos_credit": "2.00",
-        "cos_hours": "2.00",
-        "TURL": "",
-        "teacher": "陳韙寧",
-        "cos_time": "R34-EA101",
-        "memo": "",
-        "cos_ename": "TED Talks English",
-        "brief": "",
-        "degree": "1",
-        "dep_id": "OUZ",
-        "dep_primary": "1",
-        "dep_cname": "創創工坊",
-        "dep_ename": "Innovative Creative Technology",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": null,
-        "reg_num": "0",
-        "depType": "O"
       }
     },
     "costype": {
@@ -57770,15 +57742,6 @@
           "GECIName": "",
           "GECIEngName": ""
         }
-      },
-      "1092_1922": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
       }
     },
     "brief": {
@@ -57799,12 +57762,6 @@
           "brief_code": "",
           "brief": ""
         }
-      },
-      "1092_1922": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
       }
     },
     "language": {
@@ -57815,9 +57772,6 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_1921": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1092_1922": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -78630,6 +78584,34 @@
         "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
+      },
+      "1092_5939": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5939",
+        "cos_code": "IMU5366",
+        "num_limit": "5",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "音樂學實務二",
+        "cos_credit": "1.00",
+        "cos_hours": "2.00",
+        "TURL": "http://www.imu.nctu.edu.tw/imu/f-teacher.php?INPUT_FUNCT=SHOW&INPUT_ID=9&INPUT_PAGE=&INPUT_TypeID=&",
+        "teacher": "金立群",
+        "cos_time": "W89-HC513",
+        "memo": "",
+        "cos_ename": "Musicology Practicum II",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "466",
+        "dep_primary": "1",
+        "dep_cname": "音樂研究所",
+        "dep_ename": "Institute of Music",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "G"
       }
     },
     "costype": {
@@ -78902,6 +78884,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_5939": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -79084,6 +79075,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_5939": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -79175,6 +79172,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_5906": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_5939": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -85518,7 +85518,7 @@
         "cos_id": "5134",
         "cos_code": "ECS5102",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "個別研究",
         "cos_credit": "1.00",
@@ -98651,8 +98651,8 @@
         "sem": "2",
         "cos_id": "5932",
         "cos_code": "IIM5432",
-        "num_limit": "9999",
-        "dep_limit": "*",
+        "num_limit": "100",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "雲端大數據基礎建設之實務",
         "cos_credit": "2.00",
@@ -98670,7 +98670,7 @@
         "dep_ename": "Institute of Information Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       }

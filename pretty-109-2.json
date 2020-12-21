@@ -224,7 +224,7 @@
         "dep_ename": "Department of Biological Science and Technology",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -816,6 +816,34 @@
         "reg_num": "-999",
         "depType": "U"
       },
+      "1092_1571": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1571",
+        "cos_code": "DBT3012",
+        "num_limit": "13",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "書報討論:B組",
+        "cos_credit": "1.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "羅惟正",
+        "cos_time": "F34-BI302",
+        "memo": "",
+        "cos_ename": "Seminar",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "350",
+        "dep_primary": "1",
+        "dep_cname": "生物科技學系",
+        "dep_ename": "Department of Biological Science and Technology",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "-999",
+        "depType": "U"
+      },
       "1092_1572": {
         "acy": "109",
         "sem": "2",
@@ -1198,6 +1226,15 @@
           "GECIEngName": ""
         }
       },
+      "1092_1571": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1092_1572": {
         "": {
           "course_category_cname": "",
@@ -1401,6 +1438,12 @@
           "brief": ""
         }
       },
+      "1092_1571": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1092_1572": {
         "": {
           "brief_code": "",
@@ -1506,6 +1549,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_1582": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_1571": {
         "授課語言代碼": "zh-tw"
       },
       "1092_1572": {
@@ -5657,7 +5703,7 @@
         "dep_ename": "College of Humanities and Social Science",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -8783,7 +8829,7 @@
         "sem": "2",
         "cos_id": "1083",
         "cos_code": "UEE3801",
-        "num_limit": "80",
+        "num_limit": "40",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "電力電子導論",
@@ -22102,7 +22148,7 @@
         "TURL": "",
         "teacher": "梁婉麗",
         "cos_time": "M34W2-M-b10",
-        "memo": "管院管理基礎課程；主開大二資財系；輔開管理學院、管科系、工管系、運管系；資財系大二、管科系大二必修。管院學生優先選課；外院同學請於開學加退選階段上網選課。",
+        "memo": "管院管理基礎課程；主開大二資財系；輔開管理學院、管科系、工管系、運管系；資財系大二、管科系大二必修。管院學生優先選課；外院同學請於初選第二階段階段上網選課。",
         "cos_ename": "Financial Management",
         "brief": "",
         "degree": "1",
@@ -59415,7 +59461,7 @@
         "dep_ename": "Electrical Engineering and Computer Science-International Program",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "P"
       },
@@ -63845,8 +63891,8 @@
         "dep_primary": "1",
         "dep_cname": "管理學院:管理基礎學分學程",
         "dep_ename": "Fundamental of Management Program",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
         "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "P"
@@ -67107,7 +67153,7 @@
         "dep_ename": "College of Humanities and Social Sciences for Transdisciplinary Inn",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "Q"
       },
@@ -71389,7 +71435,7 @@
         "dep_ename": "Institute of Bioinformatics and System Biology",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -71728,6 +71774,34 @@
         "crsoutline_type": null,
         "reg_num": "-999",
         "depType": "G"
+      },
+      "1092_5731": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5731",
+        "cos_code": "IBT5308",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "論文研究",
+        "cos_credit": "1.00",
+        "cos_hours": "1.00",
+        "TURL": "",
+        "teacher": "羅惟正、陳亭妏、何信瑩",
+        "cos_time": "M2-",
+        "memo": "[English Medium Course]",
+        "cos_ename": "Thesis",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "351",
+        "dep_primary": "1",
+        "dep_cname": "生物資訊及系統生物研究所",
+        "dep_ename": "Institute of Bioinformatics and System Biology",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "-999",
+        "depType": "G"
       }
     },
     "costype": {
@@ -71883,6 +71957,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_5731": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -71987,6 +72070,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_5731": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -72040,6 +72129,9 @@
       },
       "1092_5741": {
         "授課語言代碼": "zh-tw"
+      },
+      "1092_5731": {
+        "授課語言代碼": "en-us"
       }
     }
   },
@@ -76851,7 +76943,7 @@
         "cos_credit": "3.00",
         "cos_hours": "3.00",
         "TURL": "",
-        "teacher": "薛美蓮",
+        "teacher": "",
         "cos_time": "W34n-HA105",
         "memo": "",
         "cos_ename": "Architecture Physics and Environmental Control(II)",
@@ -80558,7 +80650,7 @@
         "dep_ename": "Institute of Electronics",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -99760,7 +99852,7 @@
         "cos_id": "5573",
         "cos_code": "ITM5156",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "行銷管理實務",
         "cos_credit": "3.00",
@@ -99872,7 +99964,7 @@
         "cos_id": "5577",
         "cos_code": "ITM5231",
         "num_limit": "15",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "科技策略管理決策研究",
         "cos_credit": "3.00",

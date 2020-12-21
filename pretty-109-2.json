@@ -4124,7 +4124,7 @@
         "dep_ename": "Department of Communication and Technology",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -4320,7 +4320,7 @@
         "dep_ename": "Department of Communication and Technology",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -41165,7 +41165,7 @@
         "dep_ename": "Chinese Language",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "O"
       },
@@ -41193,7 +41193,7 @@
         "dep_ename": "Chinese Language",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "O"
       },
@@ -41221,7 +41221,7 @@
         "dep_ename": "Chinese Language",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "O"
       },
@@ -41249,7 +41249,7 @@
         "dep_ename": "Chinese Language",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "O"
       },
@@ -41361,7 +41361,7 @@
         "dep_ename": "Chinese Language",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "O"
       },
@@ -47188,7 +47188,7 @@
         "sem": "2",
         "cos_id": "3053",
         "cos_code": "SEV0069",
-        "num_limit": "30",
+        "num_limit": "0",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "國際志工理念與實踐-服務學習二",
@@ -54576,7 +54576,7 @@
           "course_category_ename": "General Education Course: Intercollegiate_GECI",
           "course_category_type": "16",
           "GECIName": "客",
-          "GECIEngName": "CHK"
+          "GECIEngName": ""
         }
       },
       "1092_0524": {
@@ -54584,8 +54584,8 @@
           "course_category_cname": "通識跨院基本素養_通識跨院",
           "course_category_ename": "General Education Course: Intercollegiate_GECI",
           "course_category_type": "16",
-          "GECIName": "客",
-          "GECIEngName": "CHK"
+          "GECIName": "",
+          "GECIEngName": ""
         }
       },
       "1092_0541": {
@@ -54692,7 +54692,7 @@
           "course_category_cname": "通識跨院基本素養_通識跨院",
           "course_category_ename": "General Education Course: Intercollegiate_GECI",
           "course_category_type": "16",
-          "GECIName": "客",
+          "GECIName": "",
           "GECIEngName": "CHK"
         }
       },
@@ -59564,7 +59564,7 @@
         "sem": "2",
         "cos_id": "5069",
         "cos_code": "ICN5637",
-        "num_limit": "9999",
+        "num_limit": "40",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "類比積體電路設計",
@@ -64071,7 +64071,7 @@
         "dep_ename": "Fundamental of Management Program",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "P"
       },
@@ -64099,7 +64099,7 @@
         "dep_ename": "Fundamental of Management Program",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "P"
       },
@@ -64127,7 +64127,7 @@
         "dep_ename": "Fundamental of Management Program",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "P"
       },
@@ -64550,7 +64550,7 @@
         "dep_ename": "Program of Teaching Chinese as a Second Language",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "P"
       }
@@ -64767,7 +64767,7 @@
         "dep_ename": "Program of Hakka and Culture",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "P"
       },
@@ -66390,7 +66390,7 @@
         "sem": "2",
         "cos_id": "3053",
         "cos_code": "SEV0069",
-        "num_limit": "30",
+        "num_limit": "0",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "國際志工理念與實踐-服務學習二",
@@ -66419,7 +66419,7 @@
         "cos_id": "5814",
         "cos_code": "IAA5543",
         "num_limit": "15",
-        "dep_limit": "N",
+        "dep_limit": "*",
         "URL": null,
         "cos_cname": "表現技法(一)",
         "cos_credit": "3.00",
@@ -74750,7 +74750,7 @@
         "cos_id": "5813",
         "cos_code": "IAA5468",
         "num_limit": "20",
-        "dep_limit": "N",
+        "dep_limit": "*",
         "URL": null,
         "cos_cname": "藝術家的書_進階篇",
         "cos_credit": "3.00",
@@ -74778,7 +74778,7 @@
         "cos_id": "5814",
         "cos_code": "IAA5543",
         "num_limit": "15",
-        "dep_limit": "N",
+        "dep_limit": "*",
         "URL": null,
         "cos_cname": "表現技法(一)",
         "cos_credit": "3.00",
@@ -74806,7 +74806,7 @@
         "cos_id": "5815",
         "cos_code": "IAA5548",
         "num_limit": "20",
-        "dep_limit": "N",
+        "dep_limit": "*",
         "URL": null,
         "cos_cname": "質疑性設計：移動性光雕塗鴉投影",
         "cos_credit": "3.00",
@@ -74862,7 +74862,7 @@
         "cos_id": "5817",
         "cos_code": "IAA5735",
         "num_limit": "15",
-        "dep_limit": "N",
+        "dep_limit": "*",
         "URL": null,
         "cos_cname": "設計運算與數位製造",
         "cos_credit": "3.00",
@@ -74890,7 +74890,7 @@
         "cos_id": "5818",
         "cos_code": "IAA5744",
         "num_limit": "8",
-        "dep_limit": "N",
+        "dep_limit": "*",
         "URL": "https://sensorylab.nctu.edu.tw/?p=22634",
         "cos_cname": "非人、跨物種與菌絲體聲響專題",
         "cos_credit": "3.00",
@@ -74918,7 +74918,7 @@
         "cos_id": "5819",
         "cos_code": "IAA5745",
         "num_limit": "16",
-        "dep_limit": "N",
+        "dep_limit": "*",
         "URL": null,
         "cos_cname": "當代設計研究與創作",
         "cos_credit": "3.00",
@@ -82291,7 +82291,7 @@
         "sem": "2",
         "cos_id": "5069",
         "cos_code": "ICN5637",
-        "num_limit": "9999",
+        "num_limit": "40",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "類比積體電路設計",
@@ -97804,7 +97804,7 @@
         "dep_ename": "Institute of Logistics Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -116586,7 +116586,7 @@
         "dep_ename": "College of Management",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -116614,7 +116614,7 @@
         "dep_ename": "College of Management",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -116642,7 +116642,7 @@
         "dep_ename": "College of Management",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -116799,7 +116799,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "吳浩庠",
-        "cos_time": "T78W2-A309",
+        "cos_time": "T78W2-MB210",
         "memo": "非管院同學請於2月22日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限55人，若超過人數上限請至管院辦公室登記。",
         "cos_ename": "Programming",
         "brief": "",

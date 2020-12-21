@@ -1564,7 +1564,7 @@
         "cos_credit": "2.00",
         "cos_hours": "2.00",
         "TURL": "",
-        "teacher": "外文系",
+        "teacher": "陳韙寧",
         "cos_time": "R56-HC402",
         "memo": "A組,限外文系",
         "cos_ename": "Practical Translation",
@@ -7288,10 +7288,10 @@
         "dep_primary": "1",
         "dep_cname": "電機工程學系",
         "dep_ename": "Department of Electrical and Computer Engineering",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "0",
+        "reg_num": "243",
         "depType": "U"
       },
       "1092_1026": {
@@ -7308,7 +7308,7 @@
         "TURL": "",
         "teacher": "蔡中庸",
         "cos_time": "M56-EE105,Mabc-PC4,R2-EE105",
-        "memo": "1IJK為實驗課 PC4",
+        "memo": "1abc為實驗課 PC4",
         "cos_ename": "Object-Oriented Programming",
         "brief": "",
         "degree": "1",
@@ -7336,7 +7336,7 @@
         "TURL": "http://cialab.blog.nctu.edu.tw",
         "teacher": "溫宏斌",
         "cos_time": "Mn56abc-ED713",
-        "memo": "1IJK為實驗課 ED713",
+        "memo": "1abc為實驗課 ED713",
         "cos_ename": "Object-Oriented Programming",
         "brief": "",
         "degree": "1",
@@ -7364,7 +7364,7 @@
         "TURL": "http://mseda.ee.nctu.edu.tw/jimmyliu/",
         "teacher": "劉建男",
         "cos_time": "M56-ED220,Mabc-PC2,R2-EDB26",
-        "memo": "1IJK為實驗課PC2/PC3",
+        "memo": "1abc為實驗課PC2/PC3",
         "cos_ename": "Object-Oriented Programming",
         "brief": "",
         "degree": "1",
@@ -7392,7 +7392,7 @@
         "TURL": "",
         "teacher": "蔡中庸",
         "cos_time": "T56-EE102,Tabc-PC4,R8-EE102",
-        "memo": "2IJK為實驗課 PC4",
+        "memo": "2abc為實驗課 PC4",
         "cos_ename": "Object-Oriented Programming",
         "brief": "",
         "degree": "1",
@@ -7420,7 +7420,7 @@
         "TURL": "",
         "teacher": "黃紹華",
         "cos_time": "T56abcd-ED713",
-        "memo": "2IJKL為實驗課 ED713",
+        "memo": "2abcd為實驗課 ED713",
         "cos_ename": "Object-Oriented Programming",
         "brief": "",
         "degree": "1",
@@ -7532,7 +7532,7 @@
         "TURL": "",
         "teacher": "王宜楷",
         "cos_time": "R56ab-EE634",
-        "memo": "IJ為實驗課EE634",
+        "memo": "ab為實驗課EE634",
         "cos_ename": "Principle of Microcomputer",
         "brief": "",
         "degree": "1",
@@ -7560,7 +7560,7 @@
         "TURL": "",
         "teacher": "蔡中庸",
         "cos_time": "W34F6-EE105",
-        "memo": "2IJK/4IJK為實驗課EE635任選實驗時間",
+        "memo": "2abv/4abc為實驗課EE635任選實驗時間",
         "cos_ename": "JAVA Programming",
         "brief": "",
         "degree": "1",
@@ -8764,7 +8764,7 @@
         "TURL": "",
         "teacher": "王宜楷",
         "cos_time": "Tabc-EE633",
-        "memo": "IJK為實驗課EE633",
+        "memo": "abc為實驗課EE633",
         "cos_ename": "Control Lab.",
         "brief": "",
         "degree": "1",
@@ -59534,7 +59534,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "林詩淳",
-        "cos_time": "M567-",
+        "cos_time": "M567-SC151",
         "memo": "",
         "cos_ename": "Mobile App Design",
         "brief": "",
@@ -80715,7 +80715,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "林詩淳",
-        "cos_time": "M567-",
+        "cos_time": "M567-SC151",
         "memo": "",
         "cos_ename": "Mobile App Design",
         "brief": "",
@@ -80783,6 +80783,34 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "G"
+      },
+      "1092_5044": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5044",
+        "cos_code": "IEE5752",
+        "num_limit": "9999",
+        "dep_limit": "N",
+        "URL": "https://sites.google.com/nctu.edu.tw/jeng/medical-imaging-systems-2021?authuser=0",
+        "cos_cname": "醫學成像系統",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "https://sites.google.com/nctu.edu.tw/jeng/home",
+        "teacher": "鄭耿璽",
+        "cos_time": "W567-ED201",
+        "memo": "[English Medium Course]",
+        "cos_ename": "Medical Imaging System",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "510",
+        "dep_primary": "1",
+        "dep_cname": "電子研究所",
+        "dep_ename": "Institute of Electronics",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       },
@@ -80895,34 +80923,6 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
-        "reg_num": "0",
-        "depType": "G"
-      },
-      "1092_5044": {
-        "acy": "109",
-        "sem": "2",
-        "cos_id": "5044",
-        "cos_code": "IEE5752",
-        "num_limit": "9999",
-        "dep_limit": "N",
-        "URL": "https://sites.google.com/nctu.edu.tw/jeng/medical-imaging-systems-2021?authuser=0",
-        "cos_cname": "醫學成像系統",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "https://sites.google.com/nctu.edu.tw/jeng/home",
-        "teacher": "鄭耿璽",
-        "cos_time": "W567-ED201",
-        "memo": "[English Medium Course]",
-        "cos_ename": "",
-        "brief": "",
-        "degree": "3",
-        "dep_id": "510",
-        "dep_primary": "1",
-        "dep_cname": "電子研究所",
-        "dep_ename": "Institute of Electronics",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "G"
       }
@@ -81198,6 +81198,15 @@
           "GECIEngName": ""
         }
       },
+      "1092_5044": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1092_5045": {
         "": {
           "course_category_cname": "",
@@ -81226,15 +81235,6 @@
         }
       },
       "1092_5048": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
-      "1092_5044": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -81425,6 +81425,12 @@
           "brief": ""
         }
       },
+      "1092_5044": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1092_5045": {
         "": {
           "brief_code": "",
@@ -81444,12 +81450,6 @@
         }
       },
       "1092_5048": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
-      "1092_5044": {
         "": {
           "brief_code": "",
           "brief": ""
@@ -81547,6 +81547,9 @@
       "1092_5042": {
         "授課語言代碼": "zh-tw"
       },
+      "1092_5044": {
+        "授課語言代碼": "en-us"
+      },
       "1092_5045": {
         "授課語言代碼": "zh-tw"
       },
@@ -81558,9 +81561,6 @@
       },
       "1092_5048": {
         "授課語言代碼": "zh-tw"
-      },
-      "1092_5044": {
-        "授課語言代碼": "en-us"
       }
     }
   },

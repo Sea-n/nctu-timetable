@@ -3117,7 +3117,7 @@
         "dep_ename": "Department of Humanities and Social Sciences",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -3481,7 +3481,7 @@
         "dep_ename": "Department of Humanities and Social Sciences",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -3537,7 +3537,7 @@
         "dep_ename": "Department of Humanities and Social Sciences",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -11235,7 +11235,7 @@
         "dep_ename": "Department of Computer Science",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -16307,7 +16307,7 @@
         "dep_ename": "Department of Materials Science and Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -16363,7 +16363,7 @@
         "dep_ename": "Department of Materials Science and Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -16970,7 +16970,7 @@
         "TURL": "",
         "teacher": "陳文亮、柯立偉、莊碧簪",
         "cos_time": "Wn56-SC106",
-        "memo": "理學院學士班優先\n(奈米學士班、生科系不同意所屬學生採計通識學分)",
+        "memo": "理學院學士班優先\n(生科系不同意所屬學生採計通識學分)",
         "cos_ename": "General Biology(II)",
         "brief": "",
         "degree": "1",
@@ -43512,7 +43512,7 @@
         "dep_ename": "Language Teaching and Research Center",
         "cos_type": "外語",
         "cos_type_e": "Foreign Languages Course",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "O"
       },
@@ -64549,7 +64549,7 @@
         "dep_ename": "Program of Hakka and Culture",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "P"
       },
@@ -64856,7 +64856,7 @@
         "dep_ename": "Program of  Sociology  and Anthropology",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "P"
       },
@@ -79782,6 +79782,34 @@
         "reg_num": "-999",
         "depType": "G"
       },
+      "1092_5691": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5691",
+        "cos_code": "IBT5308",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "論文研究",
+        "cos_credit": "1.00",
+        "cos_hours": "1.00",
+        "TURL": "",
+        "teacher": "吳妍華、邱光裕、王雲銘",
+        "cos_time": "T8-",
+        "memo": "[English Medium Course]",
+        "cos_ename": "Thesis",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "350",
+        "dep_primary": "1",
+        "dep_cname": "生物科技學系",
+        "dep_ename": "Institute of Biological Science and Technology",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "-999",
+        "depType": "G"
+      },
       "1092_5692": {
         "acy": "109",
         "sem": "2",
@@ -80140,6 +80168,15 @@
           "GECIEngName": ""
         }
       },
+      "1092_5691": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1092_5692": {
         "": {
           "course_category_cname": "",
@@ -80331,6 +80368,12 @@
           "brief": ""
         }
       },
+      "1092_5691": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1092_5692": {
         "": {
           "brief_code": "",
@@ -80434,6 +80477,9 @@
       },
       "1092_5754": {
         "授課語言代碼": "zh-tw"
+      },
+      "1092_5691": {
+        "授課語言代碼": "en-us"
       },
       "1092_5692": {
         "授課語言代碼": "en-us"
@@ -81378,7 +81424,7 @@
         "dep_ename": "Institute of Molecular and Bioengineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -88710,7 +88756,7 @@
         "dep_ename": "Graduate Program of Ethnicity and Culture",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       }
@@ -97045,7 +97091,7 @@
         "dep_ename": "Institute of Multimedia Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -103654,7 +103700,7 @@
         "dep_ename": "Institute of Applied Chemistry",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -103682,7 +103728,7 @@
         "dep_ename": "Institute of Applied Chemistry",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },

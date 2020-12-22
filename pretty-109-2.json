@@ -560,7 +560,7 @@
         "dep_ename": "Department of Biological Science and Technology",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -11515,7 +11515,7 @@
         "dep_ename": "Department of Computer Science",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -18964,7 +18964,7 @@
         "dep_ename": "Department of Applied Mathematics",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -19723,7 +19723,7 @@
         "dep_ename": "Department of Applied Chemistry",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -68028,62 +68028,6 @@
         "reg_num": "-999",
         "depType": "Q"
       },
-      "1092_5573": {
-        "acy": "109",
-        "sem": "2",
-        "cos_id": "5573",
-        "cos_code": "ITM5156",
-        "num_limit": "9999",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "行銷管理實務",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "",
-        "teacher": "林亭汝",
-        "cos_time": "S567-A701",
-        "memo": "",
-        "cos_ename": "Marketing Management and Practice",
-        "brief": "",
-        "degree": "1",
-        "dep_id": "QKQ",
-        "dep_primary": "1",
-        "dep_cname": "管理學院創業與創新管理跨域學程",
-        "dep_ename": "College of Management Venture & Innovation Management Cross-Discipl",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": null,
-        "reg_num": "-999",
-        "depType": "Q"
-      },
-      "1092_5613": {
-        "acy": "109",
-        "sem": "2",
-        "cos_id": "5613",
-        "cos_code": "IMS3002",
-        "num_limit": "50",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "自我領導",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "http://www.heartcreaction.org/",
-        "teacher": "蕭嬋",
-        "cos_time": "Fabc-光寶二廳",
-        "memo": "限專班選修",
-        "cos_ename": "Leadership Development",
-        "brief": "",
-        "degree": "1",
-        "dep_id": "QKQ",
-        "dep_primary": "1",
-        "dep_cname": "管理學院創業與創新管理跨域學程",
-        "dep_ename": "College of Management Venture & Innovation Management Cross-Discipl",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "-999",
-        "depType": "Q"
-      },
       "1092_5631": {
         "acy": "109",
         "sem": "2",
@@ -68100,34 +68044,6 @@
         "cos_time": "W567-A703",
         "memo": "VIP跨域學程、百川學程學生優先選課。",
         "cos_ename": "Foundations of Management and Entrepreneurship",
-        "brief": "",
-        "degree": "1",
-        "dep_id": "QKQ",
-        "dep_primary": "1",
-        "dep_cname": "管理學院創業與創新管理跨域學程",
-        "dep_ename": "College of Management Venture & Innovation Management Cross-Discipl",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "-999",
-        "depType": "Q"
-      },
-      "1092_5680": {
-        "acy": "109",
-        "sem": "2",
-        "cos_id": "5680",
-        "cos_code": "IOM8001",
-        "num_limit": "9999",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "經營管理-創業與興業家精神",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "",
-        "teacher": "林士平、黃仕斌、蕭嬋、黃宜侯、蔡蕙安、黃瓊誼、高國揚、林瑞嘉、蘇信寧、郭國泰、洪志洋、黃寬丞、姚銘忠、王志軒",
-        "cos_time": "Wabc-M116",
-        "memo": "限專班同學選課；上課地點:新竹校區光寶廳",
-        "cos_ename": "Entrepreneurs and Entrepreneurship",
         "brief": "",
         "degree": "1",
         "dep_id": "QKQ",
@@ -68287,38 +68203,11 @@
           "GECIEngName": "ECE,CCS,CBT,CHS,CHK"
         }
       },
-      "1092_5573": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
-      "1092_5613": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1092_5631": {
         "通識校基本素養_通識校基本": {
           "course_category_cname": "通識校基本素養_通識校基本",
           "course_category_ename": "General Education Course: Literacy_GECL",
           "course_category_type": "15",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
-      "1092_5680": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
           "GECIName": "",
           "GECIEngName": ""
         }
@@ -68388,28 +68277,10 @@
           "brief": "公民/進階(96),跨院基本素養(106),校基本素養(106)"
         }
       },
-      "1092_5573": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
-      "1092_5613": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1092_5631": {
         "A203,A505": {
           "brief_code": "A203,A505",
           "brief": "公民/進階(96),校基本素養(106)"
-        }
-      },
-      "1092_5680": {
-        "": {
-          "brief_code": "",
-          "brief": ""
         }
       },
       "1092_1519": {
@@ -68450,16 +68321,7 @@
       "1092_5572": {
         "授課語言代碼": "en-us"
       },
-      "1092_5573": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1092_5613": {
-        "授課語言代碼": "zh-tw"
-      },
       "1092_5631": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1092_5680": {
         "授課語言代碼": "zh-tw"
       },
       "1092_1519": {
@@ -72992,7 +72854,7 @@
         "TURL": "http://www.stat.nctu.edu.tw/subhtml/source/teachers/cchen.htm",
         "teacher": "陳志榮",
         "cos_time": "M56R2-EDB27",
-        "memo": "1.電機學院大三、大四優先 2.電機學院學生可列為通識課程(跨院基本素養)",
+        "memo": "1.電機學院大三、大四優先 2.電機學院學生可列為通識課程(跨院基本素養)3. 應數、傳科及管理學院不同意所屬學生採計通識學分",
         "cos_ename": "Statistics",
         "brief": "",
         "degree": "1",
@@ -75159,7 +75021,7 @@
         "TURL": "http://www.stat.nctu.edu.tw/subhtml/source/teachers/cchen.htm",
         "teacher": "陳志榮",
         "cos_time": "M56R2-EDB27",
-        "memo": "1.電機學院大三、大四優先 2.電機學院學生可列為通識課程(跨院基本素養)",
+        "memo": "1.電機學院大三、大四優先 2.電機學院學生可列為通識課程(跨院基本素養)3. 應數、傳科及管理學院不同意所屬學生採計通識學分",
         "cos_ename": "Statistics",
         "brief": "",
         "degree": "1",
@@ -77723,7 +77585,7 @@
         "dep_ename": "Artificial Intelligence-Biomedicine",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "Q"
       },
@@ -77909,7 +77771,7 @@
         "TURL": "http://www.stat.nctu.edu.tw/subhtml/source/teachers/cchen.htm",
         "teacher": "陳志榮",
         "cos_time": "M56R2-EDB27",
-        "memo": "1.電機學院大三、大四優先 2.電機學院學生可列為通識課程(跨院基本素養)",
+        "memo": "1.電機學院大三、大四優先 2.電機學院學生可列為通識課程(跨院基本素養)3. 應數、傳科及管理學院不同意所屬學生採計通識學分",
         "cos_ename": "Statistics",
         "brief": "",
         "degree": "1",
@@ -79328,7 +79190,7 @@
         "dep_ename": "Institute of Biological Science and Technology",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -79608,7 +79470,7 @@
         "dep_ename": "Institute of Biological Science and Technology",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -79636,7 +79498,7 @@
         "dep_ename": "Institute of Biological Science and Technology",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -85672,7 +85534,7 @@
         "dep_ename": "International Master's Program in Inter-Asia Cultural Studies",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "M"
       }
@@ -87241,7 +87103,7 @@
         "dep_ename": "Institute of Music",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -97043,7 +96905,7 @@
         "dep_ename": "Institute of Multimedia Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -103027,7 +102889,7 @@
         "dep_ename": "Institute of Applied Mathematics",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },

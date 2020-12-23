@@ -12096,6 +12096,34 @@
         "reg_num": "-999",
         "depType": "U"
       },
+      "1092_1117": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1117",
+        "cos_code": "DCE3001",
+        "num_limit": "110",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "統計學",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "http://www.stat.nctu.edu.tw/subhtml/source/teachers/cchen.htm",
+        "teacher": "陳志榮",
+        "cos_time": "M56R2-EDB27",
+        "memo": "1.電機學院大三、大四優先 2.電機學院學生可列為通識課程(跨院基本素養)3. 應數、傳科及管理學院不同意所屬學生採計通識學分",
+        "cos_ename": "Statistics",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "5I1",
+        "dep_primary": "1",
+        "dep_cname": "電機學院院級(學士班)",
+        "dep_ename": "College of Electrical and Computer Engineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "-999",
+        "depType": "U"
+      },
       "1092_1118": {
         "acy": "109",
         "sem": "2",
@@ -12151,6 +12179,29 @@
           "GECIEngName": ""
         }
       },
+      "1092_1117": {
+        "通識校基本素養_通識校基本": {
+          "course_category_cname": "通識校基本素養_通識校基本",
+          "course_category_ename": "General Education Course: Literacy_GECL",
+          "course_category_type": "15",
+          "GECIName": "電,資,工",
+          "GECIEngName": "ECE,CCS,COE"
+        },
+        "通識核心課程_通識核心": {
+          "course_category_cname": "通識核心課程_通識核心",
+          "course_category_ename": "General Education Course_GEC",
+          "course_category_type": "17",
+          "GECIName": "電,資,工",
+          "GECIEngName": "ECE,CCS,COE"
+        },
+        "通識跨院基本素養_通識跨院": {
+          "course_category_cname": "通識跨院基本素養_通識跨院",
+          "course_category_ename": "General Education Course: Intercollegiate_GECI",
+          "course_category_type": "16",
+          "GECIName": "電,資,工",
+          "GECIEngName": "ECE,CCS,COE"
+        }
+      },
       "1092_1118": {
         "通識校基本素養_通識校基本": {
           "course_category_cname": "通識校基本素養_通識校基本",
@@ -12188,6 +12239,12 @@
           "brief": ""
         }
       },
+      "1092_1117": {
+        "A205,A503,A504,A505": {
+          "brief_code": "A205,A503,A504,A505",
+          "brief": "自然/進階(96),核心-自然(106),跨院基本素養(106),校基本素養(106)"
+        }
+      },
       "1092_1118": {
         "A205,A503,A504,A505": {
           "brief_code": "A205,A503,A504,A505",
@@ -12200,6 +12257,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_1116": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_1117": {
         "授課語言代碼": "zh-tw"
       },
       "1092_1118": {
@@ -13193,7 +13253,7 @@
         "dep_ename": "Department of Mechanical Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -17777,7 +17837,7 @@
         "dep_ename": "Department of Electro-Physics",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -54092,7 +54152,7 @@
         "dep_ename": "Physical section",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "O"
       },
@@ -54372,7 +54432,7 @@
         "dep_ename": "Physical section",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "O"
       },
@@ -54512,7 +54572,7 @@
         "dep_ename": "Physical section",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "O"
       },
@@ -54670,6 +54730,34 @@
         "TURL": "",
         "teacher": "羅志偉",
         "cos_time": "M34R78-SA321",
+        "memo": "",
+        "cos_ename": "Physics(II)",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "OUD",
+        "dep_primary": "1",
+        "dep_cname": "物理教學小組",
+        "dep_ename": "Physical section",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "-999",
+        "depType": "O"
+      },
+      "1092_0521": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "0521",
+        "cos_code": "DEP1114",
+        "num_limit": "65",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "物理(二)榮譽班",
+        "cos_credit": "4.00",
+        "cos_hours": "4.00",
+        "TURL": "",
+        "teacher": "吳建德",
+        "cos_time": "T78F34-SC109",
         "memo": "",
         "cos_ename": "Physics(II)",
         "brief": "",
@@ -54919,6 +55007,15 @@
           "GECIEngName": "CHK"
         }
       },
+      "1092_0521": {
+        "通識跨院基本素養_通識跨院": {
+          "course_category_cname": "通識跨院基本素養_通識跨院",
+          "course_category_ename": "General Education Course: Intercollegiate_GECI",
+          "course_category_type": "16",
+          "GECIName": "客",
+          "GECIEngName": "CHK"
+        }
+      },
       "1092_0522": {
         "通識跨院基本素養_通識跨院": {
           "course_category_cname": "通識跨院基本素養_通識跨院",
@@ -55062,6 +55159,12 @@
           "brief": "自然/基礎(96),跨院基本素養(106)"
         }
       },
+      "1092_0521": {
+        "A105,A504": {
+          "brief_code": "A105,A504",
+          "brief": "自然/基礎(96),跨院基本素養(106)"
+        }
+      },
       "1092_0522": {
         "A105,A504": {
           "brief_code": "A105,A504",
@@ -55134,6 +55237,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_0511": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_0521": {
         "授課語言代碼": "zh-tw"
       },
       "1092_0522": {
@@ -59841,7 +59947,7 @@
         "TURL": "http://140.113.150.221",
         "teacher": "歐陽盟",
         "cos_time": "T234-EE623",
-        "memo": "電控所學生注意：畢業學分須修本所課程至少15學分(本所課程為永久課號ICN開頭之課程)[English Medium Course]",
+        "memo": "電控所學生注意：畢業學分須修本所課程至少15學分(本所課程為永久課號ICN開頭之課程)",
         "cos_ename": "Image Processing",
         "brief": "",
         "degree": "1",
@@ -60000,7 +60106,7 @@
         "sem": "2",
         "cos_id": "5093",
         "cos_code": "ECM9043",
-        "num_limit": "0",
+        "num_limit": "50",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "高等通訊系統模擬與實驗",
@@ -60008,7 +60114,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "吳文榕",
-        "cos_time": "T34n-ED713",
+        "cos_time": "F234-ED713",
         "memo": "[English Medium Course]",
         "cos_ename": "Advanced Communication System Simulation and Experiments",
         "brief": "",
@@ -65795,6 +65901,309 @@
       },
       "1092_5483": {
         "授課語言代碼": "en-us"
+      }
+    }
+  },
+  "C7AEA193-438E-4EC0-B89F-C33688A98A86": {
+    "dep_id": "C7AEA193-438E-4EC0-B89F-C33688A98A86",
+    "dep_cname": "科技管理研究所跨域學程(B)外系學生",
+    "dep_ename": "Institute of Management of Technology for Cross-Disciplinary Progra",
+    "1": {
+      "1092_5572": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5572",
+        "cos_code": "ITM5158",
+        "num_limit": "30",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "創業與新產品開發",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "林士平",
+        "cos_time": "F234-A701",
+        "memo": "科管所主開、GMBA輔開；英文授課；VIP/IMBA/通識/跨領域課程[English Medium Course]",
+        "cos_ename": "Entrepreneurship and New Product Development",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "QJS",
+        "dep_primary": "1",
+        "dep_cname": "科技管理研究所跨域學程(B)外系學生",
+        "dep_ename": "Institute of Management of Technology for Cross-Disciplinary Progra",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "-999",
+        "depType": "Q"
+      },
+      "1092_5574": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5574",
+        "cos_code": "ITM5213",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "科技與邏輯推論",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "李昕潔",
+        "cos_time": "W234-A722",
+        "memo": "英文授課、跨域[English Medium Course]",
+        "cos_ename": "Technology and Logic",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "QJS",
+        "dep_primary": "1",
+        "dep_cname": "科技管理研究所跨域學程(B)外系學生",
+        "dep_ename": "Institute of Management of Technology for Cross-Disciplinary Progra",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "-999",
+        "depType": "Q"
+      },
+      "1092_5575": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5575",
+        "cos_code": "ITM5214",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "機器學習演算法與應用",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "李昕潔",
+        "cos_time": "T567-A701",
+        "memo": "開放大四、跨域課程",
+        "cos_ename": "Machine Learning Algorithm and Its Application",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "QJS",
+        "dep_primary": "1",
+        "dep_cname": "科技管理研究所跨域學程(B)外系學生",
+        "dep_ename": "Institute of Management of Technology for Cross-Disciplinary Progra",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "-999",
+        "depType": "Q"
+      },
+      "1092_5663": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5663",
+        "cos_code": "ITM5080",
+        "num_limit": "9999",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "企業調查與研究方法",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "林亭汝",
+        "cos_time": "Fabc-A701",
+        "memo": "專班主開；專碩合開",
+        "cos_ename": "Business survey and research",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "QJS",
+        "dep_primary": "1",
+        "dep_cname": "科技管理研究所跨域學程(B)外系學生",
+        "dep_ename": "Institute of Management of Technology for Cross-Disciplinary Progra",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "-999",
+        "depType": "Q"
+      },
+      "1092_5664": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5664",
+        "cos_code": "ITM5086",
+        "num_limit": "160",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "企業管理",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "林亭汝",
+        "cos_time": "Rabc-AB103",
+        "memo": "專班主開；專碩合開",
+        "cos_ename": "Business Management",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "QJS",
+        "dep_primary": "1",
+        "dep_cname": "科技管理研究所跨域學程(B)外系學生",
+        "dep_ename": "Institute of Management of Technology for Cross-Disciplinary Progra",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "-999",
+        "depType": "Q"
+      },
+      "1092_5666": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5666",
+        "cos_code": "ITM5226",
+        "num_limit": "9999",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "智慧財產權管理實務",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "陳詩欣",
+        "cos_time": "Un56789-A722",
+        "memo": "專班主開；專碩合開；隔週上課",
+        "cos_ename": "Intellectual Property Management and Practice",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "QJS",
+        "dep_primary": "1",
+        "dep_cname": "科技管理研究所跨域學程(B)外系學生",
+        "dep_ename": "Institute of Management of Technology for Cross-Disciplinary Progra",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "-999",
+        "depType": "Q"
+      }
+    },
+    "costype": {
+      "1092_5572": {
+        "通識校基本素養_通識校基本": {
+          "course_category_cname": "通識校基本素養_通識校基本",
+          "course_category_ename": "General Education Course: Literacy_GECL",
+          "course_category_type": "15",
+          "GECIName": "電,資,生,人,客",
+          "GECIEngName": "ECE,CCS,CBT,CHS,CHK"
+        },
+        "通識跨院基本素養_通識跨院": {
+          "course_category_cname": "通識跨院基本素養_通識跨院",
+          "course_category_ename": "General Education Course: Intercollegiate_GECI",
+          "course_category_type": "16",
+          "GECIName": "電,資,生,人,客",
+          "GECIEngName": "ECE,CCS,CBT,CHS,CHK"
+        }
+      },
+      "1092_5574": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1092_5575": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1092_5663": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1092_5664": {
+        "通識校基本素養_通識校基本": {
+          "course_category_cname": "通識校基本素養_通識校基本",
+          "course_category_ename": "General Education Course: Literacy_GECL",
+          "course_category_type": "15",
+          "GECIName": "電,資,生,人,客",
+          "GECIEngName": "ECE,CCS,CBT,CHS,CHK"
+        },
+        "通識跨院基本素養_通識跨院": {
+          "course_category_cname": "通識跨院基本素養_通識跨院",
+          "course_category_ename": "General Education Course: Intercollegiate_GECI",
+          "course_category_type": "16",
+          "GECIName": "電,資,生,人,客",
+          "GECIEngName": "ECE,CCS,CBT,CHS,CHK"
+        }
+      },
+      "1092_5666": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "1092_5572": {
+        "A203,A504,A505": {
+          "brief_code": "A203,A504,A505",
+          "brief": "公民/進階(96),跨院基本素養(106),校基本素養(106)"
+        }
+      },
+      "1092_5574": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1092_5575": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1092_5663": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1092_5664": {
+        "A203,A504,A505": {
+          "brief_code": "A203,A504,A505",
+          "brief": "公民/進階(96),跨院基本素養(106),校基本素養(106)"
+        }
+      },
+      "1092_5666": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      }
+    },
+    "language": {
+      "1092_5572": {
+        "授課語言代碼": "en-us"
+      },
+      "1092_5574": {
+        "授課語言代碼": "en-us"
+      },
+      "1092_5575": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_5663": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_5664": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_5666": {
+        "授課語言代碼": "zh-tw"
       }
     }
   },
@@ -72840,6 +73249,34 @@
         "reg_num": "-999",
         "depType": "Q"
       },
+      "1092_1117": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1117",
+        "cos_code": "DCE3001",
+        "num_limit": "110",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "統計學",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "http://www.stat.nctu.edu.tw/subhtml/source/teachers/cchen.htm",
+        "teacher": "陳志榮",
+        "cos_time": "M56R2-EDB27",
+        "memo": "1.電機學院大三、大四優先 2.電機學院學生可列為通識課程(跨院基本素養)3. 應數、傳科及管理學院不同意所屬學生採計通識學分",
+        "cos_ename": "Statistics",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "QLK",
+        "dep_primary": "1",
+        "dep_cname": "人工智慧跨域學程-工程與科學組",
+        "dep_ename": "Artificial Intelligence-Engineering and Science",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "-999",
+        "depType": "Q"
+      },
       "1092_1118": {
         "acy": "109",
         "sem": "2",
@@ -73371,6 +73808,29 @@
           "GECIEngName": ""
         }
       },
+      "1092_1117": {
+        "通識校基本素養_通識校基本": {
+          "course_category_cname": "通識校基本素養_通識校基本",
+          "course_category_ename": "General Education Course: Literacy_GECL",
+          "course_category_type": "15",
+          "GECIName": "電,資,工",
+          "GECIEngName": "ECE,CCS,COE"
+        },
+        "通識核心課程_通識核心": {
+          "course_category_cname": "通識核心課程_通識核心",
+          "course_category_ename": "General Education Course_GEC",
+          "course_category_type": "17",
+          "GECIName": "電,資,工",
+          "GECIEngName": "ECE,CCS,COE"
+        },
+        "通識跨院基本素養_通識跨院": {
+          "course_category_cname": "通識跨院基本素養_通識跨院",
+          "course_category_ename": "General Education Course: Intercollegiate_GECI",
+          "course_category_type": "16",
+          "GECIName": "電,資,工",
+          "GECIEngName": "ECE,CCS,COE"
+        }
+      },
       "1092_1118": {
         "通識校基本素養_通識校基本": {
           "course_category_cname": "通識校基本素養_通識校基本",
@@ -73672,6 +74132,12 @@
           "brief": ""
         }
       },
+      "1092_1117": {
+        "A205,A503,A504,A505": {
+          "brief_code": "A205,A503,A504,A505",
+          "brief": "自然/進階(96),核心-自然(106),跨院基本素養(106),校基本素養(106)"
+        }
+      },
       "1092_1118": {
         "A205,A503,A504,A505": {
           "brief_code": "A205,A503,A504,A505",
@@ -73825,6 +74291,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_5654": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_1117": {
         "授課語言代碼": "zh-tw"
       },
       "1092_1118": {
@@ -74947,6 +75416,34 @@
         "reg_num": "-999",
         "depType": "Q"
       },
+      "1092_1117": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1117",
+        "cos_code": "DCE3001",
+        "num_limit": "110",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "統計學",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "http://www.stat.nctu.edu.tw/subhtml/source/teachers/cchen.htm",
+        "teacher": "陳志榮",
+        "cos_time": "M56R2-EDB27",
+        "memo": "1.電機學院大三、大四優先 2.電機學院學生可列為通識課程(跨院基本素養)3. 應數、傳科及管理學院不同意所屬學生採計通識學分",
+        "cos_ename": "Statistics",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "QLL",
+        "dep_primary": "1",
+        "dep_cname": "人工智慧跨域學程-管理組",
+        "dep_ename": "Artificial Intelligence-Management",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "-999",
+        "depType": "Q"
+      },
       "1092_1118": {
         "acy": "109",
         "sem": "2",
@@ -75559,6 +76056,29 @@
           "GECIEngName": ""
         }
       },
+      "1092_1117": {
+        "通識校基本素養_通識校基本": {
+          "course_category_cname": "通識校基本素養_通識校基本",
+          "course_category_ename": "General Education Course: Literacy_GECL",
+          "course_category_type": "15",
+          "GECIName": "電,資,工",
+          "GECIEngName": "ECE,CCS,COE"
+        },
+        "通識核心課程_通識核心": {
+          "course_category_cname": "通識核心課程_通識核心",
+          "course_category_ename": "General Education Course_GEC",
+          "course_category_type": "17",
+          "GECIName": "電,資,工",
+          "GECIEngName": "ECE,CCS,COE"
+        },
+        "通識跨院基本素養_通識跨院": {
+          "course_category_cname": "通識跨院基本素養_通識跨院",
+          "course_category_ename": "General Education Course: Intercollegiate_GECI",
+          "course_category_type": "16",
+          "GECIName": "電,資,工",
+          "GECIEngName": "ECE,CCS,COE"
+        }
+      },
       "1092_1118": {
         "通識校基本素養_通識校基本": {
           "course_category_cname": "通識校基本素養_通識校基本",
@@ -75890,6 +76410,12 @@
           "brief": ""
         }
       },
+      "1092_1117": {
+        "A205,A503,A504,A505": {
+          "brief_code": "A205,A503,A504,A505",
+          "brief": "自然/進階(96),核心-自然(106),跨院基本素養(106),校基本素養(106)"
+        }
+      },
       "1092_1118": {
         "A205,A503,A504,A505": {
           "brief_code": "A205,A503,A504,A505",
@@ -76061,6 +76587,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_5654": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_1117": {
         "授課語言代碼": "zh-tw"
       },
       "1092_1118": {
@@ -77119,7 +77648,7 @@
         "TURL": "http://140.113.150.221",
         "teacher": "歐陽盟",
         "cos_time": "T234-EE623",
-        "memo": "電控所學生注意：畢業學分須修本所課程至少15學分(本所課程為永久課號ICN開頭之課程)[English Medium Course]",
+        "memo": "電控所學生注意：畢業學分須修本所課程至少15學分(本所課程為永久課號ICN開頭之課程)",
         "cos_ename": "Image Processing",
         "brief": "",
         "degree": "1",
@@ -83383,7 +83912,7 @@
         "dep_ename": "Institute of Communication Studies",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -84475,7 +85004,7 @@
         "dep_ename": "Institute for Social Research and Cultural Studies",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -89468,7 +89997,7 @@
         "dep_ename": "Institute of Electronics",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -91069,7 +91598,7 @@
         "TURL": "https://sites.google.com/nctu.edu.tw/adclab-nctu/home",
         "teacher": "陳佳宏",
         "cos_time": "R678-EE209",
-        "memo": "",
+        "memo": "[English Medium Course]",
         "cos_ename": "Sigma-Delta-Modulator Data Converters",
         "brief": "",
         "degree": "3",
@@ -91281,7 +91810,7 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_5055": {
-        "授課語言代碼": "zh-tw"
+        "授課語言代碼": "en-us"
       },
       "1092_5139": {
         "授課語言代碼": "zh-tw"
@@ -91702,7 +92231,7 @@
         "TURL": "http://140.113.150.221",
         "teacher": "歐陽盟",
         "cos_time": "T234-EE623",
-        "memo": "電控所學生注意：畢業學分須修本所課程至少15學分(本所課程為永久課號ICN開頭之課程)[English Medium Course]",
+        "memo": "電控所學生注意：畢業學分須修本所課程至少15學分(本所課程為永久課號ICN開頭之課程)",
         "cos_ename": "Image Processing",
         "brief": "",
         "degree": "3",
@@ -92610,7 +93139,7 @@
         "sem": "2",
         "cos_id": "5093",
         "cos_code": "ECM9043",
-        "num_limit": "0",
+        "num_limit": "50",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "高等通訊系統模擬與實驗",
@@ -92618,7 +93147,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "吳文榕",
-        "cos_time": "T34n-ED713",
+        "cos_time": "F234-ED713",
         "memo": "[English Medium Course]",
         "cos_ename": "Advanced Communication System Simulation and Experiments",
         "brief": "",
@@ -99039,7 +99568,7 @@
         "dep_ename": "Institute of Mechanical Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -109234,7 +109763,7 @@
         "TURL": "",
         "teacher": "李昕潔",
         "cos_time": "W234-A722",
-        "memo": "英文授課[English Medium Course]、跨域",
+        "memo": "英文授課、跨域[English Medium Course]",
         "cos_ename": "Technology and Logic",
         "brief": "",
         "degree": "3",

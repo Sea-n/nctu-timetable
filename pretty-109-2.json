@@ -3425,7 +3425,7 @@
         "dep_ename": "Department of Humanities and Social Sciences",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -47461,7 +47461,7 @@
         "dep_ename": "Center for Service-Learning",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "O"
       },
@@ -53810,7 +53810,7 @@
         "TURL": "",
         "teacher": "陳健",
         "cos_time": "R56-CS",
-        "memo": "機械系、奈米學士班及管理學院不同意所屬學生採計通識學分",
+        "memo": "機械系.「108學年起入學奈米學士班」及管理學院不同意所屬學生採計通識學分",
         "cos_ename": "Introductiona to C Programming",
         "brief": "",
         "degree": "1",
@@ -65232,7 +65232,7 @@
         "dep_ename": "Program of Cultural Industries",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "P"
       },
@@ -72276,7 +72276,7 @@
         "dep_ename": "Artificial Intelligence-Engineering and Science",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "Q"
       },
@@ -76969,7 +76969,7 @@
         "dep_ename": "Artificial Intelligence-Biomedicine",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "Q"
       },
@@ -89676,7 +89676,7 @@
         "dep_ename": "Institute of Electronics",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -90096,7 +90096,7 @@
         "dep_ename": "Institute of Electronics",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -102056,6 +102056,34 @@
         "crsoutline_type": null,
         "reg_num": "-999",
         "depType": "G"
+      },
+      "1092_5402": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5402",
+        "cos_code": "IEV5352",
+        "num_limit": "70",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "專題討論",
+        "cos_credit": "1.00",
+        "cos_hours": "3.00",
+        "TURL": "http://jjkao.ev.nctu.edu.tw",
+        "teacher": "高正忠",
+        "cos_time": "F234-EV102",
+        "memo": "",
+        "cos_ename": "Seminar",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "615",
+        "dep_primary": "1",
+        "dep_cname": "環境工程研究所",
+        "dep_ename": "Institute of Environmental Engineering",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "-999",
+        "depType": "G"
       }
     },
     "costype": {
@@ -102139,6 +102167,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_5402": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -102195,6 +102232,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_5402": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -102223,6 +102266,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_5410": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_5402": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -116303,7 +116349,7 @@
         "dep_ename": "Graduate institute of finance",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "D"
       },
@@ -116331,7 +116377,7 @@
         "dep_ename": "Graduate institute of finance",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "D"
       },
@@ -116387,7 +116433,7 @@
         "dep_ename": "Graduate institute of finance",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "D"
       }
@@ -125568,7 +125614,7 @@
         "dep_ename": "College of Electrical Engineering and Computer Science",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },

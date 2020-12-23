@@ -1678,7 +1678,7 @@
         "dep_ename": "Department of Foreign Languages and Literatures",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -1818,7 +1818,7 @@
         "dep_ename": "Department of Foreign Languages and Literatures",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -2042,7 +2042,7 @@
         "dep_ename": "Department of Foreign Languages and Literatures",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -11160,7 +11160,7 @@
         "sem": "2",
         "cos_id": "1152",
         "cos_code": "DCP1323",
-        "num_limit": "100",
+        "num_limit": "120",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "密碼學概論",
@@ -12829,7 +12829,7 @@
         "dep_ename": "Department of Mechanical Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -12997,7 +12997,7 @@
         "dep_ename": "Department of Mechanical Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -14378,7 +14378,7 @@
         "dep_ename": "Department of Civil Engineering",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -20115,7 +20115,7 @@
         "dep_ename": "Department of Applied Chemistry",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -21328,7 +21328,7 @@
         "dep_ename": "Department of Transportation and Logistics Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -25211,7 +25211,7 @@
         "dep_ename": "Undergraduate Degree Program of System Engineering and Technology",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "T"
       },
@@ -53449,7 +53449,7 @@
         "dep_ename": "Military Training Office",
         "cos_type": "軍訓",
         "cos_type_e": "Military Training",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "O"
       },
@@ -53477,7 +53477,7 @@
         "dep_ename": "Military Training Office",
         "cos_type": "軍訓",
         "cos_type_e": "Military Training",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "O"
       },
@@ -57369,7 +57369,7 @@
         "dep_ename": "Self-Active I-Learning",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "O"
       },
@@ -67968,7 +67968,7 @@
         "dep_ename": "College of Management Venture & Innovation Management Cross-Discipl",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "Q"
       },
@@ -72840,34 +72840,6 @@
         "reg_num": "-999",
         "depType": "Q"
       },
-      "1092_1117": {
-        "acy": "109",
-        "sem": "2",
-        "cos_id": "1117",
-        "cos_code": "DCE3001",
-        "num_limit": "110",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "統計學",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "http://www.stat.nctu.edu.tw/subhtml/source/teachers/cchen.htm",
-        "teacher": "陳志榮",
-        "cos_time": "M56R2-EDB27",
-        "memo": "1.電機學院大三、大四優先 2.電機學院學生可列為通識課程(跨院基本素養)3. 應數、傳科及管理學院不同意所屬學生採計通識學分",
-        "cos_ename": "Statistics",
-        "brief": "",
-        "degree": "1",
-        "dep_id": "QLK",
-        "dep_primary": "1",
-        "dep_cname": "人工智慧跨域學程-工程與科學組",
-        "dep_ename": "Artificial Intelligence-Engineering and Science",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "-999",
-        "depType": "Q"
-      },
       "1092_1118": {
         "acy": "109",
         "sem": "2",
@@ -73399,29 +73371,6 @@
           "GECIEngName": ""
         }
       },
-      "1092_1117": {
-        "通識校基本素養_通識校基本": {
-          "course_category_cname": "通識校基本素養_通識校基本",
-          "course_category_ename": "General Education Course: Literacy_GECL",
-          "course_category_type": "15",
-          "GECIName": "電,資,工",
-          "GECIEngName": "ECE,CCS,COE"
-        },
-        "通識核心課程_通識核心": {
-          "course_category_cname": "通識核心課程_通識核心",
-          "course_category_ename": "General Education Course_GEC",
-          "course_category_type": "17",
-          "GECIName": "電,資,工",
-          "GECIEngName": "ECE,CCS,COE"
-        },
-        "通識跨院基本素養_通識跨院": {
-          "course_category_cname": "通識跨院基本素養_通識跨院",
-          "course_category_ename": "General Education Course: Intercollegiate_GECI",
-          "course_category_type": "16",
-          "GECIName": "電,資,工",
-          "GECIEngName": "ECE,CCS,COE"
-        }
-      },
       "1092_1118": {
         "通識校基本素養_通識校基本": {
           "course_category_cname": "通識校基本素養_通識校基本",
@@ -73723,12 +73672,6 @@
           "brief": ""
         }
       },
-      "1092_1117": {
-        "A205,A503,A504,A505": {
-          "brief_code": "A205,A503,A504,A505",
-          "brief": "自然/進階(96),核心-自然(106),跨院基本素養(106),校基本素養(106)"
-        }
-      },
       "1092_1118": {
         "A205,A503,A504,A505": {
           "brief_code": "A205,A503,A504,A505",
@@ -73882,9 +73825,6 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_5654": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1092_1117": {
         "授課語言代碼": "zh-tw"
       },
       "1092_1118": {
@@ -75007,34 +74947,6 @@
         "reg_num": "-999",
         "depType": "Q"
       },
-      "1092_1117": {
-        "acy": "109",
-        "sem": "2",
-        "cos_id": "1117",
-        "cos_code": "DCE3001",
-        "num_limit": "110",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "統計學",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "http://www.stat.nctu.edu.tw/subhtml/source/teachers/cchen.htm",
-        "teacher": "陳志榮",
-        "cos_time": "M56R2-EDB27",
-        "memo": "1.電機學院大三、大四優先 2.電機學院學生可列為通識課程(跨院基本素養)3. 應數、傳科及管理學院不同意所屬學生採計通識學分",
-        "cos_ename": "Statistics",
-        "brief": "",
-        "degree": "1",
-        "dep_id": "QLL",
-        "dep_primary": "1",
-        "dep_cname": "人工智慧跨域學程-管理組",
-        "dep_ename": "Artificial Intelligence-Management",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "-999",
-        "depType": "Q"
-      },
       "1092_1118": {
         "acy": "109",
         "sem": "2",
@@ -75647,29 +75559,6 @@
           "GECIEngName": ""
         }
       },
-      "1092_1117": {
-        "通識校基本素養_通識校基本": {
-          "course_category_cname": "通識校基本素養_通識校基本",
-          "course_category_ename": "General Education Course: Literacy_GECL",
-          "course_category_type": "15",
-          "GECIName": "電,資,工",
-          "GECIEngName": "ECE,CCS,COE"
-        },
-        "通識核心課程_通識核心": {
-          "course_category_cname": "通識核心課程_通識核心",
-          "course_category_ename": "General Education Course_GEC",
-          "course_category_type": "17",
-          "GECIName": "電,資,工",
-          "GECIEngName": "ECE,CCS,COE"
-        },
-        "通識跨院基本素養_通識跨院": {
-          "course_category_cname": "通識跨院基本素養_通識跨院",
-          "course_category_ename": "General Education Course: Intercollegiate_GECI",
-          "course_category_type": "16",
-          "GECIName": "電,資,工",
-          "GECIEngName": "ECE,CCS,COE"
-        }
-      },
       "1092_1118": {
         "通識校基本素養_通識校基本": {
           "course_category_cname": "通識校基本素養_通識校基本",
@@ -76001,12 +75890,6 @@
           "brief": ""
         }
       },
-      "1092_1117": {
-        "A205,A503,A504,A505": {
-          "brief_code": "A205,A503,A504,A505",
-          "brief": "自然/進階(96),核心-自然(106),跨院基本素養(106),校基本素養(106)"
-        }
-      },
       "1092_1118": {
         "A205,A503,A504,A505": {
           "brief_code": "A205,A503,A504,A505",
@@ -76178,9 +76061,6 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_5654": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1092_1117": {
         "授課語言代碼": "zh-tw"
       },
       "1092_1118": {
@@ -77757,34 +77637,6 @@
         "reg_num": "-999",
         "depType": "Q"
       },
-      "1092_1117": {
-        "acy": "109",
-        "sem": "2",
-        "cos_id": "1117",
-        "cos_code": "DCE3001",
-        "num_limit": "110",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "統計學",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "http://www.stat.nctu.edu.tw/subhtml/source/teachers/cchen.htm",
-        "teacher": "陳志榮",
-        "cos_time": "M56R2-EDB27",
-        "memo": "1.電機學院大三、大四優先 2.電機學院學生可列為通識課程(跨院基本素養)3. 應數、傳科及管理學院不同意所屬學生採計通識學分",
-        "cos_ename": "Statistics",
-        "brief": "",
-        "degree": "1",
-        "dep_id": "QLM",
-        "dep_primary": "1",
-        "dep_cname": "人工智慧跨域學程-生醫組",
-        "dep_ename": "Artificial Intelligence-Biomedicine",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "-999",
-        "depType": "Q"
-      },
       "1092_1118": {
         "acy": "109",
         "sem": "2",
@@ -78450,29 +78302,6 @@
           "GECIEngName": ""
         }
       },
-      "1092_1117": {
-        "通識校基本素養_通識校基本": {
-          "course_category_cname": "通識校基本素養_通識校基本",
-          "course_category_ename": "General Education Course: Literacy_GECL",
-          "course_category_type": "15",
-          "GECIName": "電,資,工",
-          "GECIEngName": "ECE,CCS,COE"
-        },
-        "通識核心課程_通識核心": {
-          "course_category_cname": "通識核心課程_通識核心",
-          "course_category_ename": "General Education Course_GEC",
-          "course_category_type": "17",
-          "GECIName": "電,資,工",
-          "GECIEngName": "ECE,CCS,COE"
-        },
-        "通識跨院基本素養_通識跨院": {
-          "course_category_cname": "通識跨院基本素養_通識跨院",
-          "course_category_ename": "General Education Course: Intercollegiate_GECI",
-          "course_category_type": "16",
-          "GECIName": "電,資,工",
-          "GECIEngName": "ECE,CCS,COE"
-        }
-      },
       "1092_1118": {
         "通識校基本素養_通識校基本": {
           "course_category_cname": "通識校基本素養_通識校基本",
@@ -78873,12 +78702,6 @@
           "brief": ""
         }
       },
-      "1092_1117": {
-        "A205,A503,A504,A505": {
-          "brief_code": "A205,A503,A504,A505",
-          "brief": "自然/進階(96),核心-自然(106),跨院基本素養(106),校基本素養(106)"
-        }
-      },
       "1092_1118": {
         "A205,A503,A504,A505": {
           "brief_code": "A205,A503,A504,A505",
@@ -79080,9 +78903,6 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_5730": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1092_1117": {
         "授課語言代碼": "zh-tw"
       },
       "1092_1118": {
@@ -98855,7 +98675,7 @@
         "dep_ename": "Institute of Mechanical Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -102887,7 +102707,7 @@
         "dep_ename": "Institute of Applied Mathematics",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -105285,7 +105105,7 @@
         "dep_ename": "Institute of Physics",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -106655,7 +106475,7 @@
         "dep_ename": "Institute of Traffic and Transportation",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -112552,7 +112372,7 @@
         "dep_ename": "Institute of Photonic System",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },

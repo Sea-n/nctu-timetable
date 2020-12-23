@@ -125822,6 +125822,34 @@
         "reg_num": "-999",
         "depType": "U"
       },
+      "1092_1139": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1139",
+        "cos_code": "UEE2204",
+        "num_limit": "50",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "電磁學",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "簡昭欣",
+        "cos_time": "M56R2-ED116",
+        "memo": "",
+        "cos_ename": "Electromagnetics",
+        "brief": "",
+        "degree": "A",
+        "dep_id": "5I1",
+        "dep_primary": "1",
+        "dep_cname": "電機系共同課程",
+        "dep_ename": "College of Electrical Engineering",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "-999",
+        "depType": "U"
+      },
       "1092_1140": {
         "acy": "109",
         "sem": "2",
@@ -126005,6 +126033,15 @@
           "GECIEngName": ""
         }
       },
+      "1092_1139": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1092_1140": {
         "": {
           "course_category_cname": "",
@@ -126118,6 +126155,12 @@
           "brief": ""
         }
       },
+      "1092_1139": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1092_1140": {
         "": {
           "brief_code": "",
@@ -126175,6 +126218,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_1138": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_1139": {
         "授課語言代碼": "zh-tw"
       },
       "1092_1140": {

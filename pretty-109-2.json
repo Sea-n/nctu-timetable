@@ -816,6 +816,90 @@
         "reg_num": "-999",
         "depType": "U"
       },
+      "1092_1564": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1564",
+        "cos_code": "DBT2301",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題研究(一)",
+        "cos_credit": "1.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "生科系",
+        "cos_time": "U234-",
+        "memo": "",
+        "cos_ename": "Research(I)",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "350",
+        "dep_primary": "1",
+        "dep_cname": "生物科技學系",
+        "dep_ename": "Department of Biological Science and Technology",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "-999",
+        "depType": "U"
+      },
+      "1092_1569": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1569",
+        "cos_code": "DBT2303",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題研究(三)",
+        "cos_credit": "1.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "生科系",
+        "cos_time": "S234-",
+        "memo": "",
+        "cos_ename": "Research(III)",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "350",
+        "dep_primary": "1",
+        "dep_cname": "生物科技學系",
+        "dep_ename": "Department of Biological Science and Technology",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "-999",
+        "depType": "U"
+      },
+      "1092_1570": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1570",
+        "cos_code": "DBT3011",
+        "num_limit": "13",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "書報討論:A組",
+        "cos_credit": "1.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "鄒協成",
+        "cos_time": "F34-BI301",
+        "memo": "",
+        "cos_ename": "Seminar",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "350",
+        "dep_primary": "1",
+        "dep_cname": "生物科技學系",
+        "dep_ename": "Department of Biological Science and Technology",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "-999",
+        "depType": "U"
+      },
       "1092_1571": {
         "acy": "109",
         "sem": "2",
@@ -924,6 +1008,34 @@
         "dep_ename": "Department of Biological Science and Technology",
         "cos_type": "必修",
         "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "-999",
+        "depType": "U"
+      },
+      "1092_1580": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1580",
+        "cos_code": "DBT2305",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題研究(五)",
+        "cos_credit": "1.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "生科系",
+        "cos_time": "U234-",
+        "memo": "",
+        "cos_ename": "Research(V)",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "350",
+        "dep_primary": "1",
+        "dep_cname": "生物科技學系",
+        "dep_ename": "Department of Biological Science and Technology",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
@@ -1226,6 +1338,33 @@
           "GECIEngName": ""
         }
       },
+      "1092_1564": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1092_1569": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1092_1570": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1092_1571": {
         "": {
           "course_category_cname": "",
@@ -1254,6 +1393,15 @@
         }
       },
       "1092_1575": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1092_1580": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -1438,6 +1586,24 @@
           "brief": ""
         }
       },
+      "1092_1564": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1092_1569": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1092_1570": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1092_1571": {
         "": {
           "brief_code": "",
@@ -1457,6 +1623,12 @@
         }
       },
       "1092_1575": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1092_1580": {
         "": {
           "brief_code": "",
           "brief": ""
@@ -1551,6 +1723,15 @@
       "1092_1582": {
         "授課語言代碼": "zh-tw"
       },
+      "1092_1564": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_1569": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_1570": {
+        "授課語言代碼": "zh-tw"
+      },
       "1092_1571": {
         "授課語言代碼": "zh-tw"
       },
@@ -1561,6 +1742,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_1575": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_1580": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -5860,7 +6044,7 @@
         "cos_hours": "3.00",
         "TURL": "http://www.mitchlinmusic.com",
         "teacher": "林明學",
-        "cos_time": "F567-論壇空間",
+        "cos_time": "F234-論壇空間",
         "memo": "論壇空間",
         "cos_ename": "Scoring for Film and Multimedia II",
         "brief": "",
@@ -11244,7 +11428,7 @@
         "sem": "2",
         "cos_id": "1155",
         "cos_code": "DCP3510",
-        "num_limit": "131",
+        "num_limit": "150",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "人工智慧概論",
@@ -15362,7 +15546,7 @@
         "dep_ename": "Department of Civil Engineering",
         "cos_type": "輔系",
         "cos_type_e": "Minor",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "U"
       },
@@ -55677,7 +55861,7 @@
         "sem": "2",
         "cos_id": "0412",
         "cos_code": "DAM1368",
-        "num_limit": "65",
+        "num_limit": "68",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "微積分甲（二）",
@@ -59546,7 +59730,7 @@
         "sem": "2",
         "cos_id": "1182",
         "cos_code": "DCP2108",
-        "num_limit": "75",
+        "num_limit": "67",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "計算機組織(英文授課)",
@@ -59574,7 +59758,7 @@
         "sem": "2",
         "cos_id": "1186",
         "cos_code": "DCP3122",
-        "num_limit": "70",
+        "num_limit": "34",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "正規語言概論(英文授課)",
@@ -62342,7 +62526,7 @@
         "cos_hours": "3.00",
         "TURL": "http://www.mitchlinmusic.com",
         "teacher": "林明學",
-        "cos_time": "F567-論壇空間",
+        "cos_time": "F234-論壇空間",
         "memo": "論壇空間",
         "cos_ename": "Scoring for Film and Multimedia II",
         "brief": "",
@@ -69182,7 +69366,7 @@
         "cos_hours": "3.00",
         "TURL": "http://www.mitchlinmusic.com",
         "teacher": "林明學",
-        "cos_time": "F567-論壇空間",
+        "cos_time": "F234-論壇空間",
         "memo": "論壇空間",
         "cos_ename": "Scoring for Film and Multimedia II",
         "brief": "",
@@ -72498,7 +72682,7 @@
         "sem": "2",
         "cos_id": "1155",
         "cos_code": "DCP3510",
-        "num_limit": "131",
+        "num_limit": "150",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "人工智慧概論",
@@ -75076,7 +75260,7 @@
         "dep_ename": "Artificial Intelligence-Management",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "Q"
       },
@@ -77107,7 +77291,7 @@
         "sem": "2",
         "cos_id": "1155",
         "cos_code": "DCP3510",
-        "num_limit": "131",
+        "num_limit": "150",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "人工智慧概論",
@@ -80243,6 +80427,34 @@
         "reg_num": "-999",
         "depType": "G"
       },
+      "1092_5697": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5697",
+        "cos_code": "IBT5308",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "論文研究",
+        "cos_credit": "1.00",
+        "cos_hours": "1.00",
+        "TURL": "",
+        "teacher": "鄒協成、林奇宏、廖光文",
+        "cos_time": "T8-",
+        "memo": "[English Medium Course]",
+        "cos_ename": "Thesis",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "350",
+        "dep_primary": "1",
+        "dep_cname": "生物科技學系",
+        "dep_ename": "Institute of Biological Science and Technology",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "-999",
+        "depType": "G"
+      },
       "1092_5698": {
         "acy": "109",
         "sem": "2",
@@ -80553,6 +80765,15 @@
           "GECIEngName": ""
         }
       },
+      "1092_5697": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1092_5698": {
         "": {
           "course_category_cname": "",
@@ -80741,6 +80962,12 @@
           "brief": ""
         }
       },
+      "1092_5697": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1092_5698": {
         "": {
           "brief_code": "",
@@ -80837,6 +81064,9 @@
         "授課語言代碼": "en-us"
       },
       "1092_5695": {
+        "授課語言代碼": "en-us"
+      },
+      "1092_5697": {
         "授課語言代碼": "en-us"
       },
       "1092_5698": {
@@ -89959,7 +90189,7 @@
         "dep_ename": "Institute of Electronics",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -100253,7 +100483,7 @@
         "dep_ename": "Institute of Civil Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -100830,7 +101060,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "王維志",
-        "cos_time": "F234-EB403",
+        "cos_time": "W234-EB403",
         "memo": "",
         "cos_ename": "Construction Cost Management",
         "brief": "",
@@ -105187,7 +105417,7 @@
         "dep_ename": "Institute of Statistics",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -105299,7 +105529,7 @@
         "dep_ename": "Institute of Statistics",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -124465,7 +124695,7 @@
         "sem": "2",
         "cos_id": "1182",
         "cos_code": "DCP2108",
-        "num_limit": "75",
+        "num_limit": "67",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "計算機組織(英文授課)",
@@ -124493,7 +124723,7 @@
         "sem": "2",
         "cos_id": "1183",
         "cos_code": "DCP2112",
-        "num_limit": "88",
+        "num_limit": "90",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "通訊原理與無線網路",
@@ -124577,7 +124807,7 @@
         "sem": "2",
         "cos_id": "1186",
         "cos_code": "DCP3122",
-        "num_limit": "70",
+        "num_limit": "34",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "正規語言概論(英文授課)",
@@ -124605,7 +124835,7 @@
         "sem": "2",
         "cos_id": "1187",
         "cos_code": "DCP3321",
-        "num_limit": "70",
+        "num_limit": "34",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "正規語言概論",
@@ -124633,7 +124863,7 @@
         "sem": "2",
         "cos_id": "1188",
         "cos_code": "DCP3321",
-        "num_limit": "70",
+        "num_limit": "34",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "正規語言概論",
@@ -124661,7 +124891,7 @@
         "sem": "2",
         "cos_id": "1189",
         "cos_code": "DCP3362",
-        "num_limit": "75",
+        "num_limit": "67",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "計算機組織",
@@ -124689,7 +124919,7 @@
         "sem": "2",
         "cos_id": "1190",
         "cos_code": "DCP3362",
-        "num_limit": "75",
+        "num_limit": "67",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "計算機組織",
@@ -124717,7 +124947,7 @@
         "sem": "2",
         "cos_id": "1191",
         "cos_code": "DCP2112",
-        "num_limit": "88",
+        "num_limit": "90",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "通訊原理與無線網路",

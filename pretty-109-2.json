@@ -252,7 +252,7 @@
         "dep_ename": "Department of Biological Science and Technology",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "40",
         "depType": "U"
       },
@@ -6113,7 +6113,7 @@
         "sem": "2",
         "cos_id": "1653",
         "cos_code": "DOH1051",
-        "num_limit": "9999",
+        "num_limit": "12",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "金工基礎與跨域設計",
@@ -6132,7 +6132,7 @@
         "dep_ename": "College of Humanities and Social Science",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "U"
       }
@@ -11462,34 +11462,6 @@
         "reg_num": "105",
         "depType": "U"
       },
-      "1092_1155": {
-        "acy": "109",
-        "sem": "2",
-        "cos_id": "1155",
-        "cos_code": "DCP3510",
-        "num_limit": "170",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "人工智慧概論",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "",
-        "teacher": "王昱舜",
-        "cos_time": "T56F2-ED117",
-        "memo": "外系生請於開學上網加選；資工系與電資學士班學生優先選課；108 學年度入學學士班七大主題學程",
-        "cos_ename": "Intro. to Artificial Intelligence",
-        "brief": "",
-        "degree": "1",
-        "dep_id": "550",
-        "dep_primary": "1",
-        "dep_cname": "資訊工程學系",
-        "dep_ename": "Department of Computer Science",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "171",
-        "depType": "U"
-      },
       "1092_1157": {
         "acy": "109",
         "sem": "2",
@@ -11928,15 +11900,6 @@
           "GECIEngName": ""
         }
       },
-      "1092_1155": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1092_1157": {
         "": {
           "course_category_cname": "",
@@ -12104,12 +12067,6 @@
           "brief": ""
         }
       },
-      "1092_1155": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1092_1157": {
         "": {
           "brief_code": "",
@@ -12212,9 +12169,6 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_1154": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1092_1155": {
         "授課語言代碼": "zh-tw"
       },
       "1092_1157": {
@@ -67683,7 +67637,7 @@
         "sem": "2",
         "cos_id": "1653",
         "cos_code": "DOH1051",
-        "num_limit": "9999",
+        "num_limit": "12",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "金工基礎與跨域設計",
@@ -67702,7 +67656,7 @@
         "dep_ename": "College of Humanities and Social Sciences for Transdisciplinary Inn",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "Q"
       },
@@ -97661,34 +97615,6 @@
         "crsoutline_type": null,
         "reg_num": "7",
         "depType": "G"
-      },
-      "1092_5930": {
-        "acy": "109",
-        "sem": "2",
-        "cos_id": "5930",
-        "cos_code": "IOC5219",
-        "num_limit": "60",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "智慧系統之感知與決策(英文授課)",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "",
-        "teacher": "陳奕廷",
-        "cos_time": "M7R34-EC122",
-        "memo": "本院學生優先； 英文授課[English Medium Course]",
-        "cos_ename": "Perception and Decision Making in Intelligent Systems",
-        "brief": "",
-        "degree": "3",
-        "dep_id": "551",
-        "dep_primary": "1",
-        "dep_cname": "資訊科學與工程研究所",
-        "dep_ename": "Institute of Computer Science and Engineering",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "16",
-        "depType": "G"
       }
     },
     "costype": {
@@ -97943,15 +97869,6 @@
           "GECIName": "",
           "GECIEngName": ""
         }
-      },
-      "1092_5930": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
       }
     },
     "brief": {
@@ -98122,12 +98039,6 @@
           "brief_code": "",
           "brief": ""
         }
-      },
-      "1092_5930": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
       }
     },
     "language": {
@@ -98213,9 +98124,6 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_5277": {
-        "授課語言代碼": "en-us"
-      },
-      "1092_5930": {
         "授課語言代碼": "en-us"
       }
     }
@@ -125640,6 +125548,34 @@
     "dep_cname": "資訊學院共同課程",
     "dep_ename": "College of Computer Science",
     "1": {
+      "1092_1155": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1155",
+        "cos_code": "DCP3510",
+        "num_limit": "170",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "人工智慧概論",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "王昱舜",
+        "cos_time": "T56F2-ED117",
+        "memo": "外系生請於開學上網加選；資工系與電資學士班學生優先選課；108 學年度入學學士班七大主題學程",
+        "cos_ename": "Intro. to Artificial Intelligence",
+        "brief": "",
+        "degree": "A",
+        "dep_id": "5C1",
+        "dep_primary": "1",
+        "dep_cname": "資訊學院共同課程",
+        "dep_ename": "College of Computer Science",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "171",
+        "depType": "U"
+      },
       "1092_1173": {
         "acy": "109",
         "sem": "2",
@@ -126171,9 +126107,46 @@
         "crsoutline_type": "data",
         "reg_num": "105",
         "depType": "U"
+      },
+      "1092_1192": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1192",
+        "cos_code": "DCP3128",
+        "num_limit": "100",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "人工智慧概論(英文授課)",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "陳奕廷",
+        "cos_time": "T56F2-EDB27",
+        "memo": "外系生請於開學上網加選；資工系與電資學士班學生優先選課；108 學年度入學學士班七大主題學程；英文授課[English Medium Course]",
+        "cos_ename": "Intro. to Artificial Intelligence",
+        "brief": "",
+        "degree": "A",
+        "dep_id": "5C1",
+        "dep_primary": "1",
+        "dep_cname": "資訊學院共同課程",
+        "dep_ename": "College of Computer Science",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "U"
       }
     },
     "costype": {
+      "1092_1155": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1092_1173": {
         "通識跨院基本素養_通識跨院": {
           "course_category_cname": "通識跨院基本素養_通識跨院",
@@ -126358,6 +126331,15 @@
         }
       },
       "1092_1191": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1092_1192": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -126368,6 +126350,12 @@
       }
     },
     "brief": {
+      "1092_1155": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1092_1173": {
         "A205,A504": {
           "brief_code": "A205,A504",
@@ -126477,6 +126465,12 @@
         }
       },
       "1092_1191": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1092_1192": {
         "": {
           "brief_code": "",
           "brief": ""
@@ -126484,6 +126478,9 @@
       }
     },
     "language": {
+      "1092_1155": {
+        "授課語言代碼": "zh-tw"
+      },
       "1092_1173": {
         "授課語言代碼": "zh-tw"
       },
@@ -126540,6 +126537,9 @@
       },
       "1092_1191": {
         "授課語言代碼": "zh-tw"
+      },
+      "1092_1192": {
+        "授課語言代碼": "en-us"
       }
     }
   },

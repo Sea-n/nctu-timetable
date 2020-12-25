@@ -1853,7 +1853,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "27",
+        "reg_num": "26",
         "depType": "U"
       },
       "1092_1589": {
@@ -1881,7 +1881,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "21",
+        "reg_num": "22",
         "depType": "U"
       },
       "1092_1590": {
@@ -22008,7 +22008,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "67",
+        "reg_num": "66",
         "depType": "U"
       },
       "1092_1489": {
@@ -37495,7 +37495,7 @@
         "cos_type": "通識",
         "cos_type_e": "General Course",
         "crsoutline_type": "data",
-        "reg_num": "50",
+        "reg_num": "55",
         "depType": "O"
       },
       "1092_6149": {
@@ -57158,6 +57158,62 @@
         "crsoutline_type": "data",
         "reg_num": "20",
         "depType": "O"
+      },
+      "1092_1917": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1917",
+        "cos_code": "DOA1033",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "西洋藝術史觀點",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "蕭智尹",
+        "cos_time": "W34n-",
+        "memo": "",
+        "cos_ename": "Perspectives in Western Art History",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "OUH",
+        "dep_primary": "1",
+        "dep_cname": "教學發展中心",
+        "dep_ename": "Center of Teaching and Learning Development",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "O"
+      },
+      "1092_1918": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1918",
+        "cos_code": "DOA1034",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "從多元族群看英國社會史",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "蕭智尹",
+        "cos_time": "M678-",
+        "memo": "",
+        "cos_ename": "An Introduction to the British History: Race, Ethnicity and Culture",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "OUH",
+        "dep_primary": "1",
+        "dep_cname": "教學發展中心",
+        "dep_ename": "Center of Teaching and Learning Development",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "O"
       }
     },
     "costype": {
@@ -57280,6 +57336,24 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_1917": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1092_1918": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -57348,6 +57422,18 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_1917": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1092_1918": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -57382,6 +57468,12 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_1916": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_1917": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_1918": {
         "授課語言代碼": "zh-tw"
       }
     }

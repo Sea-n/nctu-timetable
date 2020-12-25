@@ -2384,7 +2384,7 @@
         "dep_ename": "Department of Foreign Languages and Literatures",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "16",
         "depType": "U"
       },
@@ -3459,7 +3459,7 @@
         "dep_ename": "Department of Humanities and Social Sciences",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "59",
         "depType": "U"
       },
@@ -5438,7 +5438,7 @@
         "sem": "2",
         "cos_id": "1626",
         "cos_code": "DOH1012",
-        "num_limit": "9999",
+        "num_limit": "30",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "基本設計進階",
@@ -11782,7 +11782,7 @@
         "sem": "2",
         "cos_id": "1167",
         "cos_code": "DCP3127",
-        "num_limit": "96",
+        "num_limit": "120",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "影像處理概論(英文授課)",
@@ -17843,7 +17843,7 @@
         "dep_ename": "Department of Electro-Physics",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "19",
         "depType": "U"
       },
@@ -63840,7 +63840,7 @@
         "sem": "2",
         "cos_id": "1626",
         "cos_code": "DOH1012",
-        "num_limit": "9999",
+        "num_limit": "30",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "基本設計進階",
@@ -67298,7 +67298,7 @@
         "sem": "2",
         "cos_id": "1626",
         "cos_code": "DOH1012",
-        "num_limit": "9999",
+        "num_limit": "30",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "基本設計進階",
@@ -68463,7 +68463,7 @@
         "dep_ename": "",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "19",
         "depType": "Q"
       },
@@ -78252,7 +78252,7 @@
         "sem": "2",
         "cos_id": "1167",
         "cos_code": "DCP3127",
-        "num_limit": "96",
+        "num_limit": "120",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "影像處理概論(英文授課)",
@@ -83746,6 +83746,34 @@
         "crsoutline_type": "data",
         "reg_num": "18",
         "depType": "G"
+      },
+      "1092_5766": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5766",
+        "cos_code": "ILC5103",
+        "num_limit": "9999",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "音韻學",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "李相任",
+        "cos_time": "R234-HC401",
+        "memo": "限外語所[English Medium Course]",
+        "cos_ename": "Phonology",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "451",
+        "dep_primary": "1",
+        "dep_cname": "外國語文學系外國文學與語言學碩士班",
+        "dep_ename": "Institute of Foreign Literatures and Linguistics",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "2",
+        "depType": "G"
       }
     },
     "costype": {
@@ -83838,6 +83866,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_5766": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -83900,6 +83937,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_5766": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -83932,6 +83975,9 @@
       },
       "1092_5938": {
         "授課語言代碼": "zh-tw"
+      },
+      "1092_5766": {
+        "授課語言代碼": "en-us"
       }
     }
   },
@@ -84311,7 +84357,7 @@
         "dep_ename": "Institute of Education",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "8",
         "depType": "G"
       },
@@ -100571,7 +100617,7 @@
         "dep_ename": "Institute of Mechanical Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "8",
         "depType": "G"
       },
@@ -103962,7 +104008,7 @@
         "dep_ename": "Institute of Electro-Physics",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "10",
         "depType": "G"
       },
@@ -116699,7 +116745,7 @@
         "dep_ename": "",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "1",
         "depType": "D"
       }
@@ -119815,7 +119861,7 @@
         "dep_ename": "Degree Program of Automation and Precision Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "19",
         "depType": "J"
       }
@@ -122825,7 +122871,7 @@
         "dep_ename": "Degree Program of Financ",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "1",
         "depType": "J"
       },
@@ -125849,8 +125895,8 @@
         "dep_primary": "1",
         "dep_cname": "資訊學院共同課程",
         "dep_ename": "College of Computer Science",
-        "cos_type": "必修",
-        "cos_type_e": "Required",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "33",
         "depType": "U"
@@ -125877,8 +125923,8 @@
         "dep_primary": "1",
         "dep_cname": "資訊學院共同課程",
         "dep_ename": "College of Computer Science",
-        "cos_type": "必修",
-        "cos_type_e": "Required",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "40",
         "depType": "U"
@@ -125905,8 +125951,8 @@
         "dep_primary": "1",
         "dep_cname": "資訊學院共同課程",
         "dep_ename": "College of Computer Science",
-        "cos_type": "必修",
-        "cos_type_e": "Required",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "41",
         "depType": "U"

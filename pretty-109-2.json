@@ -1853,7 +1853,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "26",
+        "reg_num": "25",
         "depType": "U"
       },
       "1092_1589": {
@@ -1881,7 +1881,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "22",
+        "reg_num": "21",
         "depType": "U"
       },
       "1092_1590": {
@@ -6631,7 +6631,7 @@
         "cos_id": "1001",
         "cos_code": "ECE1602",
         "num_limit": "9999",
-        "dep_limit": "*",
+        "dep_limit": "N",
         "URL": null,
         "cos_cname": "國外研習",
         "cos_credit": "1.00",
@@ -98334,7 +98334,7 @@
         "sem": "2",
         "cos_id": "5307",
         "cos_code": "IOE5115",
-        "num_limit": "40",
+        "num_limit": "70",
         "dep_limit": "N",
         "URL": null,
         "cos_cname": "密碼工程",
@@ -116652,8 +116652,8 @@
         "cos_credit": "3.00",
         "cos_hours": "3.00",
         "TURL": "",
-        "teacher": "簡美玲",
-        "cos_time": "T678-HK318",
+        "teacher": "連瑞枝",
+        "cos_time": "R234-HK318",
         "memo": "",
         "cos_ename": "Knowledge and Methodology",
         "brief": "",
@@ -117066,7 +117066,7 @@
         "dep_ename": "International Graduate Program of Sustainable Chemical Science & Te",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "M"
       },
@@ -117094,7 +117094,7 @@
         "dep_ename": "International Graduate Program of Sustainable Chemical Science & Te",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "M"
       },
@@ -117122,7 +117122,7 @@
         "dep_ename": "International Graduate Program of Sustainable Chemical Science & Te",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "M"
       },
@@ -117178,7 +117178,7 @@
         "dep_ename": "International Graduate Program of Sustainable Chemical Science & Te",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "M"
       },
@@ -117206,7 +117206,7 @@
         "dep_ename": "International Graduate Program of Sustainable Chemical Science & Te",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "2",
         "depType": "M"
       },
@@ -117234,7 +117234,7 @@
         "dep_ename": "International Graduate Program of Sustainable Chemical Science & Te",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "M"
       },
@@ -117290,7 +117290,7 @@
         "dep_ename": "International Graduate Program of Sustainable Chemical Science & Te",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "M"
       },
@@ -117318,7 +117318,7 @@
         "dep_ename": "International Graduate Program of Sustainable Chemical Science & Te",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "1",
         "depType": "M"
       },
@@ -117346,7 +117346,7 @@
         "dep_ename": "International Graduate Program of Sustainable Chemical Science & Te",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "M"
       },
@@ -117375,6 +117375,62 @@
         "cos_type": "選修",
         "cos_type_e": "Elective",
         "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "M"
+      },
+      "1092_4013": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "4013",
+        "cos_code": "ISC5105",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題演講",
+        "cos_credit": "1.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "Academia Sinica SCST",
+        "cos_time": "S34-",
+        "memo": "中研院化學所[English Medium Course]",
+        "cos_ename": "Colloquium",
+        "brief": "",
+        "degree": "4",
+        "dep_id": "656",
+        "dep_primary": "1",
+        "dep_cname": "永續化學科技國際研究生博士學位學程",
+        "dep_ename": "International Graduate Program of Sustainable Chemical Science & Te",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "M"
+      },
+      "1092_4014": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "4014",
+        "cos_code": "ISC5106",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "書報討論",
+        "cos_credit": "1.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "Academia Sinica SCST",
+        "cos_time": "W78-",
+        "memo": "中研院化學所 B105[English Medium Course]",
+        "cos_ename": "Seminar",
+        "brief": "",
+        "degree": "4",
+        "dep_id": "656",
+        "dep_primary": "1",
+        "dep_cname": "永續化學科技國際研究生博士學位學程",
+        "dep_ename": "International Graduate Program of Sustainable Chemical Science & Te",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "M"
       }
@@ -117496,6 +117552,24 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_4013": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1092_4014": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -117576,6 +117650,18 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_4013": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1092_4014": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -117616,6 +117702,12 @@
         "授課語言代碼": "en-us"
       },
       "1092_4026": {
+        "授課語言代碼": "en-us"
+      },
+      "1092_4013": {
+        "授課語言代碼": "en-us"
+      },
+      "1092_4014": {
         "授課語言代碼": "en-us"
       }
     }

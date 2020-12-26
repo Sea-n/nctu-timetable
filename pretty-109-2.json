@@ -816,6 +816,34 @@
         "reg_num": "24",
         "depType": "U"
       },
+      "1092_1541": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1541",
+        "cos_code": "DBT1106",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "物理(二)",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "張正宏",
+        "cos_time": "T7F34-SC106",
+        "memo": "",
+        "cos_ename": "Physics(II)",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "350",
+        "dep_primary": "1",
+        "dep_cname": "生物科技學系",
+        "dep_ename": "Department of Biological Science and Technology",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "66",
+        "depType": "U"
+      },
       "1092_1564": {
         "acy": "109",
         "sem": "2",
@@ -1366,6 +1394,15 @@
           "GECIEngName": ""
         }
       },
+      "1092_1541": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1092_1564": {
         "": {
           "course_category_cname": "",
@@ -1623,6 +1660,12 @@
           "brief": ""
         }
       },
+      "1092_1541": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1092_1564": {
         "": {
           "brief_code": "",
@@ -1764,6 +1807,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_1582": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_1541": {
         "授課語言代碼": "zh-tw"
       },
       "1092_1564": {

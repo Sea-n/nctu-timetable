@@ -7874,7 +7874,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "蔡中庸",
-        "cos_time": "W34F6-EE105",
+        "cos_time": "W34F7-EE105",
         "memo": "TabvRabc為實驗課EE635任選實驗時間",
         "cos_ename": "JAVA Programming",
         "brief": "",
@@ -90693,7 +90693,7 @@
         "sem": "2",
         "cos_id": "5923",
         "cos_code": "ICH5100",
-        "num_limit": "9999",
+        "num_limit": "20",
         "dep_limit": "*",
         "URL": null,
         "cos_cname": "視覺文化與美學",
@@ -102904,7 +102904,7 @@
         "dep_ename": "Institute of Materials Science and Engineering",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "-999",
         "depType": "G"
       },
@@ -103187,6 +103187,34 @@
         "crsoutline_type": null,
         "reg_num": "-999",
         "depType": "G"
+      },
+      "1092_5392": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5392",
+        "cos_code": "IMA5521",
+        "num_limit": "9999",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "擴散學",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "羅友杰",
+        "cos_time": "T234-EF201",
+        "memo": "1限材料系、奈米所、加速器學程加選 2.外系以書面加選",
+        "cos_ename": "Diffusion",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "613",
+        "dep_primary": "1",
+        "dep_cname": "材料科學與工程學系",
+        "dep_ename": "Institute of Materials Science and Engineering",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "-999",
+        "depType": "G"
       }
     },
     "costype": {
@@ -103306,6 +103334,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_5392": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -103386,6 +103423,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_5392": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -103427,6 +103470,9 @@
       },
       "1092_5399": {
         "授課語言代碼": "en-us"
+      },
+      "1092_5392": {
+        "授課語言代碼": "zh-tw"
       }
     }
   },

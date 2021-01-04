@@ -3580,7 +3580,7 @@
         "teacher": "蔣淑貞",
         "cos_time": "M234-HKB09",
         "memo": "",
-        "cos_ename": "Culture Theories",
+        "cos_ename": "Cultural Theory",
         "brief": "",
         "degree": "1",
         "dep_id": "481",
@@ -43947,6 +43947,34 @@
         "reg_num": "6",
         "depType": "O"
       },
+      "1092_7523": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "7523",
+        "cos_code": "DFR1325",
+        "num_limit": "30",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "中高級日語聽講",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "上條純惠",
+        "cos_time": "F56-A506",
+        "memo": "須先修畢日文（五）。",
+        "cos_ename": "High-Intermediate Japanese Listening and Conversation",
+        "brief": "其它",
+        "degree": "1",
+        "dep_id": "OU6",
+        "dep_primary": "1",
+        "dep_cname": "語言教學與研究中心",
+        "dep_ename": "Language Teaching and Research Center",
+        "cos_type": "外語",
+        "cos_type_e": "Foreign Languages Course",
+        "crsoutline_type": "data",
+        "reg_num": "7",
+        "depType": "O"
+      },
       "1092_7524": {
         "acy": "109",
         "sem": "2",
@@ -44871,34 +44899,6 @@
         "reg_num": "28",
         "depType": "O"
       },
-      "1092_7523": {
-        "acy": "109",
-        "sem": "2",
-        "cos_id": "7523",
-        "cos_code": "DFR1325",
-        "num_limit": "30",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "中高級日語聽講",
-        "cos_credit": "2.00",
-        "cos_hours": "2.00",
-        "TURL": "",
-        "teacher": "上條純惠",
-        "cos_time": "F56-A506",
-        "memo": "須先修畢日文（五）。",
-        "cos_ename": "",
-        "brief": "其它",
-        "degree": "1",
-        "dep_id": "OU6",
-        "dep_primary": "1",
-        "dep_cname": "語言教學與研究中心",
-        "dep_ename": "Language Teaching and Research Center",
-        "cos_type": "外語",
-        "cos_type_e": "Foreign Languages Course",
-        "crsoutline_type": "data",
-        "reg_num": "7",
-        "depType": "O"
-      },
       "1092_7530": {
         "acy": "109",
         "sem": "2",
@@ -45618,6 +45618,15 @@
           "GECIEngName": ""
         }
       },
+      "1092_7523": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1092_7524": {
         "": {
           "course_category_cname": "",
@@ -45907,15 +45916,6 @@
         }
       },
       "1092_7521": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
-      "1092_7523": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -46346,6 +46346,12 @@
           "brief": "進階(87)"
         }
       },
+      "1092_7523": {
+        "B075": {
+          "brief_code": "B075",
+          "brief": "其它(87)"
+        }
+      },
       "1092_7524": {
         "B075": {
           "brief_code": "B075",
@@ -46539,12 +46545,6 @@
         }
       },
       "1092_7521": {
-        "B075": {
-          "brief_code": "B075",
-          "brief": "其它(87)"
-        }
-      },
-      "1092_7523": {
         "B075": {
           "brief_code": "B075",
           "brief": "其它(87)"
@@ -46771,6 +46771,9 @@
       "1092_7181": {
         "授課語言代碼": "zh-tw"
       },
+      "1092_7523": {
+        "授課語言代碼": "zh-tw"
+      },
       "1092_7524": {
         "授課語言代碼": "zh-tw"
       },
@@ -46868,9 +46871,6 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_7521": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1092_7523": {
         "授課語言代碼": "zh-tw"
       },
       "1092_7530": {
@@ -57638,7 +57638,7 @@
         "dep_ename": "Self-Active I-Learning",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -57666,7 +57666,7 @@
         "dep_ename": "Self-Active I-Learning",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
       },
@@ -79221,7 +79221,7 @@
         "cos_hours": "3.00",
         "TURL": "http://www.cs.nctu.edu.tw/~yschen",
         "teacher": "陳永昇",
-        "cos_time": "Fn56-EC122",
+        "cos_time": "R234-EC114",
         "memo": "本院學生優先",
         "cos_ename": "Research Project in Application of Artificial Intelligence on Medical Imaging",
         "brief": "",
@@ -91139,7 +91139,7 @@
         "dep_ename": "Institute of Electronics",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "81",
         "depType": "G"
       },
@@ -97617,7 +97617,7 @@
         "cos_hours": "3.00",
         "TURL": "http://www.cs.nctu.edu.tw/~yschen",
         "teacher": "陳永昇",
-        "cos_time": "Fn56-EC122",
+        "cos_time": "R234-EC114",
         "memo": "本院學生優先",
         "cos_ename": "Research Project in Application of Artificial Intelligence on Medical Imaging",
         "brief": "",

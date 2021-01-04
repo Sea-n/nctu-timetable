@@ -8153,7 +8153,7 @@
         "cos_credit": "2.00",
         "cos_hours": "4.00",
         "TURL": "",
-        "teacher": "陳建安",
+        "teacher": "陳立洲",
         "cos_time": "Mabcd-ED320",
         "memo": "",
         "cos_ename": "Electronics Lab. (II)",
@@ -8181,7 +8181,7 @@
         "cos_credit": "2.00",
         "cos_hours": "4.00",
         "TURL": "",
-        "teacher": "柯明道、陳柏宏、陳建安",
+        "teacher": "柯明道、陳柏宏、林容瑋",
         "cos_time": "Tabcd-ED320",
         "memo": "",
         "cos_ename": "Electronics Lab. (II)",
@@ -8209,7 +8209,7 @@
         "cos_credit": "2.00",
         "cos_hours": "4.00",
         "TURL": "",
-        "teacher": "陳建安",
+        "teacher": "王夢偉",
         "cos_time": "Mabcd-ED222",
         "memo": "",
         "cos_ename": "Electronics Lab. (II)",
@@ -16619,7 +16619,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "53",
+        "reg_num": "56",
         "depType": "U"
       },
       "1092_1302": {
@@ -23403,6 +23403,62 @@
         "crsoutline_type": "data",
         "reg_num": "2",
         "depType": "C"
+      },
+      "1092_1432": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1432",
+        "cos_code": "DWA1041",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "畢業專題(一)",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "http://aretehp.nctu.edu.tw/",
+        "teacher": "百川學士學位學程",
+        "cos_time": "",
+        "memo": "",
+        "cos_ename": "Senior project (I)",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "950",
+        "dep_primary": "1",
+        "dep_cname": "百川學士學位學程",
+        "dep_ename": "",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "C"
+      },
+      "1092_1433": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1433",
+        "cos_code": "DWA1042",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "畢業專題(一)",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "http://aretehp.nctu.edu.tw/",
+        "teacher": "百川學士學位學程",
+        "cos_time": "",
+        "memo": "",
+        "cos_ename": "Senior project (I)",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "950",
+        "dep_primary": "1",
+        "dep_cname": "百川學士學位學程",
+        "dep_ename": "",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "C"
       }
     },
     "costype": {
@@ -23511,6 +23567,24 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_1432": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1092_1433": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -23579,6 +23653,18 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_1432": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1092_1433": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -23613,6 +23699,12 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_1431": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_1432": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_1433": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -47677,7 +47769,7 @@
         "cos_hours": "3.00",
         "TURL": "http://hakka.nctu.edu.tw/Hakka-F-faculty/Faculty_15_MLPan.htm",
         "teacher": "潘美玲、許倍銜",
-        "cos_time": "Wabc-",
+        "cos_time": "",
         "memo": "【課程時間】週三abc 、【地點】東南亞團在工程一館101共創空間、印度團在資訊館3樓會議室。本課程為參與國際志工團所選修的培訓課程，同時開放其他名額給全校同學，選課同學亦需完成線上報名表及面試，通過後方可參加培訓 (選課同學報名請至服務學習中心網站「活動報名」並填妥線上表單)。",
         "cos_ename": "Sustainable Development and Design Practice-Service Learning II",
         "brief": "",
@@ -57207,6 +57299,34 @@
         "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "O"
+      },
+      "1092_1919": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1919",
+        "cos_code": "DOA1112",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "虛擬實境與3D影音",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "https://ics.nctu.edu.tw/professors/jiulee",
+        "teacher": "李峻德",
+        "cos_time": "W56-",
+        "memo": "",
+        "cos_ename": "VR and 3D Production",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "OUH",
+        "dep_primary": "1",
+        "dep_cname": "教學發展中心",
+        "dep_ename": "Center of Teaching and Learning Development",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "O"
       }
     },
     "costype": {
@@ -57347,6 +57467,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_1919": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -57427,6 +57556,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_1919": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -57467,6 +57602,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_1918": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_1919": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -67627,7 +67765,7 @@
         "cos_hours": "3.00",
         "TURL": "http://hakka.nctu.edu.tw/Hakka-F-faculty/Faculty_15_MLPan.htm",
         "teacher": "潘美玲、許倍銜",
-        "cos_time": "Wabc-",
+        "cos_time": "",
         "memo": "【課程時間】週三abc 、【地點】東南亞團在工程一館101共創空間、印度團在資訊館3樓會議室。本課程為參與國際志工團所選修的培訓課程，同時開放其他名額給全校同學，選課同學亦需完成線上報名表及面試，通過後方可參加培訓 (選課同學報名請至服務學習中心網站「活動報名」並填妥線上表單)。",
         "cos_ename": "Sustainable Development and Design Practice-Service Learning II",
         "brief": "",
@@ -71274,6 +71412,34 @@
         "reg_num": "20",
         "depType": "Q"
       },
+      "1092_1919": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "1919",
+        "cos_code": "DOA1112",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "虛擬實境與3D影音",
+        "cos_credit": "2.00",
+        "cos_hours": "2.00",
+        "TURL": "https://ics.nctu.edu.tw/professors/jiulee",
+        "teacher": "李峻德",
+        "cos_time": "W56-",
+        "memo": "",
+        "cos_ename": "VR and 3D Production",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "QKZ",
+        "dep_primary": "1",
+        "dep_cname": "說故事與多媒體跨域學程",
+        "dep_ename": "",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "Q"
+      },
       "1092_6103": {
         "acy": "109",
         "sem": "2",
@@ -71377,6 +71543,15 @@
           "GECIEngName": ""
         }
       },
+      "1092_1919": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1092_6103": {
         "通識核心課程_通識核心": {
           "course_category_cname": "通識核心課程_通識核心",
@@ -71427,6 +71602,12 @@
           "brief": ""
         }
       },
+      "1092_1919": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1092_6103": {
         "A201,A501": {
           "brief_code": "A201,A501",
@@ -71454,6 +71635,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_1916": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_1919": {
         "授課語言代碼": "zh-tw"
       },
       "1092_6103": {
@@ -72863,7 +73047,7 @@
         "dep_ename": "",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "7",
         "depType": "Q"
       }
@@ -91952,7 +92136,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "郭治群",
-        "cos_time": "R234-ED305",
+        "cos_time": "M789-ED103",
         "memo": "",
         "cos_ename": "Nano Device Physics and Technologies",
         "brief": "",
@@ -113871,7 +114055,7 @@
         "dep_ename": "Institute of Technology Law",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "7",
         "depType": "G"
       }

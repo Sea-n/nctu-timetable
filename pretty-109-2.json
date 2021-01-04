@@ -53704,7 +53704,7 @@
         "dep_ename": "Military Training Office",
         "cos_type": "軍訓",
         "cos_type_e": "Military Training",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "50",
         "depType": "O"
       },
@@ -88787,8 +88787,8 @@
         "cos_cname": "音樂論壇",
         "cos_credit": ".00",
         "cos_hours": "2.00",
-        "TURL": "http://www.imu.nctu.edu.tw/imu/f-teacher.php?INPUT_FUNCT=SHOW&INPUT_ID=6",
-        "teacher": "辛幸純、李俊穎、曾毓忠、金立群、董昭民、李奉書",
+        "TURL": "http://proarte.googlepages.com",
+        "teacher": "李俊穎、曾毓忠、金立群、董昭民、李奉書",
         "cos_time": "T56-音樂論壇空",
         "memo": "音樂論壇空間",
         "cos_ename": "Music Colloquium",
@@ -89056,34 +89056,6 @@
         "reg_num": "5",
         "depType": "G"
       },
-      "1092_5887": {
-        "acy": "109",
-        "sem": "2",
-        "cos_id": "5887",
-        "cos_code": "IMU5394",
-        "num_limit": "15",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "弦樂與鋼琴二重奏鳴曲之實務與探討一",
-        "cos_credit": "1.00",
-        "cos_hours": "2.00",
-        "TURL": "http://proarte.googlepages.com",
-        "teacher": "李俊穎、辛幸純",
-        "cos_time": "W34-HC501",
-        "memo": "",
-        "cos_ename": "Performance Practicum on Duo Sonatas for String and Piano I",
-        "brief": "",
-        "degree": "3",
-        "dep_id": "466",
-        "dep_primary": "1",
-        "dep_cname": "音樂研究所",
-        "dep_ename": "Institute of Music",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "9",
-        "depType": "G"
-      },
       "1092_5888": {
         "acy": "109",
         "sem": "2",
@@ -89207,8 +89179,8 @@
         "cos_cname": "演奏主修：鋼琴",
         "cos_credit": "3.00",
         "cos_hours": "1.00",
-        "TURL": "http://www.imu.nctu.edu.tw/imu/f-teacher.php?INPUT_FUNCT=SHOW&INPUT_ID=6",
-        "teacher": "辛幸純",
+        "TURL": "",
+        "teacher": "音樂所",
         "cos_time": "F1-HC604",
         "memo": "限本所",
         "cos_ename": "Advanced Instruction in Piano",
@@ -89431,8 +89403,8 @@
         "cos_cname": "室內樂",
         "cos_credit": "1.00",
         "cos_hours": "1.00",
-        "TURL": "http://www.imu.nctu.edu.tw/imu/f-teacher.php?INPUT_FUNCT=SHOW&INPUT_ID=6",
-        "teacher": "辛幸純、李俊穎、徐伯年、林薏蕙、孫建如、黃盈媛、許佳穎、陳昱翰",
+        "TURL": "http://proarte.googlepages.com",
+        "teacher": "李俊穎、徐伯年、林薏蕙、孫建如、黃盈媛、許佳穎、陳昱翰",
         "cos_time": "M2-HC616",
         "memo": "非音樂所同學修習室內樂，需先有曲目與團隊成員，並經甄試通過方可選課",
         "cos_ename": "Chamber Music",
@@ -89736,15 +89708,6 @@
           "GECIEngName": ""
         }
       },
-      "1092_5887": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1092_5888": {
         "": {
           "course_category_cname": "",
@@ -89987,12 +89950,6 @@
           "brief": ""
         }
       },
-      "1092_5887": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1092_5888": {
         "": {
           "brief_code": "",
@@ -90144,9 +90101,6 @@
       },
       "1092_5886": {
         "授課語言代碼": "en-us"
-      },
-      "1092_5887": {
-        "授課語言代碼": "zh-tw"
       },
       "1092_5888": {
         "授課語言代碼": "zh-tw"

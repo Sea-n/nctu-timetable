@@ -81714,6 +81714,34 @@
         "reg_num": "6",
         "depType": "G"
       },
+      "1092_5688": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5688",
+        "cos_code": "IBT5308",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "論文研究",
+        "cos_credit": "1.00",
+        "cos_hours": "1.00",
+        "TURL": "",
+        "teacher": "陳文亮、楊裕雄",
+        "cos_time": "T8-",
+        "memo": "[English Medium Course]",
+        "cos_ename": "Thesis",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "350",
+        "dep_primary": "1",
+        "dep_cname": "生物科技學系",
+        "dep_ename": "Institute of Biological Science and Technology",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "8",
+        "depType": "G"
+      },
       "1092_5691": {
         "acy": "109",
         "sem": "2",
@@ -82128,6 +82156,15 @@
           "GECIEngName": ""
         }
       },
+      "1092_5688": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1092_5691": {
         "": {
           "course_category_cname": "",
@@ -82337,6 +82374,12 @@
           "brief": ""
         }
       },
+      "1092_5688": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1092_5691": {
         "": {
           "brief_code": "",
@@ -82452,6 +82495,9 @@
       },
       "1092_5754": {
         "授課語言代碼": "zh-tw"
+      },
+      "1092_5688": {
+        "授課語言代碼": "en-us"
       },
       "1092_5691": {
         "授課語言代碼": "en-us"
@@ -119133,7 +119179,7 @@
         "dep_ename": "Degree Program of Hakka Society and Culture for In-Service Teachers",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "13",
         "depType": "J"
       },

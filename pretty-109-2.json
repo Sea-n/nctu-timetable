@@ -64826,6 +64826,203 @@
       }
     }
   },
+  "12680AA6-8B37-474E-96BE-C872FA1AB379": {
+    "dep_id": "12680AA6-8B37-474E-96BE-C872FA1AB379",
+    "dep_cname": "太空科技與工程學分學程",
+    "dep_ename": "Program of Space Technology and Engineering",
+    "1": {
+      "1092_5342": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5342",
+        "cos_code": "IME5466",
+        "num_limit": "9999",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "衛星機械系統設計",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "郭添全",
+        "cos_time": "Wabc-CS100",
+        "memo": "",
+        "cos_ename": "Spacecraft Mechanical System Design",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "PCI",
+        "dep_primary": "1",
+        "dep_cname": "太空科技與工程學分學程",
+        "dep_ename": "Program of Space Technology and Engineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "1",
+        "depType": "P"
+      },
+      "1092_5343": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5343",
+        "cos_code": "IME5467",
+        "num_limit": "9999",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "衛星姿態判定與控制",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "詹英文",
+        "cos_time": "Tabc-CS100",
+        "memo": "",
+        "cos_ename": " Spacecraft Attitude Determination and Control ",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "PCI",
+        "dep_primary": "1",
+        "dep_cname": "太空科技與工程學分學程",
+        "dep_ename": "Program of Space Technology and Engineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "9",
+        "depType": "P"
+      },
+      "1092_5353": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5353",
+        "cos_code": "IME5598",
+        "num_limit": "9999",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "數位控制系統",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "鄭泗東",
+        "cos_time": "Wabc-EE210",
+        "memo": "",
+        "cos_ename": "Digital Control System",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "PCI",
+        "dep_primary": "1",
+        "dep_cname": "太空科技與工程學分學程",
+        "dep_ename": "Program of Space Technology and Engineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "32",
+        "depType": "P"
+      },
+      "1092_5377": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5377",
+        "cos_code": "ICV5666",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "衛星大地測量",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "http://space.cv.nctu.edu.tw",
+        "teacher": "黃金維",
+        "cos_time": "W234-EB402",
+        "memo": "",
+        "cos_ename": "Satellite Geodesy",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "PCI",
+        "dep_primary": "1",
+        "dep_cname": "太空科技與工程學分學程",
+        "dep_ename": "Program of Space Technology and Engineering",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "9",
+        "depType": "P"
+      }
+    },
+    "costype": {
+      "1092_5342": {
+        "遠距課程_遠距": {
+          "course_category_cname": "遠距課程_遠距",
+          "course_category_ename": "Distance  Learning Courses_DL",
+          "course_category_type": "4",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1092_5343": {
+        "遠距課程_遠距": {
+          "course_category_cname": "遠距課程_遠距",
+          "course_category_ename": "Distance  Learning Courses_DL",
+          "course_category_type": "4",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1092_5353": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1092_5377": {
+        "通識跨院基本素養_通識跨院": {
+          "course_category_cname": "通識跨院基本素養_通識跨院",
+          "course_category_ename": "General Education Course: Intercollegiate_GECI",
+          "course_category_type": "16",
+          "GECIName": "資",
+          "GECIEngName": "CCS"
+        }
+      }
+    },
+    "brief": {
+      "1092_5342": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1092_5343": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1092_5353": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1092_5377": {
+        "A205,A504": {
+          "brief_code": "A205,A504",
+          "brief": "自然/進階(96),跨院基本素養(106)"
+        }
+      }
+    },
+    "language": {
+      "1092_5342": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_5343": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_5353": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_5377": {
+        "授課語言代碼": "zh-tw"
+      }
+    }
+  },
   "334FCAFF-BBEE-4C05-A9A7-4B87DB6796DF": {
     "dep_id": "334FCAFF-BBEE-4C05-A9A7-4B87DB6796DF",
     "dep_cname": "管理學院:管理基礎學分學程",

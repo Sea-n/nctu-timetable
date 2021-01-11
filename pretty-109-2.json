@@ -24158,7 +24158,7 @@
         "dep_ename": "Undergraduate Degree Program of System Engineering and Technology",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "50",
         "depType": "T"
       },
@@ -100693,6 +100693,65 @@
         "授課語言代碼": "en-us"
       },
       "1092_5224": {
+        "授課語言代碼": "en-us"
+      }
+    }
+  },
+  "C2A9AC60-F8A6-4510-AA07-6E656C577193": {
+    "dep_id": "C2A9AC60-F8A6-4510-AA07-6E656C577193",
+    "dep_cname": "國際半導體境外專班",
+    "dep_ename": "NCTU-ICST Overseas Master Degree Program at VNU University of Science, Hanoi, Vietnam",
+    "1": {
+      "1092_5944": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5944",
+        "cos_code": "VST5005",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "微電子積體電路製程VLSI",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "國際半導體碩",
+        "cos_time": "W789-EE116",
+        "memo": "[English Medium Course]",
+        "cos_ename": "Manufacture Technology",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "592",
+        "dep_primary": "1",
+        "dep_cname": "國際半導體境外專班",
+        "dep_ename": "NCTU-ICST Overseas Master Degree Program at VNU University of Science, Hanoi, Vietnam",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "G"
+      }
+    },
+    "costype": {
+      "1092_5944": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      }
+    },
+    "brief": {
+      "1092_5944": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      }
+    },
+    "language": {
+      "1092_5944": {
         "授課語言代碼": "en-us"
       }
     }

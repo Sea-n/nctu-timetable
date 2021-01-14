@@ -13337,7 +13337,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "76",
+        "reg_num": "77",
         "depType": "U"
       },
       "1092_1223": {
@@ -100848,14 +100848,14 @@
         "num_limit": "9999",
         "dep_limit": "*",
         "URL": null,
-        "cos_cname": "微電子積體電路製程VLSI",
+        "cos_cname": "微電子積體電路製程",
         "cos_credit": "3.00",
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "鍾錦翰",
         "cos_time": "W789-EE116",
         "memo": "[English Medium Course]",
-        "cos_ename": "Manufacture Technology",
+        "cos_ename": "VLSI Manufacture Technology",
         "brief": "",
         "degree": "3",
         "dep_id": "592",
@@ -100864,7 +100864,7 @@
         "dep_ename": "NCTU-ICST Overseas Master Degree Program at VNU University of Science, Hanoi, Vietnam",
         "cos_type": "必修",
         "cos_type_e": "Required",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "5",
         "depType": "G"
       }
@@ -106283,34 +106283,6 @@
         "reg_num": "20",
         "depType": "G"
       },
-      "1092_5441": {
-        "acy": "109",
-        "sem": "2",
-        "cos_id": "5441",
-        "cos_code": "IAC5384",
-        "num_limit": "7",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "有機化學研究方法",
-        "cos_credit": "2.00",
-        "cos_hours": "2.00",
-        "TURL": "https://sites.google.com/site/thechuanggroup/",
-        "teacher": "莊士卿",
-        "cos_time": "M67-SB522",
-        "memo": "有機組學生優先[English Medium Course]",
-        "cos_ename": "Research methodology for organic chemistry",
-        "brief": "",
-        "degree": "3",
-        "dep_id": "654",
-        "dep_primary": "1",
-        "dep_cname": "應用化學系",
-        "dep_ename": "Institute of Applied Chemistry",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "2",
-        "depType": "G"
-      },
       "1092_5442": {
         "acy": "109",
         "sem": "2",
@@ -106723,15 +106695,6 @@
           "GECIEngName": ""
         }
       },
-      "1092_5441": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1092_5442": {
         "": {
           "course_category_cname": "",
@@ -106872,12 +106835,6 @@
           "brief": ""
         }
       },
-      "1092_5441": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1092_5442": {
         "": {
           "brief_code": "",
@@ -106969,9 +106926,6 @@
       },
       "1092_5440": {
         "授課語言代碼": "zh-tw"
-      },
-      "1092_5441": {
-        "授課語言代碼": "en-us"
       },
       "1092_5442": {
         "授課語言代碼": "zh-tw"

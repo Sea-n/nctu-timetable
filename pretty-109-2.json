@@ -90318,6 +90318,34 @@
         "crsoutline_type": "data",
         "reg_num": "1",
         "depType": "G"
+      },
+      "1092_5946": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5946",
+        "cos_code": "IMU5609",
+        "num_limit": "10",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "弦樂工作坊一",
+        "cos_credit": "1.00",
+        "cos_hours": "2.00",
+        "TURL": "http://proarte.googlepages.com",
+        "teacher": "李俊穎",
+        "cos_time": "W34-HC501",
+        "memo": "",
+        "cos_ename": "Strings Workshop I ",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "466",
+        "dep_primary": "1",
+        "dep_cname": "音樂研究所",
+        "dep_ename": "Institute of Music",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "G"
       }
     },
     "costype": {
@@ -90590,6 +90618,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_5946": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -90772,6 +90809,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_5946": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -90863,6 +90906,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_5939": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_5946": {
         "授課語言代碼": "zh-tw"
       }
     }

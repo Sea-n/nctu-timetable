@@ -31721,6 +31721,34 @@
         "crsoutline_type": "data",
         "reg_num": "0",
         "depType": "T"
+      },
+      "1092_2937": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "2937",
+        "cos_code": "SET1326",
+        "num_limit": "12",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "地形學",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "史天元",
+        "cos_time": "R467-",
+        "memo": "上課地點：國防大學理工學院",
+        "cos_ename": "Geomorphology",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "951",
+        "dep_primary": "1",
+        "dep_cname": "系統工程與科技學士學位學程",
+        "dep_ename": "Undergraduate Degree Program of System Engineering and Technology",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "T"
       }
     },
     "costype": {
@@ -34297,6 +34325,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_2937": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -36015,6 +36052,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_2937": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -36874,6 +36917,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_2730": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_2937": {
         "授課語言代碼": "zh-tw"
       }
     }

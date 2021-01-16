@@ -116847,6 +116847,34 @@
         "crsoutline_type": "data",
         "reg_num": "75",
         "depType": "G"
+      },
+      "1092_5162": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5162",
+        "cos_code": "IPO5015",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "專題演講",
+        "cos_credit": ".00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "陳怡君",
+        "cos_time": "F56-研華會議廳",
+        "memo": "為光電系統研究所、照明與能源光電研究所、影像與生醫光電研究所碩一、博一必修課程，上課地點：台南校區",
+        "cos_ename": "Colloquium",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "8O1",
+        "dep_primary": "1",
+        "dep_cname": "光電學院",
+        "dep_ename": "College of Photonics",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": null,
+        "reg_num": "79",
+        "depType": "G"
       }
     },
     "costype": {
@@ -116903,6 +116931,15 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_5162": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -116941,6 +116978,12 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_5162": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -116960,6 +117003,9 @@
         "授課語言代碼": "en-us"
       },
       "1092_5165": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_5162": {
         "授課語言代碼": "zh-tw"
       }
     }

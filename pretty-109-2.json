@@ -60582,34 +60582,6 @@
         "reg_num": "20",
         "depType": "P"
       },
-      "1092_5097": {
-        "acy": "109",
-        "sem": "2",
-        "cos_id": "5097",
-        "cos_code": "IEO5215",
-        "num_limit": "9999",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "演化式計算",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "",
-        "teacher": "林道",
-        "cos_time": "R567-EO115",
-        "memo": "[English Medium Course]",
-        "cos_ename": "Evolutionary Computation",
-        "brief": "",
-        "degree": "1",
-        "dep_id": "PAN",
-        "dep_primary": "1",
-        "dep_cname": "電機資訊英語授課學分學程",
-        "dep_ename": "Electrical Engineering and Computer Science-International Program",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "15",
-        "depType": "P"
-      },
       "1092_5110": {
         "acy": "109",
         "sem": "2",
@@ -61700,15 +61672,6 @@
           "GECIEngName": ""
         }
       },
-      "1092_5097": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
       "1092_5110": {
         "": {
           "course_category_cname": "",
@@ -62161,12 +62124,6 @@
           "brief": ""
         }
       },
-      "1092_5097": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1092_5110": {
         "": {
           "brief_code": "",
@@ -62434,9 +62391,6 @@
         "授課語言代碼": "en-us"
       },
       "1092_5093": {
-        "授課語言代碼": "en-us"
-      },
-      "1092_5097": {
         "授課語言代碼": "en-us"
       },
       "1092_5110": {
@@ -63305,7 +63259,7 @@
         "dep_ename": "Program of Psychology",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "52",
         "depType": "P"
       },
@@ -72389,7 +72343,7 @@
         "dep_ename": "Cross-Disciplinary Program of Psychology",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "52",
         "depType": "Q"
       },
@@ -95772,34 +95726,6 @@
         "reg_num": "57",
         "depType": "G"
       },
-      "1092_5097": {
-        "acy": "109",
-        "sem": "2",
-        "cos_id": "5097",
-        "cos_code": "IEO5215",
-        "num_limit": "9999",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "演化式計算",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "",
-        "teacher": "林道",
-        "cos_time": "R567-EO115",
-        "memo": "[English Medium Course]",
-        "cos_ename": "Evolutionary Computation",
-        "brief": "",
-        "degree": "3",
-        "dep_id": "514",
-        "dep_primary": "1",
-        "dep_cname": "光電工程學系",
-        "dep_ename": "Institute of Electro-Optical Engineering",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "15",
-        "depType": "G"
-      },
       "1092_5098": {
         "acy": "109",
         "sem": "2",
@@ -96288,7 +96214,7 @@
         "cos_credit": "3.00",
         "cos_hours": "3.00",
         "TURL": "",
-        "teacher": "",
+        "teacher": "黃嘉彥",
         "cos_time": "T234-EO105",
         "memo": "",
         "cos_ename": "Semiconductor Laser Diodes",
@@ -96381,15 +96307,6 @@
         }
       },
       "1092_5096": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
-      "1092_5097": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -96598,12 +96515,6 @@
           "brief": ""
         }
       },
-      "1092_5097": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
-      },
       "1092_5098": {
         "": {
           "brief_code": "",
@@ -96734,9 +96645,6 @@
       },
       "1092_5096": {
         "授課語言代碼": "zh-tw"
-      },
-      "1092_5097": {
-        "授課語言代碼": "en-us"
       },
       "1092_5098": {
         "授課語言代碼": "zh-tw"
@@ -108571,7 +108479,7 @@
         "dep_ename": "Institute of Management Science",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "52",
         "depType": "G"
       },
@@ -122219,7 +122127,7 @@
         "dep_ename": "Degree Program of Management Science",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "5",
         "depType": "J"
       },

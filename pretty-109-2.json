@@ -27756,6 +27756,34 @@
         "reg_num": "0",
         "depType": "T"
       },
+      "1092_2868": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "2868",
+        "cos_code": "SET1307",
+        "num_limit": "13",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "服務學習(3)",
+        "cos_credit": ".00",
+        "cos_hours": "1.00",
+        "TURL": "",
+        "teacher": "系統工程與科技學程",
+        "cos_time": "M5-",
+        "memo": "上課地點：國防大學理工學院",
+        "cos_ename": "Service Learning (3)",
+        "brief": "",
+        "degree": "1",
+        "dep_id": "951",
+        "dep_primary": "1",
+        "dep_cname": "系統工程與科技學士學位學程",
+        "dep_ename": "Undergraduate Degree Program of System Engineering and Technology",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "T"
+      },
       "1092_2870": {
         "acy": "109",
         "sem": "2",
@@ -32628,6 +32656,15 @@
           "GECIEngName": ""
         }
       },
+      "1092_2868": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
       "1092_2870": {
         "": {
           "course_category_cname": "",
@@ -34649,6 +34686,12 @@
           "brief": ""
         }
       },
+      "1092_2868": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
       "1092_2870": {
         "": {
           "brief_code": "",
@@ -35849,6 +35892,9 @@
         "授課語言代碼": "zh-tw"
       },
       "1092_2855": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_2868": {
         "授課語言代碼": "zh-tw"
       },
       "1092_2870": {
@@ -39622,7 +39668,7 @@
         "cos_credit": "2.00",
         "cos_hours": "2.00",
         "TURL": "http://jsjk.cn.nctu.edu.tw",
-        "teacher": "陳永平、黃育綸、莊弘鈺、張佳智",
+        "teacher": "陳永平、莊弘鈺、黃育綸、張佳智",
         "cos_time": "M78-A204",
         "memo": "",
         "cos_ename": "Science,Technology and Society",
@@ -47126,7 +47172,7 @@
         "TURL": "http://hakka.nctu.edu.tw/Hakka-F-faculty/Faculty_15_MLPan.htm",
         "teacher": "潘美玲、許倍銜",
         "cos_time": "",
-        "memo": "【課程時間】週三abc 、【地點】東南亞團在工程一館101共創空間、印度團在資訊館3樓會議室。本課程為參與國際志工團所選修的培訓課程，同時開放其他名額給全校同學，選課同學為第二梯報名學生亦需完成線上表單並上傳相關資料，通過書面審查後，中心會email通知參與寒訓。 (選課同學報名請至服務學習中心網站「活動報名」並填妥線上表單)。",
+        "memo": "【課程時間】週三abc 、【地點】東南亞團在工程一館101共創空間、印度團在資訊館3樓會議室。本課程為參與國際志工團所選修的培訓課程，同時開放其他名額給全校同學，選課同學為第二梯報名學生亦需完成線上報名表並上傳相關資料，通過書面審查後，中心會email通知參與寒訓(220-221)。 (選課同學報名請至服務學習中心網站「活動報名」並填妥線上表單)。",
         "cos_ename": "Sustainable Development and Design Practice-Service Learning II",
         "brief": "",
         "degree": "1",
@@ -67273,7 +67319,7 @@
         "TURL": "http://hakka.nctu.edu.tw/Hakka-F-faculty/Faculty_15_MLPan.htm",
         "teacher": "潘美玲、許倍銜",
         "cos_time": "",
-        "memo": "【課程時間】週三abc 、【地點】東南亞團在工程一館101共創空間、印度團在資訊館3樓會議室。本課程為參與國際志工團所選修的培訓課程，同時開放其他名額給全校同學，選課同學為第二梯報名學生亦需完成線上表單並上傳相關資料，通過書面審查後，中心會email通知參與寒訓。 (選課同學報名請至服務學習中心網站「活動報名」並填妥線上表單)。",
+        "memo": "【課程時間】週三abc 、【地點】東南亞團在工程一館101共創空間、印度團在資訊館3樓會議室。本課程為參與國際志工團所選修的培訓課程，同時開放其他名額給全校同學，選課同學為第二梯報名學生亦需完成線上報名表並上傳相關資料，通過書面審查後，中心會email通知參與寒訓(220-221)。 (選課同學報名請至服務學習中心網站「活動報名」並填妥線上表單)。",
         "cos_ename": "Sustainable Development and Design Practice-Service Learning II",
         "brief": "",
         "degree": "1",
@@ -100085,10 +100131,47 @@
         "crsoutline_type": "data",
         "reg_num": "5",
         "depType": "G"
+      },
+      "1092_5947": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5947",
+        "cos_code": "VST5006",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "封裝技術與設備",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "周武清",
+        "cos_time": "Mabc-",
+        "memo": "[English Medium Course]",
+        "cos_ename": "Packaging Technology and Equipment",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "592",
+        "dep_primary": "1",
+        "dep_cname": "國際半導體境外專班",
+        "dep_ename": "NCTU-ICST Overseas Master Degree Program at VNU University of Science, Hanoi, Vietnam",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "0",
+        "depType": "G"
       }
     },
     "costype": {
       "1092_5944": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1092_5947": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -100104,10 +100187,19 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_5947": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
       "1092_5944": {
+        "授課語言代碼": "en-us"
+      },
+      "1092_5947": {
         "授課語言代碼": "en-us"
       }
     }
@@ -125601,10 +125693,47 @@
         "crsoutline_type": "data",
         "reg_num": "56",
         "depType": "J"
+      },
+      "1092_5680": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5680",
+        "cos_code": "IOM8001",
+        "num_limit": "9999",
+        "dep_limit": "N",
+        "URL": null,
+        "cos_cname": "經營管理-創業與興業家精神",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "林士平、黃仕斌、黃宜侯、蔡蕙安、郭國泰、洪志洋、黃寬丞、姚銘忠、王志軒、蕭嬋、高國揚、林瑞嘉、蘇信寧、黃瓊誼",
+        "cos_time": "Wabc-M110",
+        "memo": "限專班同學選課；上課地點:新竹校區光寶廳",
+        "cos_ename": "Entrepreneurs and Entrepreneurship",
+        "brief": "",
+        "degree": "5",
+        "dep_id": "7M2",
+        "dep_primary": "1",
+        "dep_cname": "管理學院專班(共同課程)",
+        "dep_ename": "Degree Program of Management",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "16",
+        "depType": "J"
       }
     },
     "costype": {
       "1092_5679": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1092_5680": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -125620,10 +125749,19 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_5680": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
       "1092_5679": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_5680": {
         "授課語言代碼": "zh-tw"
       }
     }

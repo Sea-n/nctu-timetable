@@ -48872,7 +48872,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "12",
+        "reg_num": "11",
         "depType": "O"
       },
       "1092_8305": {
@@ -64475,7 +64475,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "78",
+        "reg_num": "77",
         "depType": "P"
       },
       "1092_1527": {
@@ -125601,47 +125601,10 @@
         "crsoutline_type": "data",
         "reg_num": "56",
         "depType": "J"
-      },
-      "1092_5680": {
-        "acy": "109",
-        "sem": "2",
-        "cos_id": "5680",
-        "cos_code": "IOM8001",
-        "num_limit": "9999",
-        "dep_limit": "N",
-        "URL": null,
-        "cos_cname": "經營管理-創業與興業家精神",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "",
-        "teacher": "林士平、黃仕斌、黃宜侯、蔡蕙安、郭國泰、洪志洋、黃寬丞、姚銘忠、王志軒、蕭嬋、蘇信寧、黃瓊誼、高國揚、林瑞嘉",
-        "cos_time": "Wabc-M116",
-        "memo": "限專班同學選課；上課地點:新竹校區光寶廳",
-        "cos_ename": "Entrepreneurs and Entrepreneurship",
-        "brief": "",
-        "degree": "5",
-        "dep_id": "7M2",
-        "dep_primary": "1",
-        "dep_cname": "管理學院專班(共同課程)",
-        "dep_ename": "Degree Program of Management",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "16",
-        "depType": "J"
       }
     },
     "costype": {
       "1092_5679": {
-        "": {
-          "course_category_cname": "",
-          "course_category_ename": "",
-          "course_category_type": "",
-          "GECIName": "",
-          "GECIEngName": ""
-        }
-      },
-      "1092_5680": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -125657,19 +125620,10 @@
           "brief_code": "",
           "brief": ""
         }
-      },
-      "1092_5680": {
-        "": {
-          "brief_code": "",
-          "brief": ""
-        }
       }
     },
     "language": {
       "1092_5679": {
-        "授課語言代碼": "zh-tw"
-      },
-      "1092_5680": {
         "授課語言代碼": "zh-tw"
       }
     }
@@ -128227,7 +128181,7 @@
         "cos_type": "必修",
         "cos_type_e": "Required",
         "crsoutline_type": "data",
-        "reg_num": "78",
+        "reg_num": "77",
         "depType": "U"
       },
       "1092_1527": {

@@ -112475,34 +112475,6 @@
         "reg_num": "2",
         "depType": "G"
       },
-      "1092_5607": {
-        "acy": "109",
-        "sem": "2",
-        "cos_id": "5607",
-        "cos_code": "IBM6206",
-        "num_limit": "9999",
-        "dep_limit": "*",
-        "URL": null,
-        "cos_cname": "科技創新與創業專題",
-        "cos_credit": "3.00",
-        "cos_hours": "3.00",
-        "TURL": "http://www.ibm.nctu.edu.tw/ibm/faculty/proTsaidnWebsite/proTsaidn.html",
-        "teacher": "蔡蕙安",
-        "cos_time": "W34n-TD",
-        "memo": "經管所主開、管科所輔開；上課地點:台北校區",
-        "cos_ename": "Technology Innovation and Entrepreneurship Seminar",
-        "brief": "",
-        "degree": "3",
-        "dep_id": "709",
-        "dep_primary": "1",
-        "dep_cname": "經營管理研究所",
-        "dep_ename": "Institute of Business Management",
-        "cos_type": "選修",
-        "cos_type_e": "Elective",
-        "crsoutline_type": "data",
-        "reg_num": "7",
-        "depType": "G"
-      },
       "1092_5608": {
         "acy": "109",
         "sem": "2",
@@ -112529,6 +112501,34 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "18",
+        "depType": "G"
+      },
+      "1092_5607": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5607",
+        "cos_code": "IBM6206",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "科技創新與創業專題",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "http://www.ibm.nctu.edu.tw/ibm/faculty/proTsaidnWebsite/proTsaidn.html",
+        "teacher": "蔡蕙安",
+        "cos_time": "",
+        "memo": "經管所主開、管科所、GMBA輔開；上課地點:台北校區第四教室(B435)；英語授課[English Medium Course]",
+        "cos_ename": "Technology Innovation and Entrepreneurship Seminar",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "709",
+        "dep_primary": "1",
+        "dep_cname": "經營管理研究所",
+        "dep_ename": "Institute of Business Management",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": "data",
+        "reg_num": "7",
         "depType": "G"
       }
     },
@@ -112704,7 +112704,7 @@
           "GECIEngName": ""
         }
       },
-      "1092_5607": {
+      "1092_5608": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -112713,7 +112713,7 @@
           "GECIEngName": ""
         }
       },
-      "1092_5608": {
+      "1092_5607": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -112838,13 +112838,13 @@
           "brief": ""
         }
       },
-      "1092_5607": {
+      "1092_5608": {
         "": {
           "brief_code": "",
           "brief": ""
         }
       },
-      "1092_5608": {
+      "1092_5607": {
         "": {
           "brief_code": "",
           "brief": ""
@@ -112909,11 +112909,11 @@
       "1092_5606": {
         "授課語言代碼": "zh-tw"
       },
-      "1092_5607": {
-        "授課語言代碼": "zh-tw"
-      },
       "1092_5608": {
         "授課語言代碼": "zh-tw"
+      },
+      "1092_5607": {
+        "授課語言代碼": "en-us"
       }
     }
   },

@@ -56351,7 +56351,7 @@
         "cos_hours": "2.00",
         "TURL": "",
         "teacher": "嚴偉哲",
-        "cos_time": "T34-",
+        "cos_time": "T34-SC207",
         "memo": "[English Medium Course]",
         "cos_ename": "Critical Thinking",
         "brief": "",
@@ -56407,7 +56407,7 @@
         "cos_hours": "2.00",
         "TURL": "",
         "teacher": "林映彤",
-        "cos_time": "T9a-",
+        "cos_time": "T9a-SC206",
         "memo": "",
         "cos_ename": "Brain, Mind and Philosophy",
         "brief": "",
@@ -56435,7 +56435,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "王文方",
-        "cos_time": "R567-",
+        "cos_time": "R567-SC207",
         "memo": "先修課程：「邏輯與ICT應用」",
         "cos_ename": "Advanced Logic and Applications of ICT",
         "brief": "",
@@ -66419,7 +66419,7 @@
         "dep_ename": "Institute of Physics for Cross-Disciplinary Program",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "10",
         "depType": "Q"
       },
@@ -71265,7 +71265,7 @@
         "cos_hours": "2.00",
         "TURL": "",
         "teacher": "嚴偉哲",
-        "cos_time": "T34-",
+        "cos_time": "T34-SC207",
         "memo": "[English Medium Course]",
         "cos_ename": "Critical Thinking",
         "brief": "",
@@ -71321,7 +71321,7 @@
         "cos_hours": "2.00",
         "TURL": "",
         "teacher": "林映彤",
-        "cos_time": "T9a-",
+        "cos_time": "T9a-SC206",
         "memo": "",
         "cos_ename": "Brain, Mind and Philosophy",
         "brief": "",
@@ -71349,7 +71349,7 @@
         "cos_hours": "3.00",
         "TURL": "",
         "teacher": "王文方",
-        "cos_time": "R567-",
+        "cos_time": "R567-SC207",
         "memo": "先修課程：「邏輯與ICT應用」",
         "cos_ename": "Advanced Logic and Applications of ICT",
         "brief": "",
@@ -107406,7 +107406,7 @@
         "dep_ename": "Institute of Physics",
         "cos_type": "選修",
         "cos_type_e": "Elective",
-        "crsoutline_type": null,
+        "crsoutline_type": "data",
         "reg_num": "10",
         "depType": "G"
       },
@@ -107436,6 +107436,62 @@
         "cos_type_e": "Elective",
         "crsoutline_type": "data",
         "reg_num": "5",
+        "depType": "G"
+      },
+      "1092_5951": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5951",
+        "cos_code": "IOP5550",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "早期宇宙演化專題",
+        "cos_credit": "1.00",
+        "cos_hours": "1.00",
+        "TURL": "http://web.it.nctu.edu.tw/~wfgore/home1.html",
+        "teacher": "高文芳",
+        "cos_time": "F5-SC160",
+        "memo": "",
+        "cos_ename": "Topics in Early Universe",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "658",
+        "dep_primary": "1",
+        "dep_cname": "物理研究所",
+        "dep_ename": "Institute of Physics",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "G"
+      },
+      "1092_5476": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5476",
+        "cos_code": "IOP5351",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "書報討論",
+        "cos_credit": "1.00",
+        "cos_hours": "2.00",
+        "TURL": "",
+        "teacher": "林俊源",
+        "cos_time": "R56-SC157",
+        "memo": "[English Medium Course]",
+        "cos_ename": "Seminar",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "658",
+        "dep_primary": "1",
+        "dep_cname": "物理研究所",
+        "dep_ename": "Institute of Physics",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": "data",
+        "reg_num": "45",
         "depType": "G"
       }
     },
@@ -107520,6 +107576,24 @@
           "GECIName": "",
           "GECIEngName": ""
         }
+      },
+      "1092_5951": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1092_5476": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
       }
     },
     "brief": {
@@ -107576,6 +107650,18 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_5951": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1092_5476": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -107604,6 +107690,12 @@
         "授課語言代碼": "en-us"
       },
       "1092_5483": {
+        "授課語言代碼": "en-us"
+      },
+      "1092_5951": {
+        "授課語言代碼": "zh-tw"
+      },
+      "1092_5476": {
         "授課語言代碼": "en-us"
       }
     }

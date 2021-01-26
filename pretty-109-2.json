@@ -100251,6 +100251,62 @@
         "crsoutline_type": "data",
         "reg_num": "5",
         "depType": "G"
+      },
+      "1092_5952": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5952",
+        "cos_code": "VST5007",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "薄膜技術",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "Quang-Duy Dao",
+        "cos_time": "F567-",
+        "memo": "越南當地授課[English Medium Course]",
+        "cos_ename": "Thin Film Technology",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "592",
+        "dep_primary": "1",
+        "dep_cname": "國際半導體境外專班",
+        "dep_ename": "NCTU-ICST Overseas Master Degree Program at VNU University of Science, Hanoi, Vietnam",
+        "cos_type": "必修",
+        "cos_type_e": "Required",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "G"
+      },
+      "1092_5953": {
+        "acy": "109",
+        "sem": "2",
+        "cos_id": "5953",
+        "cos_code": "VST5008",
+        "num_limit": "9999",
+        "dep_limit": "*",
+        "URL": null,
+        "cos_cname": "半導體製造技術導論",
+        "cos_credit": "3.00",
+        "cos_hours": "3.00",
+        "TURL": "",
+        "teacher": "Pham Nguyen Hai",
+        "cos_time": "S234-",
+        "memo": "越南當地授課[English Medium Course]",
+        "cos_ename": "Introduction to Semiconductor Manufacturing Technology",
+        "brief": "",
+        "degree": "3",
+        "dep_id": "592",
+        "dep_primary": "1",
+        "dep_cname": "國際半導體境外專班",
+        "dep_ename": "NCTU-ICST Overseas Master Degree Program at VNU University of Science, Hanoi, Vietnam",
+        "cos_type": "選修",
+        "cos_type_e": "Elective",
+        "crsoutline_type": null,
+        "reg_num": "0",
+        "depType": "G"
       }
     },
     "costype": {
@@ -100264,6 +100320,24 @@
         }
       },
       "1092_5947": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1092_5952": {
+        "": {
+          "course_category_cname": "",
+          "course_category_ename": "",
+          "course_category_type": "",
+          "GECIName": "",
+          "GECIEngName": ""
+        }
+      },
+      "1092_5953": {
         "": {
           "course_category_cname": "",
           "course_category_ename": "",
@@ -100285,6 +100359,18 @@
           "brief_code": "",
           "brief": ""
         }
+      },
+      "1092_5952": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
+      },
+      "1092_5953": {
+        "": {
+          "brief_code": "",
+          "brief": ""
+        }
       }
     },
     "language": {
@@ -100293,6 +100379,12 @@
       },
       "1092_5947": {
         "授課語言代碼": "en-us"
+      },
+      "1092_5952": {
+        "授課語言代碼": "en-us"
+      },
+      "1092_5953": {
+        "授課語言代碼": "zh-tw"
       }
     }
   },

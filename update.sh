@@ -7,7 +7,7 @@ to=${2:-109}
 for y in `seq $from $to`; do
 	for t in "1" "2" "X"; do
 		(
-			curl -s 'https://timetable.nctu.edu.tw/?r=main/get_cos_list' \
+			curl -s 'https://timetable.nycu.edu.tw/?r=main/get_cos_list' \
 			-d "m_acy=$y" \
 			-d "m_sem=$t" \
 			-d "m_acyend=$y" \
@@ -26,7 +26,7 @@ for y in `seq $from $to`; do
 			-d 'm_crsname= ' \
 			> raw-name-$y-$t.json
 
-			curl -s 'https://timetable.nctu.edu.tw/?r=main/get_cos_list' \
+			curl -s 'https://timetable.nycu.edu.tw/?r=main/get_cos_list' \
 			-d "m_acy=$y" \
 			-d "m_sem=$t" \
 			-d "m_acyend=$y" \

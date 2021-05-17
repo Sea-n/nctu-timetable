@@ -110,6 +110,62 @@
       "dep_cname": "應用化學系",
       "dep_ename": "Department of Applied Chemistry",
       "1": {
+        "1101_1408": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1408",
+          "cos_code": "DAC2102",
+          "num_limit": "60",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "有機化學（一）",
+          "cos_credit": "4.00",
+          "cos_hours": "4.00",
+          "TURL": "",
+          "teacher": "吳彥谷",
+          "cos_time": "M34W34-SC159",
+          "memo": "",
+          "cos_ename": "Organic Chemistry (Ｉ)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "654",
+          "dep_primary": "1",
+          "dep_cname": "應用化學系",
+          "dep_ename": "Department of Applied Chemistry",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1101_1409": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1409",
+          "cos_code": "DAC2105",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "有機化學實驗（一）",
+          "cos_credit": "2.00",
+          "cos_hours": "6.00",
+          "TURL": "",
+          "teacher": "吳彥谷、鍾文聖",
+          "cos_time": "R4n5678-SB120",
+          "memo": "",
+          "cos_ename": "Organic Chemistry Labs. (Ｉ)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "654",
+          "dep_primary": "1",
+          "dep_cname": "應用化學系",
+          "dep_ename": "Department of Applied Chemistry",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1422": {
           "acy": "110",
           "sem": "1",
@@ -140,6 +196,24 @@
         }
       },
       "costype": {
+        "1101_1408": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1409": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1422": {
           "": {
             "course_category_cname": "",
@@ -151,6 +225,18 @@
         }
       },
       "brief": {
+        "1101_1408": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1409": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1422": {
           "": {
             "brief_code": "",
@@ -159,8 +245,638 @@
         }
       },
       "language": {
+        "1101_1408": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1409": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1422": {
           "授課語言代碼": "en-us"
+        }
+      }
+    },
+    "E40323F1-85D9-4F05-B944-070B2BD3550C": {
+      "dep_id": "E40323F1-85D9-4F05-B944-070B2BD3550C",
+      "dep_cname": "工業工程與管理學系",
+      "dep_ename": "Department of Industrial Engineering and Management",
+      "1": {
+        "1101_1485": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1485",
+          "cos_code": "DEM1131",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "導師時間",
+          "cos_credit": ".00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "工管系",
+          "cos_time": "W78-MB520",
+          "memo": "一年級必選",
+          "cos_ename": "Mentor's Hours",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "704",
+          "dep_primary": "1",
+          "dep_cname": "工業工程與管理學系",
+          "dep_ename": "Department of Industrial Engineering and Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1101_1486": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1486",
+          "cos_code": "DEM1320",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "工業工程與管理概論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "張永佳",
+          "cos_time": "R56F1-MB520",
+          "memo": "",
+          "cos_ename": "Introduction to Industrial Engineering and Management",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "704",
+          "dep_primary": "1",
+          "dep_cname": "工業工程與管理學系",
+          "dep_ename": "Department of Industrial Engineering and Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1101_1488": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1488",
+          "cos_code": "DEM2313",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "製造程序",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "林義貴",
+          "cos_time": "T56R8-MB405",
+          "memo": "",
+          "cos_ename": "Manufacturing Processes",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "704",
+          "dep_primary": "1",
+          "dep_cname": "工業工程與管理學系",
+          "dep_ename": "Department of Industrial Engineering and Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1101_1490": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1490",
+          "cos_code": "DEM1108",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "服務學習(一)",
+          "cos_credit": ".00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "工管系",
+          "cos_time": "S2-",
+          "memo": "限工工系；服務學習課程分為服務學習(一)及服務學習(二)，以依序修習為原則，但不得於同一學期修習服務學習(一)、(二)",
+          "cos_ename": "Service Learning I",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "704",
+          "dep_primary": "1",
+          "dep_cname": "工業工程與管理學系",
+          "dep_ename": "Department of Industrial Engineering and Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1101_1491": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1491",
+          "cos_code": "DEM3311",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "人因工程",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳亭志",
+          "cos_time": "W1F34-MB405",
+          "memo": "",
+          "cos_ename": "Human Factors Engineering",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "704",
+          "dep_primary": "1",
+          "dep_cname": "工業工程與管理學系",
+          "dep_ename": "Department of Industrial Engineering and Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1101_1492": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1492",
+          "cos_code": "DEM3318",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "品質管理",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "張永佳",
+          "cos_time": "T34R7-MB405",
+          "memo": "",
+          "cos_ename": "Quality Management",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "704",
+          "dep_primary": "1",
+          "dep_cname": "工業工程與管理學系",
+          "dep_ename": "Department of Industrial Engineering and Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1101_1493": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1493",
+          "cos_code": "DEM3555",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "倉儲管理概論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "徐霈元",
+          "cos_time": "T2F56-MB506",
+          "memo": "英語授課；工工系學生優先，可旁聽[English Medium Course]",
+          "cos_ename": "Warehouse management",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "704",
+          "dep_primary": "1",
+          "dep_cname": "工業工程與管理學系",
+          "dep_ename": "Department of Industrial Engineering and Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1101_1494": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1494",
+          "cos_code": "DEM4613",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "設施規劃",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "https://wenchihchen.wordpress.com/",
+          "teacher": "陳文智",
+          "cos_time": "M2R56-MB405",
+          "memo": "限紙本加選",
+          "cos_ename": "Facility Planning",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "704",
+          "dep_primary": "1",
+          "dep_cname": "工業工程與管理學系",
+          "dep_ename": "Department of Industrial Engineering and Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1101_1495": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1495",
+          "cos_code": "DOM1018",
+          "num_limit": "70",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "生產與作業管理",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "王志軒",
+          "cos_time": "T8W34-MB520",
+          "memo": "管院管理基礎課程；管院學生優先選課；上限70人；主開大三工管系、輔開管理學院、管科系、運管系、資財系；工管系大三、管科系大三必修，運管系學生需自下列六門課(財務管理、行銷學、人力資源管理、管理資訊系統、資料庫管理、生產與作業管理)任選二門為必修",
+          "cos_ename": "Production and Operation Management",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "704",
+          "dep_primary": "1",
+          "dep_cname": "工業工程與管理學系",
+          "dep_ename": "Department of Industrial Engineering and Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1101_1497": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1497",
+          "cos_code": "DEM4521",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "工業工程與管理實務",
+          "cos_credit": "2.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "劉建良",
+          "cos_time": "T56W2-MB520",
+          "memo": "",
+          "cos_ename": "Industrial Practice",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "704",
+          "dep_primary": "1",
+          "dep_cname": "工業工程與管理學系",
+          "dep_ename": "Department of Industrial Engineering and Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1101_1498": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1498",
+          "cos_code": "DEM4619",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "工業工程與管理專題研討（二）",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "工管系",
+          "cos_time": "S567-",
+          "memo": "",
+          "cos_ename": "Independent Study (II)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "704",
+          "dep_primary": "1",
+          "dep_cname": "工業工程與管理學系",
+          "dep_ename": "Department of Industrial Engineering and Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        }
+      },
+      "costype": {
+        "1101_1485": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1486": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1488": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1490": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1491": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1492": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1493": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1494": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1495": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1497": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1498": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_1485": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1486": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1488": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1490": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1491": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1492": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1493": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1494": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1495": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1497": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1498": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_1485": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1486": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1488": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1490": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1491": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1492": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1493": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_1494": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1495": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1497": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1498": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "F6B39FA0-2284-4B93-B1CF-8ECFF1111A2E": {
+      "dep_id": "F6B39FA0-2284-4B93-B1CF-8ECFF1111A2E",
+      "dep_cname": "語言教學與研究中心",
+      "dep_ename": "Language Teaching and Research Center",
+      "1": {
+        "1101_7103": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7103",
+          "cos_code": "DFR1105",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "大一英文（一）",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "闕郁軒",
+          "cos_time": "M78-A502",
+          "memo": "",
+          "cos_ename": "Freshman English (I)",
+          "brief": "基礎",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_7155": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7155",
+          "cos_code": "DFR1314",
+          "num_limit": "25",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "進階英文聽力與寫作",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "闕郁軒",
+          "cos_time": "M56-A502",
+          "memo": "",
+          "cos_ename": "Advanced English Listening and Writing",
+          "brief": "進階",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        }
+      },
+      "costype": {
+        "1101_7103": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_7155": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_7103": {
+          "B071": {
+            "brief_code": "B071",
+            "brief": "基礎(87)"
+          }
+        },
+        "1101_7155": {
+          "B072": {
+            "brief_code": "B072",
+            "brief": "進階(87)"
+          }
+        }
+      },
+      "language": {
+        "1101_7103": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_7155": {
+          "授課語言代碼": "zh-tw"
         }
       }
     },
@@ -269,11 +985,394 @@
         }
       }
     },
+    "FB8F945A-A0C5-4904-9214-7DFAEEC99654": {
+      "dep_id": "FB8F945A-A0C5-4904-9214-7DFAEEC99654",
+      "dep_cname": "智慧財產權學分學程",
+      "dep_ename": "Program of Intellectual Property Rights",
+      "1": {
+        "1101_5206": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5206",
+          "cos_code": "ITL5486",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "商標法專題",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "王敏銓",
+          "cos_time": "F234-MB1069",
+          "memo": "大學部限大三以上選修過智慧財產權法或智慧財產權法概論同學選修；跨域學程；智慧財產權學分學程",
+          "cos_ename": "Special Topics on Trademark Law",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAE",
+          "dep_primary": "1",
+          "dep_cname": "智慧財產權學分學程",
+          "dep_ename": "Program of Intellectual Property Rights",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        }
+      },
+      "costype": {
+        "1101_5206": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_5206": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_5206": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "F150FDDC-4248-4EAC-9442-CAD1D014C0B1": {
+      "dep_id": "F150FDDC-4248-4EAC-9442-CAD1D014C0B1",
+      "dep_cname": "法律學分學程",
+      "dep_ename": "Program of Law",
+      "1": {
+        "1101_5179": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5179",
+          "cos_code": "ITL5361",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "美國民事訴訟法",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "王敏銓",
+          "cos_time": "Tabc-ES806",
+          "memo": "限修過我國民事訴訟法同學選修；跨域學程；美國法學分學程；法律學分學程",
+          "cos_ename": "U.S. Civil Procedure",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAJ",
+          "dep_primary": "1",
+          "dep_cname": "法律學分學程",
+          "dep_ename": "Program of Law",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
+        "1101_5180": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5180",
+          "cos_code": "ITL5430",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "民事訴訟法(一)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "許美麗",
+          "cos_time": "Tabc-MB1069",
+          "memo": "跨域學程；法律學分學程",
+          "cos_ename": "Civil Procedure (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAJ",
+          "dep_primary": "1",
+          "dep_cname": "法律學分學程",
+          "dep_ename": "Program of Law",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
+        "1101_5182": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5182",
+          "cos_code": "ITL5440",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "刑事訴訟法(一)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "林志潔、金孟華",
+          "cos_time": "Rabc-MB1069",
+          "memo": "跨域學程；法律學分學程\r\n",
+          "cos_ename": "Criminal Procedure (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAJ",
+          "dep_primary": "1",
+          "dep_cname": "法律學分學程",
+          "dep_ename": "Program of Law",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
+        "1101_5184": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5184",
+          "cos_code": "ITL5454",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "刑法分則",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://mhchin.blog.nctu.edu.tw",
+          "teacher": "金孟華",
+          "cos_time": "S234-MB1069",
+          "memo": "限修過刑法總則同學選修；跨域學程；法律學分學程\r\n",
+          "cos_ename": "Criminal Law: Offenses",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAJ",
+          "dep_primary": "1",
+          "dep_cname": "法律學分學程",
+          "dep_ename": "Program of Law",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
+        "1101_5185": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5185",
+          "cos_code": "ITL5455",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "民法債編總論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "邱羽凡",
+          "cos_time": "R567-AB102",
+          "memo": "任何修過民法總則同學均可選修；跨域學程；法律學分學程；生醫產業經營與法律學分學程\r\n",
+          "cos_ename": "Civil Law: General Provisions of Obligations",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAJ",
+          "dep_primary": "1",
+          "dep_cname": "法律學分學程",
+          "dep_ename": "Program of Law",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
+        "1101_5203": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5203",
+          "cos_code": "ITL5309",
+          "num_limit": "15",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "民法總則",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "江浣翠",
+          "cos_time": "T567-MB1063",
+          "memo": "限科法所碩士班及大學部同學選修；開放通識；跨域學程；法律學分學程；生醫產業經營與法律學分學程",
+          "cos_ename": "Civil Law: General Principles",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAJ",
+          "dep_primary": "1",
+          "dep_cname": "法律學分學程",
+          "dep_ename": "Program of Law",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        }
+      },
+      "costype": {
+        "1101_5179": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5180": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5182": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5184": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5185": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5203": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "工,理,生,人,客",
+            "GECIEngName": "COE,COS,CBT,CHS,CHK"
+          },
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "工,理,生,人,客",
+            "GECIEngName": "COE,COS,CBT,CHS,CHK"
+          }
+        }
+      },
+      "brief": {
+        "1101_5179": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5180": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5182": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5184": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5185": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5203": {
+          "A203,A504,A505": {
+            "brief_code": "A203,A504,A505",
+            "brief": "公民/進階(96),跨院基本素養(106),校基本素養(106)"
+          }
+        }
+      },
+      "language": {
+        "1101_5179": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5180": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5182": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5184": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5185": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5203": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "0B3FCC2B-D5D1-4989-893F-5DB996AA187D": {
       "dep_id": "0B3FCC2B-D5D1-4989-893F-5DB996AA187D",
       "dep_cname": "IMBA國際管理學分學程",
       "dep_ename": "Program of International Management ＆ Business Administration",
       "1": {
+        "1101_4026": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "4026",
+          "cos_code": "IEM5504",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "排程理論與應用",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "洪暉智",
+          "cos_time": "R234-MB413",
+          "memo": "英語授課；博士班專業核心課程；工管碩主開、GMBA輔開；工工系學生優先，不可旁聽；IMBA學分學程課程；開放社會人士選課[English Medium Course]",
+          "cos_ename": "The Theory and Application of Scheduling",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAL",
+          "dep_primary": "1",
+          "dep_cname": "IMBA國際管理學分學程",
+          "dep_ename": "Program of International Management ＆ Business Administration",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
         "1101_4027": {
           "acy": "110",
           "sem": "1",
@@ -304,6 +1403,15 @@
         }
       },
       "costype": {
+        "1101_4026": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_4027": {
           "": {
             "course_category_cname": "",
@@ -315,6 +1423,12 @@
         }
       },
       "brief": {
+        "1101_4026": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_4027": {
           "": {
             "brief_code": "",
@@ -323,6 +1437,9 @@
         }
       },
       "language": {
+        "1101_4026": {
+          "授課語言代碼": "en-us"
+        },
         "1101_4027": {
           "授課語言代碼": "en-us"
         }
@@ -333,6 +1450,34 @@
       "dep_cname": "電機資訊英語授課學分學程",
       "dep_ename": "Electrical Engineering and Computer Science-International Program",
       "1": {
+        "1101_5078": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5078",
+          "cos_code": "ECM5102",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "隨機過程",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://cmbsd.cm.nctu.edu.tw/~runghung/",
+          "teacher": "高榮鴻",
+          "cos_time": "M567-ED219",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Stochastic Processes",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAN",
+          "dep_primary": "1",
+          "dep_cname": "電機資訊英語授課學分學程",
+          "dep_ename": "Electrical Engineering and Computer Science-International Program",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
         "1101_5135": {
           "acy": "110",
           "sem": "1",
@@ -391,6 +1536,15 @@
         }
       },
       "costype": {
+        "1101_5078": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5135": {
           "": {
             "course_category_cname": "",
@@ -411,6 +1565,12 @@
         }
       },
       "brief": {
+        "1101_5078": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5135": {
           "": {
             "brief_code": "",
@@ -425,11 +1585,849 @@
         }
       },
       "language": {
+        "1101_5078": {
+          "授課語言代碼": "en-us"
+        },
         "1101_5135": {
           "授課語言代碼": "en-us"
         },
         "1101_5136": {
           "授課語言代碼": "en-us"
+        }
+      }
+    },
+    "FBBA2369-B7C3-44E4-A3B9-611C25C63135": {
+      "dep_id": "FBBA2369-B7C3-44E4-A3B9-611C25C63135",
+      "dep_cname": "美國法學分學程",
+      "dep_ename": "American Law Program",
+      "1": {
+        "1101_5179": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5179",
+          "cos_code": "ITL5361",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "美國民事訴訟法",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "王敏銓",
+          "cos_time": "Tabc-ES806",
+          "memo": "限修過我國民事訴訟法同學選修；跨域學程；美國法學分學程；法律學分學程",
+          "cos_ename": "U.S. Civil Procedure",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PBM",
+          "dep_primary": "1",
+          "dep_cname": "美國法學分學程",
+          "dep_ename": "American Law Program",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        }
+      },
+      "costype": {
+        "1101_5179": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_5179": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_5179": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "33F80913-7FED-40B4-8C5B-45BBD26155A7": {
+      "dep_id": "33F80913-7FED-40B4-8C5B-45BBD26155A7",
+      "dep_cname": "生醫產業經營與法律學分學程",
+      "dep_ename": "Program of Law and Management of Biomedical Industry",
+      "1": {
+        "1101_5185": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5185",
+          "cos_code": "ITL5455",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "民法債編總論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "邱羽凡",
+          "cos_time": "R567-AB102",
+          "memo": "任何修過民法總則同學均可選修；跨域學程；法律學分學程；生醫產業經營與法律學分學程\r\n",
+          "cos_ename": "Civil Law: General Provisions of Obligations",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PCF",
+          "dep_primary": "1",
+          "dep_cname": "生醫產業經營與法律學分學程",
+          "dep_ename": "Program of Law and Management of Biomedical Industry",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
+        "1101_5203": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5203",
+          "cos_code": "ITL5309",
+          "num_limit": "15",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "民法總則",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "江浣翠",
+          "cos_time": "T567-MB1063",
+          "memo": "限科法所碩士班及大學部同學選修；開放通識；跨域學程；法律學分學程；生醫產業經營與法律學分學程",
+          "cos_ename": "Civil Law: General Principles",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PCF",
+          "dep_primary": "1",
+          "dep_cname": "生醫產業經營與法律學分學程",
+          "dep_ename": "Program of Law and Management of Biomedical Industry",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        }
+      },
+      "costype": {
+        "1101_5185": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5203": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "工,理,生,人,客",
+            "GECIEngName": "COE,COS,CBT,CHS,CHK"
+          },
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "工,理,生,人,客",
+            "GECIEngName": "COE,COS,CBT,CHS,CHK"
+          }
+        }
+      },
+      "brief": {
+        "1101_5185": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5203": {
+          "A203,A504,A505": {
+            "brief_code": "A203,A504,A505",
+            "brief": "公民/進階(96),跨院基本素養(106),校基本素養(106)"
+          }
+        }
+      },
+      "language": {
+        "1101_5185": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5203": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "8966679B-FBB8-4163-8106-617E2E64F141": {
+      "dep_id": "8966679B-FBB8-4163-8106-617E2E64F141",
+      "dep_cname": "科技法律學院跨域學程",
+      "dep_ename": "",
+      "1": {
+        "1101_5170": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5170",
+          "cos_code": "ITL5229",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "資通訊科技概論",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "莊弘鈺、古旻書",
+          "cos_time": "Fab-ES806",
+          "memo": "開放管院、人社院、客家院同學選修；跨域學程\r\n",
+          "cos_ename": "Introduction to Information Technology",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QLI",
+          "dep_primary": "1",
+          "dep_cname": "科技法律學院跨域學程",
+          "dep_ename": "",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
+        "1101_5175": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5175",
+          "cos_code": "ITL5265",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "國際經濟法總論(英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cc.nctu.edu.tw/~kjni",
+          "teacher": "倪貴榮、許慧瑩",
+          "cos_time": "T678-MB1069",
+          "memo": "英文授課；開放台聯大大三以上同學選修；跨域學程[English Medium Course]",
+          "cos_ename": "International Economic Law",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QLI",
+          "dep_primary": "1",
+          "dep_cname": "科技法律學院跨域學程",
+          "dep_ename": "",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
+        "1101_5179": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5179",
+          "cos_code": "ITL5361",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "美國民事訴訟法",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "王敏銓",
+          "cos_time": "Tabc-ES806",
+          "memo": "限修過我國民事訴訟法同學選修；跨域學程；美國法學分學程；法律學分學程",
+          "cos_ename": "U.S. Civil Procedure",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QLI",
+          "dep_primary": "1",
+          "dep_cname": "科技法律學院跨域學程",
+          "dep_ename": "",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
+        "1101_5180": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5180",
+          "cos_code": "ITL5430",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "民事訴訟法(一)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "許美麗",
+          "cos_time": "Tabc-MB1069",
+          "memo": "跨域學程；法律學分學程",
+          "cos_ename": "Civil Procedure (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QLI",
+          "dep_primary": "1",
+          "dep_cname": "科技法律學院跨域學程",
+          "dep_ename": "",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
+        "1101_5182": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5182",
+          "cos_code": "ITL5440",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "刑事訴訟法(一)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "林志潔、金孟華",
+          "cos_time": "Rabc-MB1069",
+          "memo": "跨域學程；法律學分學程\r\n",
+          "cos_ename": "Criminal Procedure (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QLI",
+          "dep_primary": "1",
+          "dep_cname": "科技法律學院跨域學程",
+          "dep_ename": "",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
+        "1101_5184": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5184",
+          "cos_code": "ITL5454",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "刑法分則",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://mhchin.blog.nctu.edu.tw",
+          "teacher": "金孟華",
+          "cos_time": "S234-MB1069",
+          "memo": "限修過刑法總則同學選修；跨域學程；法律學分學程\r\n",
+          "cos_ename": "Criminal Law: Offenses",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QLI",
+          "dep_primary": "1",
+          "dep_cname": "科技法律學院跨域學程",
+          "dep_ename": "",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
+        "1101_5185": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5185",
+          "cos_code": "ITL5455",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "民法債編總論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "邱羽凡",
+          "cos_time": "R567-AB102",
+          "memo": "任何修過民法總則同學均可選修；跨域學程；法律學分學程；生醫產業經營與法律學分學程\r\n",
+          "cos_ename": "Civil Law: General Provisions of Obligations",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QLI",
+          "dep_primary": "1",
+          "dep_cname": "科技法律學院跨域學程",
+          "dep_ename": "",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
+        "1101_5186": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5186",
+          "cos_code": "ITL5509",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "企業與國際人權",
+          "cos_credit": "1.00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "林耕暉",
+          "cos_time": "M34-MB1063",
+          "memo": "英文授課；跨域學程[English Medium Course]",
+          "cos_ename": "Business and International Human Rights",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QLI",
+          "dep_primary": "1",
+          "dep_cname": "科技法律學院跨域學程",
+          "dep_ename": "",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
+        "1101_5187": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5187",
+          "cos_code": "ITL5535",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "資訊隱私權法",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳鋕雄、郭詠華、秋元奈穂子",
+          "cos_time": "Mabc-MB1063",
+          "memo": "開放通識；開放台聯大大三以上同學選修；跨域學程\r\n",
+          "cos_ename": "Information Privacy Law",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QLI",
+          "dep_primary": "1",
+          "dep_cname": "科技法律學院跨域學程",
+          "dep_ename": "",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
+        "1101_5191": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5191",
+          "cos_code": "ITL5566",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "專利法與實務進階",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "劉尚志、陳在方、陳豐奇",
+          "cos_time": "S678-MB1069",
+          "memo": "大學部限修過專利法相關課程；跨域學程\r\n",
+          "cos_ename": "Advanced Topics on Patent Law and Practice ",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QLI",
+          "dep_primary": "1",
+          "dep_cname": "科技法律學院跨域學程",
+          "dep_ename": "",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
+        "1101_5201": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5201",
+          "cos_code": "ITL5269",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "美國反托拉斯法",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "林建中",
+          "cos_time": "W234-ES806",
+          "memo": "開放台聯大大三以上同學選修，跨域學程\r\n",
+          "cos_ename": "U.S. Antitrust Law",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QLI",
+          "dep_primary": "1",
+          "dep_cname": "科技法律學院跨域學程",
+          "dep_ename": "",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
+        "1101_5203": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5203",
+          "cos_code": "ITL5309",
+          "num_limit": "15",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "民法總則",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "江浣翠",
+          "cos_time": "T567-MB1063",
+          "memo": "限科法所碩士班及大學部同學選修；開放通識；跨域學程；法律學分學程；生醫產業經營與法律學分學程",
+          "cos_ename": "Civil Law: General Principles",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QLI",
+          "dep_primary": "1",
+          "dep_cname": "科技法律學院跨域學程",
+          "dep_ename": "",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
+        "1101_5206": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5206",
+          "cos_code": "ITL5486",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "商標法專題",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "王敏銓",
+          "cos_time": "F234-MB1069",
+          "memo": "大學部限大三以上選修過智慧財產權法或智慧財產權法概論同學選修；跨域學程；智慧財產權學分學程",
+          "cos_ename": "Special Topics on Trademark Law",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QLI",
+          "dep_primary": "1",
+          "dep_cname": "科技法律學院跨域學程",
+          "dep_ename": "",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
+        "1101_5211": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5211",
+          "cos_code": "ITL5568",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "智慧財產權法概論",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "莊弘鈺",
+          "cos_time": "F56-ES806",
+          "memo": "開放通識；跨域學程\r\n",
+          "cos_ename": "Introduction to Intellectual Property Law",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QLI",
+          "dep_primary": "1",
+          "dep_cname": "科技法律學院跨域學程",
+          "dep_ename": "",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        }
+      },
+      "costype": {
+        "1101_5170": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5175": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5179": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5180": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5182": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5184": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5185": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5186": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5187": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5191": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5201": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5203": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "工,理,生,人,客",
+            "GECIEngName": "COE,COS,CBT,CHS,CHK"
+          },
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "工,理,生,人,客",
+            "GECIEngName": "COE,COS,CBT,CHS,CHK"
+          }
+        },
+        "1101_5206": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5211": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_5170": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5175": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5179": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5180": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5182": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5184": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5185": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5186": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5187": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5191": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5201": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5203": {
+          "A203,A504,A505": {
+            "brief_code": "A203,A504,A505",
+            "brief": "公民/進階(96),跨院基本素養(106),校基本素養(106)"
+          }
+        },
+        "1101_5206": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5211": {
+          "A203,A505": {
+            "brief_code": "A203,A505",
+            "brief": "公民/進階(96),校基本素養(106)"
+          }
+        }
+      },
+      "language": {
+        "1101_5170": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5175": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5179": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5180": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5182": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5184": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5185": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5186": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5187": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5191": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5201": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5203": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5206": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5211": {
+          "授課語言代碼": "zh-tw"
         }
       }
     },
@@ -489,6 +2487,170 @@
       "language": {
         "1101_1931": {
           "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "B30BAB23-F209-4C0B-B78C-69FA82B4845C": {
+      "dep_id": "B30BAB23-F209-4C0B-B78C-69FA82B4845C",
+      "dep_cname": "傳播研究所",
+      "dep_ename": "Institute of Communication Studies",
+      "1": {
+        "1101_5817": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5817",
+          "cos_code": "ICT5300",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "傳播科技專題講座",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "https://ics.nctu.edu.tw/professors/taiyeewu",
+          "teacher": "吳泰毅",
+          "cos_time": "F234-F204",
+          "memo": "限傳播所",
+          "cos_ename": "Communication Technology of Topic Cathedra",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "461",
+          "dep_primary": "1",
+          "dep_cname": "傳播研究所",
+          "dep_ename": "Institute of Communication Studies",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5826": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5826",
+          "cos_code": "ICT5491",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "網路空間與社群",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "https://ics.nctu.edu.tw/professors/taiyeewu",
+          "teacher": "吳泰毅",
+          "cos_time": "W567-F204",
+          "memo": "",
+          "cos_ename": "Community in Cyberspace",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "461",
+          "dep_primary": "1",
+          "dep_cname": "傳播研究所",
+          "dep_ename": "Institute of Communication Studies",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "1101_5817": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5826": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_5817": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5826": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_5817": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5826": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "53A140EC-F298-4E72-AD2E-45D7253C38F8": {
+      "dep_id": "53A140EC-F298-4E72-AD2E-45D7253C38F8",
+      "dep_cname": "電信工程研究所",
+      "dep_ename": "Institute of Communication Engineering",
+      "1": {
+        "1101_5078": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5078",
+          "cos_code": "ECM5102",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "隨機過程",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://cmbsd.cm.nctu.edu.tw/~runghung/",
+          "teacher": "高榮鴻",
+          "cos_time": "M567-ED219",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Stochastic Processes",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "513",
+          "dep_primary": "1",
+          "dep_cname": "電信工程研究所",
+          "dep_ename": "Institute of Communication Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "1101_5078": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_5078": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_5078": {
+          "授課語言代碼": "en-us"
         }
       }
     },
@@ -707,6 +2869,62 @@
       "dep_cname": "工業工程與管理學系",
       "dep_ename": "Department of Industrial Engineering and Management",
       "1": {
+        "1101_5537": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5537",
+          "cos_code": "IEM5271",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "軟式運算應用",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳亭志",
+          "cos_time": "W234-MB418",
+          "memo": "開放社會人士選讀",
+          "cos_ename": "Applied Soft Computing",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "704",
+          "dep_primary": "1",
+          "dep_cname": "工業工程與管理學系",
+          "dep_ename": "Department of Industrial Engineering and Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5538": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5538",
+          "cos_code": "IEM5272",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "網路可靠度",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "林義貴",
+          "cos_time": "R567-MB418",
+          "memo": "開放社會人士選課",
+          "cos_ename": "Network reliability",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "704",
+          "dep_primary": "1",
+          "dep_cname": "工業工程與管理學系",
+          "dep_ename": "Department of Industrial Engineering and Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5539": {
           "acy": "110",
           "sem": "1",
@@ -734,10 +2952,139 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1101_5540": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5540",
+          "cos_code": "IEM5292",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "物流網路設計",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "徐霈元",
+          "cos_time": "T567-MB418",
+          "memo": "英語授課；工工系學生優先，可旁聽；開放社會人士選讀[English Medium Course]",
+          "cos_ename": "Logistic network design",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "704",
+          "dep_primary": "1",
+          "dep_cname": "工業工程與管理學系",
+          "dep_ename": "Department of Industrial Engineering and Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5541": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5541",
+          "cos_code": "IEM5303",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "論文研討(上)",
+          "cos_credit": "1.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "林義貴、劉建良",
+          "cos_time": "M56-MB520",
+          "memo": "碩一、碩二、博一、博二合班上課",
+          "cos_ename": "Seminar(I)",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "704",
+          "dep_primary": "1",
+          "dep_cname": "工業工程與管理學系",
+          "dep_ename": "Department of Industrial Engineering and Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5542": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5542",
+          "cos_code": "IEM5569",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "隨機過程",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "https://wenchihchen.wordpress.com/",
+          "teacher": "陳文智",
+          "cos_time": "M34n-MB110",
+          "memo": "英語授課；工管碩主開、GMBA輔開；不開放社會人士選課[English Medium Course]",
+          "cos_ename": "Stochastic Processes",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "704",
+          "dep_primary": "1",
+          "dep_cname": "工業工程與管理學系",
+          "dep_ename": "Department of Industrial Engineering and Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
+        "1101_5537": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5538": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5539": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5540": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5541": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5542": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -748,7 +3095,37 @@
         }
       },
       "brief": {
+        "1101_5537": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5538": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5539": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5540": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5541": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5542": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -756,8 +3133,23 @@
         }
       },
       "language": {
+        "1101_5537": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5538": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_5539": {
           "授課語言代碼": "zh-tw"
+        },
+        "1101_5540": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5541": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5542": {
+          "授課語言代碼": "en-us"
         }
       }
     },
@@ -1333,11 +3725,662 @@
         }
       }
     },
+    "ABF1A309-8B7A-4035-85D5-0C2944E857AC": {
+      "dep_id": "ABF1A309-8B7A-4035-85D5-0C2944E857AC",
+      "dep_cname": "科技法律研究所",
+      "dep_ename": "Institute of Technology Law",
+      "1": {
+        "1101_5196": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5196",
+          "cos_code": "ITL5238",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "司法實習(一)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "林志潔、金孟華",
+          "cos_time": "Myz1-MB1063",
+          "memo": "限科法所及科法專班同學選修",
+          "cos_ename": "Judicial Externship (I)",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "731",
+          "dep_primary": "1",
+          "dep_cname": "科技法律研究所",
+          "dep_ename": "Institute of Technology Law",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5197": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5197",
+          "cos_code": "ITL5239",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "司法實習(二)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "林志潔、金孟華",
+          "cos_time": "Tyz1-MB1063",
+          "memo": "限科法所及科法專班同學選修",
+          "cos_ename": "Judicial Externship (II)",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "731",
+          "dep_primary": "1",
+          "dep_cname": "科技法律研究所",
+          "dep_ename": "Institute of Technology Law",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5199": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5199",
+          "cos_code": "ITL5264",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "國際商務仲裁實例演練(英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳在方、施明遠",
+          "cos_time": "F234-MB1063",
+          "memo": "英文授課；限科法所同學選修[English Medium Course]",
+          "cos_ename": "International Commercial Arbitration: Case Studies",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "731",
+          "dep_primary": "1",
+          "dep_cname": "科技法律研究所",
+          "dep_ename": "Institute of Technology Law",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5200": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5200",
+          "cos_code": "ITL5268",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "科技法律服務學習",
+          "cos_credit": ".00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "科法所",
+          "cos_time": "Sabc-MB1061",
+          "memo": "限科法所及科法博班同學選修",
+          "cos_ename": "Learning & Serviece in Technology Law",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "731",
+          "dep_primary": "1",
+          "dep_cname": "科技法律研究所",
+          "dep_ename": "Institute of Technology Law",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5201": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5201",
+          "cos_code": "ITL5269",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "美國反托拉斯法",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "林建中",
+          "cos_time": "W234-ES806",
+          "memo": "開放台聯大大三以上同學選修，跨域學程\r\n",
+          "cos_ename": "U.S. Antitrust Law",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "731",
+          "dep_primary": "1",
+          "dep_cname": "科技法律研究所",
+          "dep_ename": "Institute of Technology Law",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5202": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5202",
+          "cos_code": "ITL5302",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "法務法遵實習",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "林志潔、金孟華",
+          "cos_time": "Wyz1-MB1063",
+          "memo": "非科法所學生限跨域學程同學選修，僅開放冤獄平反協會實習",
+          "cos_ename": "Legal & Compliance Internship",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "731",
+          "dep_primary": "1",
+          "dep_cname": "科技法律研究所",
+          "dep_ename": "Institute of Technology Law",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5203": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5203",
+          "cos_code": "ITL5309",
+          "num_limit": "15",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "民法總則",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "江浣翠",
+          "cos_time": "T567-MB1063",
+          "memo": "限科法所碩士班及大學部同學選修；開放通識；跨域學程；法律學分學程；生醫產業經營與法律學分學程",
+          "cos_ename": "Civil Law: General Principles",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "731",
+          "dep_primary": "1",
+          "dep_cname": "科技法律研究所",
+          "dep_ename": "Institute of Technology Law",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5205": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5205",
+          "cos_code": "ITL5367",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "博士論文研究",
+          "cos_credit": "1.00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "科法所",
+          "cos_time": "Rz-MB1063",
+          "memo": "限科法博同學選修",
+          "cos_ename": "PhD Dissertation",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "731",
+          "dep_primary": "1",
+          "dep_cname": "科技法律研究所",
+          "dep_ename": "Institute of Technology Law",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5206": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5206",
+          "cos_code": "ITL5486",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "商標法專題",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "王敏銓",
+          "cos_time": "F234-MB1069",
+          "memo": "大學部限大三以上選修過智慧財產權法或智慧財產權法概論同學選修；跨域學程；智慧財產權學分學程",
+          "cos_ename": "Special Topics on Trademark Law",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "731",
+          "dep_primary": "1",
+          "dep_cname": "科技法律研究所",
+          "dep_ename": "Institute of Technology Law",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5211": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5211",
+          "cos_code": "ITL5568",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "智慧財產權法概論",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "莊弘鈺",
+          "cos_time": "F56-ES806",
+          "memo": "開放通識；跨域學程\r\n",
+          "cos_ename": "Introduction to Intellectual Property Law",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "731",
+          "dep_primary": "1",
+          "dep_cname": "科技法律研究所",
+          "dep_ename": "Institute of Technology Law",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "1101_5196": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5197": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5199": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5200": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5201": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5202": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5203": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "工,理,生,人,客",
+            "GECIEngName": "COE,COS,CBT,CHS,CHK"
+          },
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "工,理,生,人,客",
+            "GECIEngName": "COE,COS,CBT,CHS,CHK"
+          }
+        },
+        "1101_5205": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5206": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5211": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_5196": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5197": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5199": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5200": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5201": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5202": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5203": {
+          "A203,A504,A505": {
+            "brief_code": "A203,A504,A505",
+            "brief": "公民/進階(96),跨院基本素養(106),校基本素養(106)"
+          }
+        },
+        "1101_5205": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5206": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5211": {
+          "A203,A505": {
+            "brief_code": "A203,A505",
+            "brief": "公民/進階(96),校基本素養(106)"
+          }
+        }
+      },
+      "language": {
+        "1101_5196": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5197": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5199": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5200": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5201": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5202": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5203": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5205": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5206": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5211": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "368CD765-807A-4CB9-95E9-EA92C2F132E4": {
+      "dep_id": "368CD765-807A-4CB9-95E9-EA92C2F132E4",
+      "dep_cname": "應用藝術研究所",
+      "dep_ename": "Institute of Applied Arts",
+      "1": {
+        "1101_4046": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "4046",
+          "cos_code": "IAA6011",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "藝術與設計專題研討",
+          "cos_credit": "1.00",
+          "cos_hours": "1.00",
+          "TURL": "https://ics.nctu.edu.tw/professors/taiyeewu",
+          "teacher": "吳泰毅",
+          "cos_time": "F34-F204",
+          "memo": "博士班傳播科技組必修課程",
+          "cos_ename": "Seminar on Arts and Design",
+          "brief": "",
+          "degree": "4",
+          "dep_id": "462",
+          "dep_primary": "1",
+          "dep_cname": "應用藝術研究所",
+          "dep_ename": "Institute of Applied Arts",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "D"
+        }
+      },
+      "costype": {
+        "1101_4046": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_4046": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_4046": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "DA57C7B0-CD1D-41FD-84D0-90DA984965F0": {
       "dep_id": "DA57C7B0-CD1D-41FD-84D0-90DA984965F0",
       "dep_cname": "工業工程與管理學系",
       "dep_ename": "Institute of Industrial Engineering and Management",
       "1": {
+        "1101_4023": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "4023",
+          "cos_code": "IEM5237",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "萬用啟發式演算法",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cc.nctu.edu.tw/~cclin321/",
+          "teacher": "林春成",
+          "cos_time": "T234-MB414",
+          "memo": "不可旁聽；博士班專業核心課程；不開放社會人士選課",
+          "cos_ename": "Metaheuristic Algorithms",
+          "brief": "",
+          "degree": "4",
+          "dep_id": "704",
+          "dep_primary": "1",
+          "dep_cname": "工業工程與管理學系",
+          "dep_ename": "Institute of Industrial Engineering and Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "D"
+        },
+        "1101_4024": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "4024",
+          "cos_code": "IEM5270",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "統計推論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "巫佳煌",
+          "cos_time": "T567-MB413",
+          "memo": "博士班專業核心課程；開放社會人士選課",
+          "cos_ename": "Statistical Inference",
+          "brief": "",
+          "degree": "4",
+          "dep_id": "704",
+          "dep_primary": "1",
+          "dep_cname": "工業工程與管理學系",
+          "dep_ename": "Institute of Industrial Engineering and Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "D"
+        },
+        "1101_4025": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "4025",
+          "cos_code": "IEM5322",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "製程能力分析",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "彭文理",
+          "cos_time": "M234-MB506",
+          "memo": "博士班專業核心課程；開放社會人士選課",
+          "cos_ename": "Process Capability Analysis",
+          "brief": "",
+          "degree": "4",
+          "dep_id": "704",
+          "dep_primary": "1",
+          "dep_cname": "工業工程與管理學系",
+          "dep_ename": "Institute of Industrial Engineering and Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "D"
+        },
+        "1101_4026": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "4026",
+          "cos_code": "IEM5504",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "排程理論與應用",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "洪暉智",
+          "cos_time": "R234-MB413",
+          "memo": "英語授課；博士班專業核心課程；工管碩主開、GMBA輔開；工工系學生優先，不可旁聽；IMBA學分學程課程；開放社會人士選課[English Medium Course]",
+          "cos_ename": "The Theory and Application of Scheduling",
+          "brief": "",
+          "degree": "4",
+          "dep_id": "704",
+          "dep_primary": "1",
+          "dep_cname": "工業工程與管理學系",
+          "dep_ename": "Institute of Industrial Engineering and Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "D"
+        },
         "1101_4027": {
           "acy": "110",
           "sem": "1",
@@ -1368,6 +4411,42 @@
         }
       },
       "costype": {
+        "1101_4023": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_4024": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_4025": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_4026": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_4027": {
           "": {
             "course_category_cname": "",
@@ -1379,6 +4458,30 @@
         }
       },
       "brief": {
+        "1101_4023": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_4024": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_4025": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_4026": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_4027": {
           "": {
             "brief_code": "",
@@ -1387,6 +4490,18 @@
         }
       },
       "language": {
+        "1101_4023": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_4024": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_4025": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_4026": {
+          "授課語言代碼": "en-us"
+        },
         "1101_4027": {
           "授課語言代碼": "en-us"
         }
@@ -1543,6 +4658,65 @@
         }
       }
     },
+    "74E5BE29-E5B7-44D4-B3AE-EDDD225E2A93": {
+      "dep_id": "74E5BE29-E5B7-44D4-B3AE-EDDD225E2A93",
+      "dep_cname": "電機學院碩士在職專班",
+      "dep_ename": "Degree Program of Electrical and Computer Science",
+      "1": {
+        "1101_5007": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5007",
+          "cos_code": "IEC5201",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "隨機過程",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://cmbsd.cm.nctu.edu.tw/~runghung/",
+          "teacher": "高榮鴻",
+          "cos_time": "Wabc-ED220",
+          "memo": "電信組；限交大在職專班學生選",
+          "cos_ename": "Stochastic Process",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "506",
+          "dep_primary": "1",
+          "dep_cname": "電機學院碩士在職專班",
+          "dep_ename": "Degree Program of Electrical and Computer Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        }
+      },
+      "costype": {
+        "1101_5007": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_5007": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_5007": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "949C4815-DF77-4A16-8370-06D7FB17C0B4": {
       "dep_id": "949C4815-DF77-4A16-8370-06D7FB17C0B4",
       "dep_cname": "理學院碩士在職專班-科技與數位學習組",
@@ -1657,6 +4831,617 @@
       },
       "language": {
         "1101_5481": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "E2EF737A-BF42-408A-A2B3-59533017F7C2": {
+      "dep_id": "E2EF737A-BF42-408A-A2B3-59533017F7C2",
+      "dep_cname": "科技法律研究所碩士在職專班",
+      "dep_ename": "Degree Program of Technology Law",
+      "1": {
+        "1101_5169": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5169",
+          "cos_code": "ITL5214",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "證券交易法專題",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "賴英照",
+          "cos_time": "R78-MB1069",
+          "memo": "限科法所及科法專班同學選修；上課教室：MB1069、台北視聽覺教室",
+          "cos_ename": "Special Topics on Securities Regulations",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "730",
+          "dep_primary": "1",
+          "dep_cname": "科技法律研究所碩士在職專班",
+          "dep_ename": "Degree Program of Technology Law",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
+        "1101_5170": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5170",
+          "cos_code": "ITL5229",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "資通訊科技概論",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "莊弘鈺、古旻書",
+          "cos_time": "Fab-ES806",
+          "memo": "開放管院、人社院、客家院同學選修；跨域學程\r\n",
+          "cos_ename": "Introduction to Information Technology",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "730",
+          "dep_primary": "1",
+          "dep_cname": "科技法律研究所碩士在職專班",
+          "dep_ename": "Degree Program of Technology Law",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
+        "1101_5172": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5172",
+          "cos_code": "ITL5244",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "性別與法律",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "林志潔",
+          "cos_time": "Fab-MB1069",
+          "memo": "性別平等課程；開放台聯大大三以上同學選修。\r\n",
+          "cos_ename": "Gender and Law",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "730",
+          "dep_primary": "1",
+          "dep_cname": "科技法律研究所碩士在職專班",
+          "dep_ename": "Degree Program of Technology Law",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
+        "1101_5173": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5173",
+          "cos_code": "ITL5245",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "碩士論文研究",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "科法所",
+          "cos_time": "Sabc-MB1063",
+          "memo": "限科法專班同學選修",
+          "cos_ename": "Master Dissertation",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "730",
+          "dep_primary": "1",
+          "dep_cname": "科技法律研究所碩士在職專班",
+          "dep_ename": "Degree Program of Technology Law",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
+        "1101_5175": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5175",
+          "cos_code": "ITL5265",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "國際經濟法總論(英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cc.nctu.edu.tw/~kjni",
+          "teacher": "倪貴榮、許慧瑩",
+          "cos_time": "T678-MB1069",
+          "memo": "英文授課；開放台聯大大三以上同學選修；跨域學程[English Medium Course]",
+          "cos_ename": "International Economic Law",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "730",
+          "dep_primary": "1",
+          "dep_cname": "科技法律研究所碩士在職專班",
+          "dep_ename": "Degree Program of Technology Law",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
+        "1101_5179": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5179",
+          "cos_code": "ITL5361",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "美國民事訴訟法",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "王敏銓",
+          "cos_time": "Tabc-ES806",
+          "memo": "限修過我國民事訴訟法同學選修；跨域學程；美國法學分學程；法律學分學程",
+          "cos_ename": "U.S. Civil Procedure",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "730",
+          "dep_primary": "1",
+          "dep_cname": "科技法律研究所碩士在職專班",
+          "dep_ename": "Degree Program of Technology Law",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
+        "1101_5180": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5180",
+          "cos_code": "ITL5430",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "民事訴訟法(一)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "許美麗",
+          "cos_time": "Tabc-MB1069",
+          "memo": "跨域學程；法律學分學程",
+          "cos_ename": "Civil Procedure (I)",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "730",
+          "dep_primary": "1",
+          "dep_cname": "科技法律研究所碩士在職專班",
+          "dep_ename": "Degree Program of Technology Law",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
+        "1101_5182": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5182",
+          "cos_code": "ITL5440",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "刑事訴訟法(一)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "林志潔、金孟華",
+          "cos_time": "Rabc-MB1069",
+          "memo": "跨域學程；法律學分學程\r\n",
+          "cos_ename": "Criminal Procedure (I)",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "730",
+          "dep_primary": "1",
+          "dep_cname": "科技法律研究所碩士在職專班",
+          "dep_ename": "Degree Program of Technology Law",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
+        "1101_5184": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5184",
+          "cos_code": "ITL5454",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "刑法分則",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://mhchin.blog.nctu.edu.tw",
+          "teacher": "金孟華",
+          "cos_time": "S234-MB1069",
+          "memo": "限修過刑法總則同學選修；跨域學程；法律學分學程\r\n",
+          "cos_ename": "Criminal Law: Offenses",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "730",
+          "dep_primary": "1",
+          "dep_cname": "科技法律研究所碩士在職專班",
+          "dep_ename": "Degree Program of Technology Law",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
+        "1101_5185": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5185",
+          "cos_code": "ITL5455",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "民法債編總論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "邱羽凡",
+          "cos_time": "R567-AB102",
+          "memo": "任何修過民法總則同學均可選修；跨域學程；法律學分學程；生醫產業經營與法律學分學程\r\n",
+          "cos_ename": "Civil Law: General Provisions of Obligations",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "730",
+          "dep_primary": "1",
+          "dep_cname": "科技法律研究所碩士在職專班",
+          "dep_ename": "Degree Program of Technology Law",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
+        "1101_5186": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5186",
+          "cos_code": "ITL5509",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "企業與國際人權",
+          "cos_credit": "1.00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "林耕暉",
+          "cos_time": "M34-MB1063",
+          "memo": "英文授課；跨域學程[English Medium Course]",
+          "cos_ename": "Business and International Human Rights",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "730",
+          "dep_primary": "1",
+          "dep_cname": "科技法律研究所碩士在職專班",
+          "dep_ename": "Degree Program of Technology Law",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
+        "1101_5187": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5187",
+          "cos_code": "ITL5535",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "資訊隱私權法",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳鋕雄、郭詠華、秋元奈穂子",
+          "cos_time": "Mabc-MB1063",
+          "memo": "開放通識；開放台聯大大三以上同學選修；跨域學程\r\n",
+          "cos_ename": "Information Privacy Law",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "730",
+          "dep_primary": "1",
+          "dep_cname": "科技法律研究所碩士在職專班",
+          "dep_ename": "Degree Program of Technology Law",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
+        "1101_5191": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5191",
+          "cos_code": "ITL5566",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "專利法與實務進階",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "劉尚志、陳在方、陳豐奇",
+          "cos_time": "S678-MB1069",
+          "memo": "大學部限修過專利法相關課程；跨域學程\r\n",
+          "cos_ename": "Advanced Topics on Patent Law and Practice ",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "730",
+          "dep_primary": "1",
+          "dep_cname": "科技法律研究所碩士在職專班",
+          "dep_ename": "Degree Program of Technology Law",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        }
+      },
+      "costype": {
+        "1101_5169": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5170": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5172": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5173": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5175": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5179": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5180": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5182": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5184": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5185": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5186": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5187": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5191": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_5169": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5170": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5172": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5173": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5175": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5179": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5180": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5182": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5184": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5185": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5186": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5187": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5191": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_5169": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5170": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5172": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5173": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5175": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5179": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5180": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5182": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5184": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5185": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5186": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5187": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5191": {
           "授課語言代碼": "zh-tw"
         }
       }

@@ -2588,6 +2588,65 @@
         }
       }
     },
+    "334FCAFF-BBEE-4C05-A9A7-4B87DB6796DF": {
+      "dep_id": "334FCAFF-BBEE-4C05-A9A7-4B87DB6796DF",
+      "dep_cname": "管理學院:管理基礎學分學程",
+      "dep_ename": "Fundamental of Management Program",
+      "1": {
+        "1101_1532": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1532",
+          "cos_code": "DOM1040",
+          "num_limit": "85",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "統計學(一)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "巫佳煌",
+          "cos_time": "M34W2-A316",
+          "memo": "管院大學部共同必修課程；管院學生優先選課；上限85人，得請授課教師簽准後可放寬至90人；若有演習課則安排於YI；管理基礎學分學程課程",
+          "cos_ename": "Statistics (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PFH",
+          "dep_primary": "1",
+          "dep_cname": "管理學院:管理基礎學分學程",
+          "dep_ename": "Fundamental of Management Program",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        }
+      },
+      "costype": {
+        "1101_1532": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_1532": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_1532": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "59CF9F1F-FA7C-43D1-8608-9601013D79AB": {
       "dep_id": "59CF9F1F-FA7C-43D1-8608-9601013D79AB",
       "dep_cname": "人文社會學院跨領域設計與創新科技跨域學程",
@@ -2643,6 +2702,65 @@
       },
       "language": {
         "1101_1638": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "84BDFAC5-12EB-41FB-B46D-8C78D1EB208A": {
+      "dep_id": "84BDFAC5-12EB-41FB-B46D-8C78D1EB208A",
+      "dep_cname": "管理學院創業與創新管理跨域學程",
+      "dep_ename": "College of Management Venture & Innovation Management Cross-Discipl",
+      "1": {
+        "1101_1532": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1532",
+          "cos_code": "DOM1040",
+          "num_limit": "85",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "統計學(一)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "巫佳煌",
+          "cos_time": "M34W2-A316",
+          "memo": "管院大學部共同必修課程；管院學生優先選課；上限85人，得請授課教師簽准後可放寬至90人；若有演習課則安排於YI；管理基礎學分學程課程",
+          "cos_ename": "Statistics (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QKQ",
+          "dep_primary": "1",
+          "dep_cname": "管理學院創業與創新管理跨域學程",
+          "dep_ename": "College of Management Venture & Innovation Management Cross-Discipl",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        }
+      },
+      "costype": {
+        "1101_1532": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_1532": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_1532": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -7749,6 +7867,65 @@
       "language": {
         "1101_1717": {
           "授課語言代碼": "en-us"
+        }
+      }
+    },
+    "8661CF60-9CD1-4CDB-A5AE-9B9DA633F086": {
+      "dep_id": "8661CF60-9CD1-4CDB-A5AE-9B9DA633F086",
+      "dep_cname": "管理學院共同課程",
+      "dep_ename": "College of Management",
+      "1": {
+        "1101_1532": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1532",
+          "cos_code": "DOM1040",
+          "num_limit": "85",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "統計學(一)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "巫佳煌",
+          "cos_time": "M34W2-A316",
+          "memo": "管院大學部共同必修課程；管院學生優先選課；上限85人，得請授課教師簽准後可放寬至90人；若有演習課則安排於YI；管理基礎學分學程課程",
+          "cos_ename": "Statistics (I)",
+          "brief": "",
+          "degree": "A",
+          "dep_id": "7M1",
+          "dep_primary": "1",
+          "dep_cname": "管理學院共同課程",
+          "dep_ename": "College of Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        }
+      },
+      "costype": {
+        "1101_1532": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_1532": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_1532": {
+          "授課語言代碼": "zh-tw"
         }
       }
     }

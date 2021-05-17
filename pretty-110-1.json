@@ -1,5 +1,64 @@
 [
   {
+    "6364089A-4693-4A80-B2D0-3F341DF5EBFF": {
+      "dep_id": "6364089A-4693-4A80-B2D0-3F341DF5EBFF",
+      "dep_cname": "生物科技學系",
+      "dep_ename": "Department of Biological Science and Technology",
+      "1": {
+        "1101_1549": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1549",
+          "cos_code": "DBT1131",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "化學實驗",
+          "cos_credit": "1.00",
+          "cos_hours": "3.00",
+          "TURL": "http://web.it.nctu.edu.tw/~twli/",
+          "teacher": "李大偉",
+          "cos_time": "M234-SB119",
+          "memo": "",
+          "cos_ename": "Chemistry Labs.",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "350",
+          "dep_primary": "1",
+          "dep_cname": "生物科技學系",
+          "dep_ename": "Department of Biological Science and Technology",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        }
+      },
+      "costype": {
+        "1101_1549": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_1549": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_1549": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "16F59D39-254D-4EE9-B742-6E9EF801F297": {
       "dep_id": "16F59D39-254D-4EE9-B742-6E9EF801F297",
       "dep_cname": "外國語文學系",
@@ -164,6 +223,65 @@
         }
       }
     },
+    "81FEC6E5-A78C-4641-A47F-D06FD9B448C7": {
+      "dep_id": "81FEC6E5-A78C-4641-A47F-D06FD9B448C7",
+      "dep_cname": "奈米科學及工程學士學位學程",
+      "dep_ename": "Undergraduate Honors Program of Nano Science and Engineering",
+      "1": {
+        "1101_1199": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1199",
+          "cos_code": "DPN1202",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "化學 (一)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://web.it.nctu.edu.tw/~twli/",
+          "teacher": "李大偉",
+          "cos_time": "T56-204,R2-SC204",
+          "memo": "",
+          "cos_ename": "Chemistry (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "610",
+          "dep_primary": "1",
+          "dep_cname": "奈米科學及工程學士學位學程",
+          "dep_ename": "Undergraduate Honors Program of Nano Science and Engineering",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "C"
+        }
+      },
+      "costype": {
+        "1101_1199": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_1199": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_1199": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "C4C32026-B85E-4A0B-942E-EA4821B77242": {
       "dep_id": "C4C32026-B85E-4A0B-942E-EA4821B77242",
       "dep_cname": "土木工程學系",
@@ -196,10 +314,47 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "U"
+        },
+        "1101_1265": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1265",
+          "cos_code": "DCV1512",
+          "num_limit": "60",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "化學 (一)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://web.it.nctu.edu.tw/~twli/",
+          "teacher": "李大偉",
+          "cos_time": "W12-SC109",
+          "memo": "",
+          "cos_ename": "Chemistry (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "612",
+          "dep_primary": "1",
+          "dep_cname": "土木工程學系",
+          "dep_ename": "Department of Civil Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
         }
       },
       "costype": {
         "1101_1264": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1265": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -215,10 +370,19 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_1265": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
         "1101_1264": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1265": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -228,6 +392,62 @@
       "dep_cname": "應用化學系",
       "dep_ename": "Department of Applied Chemistry",
       "1": {
+        "1101_1399": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1399",
+          "cos_code": "DAC1206",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "化學(二)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://web.it.nctu.edu.tw/~twli/",
+          "teacher": "李大偉",
+          "cos_time": "F12-SC207",
+          "memo": "",
+          "cos_ename": "Chemistry (II)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "654",
+          "dep_primary": "1",
+          "dep_cname": "應用化學系",
+          "dep_ename": "Department of Applied Chemistry",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1101_1401": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1401",
+          "cos_code": "DAC1307",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "計算機概論（一）",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://web.it.nctu.edu.tw/~twli/",
+          "teacher": "李大偉",
+          "cos_time": "T2W34-SCPC4",
+          "memo": "上課地點：資訊技術服務中心PC4電腦教室",
+          "cos_ename": "Introduction to Computer Science (1)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "654",
+          "dep_primary": "1",
+          "dep_cname": "應用化學系",
+          "dep_ename": "Department of Applied Chemistry",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1408": {
           "acy": "110",
           "sem": "1",
@@ -314,6 +534,24 @@
         }
       },
       "costype": {
+        "1101_1399": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1401": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1408": {
           "": {
             "course_category_cname": "",
@@ -343,6 +581,18 @@
         }
       },
       "brief": {
+        "1101_1399": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1401": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1408": {
           "": {
             "brief_code": "",
@@ -363,6 +613,12 @@
         }
       },
       "language": {
+        "1101_1399": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1401": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1408": {
           "授課語言代碼": "zh-tw"
         },
@@ -5575,6 +5831,65 @@
       "language": {
         "1101_4046": {
           "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "75E185EE-1E25-4A97-99FC-E69EFCE5EA58": {
+      "dep_id": "75E185EE-1E25-4A97-99FC-E69EFCE5EA58",
+      "dep_cname": "資訊科學與工程研究所",
+      "dep_ename": "Institute of Computer Science and Engineering",
+      "1": {
+        "1101_4007": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "4007",
+          "cos_code": "IOC5148",
+          "num_limit": "60",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "博士班書報討論(英)",
+          "cos_credit": ".00",
+          "cos_hours": "2.00",
+          "TURL": "http://www.csie.nctu.edu.tw/~mcyuang/",
+          "teacher": "楊啟瑞",
+          "cos_time": "R56-ED302",
+          "memo": "博二以上方能選修； 英文授課[English Medium Course]",
+          "cos_ename": "Special Topics Seminar A (PhD)",
+          "brief": "",
+          "degree": "4",
+          "dep_id": "551",
+          "dep_primary": "1",
+          "dep_cname": "資訊科學與工程研究所",
+          "dep_ename": "Institute of Computer Science and Engineering",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "D"
+        }
+      },
+      "costype": {
+        "1101_4007": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_4007": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_4007": {
+          "授課語言代碼": "en-us"
         }
       }
     },

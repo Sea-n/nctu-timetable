@@ -1,0 +1,832 @@
+[
+  {
+    "8077C844-67A2-450B-B39A-A6CC7DE5C114": {
+      "dep_id": "8077C844-67A2-450B-B39A-A6CC7DE5C114",
+      "dep_cname": "體育室",
+      "dep_ename": "Physical Education Office",
+      "1": {
+        "1101_8101": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "8101",
+          "cos_code": "PYY1051",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "大一體育",
+          "cos_credit": ".00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "留鼎淙",
+          "cos_time": "F78-",
+          "memo": "第一次上課集合地點:體育館",
+          "cos_ename": "Physical Education",
+          "brief": "體育必修",
+          "degree": "1",
+          "dep_id": "OU9",
+          "dep_primary": "1",
+          "dep_cname": "體育室",
+          "dep_ename": "Physical Education Office",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_8102": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "8102",
+          "cos_code": "PYY1051",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "大一體育",
+          "cos_credit": ".00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "詹富鈞",
+          "cos_time": "F78-",
+          "memo": "第一次上課集合地點:體育館",
+          "cos_ename": "Physical Education",
+          "brief": "體育必修",
+          "degree": "1",
+          "dep_id": "OU9",
+          "dep_primary": "1",
+          "dep_cname": "體育室",
+          "dep_ename": "Physical Education Office",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        }
+      },
+      "costype": {
+        "1101_8101": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_8102": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_8101": {
+          "C081": {
+            "brief_code": "C081",
+            "brief": "體育必修(87)"
+          }
+        },
+        "1101_8102": {
+          "C081": {
+            "brief_code": "C081",
+            "brief": "體育必修(87)"
+          }
+        }
+      },
+      "language": {
+        "1101_8101": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_8102": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "D4265A63-B2D4-4233-9775-FE583D7E39AB": {
+      "dep_id": "D4265A63-B2D4-4233-9775-FE583D7E39AB",
+      "dep_cname": "資訊管理研究所",
+      "dep_ename": "Institute of Information Management",
+      "1": {
+        "1101_5543": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5543",
+          "cos_code": "IIM5237",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "資料探勘研究與實務",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "劉敦仁",
+          "cos_time": "F234-MB312",
+          "memo": "",
+          "cos_ename": "Data Mining Research & Practice",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "706",
+          "dep_primary": "1",
+          "dep_cname": "資訊管理研究所",
+          "dep_ename": "Institute of Information Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5544": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5544",
+          "cos_code": "IIM5254",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "網路科學與社會計算",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://web.it.nctu.edu.tw/~yml/",
+          "teacher": "李永銘",
+          "cos_time": "R234-MB311",
+          "memo": "英語授課[English Medium Course]",
+          "cos_ename": "Network Science & Social Computing",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "706",
+          "dep_primary": "1",
+          "dep_cname": "資訊管理研究所",
+          "dep_ename": "Institute of Information Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5545": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5545",
+          "cos_code": "IIM5279",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "高等演算法",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://web.it.nctu.edu.tw/~bmtlin/",
+          "teacher": "林妙聰",
+          "cos_time": "T234-MB304",
+          "memo": "英語授課[English Medium Course]",
+          "cos_ename": "Advanced Computer Algorithms",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "706",
+          "dep_primary": "1",
+          "dep_cname": "資訊管理研究所",
+          "dep_ename": "Institute of Information Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5546": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5546",
+          "cos_code": "IIM5303",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "個別研究",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "資管所",
+          "cos_time": "S567-MB312",
+          "memo": "碩二或通過資格考的博士同學選讀",
+          "cos_ename": "Independent Study",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "706",
+          "dep_primary": "1",
+          "dep_cname": "資訊管理研究所",
+          "dep_ename": "Institute of Information Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5547": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5547",
+          "cos_code": "IIM5321",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "經濟與計算",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳柏安",
+          "cos_time": "W34n-MB312",
+          "memo": "",
+          "cos_ename": "Economics and Computation",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "706",
+          "dep_primary": "1",
+          "dep_cname": "資訊管理研究所",
+          "dep_ename": "Institute of Information Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5548": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5548",
+          "cos_code": "IIM5383",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "演算式決策與學習專題",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳柏安",
+          "cos_time": "W567-MB312",
+          "memo": "開放大三、大四選課",
+          "cos_ename": "Seminar in Algorithmic Decision and Learning",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "706",
+          "dep_primary": "1",
+          "dep_cname": "資訊管理研究所",
+          "dep_ename": "Institute of Information Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5549": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5549",
+          "cos_code": "IIM5386",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "智慧醫院管理與實務",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "黃興進",
+          "cos_time": "Fabc-MB312",
+          "memo": "",
+          "cos_ename": "Smart Hospital in Practice",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "706",
+          "dep_primary": "1",
+          "dep_cname": "資訊管理研究所",
+          "dep_ename": "Institute of Information Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5550": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5550",
+          "cos_code": "IIM5395",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "網路攻擊與防禦",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "莊詠婷",
+          "cos_time": "T567-MB311",
+          "memo": "英語授課[English Medium Course]",
+          "cos_ename": "Network Attacks & Defenses",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "706",
+          "dep_primary": "1",
+          "dep_cname": "資訊管理研究所",
+          "dep_ename": "Institute of Information Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5551": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5551",
+          "cos_code": "IIM5404",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "數位內容與機器學習",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "蔡銘箴",
+          "cos_time": "M34n-MB304",
+          "memo": "英語授課[English Medium Course]",
+          "cos_ename": "Digital Content and Machine Learning",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "706",
+          "dep_primary": "1",
+          "dep_cname": "資訊管理研究所",
+          "dep_ename": "Institute of Information Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5552": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5552",
+          "cos_code": "IIM5505",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "資訊安全",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "古政元",
+          "cos_time": "F567-MB312",
+          "memo": "英語授課[English Medium Course]",
+          "cos_ename": "Information Security",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "706",
+          "dep_primary": "1",
+          "dep_cname": "資訊管理研究所",
+          "dep_ename": "Institute of Information Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5553": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5553",
+          "cos_code": "IIM6615",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "企管資訊論文研討",
+          "cos_credit": "1.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "劉敦仁、古政元、蔡銘箴、林妙聰、李永銘、陳柏安",
+          "cos_time": "R56-MB312",
+          "memo": "碩士班、博一必修課程；學號雙號；限資管所同學選修",
+          "cos_ename": "Seminar on IS & Management",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "706",
+          "dep_primary": "1",
+          "dep_cname": "資訊管理研究所",
+          "dep_ename": "Institute of Information Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5554": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5554",
+          "cos_code": "IIM6616",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "資訊系統論文研討",
+          "cos_credit": "1.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "劉敦仁、古政元、蔡銘箴、林妙聰、李永銘、陳柏安",
+          "cos_time": "R56-MB311",
+          "memo": "碩士班、博一必修課程；學號單號；限資管所同學選修",
+          "cos_ename": "Seminar on IS & Technology",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "706",
+          "dep_primary": "1",
+          "dep_cname": "資訊管理研究所",
+          "dep_ename": "Institute of Information Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "1101_5543": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5544": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5545": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5546": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5547": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5548": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5549": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5550": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5551": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5552": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "工",
+            "GECIEngName": "COE"
+          },
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "工",
+            "GECIEngName": "COE"
+          }
+        },
+        "1101_5553": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5554": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_5543": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5544": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5545": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5546": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5547": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5548": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5549": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5550": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5551": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5552": {
+          "A204,A504,A505": {
+            "brief_code": "A204,A504,A505",
+            "brief": "群己/進階(96),跨院基本素養(106),校基本素養(106)"
+          }
+        },
+        "1101_5553": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5554": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_5543": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5544": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5545": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5546": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5547": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5548": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5549": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5550": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5551": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5552": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5553": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5554": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "39F6F2B7-EC53-4B61-859B-D9A38810EDF8": {
+      "dep_id": "39F6F2B7-EC53-4B61-859B-D9A38810EDF8",
+      "dep_cname": "資訊管理研究所",
+      "dep_ename": "Institute of Information Management",
+      "1": {
+        "1101_4028": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "4028",
+          "cos_code": "IIM5374",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "博士論文研討(I)",
+          "cos_credit": "1.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "劉敦仁、古政元、蔡銘箴、林妙聰、李永銘、陳柏安",
+          "cos_time": "R56-MB304",
+          "memo": "博士班二年級上學期必修課程，專業課程；限資管所同學選課；英語授課；隔週上課；博二與博三合上課程[English Medium Course]",
+          "cos_ename": "Doctoral Seminar (I)",
+          "brief": "",
+          "degree": "4",
+          "dep_id": "706",
+          "dep_primary": "1",
+          "dep_cname": "資訊管理研究所",
+          "dep_ename": "Institute of Information Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "D"
+        },
+        "1101_4029": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "4029",
+          "cos_code": "IIM5379",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "博士論文研討(II)",
+          "cos_credit": "1.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "劉敦仁、古政元、蔡銘箴、林妙聰、李永銘、陳柏安",
+          "cos_time": "R56-MB304",
+          "memo": "博士班三年級上學期必修課程，專業課程；限資管所同學選課；英語授課；隔週上課；博二與博三合上課程[English Medium Course]",
+          "cos_ename": "Doctoral Seminar(II)",
+          "brief": "",
+          "degree": "4",
+          "dep_id": "706",
+          "dep_primary": "1",
+          "dep_cname": "資訊管理研究所",
+          "dep_ename": "Institute of Information Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "D"
+        },
+        "1101_4030": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "4030",
+          "cos_code": "IIM5504",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "高等管理資訊系統",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "劉敦仁、古政元、蔡銘箴、林妙聰、李永銘、陳柏安",
+          "cos_time": "M567-MB304",
+          "memo": "博士班一年級上學期必修課程，專業課程；限資管所同學選課；英語授課[English Medium Course]",
+          "cos_ename": "Advanced Management Information Systems",
+          "brief": "",
+          "degree": "4",
+          "dep_id": "706",
+          "dep_primary": "1",
+          "dep_cname": "資訊管理研究所",
+          "dep_ename": "Institute of Information Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "D"
+        }
+      },
+      "costype": {
+        "1101_4028": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_4029": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_4030": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_4028": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_4029": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_4030": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_4028": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_4029": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_4030": {
+          "授課語言代碼": "en-us"
+        }
+      }
+    }
+  }
+]

@@ -1450,6 +1450,34 @@
       "dep_cname": "電機資訊英語授課學分學程",
       "dep_ename": "Electrical Engineering and Computer Science-International Program",
       "1": {
+        "1101_1717": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1717",
+          "cos_code": "DCP4596",
+          "num_limit": "45",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "微分方程(英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "黃世強",
+          "cos_time": "M34W2-ED202",
+          "memo": "外系生請於開學上網加選；資工系與電資學士班學生優先選課；英文授課[English Medium Course]",
+          "cos_ename": "Differential Equations",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAN",
+          "dep_primary": "1",
+          "dep_cname": "電機資訊英語授課學分學程",
+          "dep_ename": "Electrical Engineering and Computer Science-International Program",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
         "1101_5078": {
           "acy": "110",
           "sem": "1",
@@ -1533,9 +1561,46 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "P"
+        },
+        "1101_5284": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5284",
+          "cos_code": "ILE5043",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "3D遊戲程式(英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "黃世強",
+          "cos_time": "M56R2-ED202",
+          "memo": "本院學生優先；英文授課[English Medium Course]",
+          "cos_ename": "3D Game Programming ",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAN",
+          "dep_primary": "1",
+          "dep_cname": "電機資訊英語授課學分學程",
+          "dep_ename": "Electrical Engineering and Computer Science-International Program",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
         }
       },
       "costype": {
+        "1101_1717": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5078": {
           "": {
             "course_category_cname": "",
@@ -1555,6 +1620,15 @@
           }
         },
         "1101_5136": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5284": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -1565,6 +1639,12 @@
         }
       },
       "brief": {
+        "1101_1717": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5078": {
           "": {
             "brief_code": "",
@@ -1578,6 +1658,12 @@
           }
         },
         "1101_5136": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5284": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -1585,6 +1671,9 @@
         }
       },
       "language": {
+        "1101_1717": {
+          "授課語言代碼": "en-us"
+        },
         "1101_5078": {
           "授課語言代碼": "en-us"
         },
@@ -1592,6 +1681,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_5136": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5284": {
           "授課語言代碼": "en-us"
         }
       }
@@ -2755,6 +2847,65 @@
           "授課語言代碼": "en-us"
         },
         "1101_5136": {
+          "授課語言代碼": "en-us"
+        }
+      }
+    },
+    "7BDC1EB0-9B23-4A92-AB4A-ED06B71D55C0": {
+      "dep_id": "7BDC1EB0-9B23-4A92-AB4A-ED06B71D55C0",
+      "dep_cname": "多媒體工程研究所",
+      "dep_ename": "Institute of Multimedia Engineering",
+      "1": {
+        "1101_5284": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5284",
+          "cos_code": "ILE5043",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "3D遊戲程式(英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "黃世強",
+          "cos_time": "M56R2-ED202",
+          "memo": "本院學生優先；英文授課[English Medium Course]",
+          "cos_ename": "3D Game Programming ",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "553",
+          "dep_primary": "1",
+          "dep_cname": "多媒體工程研究所",
+          "dep_ename": "Institute of Multimedia Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "1101_5284": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_5284": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_5284": {
           "授課語言代碼": "en-us"
         }
       }
@@ -4205,6 +4356,65 @@
         }
       }
     },
+    "0FFE1B73-E0D3-43B8-B71C-44288788B83E": {
+      "dep_id": "0FFE1B73-E0D3-43B8-B71C-44288788B83E",
+      "dep_cname": "智慧科學暨綠能學院",
+      "dep_ename": "College of Artificial Intelligence and Green Energy",
+      "1": {
+        "1101_5242": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5242",
+          "cos_code": "IOG5023",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "深度學習與人機互動技術",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "謝君偉",
+          "cos_time": "T567-CM214",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Deep Learning and Human Interface",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "8G1",
+          "dep_primary": "1",
+          "dep_cname": "智慧科學暨綠能學院",
+          "dep_ename": "College of Artificial Intelligence and Green Energy",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "1101_5242": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_5242": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_5242": {
+          "授課語言代碼": "en-us"
+        }
+      }
+    },
     "368CD765-807A-4CB9-95E9-EA92C2F132E4": {
       "dep_id": "368CD765-807A-4CB9-95E9-EA92C2F132E4",
       "dep_cname": "應用藝術研究所",
@@ -5443,6 +5653,65 @@
         },
         "1101_5191": {
           "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "563DD406-1FDD-4589-8684-32BEF9F65A83": {
+      "dep_id": "563DD406-1FDD-4589-8684-32BEF9F65A83",
+      "dep_cname": "電機學院與資訊學院共同課程",
+      "dep_ename": "College of Electrical Engineering and Computer Science",
+      "1": {
+        "1101_1717": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1717",
+          "cos_code": "DCP4596",
+          "num_limit": "45",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "微分方程(英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "黃世強",
+          "cos_time": "M34W2-ED202",
+          "memo": "外系生請於開學上網加選；資工系與電資學士班學生優先選課；英文授課[English Medium Course]",
+          "cos_ename": "Differential Equations",
+          "brief": "",
+          "degree": "A",
+          "dep_id": "5Y1",
+          "dep_primary": "1",
+          "dep_cname": "電機學院與資訊學院共同課程",
+          "dep_ename": "College of Electrical Engineering and Computer Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        }
+      },
+      "costype": {
+        "1101_1717": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_1717": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_1717": {
+          "授課語言代碼": "en-us"
         }
       }
     }

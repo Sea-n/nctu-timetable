@@ -6555,10 +6555,47 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "J"
+        },
+        "1101_5483": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5483",
+          "cos_code": "IAT5135",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "電子電路的基礎與應用",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳振芳",
+          "cos_time": "Wabc-SC106",
+          "memo": "限交大校區在職專班學生選修",
+          "cos_ename": "Fundamentals and applications of electronic circuits",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "661",
+          "dep_primary": "1",
+          "dep_cname": "理學院碩士在職專班-應用科技組",
+          "dep_ename": "Degree Program of E-Learning",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
         }
       },
       "costype": {
         "1101_5481": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5483": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -6574,10 +6611,19 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_5483": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
         "1101_5481": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5483": {
           "授課語言代碼": "zh-tw"
         }
       }

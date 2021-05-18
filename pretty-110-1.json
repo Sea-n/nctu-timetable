@@ -256,6 +256,72 @@
         }
       }
     },
+    "1CFC1720-6FE9-4265-98E5-06916C1DFF0D": {
+      "dep_id": "1CFC1720-6FE9-4265-98E5-06916C1DFF0D",
+      "dep_cname": "人文社會學系",
+      "dep_ename": "Department of Humanities and Social Sciences",
+      "1": {
+        "1101_1673": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1673",
+          "cos_code": "DHS3073",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "社會學理論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "林秀幸",
+          "cos_time": "R567-HK105",
+          "memo": "",
+          "cos_ename": "Sociological Theories",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "481",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學系",
+          "dep_ename": "Department of Humanities and Social Sciences",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        }
+      },
+      "costype": {
+        "1101_1673": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "管",
+            "GECIEngName": "COM"
+          },
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "管",
+            "GECIEngName": "COM"
+          }
+        }
+      },
+      "brief": {
+        "1101_1673": {
+          "A204,A504,A505": {
+            "brief_code": "A204,A504,A505",
+            "brief": "群己/進階(96),跨院基本素養(106),校基本素養(106)"
+          }
+        }
+      },
+      "language": {
+        "1101_1673": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "3CEF1CCE-9A5D-4B91-AA06-C3F717F7619E": {
       "dep_id": "3CEF1CCE-9A5D-4B91-AA06-C3F717F7619E",
       "dep_cname": "人文社會學院院本部",
@@ -718,6 +784,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "U"
+        },
+        "1101_1237": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1237",
+          "cos_code": "DME1587",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "機械實作(二)",
+          "cos_credit": "2.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "鄭雲謙",
+          "cos_time": "T234-EE231",
+          "memo": "",
+          "cos_ename": "Mechanical Practice (II)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "611",
+          "dep_primary": "1",
+          "dep_cname": "機械工程學系",
+          "dep_ename": "Department of Mechanical Engineering",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
         }
       },
       "costype": {
@@ -747,6 +841,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_1237": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -767,6 +870,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_1237": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -777,6 +886,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1235": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1237": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -2311,6 +2423,111 @@
         }
       }
     },
+    "4DE7074F-B05F-4620-8F5E-12DF3778B52E": {
+      "dep_id": "4DE7074F-B05F-4620-8F5E-12DF3778B52E",
+      "dep_cname": "軍訓室",
+      "dep_ename": "Military Training Office",
+      "1": {
+        "1101_6806": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6806",
+          "cos_code": "MIN1045",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "全民國防教育軍事訓練課程－國際情勢",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "趙天保",
+          "cos_time": "W34-A104",
+          "memo": "",
+          "cos_ename": "All-out Defense Education Military Training-International Situations",
+          "brief": "軍訓",
+          "degree": "1",
+          "dep_id": "OUA",
+          "dep_primary": "1",
+          "dep_cname": "軍訓室",
+          "dep_ename": "Military Training Office",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6807": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6807",
+          "cos_code": "MIN1045",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "全民國防教育軍事訓練課程－國際情勢",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "趙天保",
+          "cos_time": "W56-A104",
+          "memo": "",
+          "cos_ename": "All-out Defense Education Military Training-International Situations",
+          "brief": "軍訓",
+          "degree": "1",
+          "dep_id": "OUA",
+          "dep_primary": "1",
+          "dep_cname": "軍訓室",
+          "dep_ename": "Military Training Office",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        }
+      },
+      "costype": {
+        "1101_6806": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6807": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_6806": {
+          "F068": {
+            "brief_code": "F068",
+            "brief": "軍訓(87)"
+          }
+        },
+        "1101_6807": {
+          "F068": {
+            "brief_code": "F068",
+            "brief": "軍訓(87)"
+          }
+        }
+      },
+      "language": {
+        "1101_6806": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6807": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "FB8F945A-A0C5-4904-9214-7DFAEEC99654": {
       "dep_id": "FB8F945A-A0C5-4904-9214-7DFAEEC99654",
       "dep_cname": "智慧財產權學分學程",
@@ -3674,6 +3891,72 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1536": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "9AA264ED-AB45-4218-B62C-15C515EC5632": {
+      "dep_id": "9AA264ED-AB45-4218-B62C-15C515EC5632",
+      "dep_cname": "人社系:社會學與人類學學分學程",
+      "dep_ename": "Program of  Sociology  and Anthropology",
+      "1": {
+        "1101_1673": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1673",
+          "cos_code": "DHS3073",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "社會學理論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "林秀幸",
+          "cos_time": "R567-HK105",
+          "memo": "",
+          "cos_ename": "Sociological Theories",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PFN",
+          "dep_primary": "1",
+          "dep_cname": "人社系:社會學與人類學學分學程",
+          "dep_ename": "Program of  Sociology  and Anthropology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        }
+      },
+      "costype": {
+        "1101_1673": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "管",
+            "GECIEngName": "COM"
+          },
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "管",
+            "GECIEngName": "COM"
+          }
+        }
+      },
+      "brief": {
+        "1101_1673": {
+          "A204,A504,A505": {
+            "brief_code": "A204,A504,A505",
+            "brief": "群己/進階(96),跨院基本素養(106),校基本素養(106)"
+          }
+        }
+      },
+      "language": {
+        "1101_1673": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -8227,6 +8510,65 @@
         },
         "1101_4033": {
           "授課語言代碼": "en-us"
+        }
+      }
+    },
+    "30B55C0F-1EF3-4B53-8EF8-3D26A8DDDC87": {
+      "dep_id": "30B55C0F-1EF3-4B53-8EF8-3D26A8DDDC87",
+      "dep_cname": "客家社會與文化碩士在職專班",
+      "dep_ename": "Degree Program of Hakka Society and Culture for In-Service Teachers",
+      "1": {
+        "1101_5937": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5937",
+          "cos_code": "IHC5113",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "客家社會與文化",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "林秀幸",
+          "cos_time": "Tabc-HK207",
+          "memo": "",
+          "cos_ename": "Hakka Society and Culture",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "480",
+          "dep_primary": "1",
+          "dep_cname": "客家社會與文化碩士在職專班",
+          "dep_ename": "Degree Program of Hakka Society and Culture for In-Service Teachers",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        }
+      },
+      "costype": {
+        "1101_5937": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_5937": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_5937": {
+          "授課語言代碼": "zh-tw"
         }
       }
     },

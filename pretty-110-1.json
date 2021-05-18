@@ -4086,6 +4086,65 @@
         }
       }
     },
+    "F097A7AA-BB64-4C3F-B00C-799B5BF76D7F": {
+      "dep_id": "F097A7AA-BB64-4C3F-B00C-799B5BF76D7F",
+      "dep_cname": "資訊科學與工程研究所",
+      "dep_ename": "Institute of Computer Science and Engineering",
+      "1": {
+        "1101_5263": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5263",
+          "cos_code": "IOC5181",
+          "num_limit": "130",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "平行程式設計",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cs.nctu.edu.tw/~ypyou/",
+          "teacher": "游逸平",
+          "cos_time": "R34n-EDB27",
+          "memo": "本院學生優先",
+          "cos_ename": "Parallel Programming",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "551",
+          "dep_primary": "1",
+          "dep_cname": "資訊科學與工程研究所",
+          "dep_ename": "Institute of Computer Science and Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "1101_5263": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_5263": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_5263": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "7BDC1EB0-9B23-4A92-AB4A-ED06B71D55C0": {
       "dep_id": "7BDC1EB0-9B23-4A92-AB4A-ED06B71D55C0",
       "dep_cname": "多媒體工程研究所",
@@ -7889,6 +7948,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "U"
+        },
+        "1101_1192": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1192",
+          "cos_code": "DCP4529",
+          "num_limit": "65",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "編譯器設計概論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cs.nctu.edu.tw/~ypyou/",
+          "teacher": "游逸平",
+          "cos_time": "T34R7-ED117",
+          "memo": "外系生請於開學上網加選；學士班七大主題學程；資工系與電資學士班學生優先選課；資訊工程組必修；資電工程組必修；資訊共同",
+          "cos_ename": "Intro. to Compiler Design",
+          "brief": "",
+          "degree": "A",
+          "dep_id": "5C1",
+          "dep_primary": "1",
+          "dep_cname": "資訊學院共同課程",
+          "dep_ename": "College of Computer Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
         }
       },
       "costype": {
@@ -7900,6 +7987,15 @@
             "GECIName": "工,理,生",
             "GECIEngName": "COE,COS,CBT"
           }
+        },
+        "1101_1192": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -7908,10 +8004,19 @@
             "brief_code": "A205,A504",
             "brief": "自然/進階(96),跨院基本素養(106)"
           }
+        },
+        "1101_1192": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
         "1101_1187": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1192": {
           "授課語言代碼": "zh-tw"
         }
       }

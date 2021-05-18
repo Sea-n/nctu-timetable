@@ -690,6 +690,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "U"
+        },
+        "1101_1235": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1235",
+          "cos_code": "DME1584",
+          "num_limit": "70",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "計算機程式",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "洪榮煌",
+          "cos_time": "F234-計中(4)",
+          "memo": "",
+          "cos_ename": "Computer Programming",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "611",
+          "dep_primary": "1",
+          "dep_cname": "機械工程學系",
+          "dep_ename": "Department of Mechanical Engineering",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
         }
       },
       "costype": {
@@ -703,6 +731,15 @@
           }
         },
         "1101_1233": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1235": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -724,6 +761,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_1235": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -731,6 +774,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1233": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1235": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -845,6 +891,34 @@
       "dep_cname": "應用化學系",
       "dep_ename": "Department of Applied Chemistry",
       "1": {
+        "1101_1396": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1396",
+          "cos_code": "DAC1205",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "化學(一)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "廖奕翰",
+          "cos_time": "T56F2-SC105",
+          "memo": "應化系",
+          "cos_ename": "Chemistry (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "654",
+          "dep_primary": "1",
+          "dep_cname": "應用化學系",
+          "dep_ename": "Department of Applied Chemistry",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1399": {
           "acy": "110",
           "sem": "1",
@@ -897,6 +971,34 @@
           "dep_ename": "Department of Applied Chemistry",
           "cos_type": "選修",
           "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1101_1402": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1402",
+          "cos_code": "DAC1311",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "化學實驗（一）",
+          "cos_credit": "1.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "廖奕翰",
+          "cos_time": "R234-SB119",
+          "memo": "應化系",
+          "cos_ename": "Chemistry Labs. (1)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "654",
+          "dep_primary": "1",
+          "dep_cname": "應用化學系",
+          "dep_ename": "Department of Applied Chemistry",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "U"
@@ -987,6 +1089,15 @@
         }
       },
       "costype": {
+        "1101_1396": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1399": {
           "": {
             "course_category_cname": "",
@@ -997,6 +1108,15 @@
           }
         },
         "1101_1401": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1402": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -1034,6 +1154,12 @@
         }
       },
       "brief": {
+        "1101_1396": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1399": {
           "": {
             "brief_code": "",
@@ -1041,6 +1167,12 @@
           }
         },
         "1101_1401": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1402": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -1066,10 +1198,16 @@
         }
       },
       "language": {
+        "1101_1396": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1399": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1401": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1402": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1408": {
@@ -1694,6 +1832,34 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1101_6303": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6303",
+          "cos_code": "GEC6728",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "霸權興衰史:從十五世紀至當代",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "劉河北",
+          "cos_time": "M34-A103",
+          "memo": "",
+          "cos_ename": "The Rise and Fall of the Great Powers",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_6334": {
           "acy": "110",
           "sem": "1",
@@ -1749,6 +1915,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "O"
+        },
+        "1101_6351": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6351",
+          "cos_code": "GEC6728",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "霸權興衰史:從十五世紀至當代",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "劉河北",
+          "cos_time": "M12-A103",
+          "memo": "",
+          "cos_ename": "The Rise and Fall of the Great Powers",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
         }
       },
       "costype": {
@@ -1757,6 +1951,15 @@
             "course_category_cname": "通識核心課程_通識核心",
             "course_category_ename": "General Education Course_GEC",
             "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6303": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
             "GECIName": "",
             "GECIEngName": ""
           }
@@ -1771,6 +1974,15 @@
           }
         },
         "1101_6340": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6351": {
           "通識校基本素養_通識校基本": {
             "course_category_cname": "通識校基本素養_通識校基本",
             "course_category_ename": "General Education Course: Literacy_GECL",
@@ -1787,6 +1999,12 @@
             "brief": "自然/進階(96),核心-自然(106)"
           }
         },
+        "1101_6303": {
+          "A202,A505": {
+            "brief_code": "A202,A505",
+            "brief": "歷史/進階(96),校基本素養(106)"
+          }
+        },
         "1101_6334": {
           "A202,A505": {
             "brief_code": "A202,A505",
@@ -1794,6 +2012,12 @@
           }
         },
         "1101_6340": {
+          "A202,A505": {
+            "brief_code": "A202,A505",
+            "brief": "歷史/進階(96),校基本素養(106)"
+          }
+        },
+        "1101_6351": {
           "A202,A505": {
             "brief_code": "A202,A505",
             "brief": "歷史/進階(96),校基本素養(106)"
@@ -1804,10 +2028,16 @@
         "1101_6157": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_6303": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_6334": {
           "授課語言代碼": "zh-tw"
         },
         "1101_6340": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6351": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -2813,7 +3043,7 @@
           "cos_code": "IDS5008",
           "num_limit": "96",
           "dep_limit": "*",
-          "URL": null,
+          "URL": "https://yyc.solvcon.net/en/latest/nsd/schedule/nsd_21au_nycu.html",
           "cos_cname": "數值軟體開發(英文授課)",
           "cos_credit": "3.00",
           "cos_hours": "3.00",
@@ -3375,10 +3605,47 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "P"
+        },
+        "1101_1536": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1536",
+          "cos_code": "DOM1045",
+          "num_limit": "53",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "作業研究(一)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "洪暉智",
+          "cos_time": "T34R7-MB506",
+          "memo": "管院大學部共同必修課程；管院學生優先選課；上限53人，得請授課教師簽准後可放寬至58人；若有演習課安排於YI；管理基礎學分學程課程",
+          "cos_ename": "Operations Research (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PFH",
+          "dep_primary": "1",
+          "dep_cname": "管理學院:管理基礎學分學程",
+          "dep_ename": "Fundamental of Management Program",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
         }
       },
       "costype": {
         "1101_1532": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1536": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -3394,10 +3661,19 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_1536": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
         "1101_1532": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1536": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -5135,7 +5411,7 @@
           "cos_code": "IDS5008",
           "num_limit": "96",
           "dep_limit": "*",
-          "URL": null,
+          "URL": "https://yyc.solvcon.net/en/latest/nsd/schedule/nsd_21au_nycu.html",
           "cos_cname": "數值軟體開發(英文授課)",
           "cos_credit": "3.00",
           "cos_hours": "3.00",
@@ -5187,6 +5463,34 @@
       "dep_cname": "機械工程學系",
       "dep_ename": "Institute of Mechanical Engineering",
       "1": {
+        "1101_5327": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5327",
+          "cos_code": "IME5332",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "微奈米工程導論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "鍾添淦",
+          "cos_time": "M567-EE229",
+          "memo": "",
+          "cos_ename": "Introduction to Micro/Nanotechnology",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "611",
+          "dep_primary": "1",
+          "dep_cname": "機械工程學系",
+          "dep_ename": "Institute of Mechanical Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5333": {
           "acy": "110",
           "sem": "1",
@@ -5270,9 +5574,46 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1101_5341": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5341",
+          "cos_code": "IME5559",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "機器人學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "鄭璧瑩",
+          "cos_time": "Tabc-EE206",
+          "memo": "",
+          "cos_ename": "Robotics",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "611",
+          "dep_primary": "1",
+          "dep_cname": "機械工程學系",
+          "dep_ename": "Institute of Mechanical Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
+        "1101_5327": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5333": {
           "": {
             "course_category_cname": "",
@@ -5292,6 +5633,15 @@
           }
         },
         "1101_5339": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5341": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -5302,6 +5652,12 @@
         }
       },
       "brief": {
+        "1101_5327": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5333": {
           "": {
             "brief_code": "",
@@ -5315,6 +5671,12 @@
           }
         },
         "1101_5339": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5341": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -5322,6 +5684,9 @@
         }
       },
       "language": {
+        "1101_5327": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_5333": {
           "授課語言代碼": "en-us"
         },
@@ -5329,6 +5694,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_5339": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5341": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -7980,6 +8348,65 @@
         }
       }
     },
+    "8295113B-FFF7-4AD9-A7CB-2B372A8CB71F": {
+      "dep_id": "8295113B-FFF7-4AD9-A7CB-2B372A8CB71F",
+      "dep_cname": "工學院碩士在職專班-精密組",
+      "dep_ename": "Degree Program of Automation and Precision Engineering",
+      "1": {
+        "1101_5311": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5311",
+          "cos_code": "IAP5129",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "機器人學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "鄭璧瑩",
+          "cos_time": "Wabc-EE231",
+          "memo": "限交大在職專班學生選修",
+          "cos_ename": "Robotics ",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "607",
+          "dep_primary": "1",
+          "dep_cname": "工學院碩士在職專班-精密組",
+          "dep_ename": "Degree Program of Automation and Precision Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        }
+      },
+      "costype": {
+        "1101_5311": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_5311": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_5311": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "949C4815-DF77-4A16-8370-06D7FB17C0B4": {
       "dep_id": "949C4815-DF77-4A16-8370-06D7FB17C0B4",
       "dep_cname": "理學院碩士在職專班-科技與數位學習組",
@@ -9707,10 +10134,47 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "U"
+        },
+        "1101_1536": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1536",
+          "cos_code": "DOM1045",
+          "num_limit": "53",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "作業研究(一)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "洪暉智",
+          "cos_time": "T34R7-MB506",
+          "memo": "管院大學部共同必修課程；管院學生優先選課；上限53人，得請授課教師簽准後可放寬至58人；若有演習課安排於YI；管理基礎學分學程課程",
+          "cos_ename": "Operations Research (I)",
+          "brief": "",
+          "degree": "A",
+          "dep_id": "7M1",
+          "dep_primary": "1",
+          "dep_cname": "管理學院共同課程",
+          "dep_ename": "College of Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
         }
       },
       "costype": {
         "1101_1532": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1536": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -9726,10 +10190,19 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_1536": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
         "1101_1532": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1536": {
           "授課語言代碼": "zh-tw"
         }
       }

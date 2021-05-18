@@ -8349,6 +8349,65 @@
         }
       }
     },
+    "78B86127-A99A-4DCB-9650-B5C8D8F39B59": {
+      "dep_id": "78B86127-A99A-4DCB-9650-B5C8D8F39B59",
+      "dep_cname": "資訊管理與財務金融系財務金融碩博士班",
+      "dep_ename": "Graduate institute of finance",
+      "1": {
+        "1101_5567": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5567",
+          "cos_code": "IOF5143",
+          "num_limit": "50",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "人工智慧與金融科技實務",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "黃思皓",
+          "cos_time": "Wabc-M101",
+          "memo": "資訊類課程；財金碩士班主開、資財系輔開；財務金融碩博士班、資財系大三大四優先；財務金融博士班AI博士生必修",
+          "cos_ename": "Practices of Artificial Intelligence and Financial Technology",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "707",
+          "dep_primary": "1",
+          "dep_cname": "資訊管理與財務金融系財務金融碩博士班",
+          "dep_ename": "Graduate institute of finance",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "1101_5567": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_5567": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_5567": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "ABF1A309-8B7A-4035-85D5-0C2944E857AC": {
       "dep_id": "ABF1A309-8B7A-4035-85D5-0C2944E857AC",
       "dep_cname": "科技法律研究所",
@@ -11822,6 +11881,34 @@
       "dep_cname": "管理學院共同課程",
       "dep_ename": "College of Management",
       "1": {
+        "1101_1531": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1531",
+          "cos_code": "DOM1034",
+          "num_limit": "55",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "程式設計",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "黃思皓",
+          "cos_time": "W9R89-M-b01",
+          "memo": "管院大學部共同必修課程；管院學生優先選課；資財系必修；上限55人，得請授課教師簽准後可放寬至60人；若有演習課安排於YI",
+          "cos_ename": "Programming",
+          "brief": "",
+          "degree": "A",
+          "dep_id": "7M1",
+          "dep_primary": "1",
+          "dep_cname": "管理學院共同課程",
+          "dep_ename": "College of Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1532": {
           "acy": "110",
           "sem": "1",
@@ -11880,6 +11967,15 @@
         }
       },
       "costype": {
+        "1101_1531": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1532": {
           "": {
             "course_category_cname": "",
@@ -11900,6 +11996,12 @@
         }
       },
       "brief": {
+        "1101_1531": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1532": {
           "": {
             "brief_code": "",
@@ -11914,6 +12016,9 @@
         }
       },
       "language": {
+        "1101_1531": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1532": {
           "授課語言代碼": "zh-tw"
         },

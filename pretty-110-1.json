@@ -11814,6 +11814,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1191": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1191",
+          "cos_code": "DCP4529",
+          "num_limit": "65",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "編譯器設計概論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "楊武",
+          "cos_time": "T34R7-EDB27",
+          "memo": "外系生請於開學上網加選；學士班七大主題學程；資工系與電資學士班學生優先選課；資訊工程組必修；資電工程組必修；資訊共同",
+          "cos_ename": "Intro. to Compiler Design",
+          "brief": "",
+          "degree": "A",
+          "dep_id": "5C1",
+          "dep_primary": "1",
+          "dep_cname": "資訊學院共同課程",
+          "dep_ename": "College of Computer Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1192": {
           "acy": "110",
           "sem": "1",
@@ -11871,6 +11899,15 @@
             "GECIEngName": "COE,COS,CBT"
           }
         },
+        "1101_1191": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1192": {
           "": {
             "course_category_cname": "",
@@ -11900,6 +11937,12 @@
             "brief": "自然/進階(96),跨院基本素養(106)"
           }
         },
+        "1101_1191": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1192": {
           "": {
             "brief_code": "",
@@ -11915,6 +11958,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1187": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1191": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1192": {

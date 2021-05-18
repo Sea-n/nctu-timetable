@@ -175,6 +175,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "U"
+        },
+        "1101_1622": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1622",
+          "cos_code": "DFL3003",
+          "num_limit": "60",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "美國文學(一)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "辜崇豪",
+          "cos_time": "W234-F110",
+          "memo": "",
+          "cos_ename": "American Literature(1)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "450",
+          "dep_primary": "1",
+          "dep_cname": "外國語文學系",
+          "dep_ename": "Department of Foreign Languages and Literatures",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
         }
       },
       "costype": {
@@ -213,6 +241,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_1622": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -239,6 +276,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_1622": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -252,6 +295,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1620": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1622": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -701,7 +747,7 @@
           "cos_hours": "3.00",
           "TURL": "http://web.it.nctu.edu.tw/~twli/",
           "teacher": "李大偉",
-          "cos_time": "T56-204,R2-SC204",
+          "cos_time": "T56R2-SC204",
           "memo": "",
           "cos_ename": "Chemistry (I)",
           "brief": "",
@@ -5522,7 +5568,7 @@
           "sem": "1",
           "cos_id": "5792",
           "cos_code": "ITE5043",
-          "num_limit": "9999",
+          "num_limit": "15",
           "dep_limit": "*",
           "URL": null,
           "cos_cname": "閱讀教學:理論與實務",

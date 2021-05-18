@@ -2780,6 +2780,34 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1101_7112": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7112",
+          "cos_code": "DFR1105",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "大一英文（一）",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "郭詩芝",
+          "cos_time": "W34-A502",
+          "memo": "",
+          "cos_ename": "Freshman English (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_7117": {
           "acy": "110",
           "sem": "1",
@@ -2797,6 +2825,62 @@
           "memo": "[English Medium Course]",
           "cos_ename": "Freshman English (I)",
           "brief": "基礎",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_7130": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7130",
+          "cos_code": "DFR1105",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "大一英文（一）",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "郭詩芝",
+          "cos_time": "F34-A501",
+          "memo": "",
+          "cos_ename": "Freshman English (I)",
+          "brief": "基礎",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_7152": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7152",
+          "cos_code": "DFR1303",
+          "num_limit": "25",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "進階英文閱讀與討論",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "郭詩芝",
+          "cos_time": "W12-A502",
+          "memo": "",
+          "cos_ename": "Advanced English Reading and Discussion",
+          "brief": "進階",
           "degree": "1",
           "dep_id": "OU6",
           "dep_primary": "1",
@@ -2853,6 +2937,34 @@
           "memo": "",
           "cos_ename": "Advanced English Listening and Writing",
           "brief": "進階",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_7172": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7172",
+          "cos_code": "DFR1320",
+          "num_limit": "25",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "旅遊英文",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "郭詩芝",
+          "cos_time": "F12-A501",
+          "memo": "",
+          "cos_ename": "English for Tourists",
+          "brief": "",
           "degree": "1",
           "dep_id": "OU6",
           "dep_primary": "1",
@@ -2968,7 +3080,34 @@
             "GECIEngName": ""
           }
         },
+        "1101_7112": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_7117": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_7130": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_7152": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -2987,6 +3126,15 @@
           }
         },
         "1101_7156": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_7172": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -3036,10 +3184,28 @@
             "brief": "基礎(87)"
           }
         },
+        "1101_7112": {
+          "B071": {
+            "brief_code": "B071",
+            "brief": "基礎(87)"
+          }
+        },
         "1101_7117": {
           "B071": {
             "brief_code": "B071",
             "brief": "基礎(87)"
+          }
+        },
+        "1101_7130": {
+          "B071": {
+            "brief_code": "B071",
+            "brief": "基礎(87)"
+          }
+        },
+        "1101_7152": {
+          "B072": {
+            "brief_code": "B072",
+            "brief": "進階(87)"
           }
         },
         "1101_7155": {
@@ -3049,6 +3215,12 @@
           }
         },
         "1101_7156": {
+          "B072": {
+            "brief_code": "B072",
+            "brief": "進階(87)"
+          }
+        },
+        "1101_7172": {
           "B072": {
             "brief_code": "B072",
             "brief": "進階(87)"
@@ -3080,13 +3252,25 @@
         "1101_7111": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_7112": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_7117": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_7130": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_7152": {
           "授課語言代碼": "zh-tw"
         },
         "1101_7155": {
           "授課語言代碼": "zh-tw"
         },
         "1101_7156": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_7172": {
           "授課語言代碼": "zh-tw"
         },
         "1101_7503": {

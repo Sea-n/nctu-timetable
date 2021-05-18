@@ -2054,6 +2054,62 @@
       "dep_cname": "通識教育中心",
       "dep_ename": "Center of General Education",
       "1": {
+        "1101_6114": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6114",
+          "cos_code": "GEC1009",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "文學經典:小說名著選",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "黃美鈴",
+          "cos_time": "T34-A509",
+          "memo": "",
+          "cos_ename": "The  Paradigms of Novels",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6125": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6125",
+          "cos_code": "GEC1009",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "文學經典:小說名著選",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "黃美鈴",
+          "cos_time": "T56-A509",
+          "memo": "",
+          "cos_ename": "The  Paradigms of Novels",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_6134": {
           "acy": "110",
           "sem": "1",
@@ -2070,6 +2126,62 @@
           "cos_time": "W34-A204",
           "memo": "不接受生科系同學修讀。[English Medium Course]",
           "cos_ename": "Life and Biomedicine",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6152": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6152",
+          "cos_code": "GEC6099",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "文學名著：生命書寫",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "黃美鈴",
+          "cos_time": "F34-A401",
+          "memo": "",
+          "cos_ename": "Selected  Literature  masterpieces: Writing of Life History",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6156": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6156",
+          "cos_code": "GEC6099",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "文學名著：生命書寫",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "黃美鈴",
+          "cos_time": "F56-A401",
+          "memo": "不接受修讀過「文學鑑賞：探索生命」同學修讀。",
+          "cos_ename": "Selected  Literature  masterpieces: Writing of Life History",
           "brief": "",
           "degree": "1",
           "dep_id": "OU1",
@@ -2252,7 +2364,43 @@
         }
       },
       "costype": {
+        "1101_6114": {
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6125": {
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_6134": {
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6152": {
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6156": {
           "通識核心課程_通識核心": {
             "course_category_cname": "通識核心課程_通識核心",
             "course_category_ename": "General Education Course_GEC",
@@ -2317,10 +2465,34 @@
         }
       },
       "brief": {
+        "1101_6114": {
+          "A101,A501": {
+            "brief_code": "A101,A501",
+            "brief": "文化/基礎(96),核心-人文(106)"
+          }
+        },
+        "1101_6125": {
+          "A101,A501": {
+            "brief_code": "A101,A501",
+            "brief": "文化/基礎(96),核心-人文(106)"
+          }
+        },
         "1101_6134": {
           "A205,A503": {
             "brief_code": "A205,A503",
             "brief": "自然/進階(96),核心-自然(106)"
+          }
+        },
+        "1101_6152": {
+          "A201,A501": {
+            "brief_code": "A201,A501",
+            "brief": "文化/進階(96),核心-人文(106)"
+          }
+        },
+        "1101_6156": {
+          "A201,A501": {
+            "brief_code": "A201,A501",
+            "brief": "文化/進階(96),核心-人文(106)"
           }
         },
         "1101_6157": {
@@ -2361,8 +2533,20 @@
         }
       },
       "language": {
+        "1101_6114": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6125": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_6134": {
           "授課語言代碼": "en-us"
+        },
+        "1101_6152": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6156": {
+          "授課語言代碼": "zh-tw"
         },
         "1101_6157": {
           "授課語言代碼": "zh-tw"
@@ -5650,6 +5834,62 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5821": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5821",
+          "cos_code": "ICT5381",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "網路與社群媒體行銷",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "https://ics.nctu.edu.tw/professors/hphuang",
+          "teacher": "黃惠萍",
+          "cos_time": "R567-F216",
+          "memo": "本所優先",
+          "cos_ename": "Internet and Social Media Marketing",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "461",
+          "dep_primary": "1",
+          "dep_cname": "傳播研究所",
+          "dep_ename": "Institute of Communication Studies",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5825": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5825",
+          "cos_code": "ICT5422",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "新媒體環境傳播專題",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "https://ics.nctu.edu.tw/professors/hphuang",
+          "teacher": "黃惠萍",
+          "cos_time": "W234-F216",
+          "memo": "",
+          "cos_ename": "Special Topic on New Media, Environment and Communication",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "461",
+          "dep_primary": "1",
+          "dep_cname": "傳播研究所",
+          "dep_ename": "Institute of Communication Studies",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5826": {
           "acy": "110",
           "sem": "1",
@@ -5689,6 +5929,24 @@
             "GECIEngName": ""
           }
         },
+        "1101_5821": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5825": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5826": {
           "": {
             "course_category_cname": "",
@@ -5706,6 +5964,18 @@
             "brief": ""
           }
         },
+        "1101_5821": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5825": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5826": {
           "": {
             "brief_code": "",
@@ -5715,6 +5985,12 @@
       },
       "language": {
         "1101_5817": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5821": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5825": {
           "授課語言代碼": "zh-tw"
         },
         "1101_5826": {

@@ -926,6 +926,62 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1216": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1216",
+          "cos_code": "DME1327",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "服務學習(一)",
+          "cos_credit": ".00",
+          "cos_hours": "1.00",
+          "TURL": "http://www.me.nctu.edu.tw/people/bio.php?PID=42",
+          "teacher": "楊秉祥",
+          "cos_time": "T2-EE105",
+          "memo": "",
+          "cos_ename": "Service Learning I",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "611",
+          "dep_primary": "1",
+          "dep_cname": "機械工程學系",
+          "dep_ename": "Department of Mechanical Engineering",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1101_1218": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1218",
+          "cos_code": "DME1330",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "導師時間-快樂機械人(一)",
+          "cos_credit": ".00",
+          "cos_hours": "2.00",
+          "TURL": "http://www.me.nctu.edu.tw/people/bio.php?PID=42",
+          "teacher": "楊秉祥",
+          "cos_time": "W78-EE106",
+          "memo": "",
+          "cos_ename": "Happy Mechanical Engineers (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "611",
+          "dep_primary": "1",
+          "dep_cname": "機械工程學系",
+          "dep_ename": "Department of Mechanical Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1220": {
           "acy": "110",
           "sem": "1",
@@ -1077,6 +1133,24 @@
             "GECIEngName": ""
           }
         },
+        "1101_1216": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1218": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1220": {
           "": {
             "course_category_cname": "",
@@ -1130,6 +1204,18 @@
             "brief": ""
           }
         },
+        "1101_1216": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1218": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1220": {
           "": {
             "brief_code": "",
@@ -1163,6 +1249,12 @@
       },
       "language": {
         "1101_1212": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1216": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1218": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1220": {
@@ -4198,6 +4290,146 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "P"
+        },
+        "1101_5595": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5595",
+          "cos_code": "IBM6014",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "財務管理",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "劉志諒",
+          "cos_time": "F234-TD",
+          "memo": "上課地點：台北校區B307；英語授課；IMBA學程；經管所主開，GMBA輔開[English Medium Course]",
+          "cos_ename": "Financial Management",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAL",
+          "dep_primary": "1",
+          "dep_cname": "IMBA國際管理學分學程",
+          "dep_ename": "Program of International Management ＆ Business Administration",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
+        "1101_5596": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5596",
+          "cos_code": "IBM6015",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "行銷管理",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "高瑞麟",
+          "cos_time": "W567-TD",
+          "memo": "上課地點：台北校區；英語授課；IMBA學程；經管所主開，GMBA輔開[English Medium Course]",
+          "cos_ename": "Marketing Management",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAL",
+          "dep_primary": "1",
+          "dep_cname": "IMBA國際管理學分學程",
+          "dep_ename": "Program of International Management ＆ Business Administration",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
+        "1101_5597": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5597",
+          "cos_code": "IBM6023",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "研究方法",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "林介鵬",
+          "cos_time": "M567-TD",
+          "memo": "上課地點：台北校區；英語授課；IMBA學程；經管所主開、GMBA輔開[English Medium Course]",
+          "cos_ename": "Research Methods",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAL",
+          "dep_primary": "1",
+          "dep_cname": "IMBA國際管理學分學程",
+          "dep_ename": "Program of International Management ＆ Business Administration",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
+        "1101_5598": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5598",
+          "cos_code": "IBM6032",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "人力資源管理",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "https://sites.google.com/nctu.edu.tw/profuenspages/",
+          "teacher": "溫金豐",
+          "cos_time": "F567-TD",
+          "memo": "上課地點：台北校區B307；英語授課；IMBA學程；經管所主開，GMBA輔開[English Medium Course]",
+          "cos_ename": "Human Resource Management",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAL",
+          "dep_primary": "1",
+          "dep_cname": "IMBA國際管理學分學程",
+          "dep_ename": "Program of International Management ＆ Business Administration",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
+        "1101_5607": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5607",
+          "cos_code": "IBM6175",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "科技產業分析",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.ibm.nctu.edu.tw/ibm/faculty/proTsaidnWebsite/proTsaidn.html",
+          "teacher": "蔡蕙安",
+          "cos_time": "Tn56-TD",
+          "memo": "上課地點：台北校區；英語授課;IMBA學程;經管所主開、管科所及GMBA輔開[English Medium Course]",
+          "cos_ename": "Science & Technology Industry Analysis",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAL",
+          "dep_primary": "1",
+          "dep_cname": "IMBA國際管理學分學程",
+          "dep_ename": "Program of International Management ＆ Business Administration",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
         }
       },
       "costype": {
@@ -4211,6 +4443,51 @@
           }
         },
         "1101_4027": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5595": {
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "電,資",
+            "GECIEngName": "ECE,CCS"
+          }
+        },
+        "1101_5596": {
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "電,資",
+            "GECIEngName": "ECE,CCS"
+          }
+        },
+        "1101_5597": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5598": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5607": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -4232,6 +4509,36 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_5595": {
+          "A203,A504": {
+            "brief_code": "A203,A504",
+            "brief": "公民/進階(96),跨院基本素養(106)"
+          }
+        },
+        "1101_5596": {
+          "A203,A504": {
+            "brief_code": "A203,A504",
+            "brief": "公民/進階(96),跨院基本素養(106)"
+          }
+        },
+        "1101_5597": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5598": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5607": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -4239,6 +4546,21 @@
           "授課語言代碼": "en-us"
         },
         "1101_4027": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5595": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5596": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5597": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5598": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5607": {
           "授課語言代碼": "en-us"
         }
       }
@@ -7011,6 +7333,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5255": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5255",
+          "cos_code": "IOC5076",
+          "num_limit": "45",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "圖形理論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cis.nctu.edu.tw/~ylli/",
+          "teacher": "李毅郎",
+          "cos_time": "T34R7-ED202",
+          "memo": "本院學生優先；學士班七大主題學程；博士班資格考考核科目",
+          "cos_ename": "Graph Theory",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "551",
+          "dep_primary": "1",
+          "dep_cname": "資訊科學與工程研究所",
+          "dep_ename": "Institute of Computer Science and Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5256": {
           "acy": "110",
           "sem": "1",
@@ -7087,6 +7437,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5255": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5256": {
           "": {
             "course_category_cname": "",
@@ -7119,6 +7478,12 @@
             "brief": ""
           }
         },
+        "1101_5255": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5256": {
           "": {
             "brief_code": "",
@@ -7137,6 +7502,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_5251": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5255": {
           "授課語言代碼": "zh-tw"
         },
         "1101_5256": {
@@ -8986,6 +9354,617 @@
         }
       }
     },
+    "9A7AD1DC-50DE-4485-A113-F4D8D2757FCB": {
+      "dep_id": "9A7AD1DC-50DE-4485-A113-F4D8D2757FCB",
+      "dep_cname": "經營管理研究所",
+      "dep_ename": "Institute of Business Management",
+      "1": {
+        "1101_5593": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5593",
+          "cos_code": "IBM5001",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "國際企業",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳光華",
+          "cos_time": "Wabc-TD",
+          "memo": "上課地點：台北校區",
+          "cos_ename": "International Business",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "709",
+          "dep_primary": "1",
+          "dep_cname": "經營管理研究所",
+          "dep_ename": "Institute of Business Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5594": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5594",
+          "cos_code": "IBM6004",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "個別研究 (碩士班)",
+          "cos_credit": "1.00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "經管所",
+          "cos_time": "F9-TD",
+          "memo": "上課地點：台北校區",
+          "cos_ename": "Individual Study (MBA)",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "709",
+          "dep_primary": "1",
+          "dep_cname": "經營管理研究所",
+          "dep_ename": "Institute of Business Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5595": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5595",
+          "cos_code": "IBM6014",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "財務管理",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "劉志諒",
+          "cos_time": "F234-TD",
+          "memo": "上課地點：台北校區B307；英語授課；IMBA學程；經管所主開，GMBA輔開[English Medium Course]",
+          "cos_ename": "Financial Management",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "709",
+          "dep_primary": "1",
+          "dep_cname": "經營管理研究所",
+          "dep_ename": "Institute of Business Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5596": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5596",
+          "cos_code": "IBM6015",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "行銷管理",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "高瑞麟",
+          "cos_time": "W567-TD",
+          "memo": "上課地點：台北校區；英語授課；IMBA學程；經管所主開，GMBA輔開[English Medium Course]",
+          "cos_ename": "Marketing Management",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "709",
+          "dep_primary": "1",
+          "dep_cname": "經營管理研究所",
+          "dep_ename": "Institute of Business Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5597": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5597",
+          "cos_code": "IBM6023",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "研究方法",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "林介鵬",
+          "cos_time": "M567-TD",
+          "memo": "上課地點：台北校區；英語授課；IMBA學程；經管所主開、GMBA輔開[English Medium Course]",
+          "cos_ename": "Research Methods",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "709",
+          "dep_primary": "1",
+          "dep_cname": "經營管理研究所",
+          "dep_ename": "Institute of Business Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5598": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5598",
+          "cos_code": "IBM6032",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "人力資源管理",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "https://sites.google.com/nctu.edu.tw/profuenspages/",
+          "teacher": "溫金豐",
+          "cos_time": "F567-TD",
+          "memo": "上課地點：台北校區B307；英語授課；IMBA學程；經管所主開，GMBA輔開[English Medium Course]",
+          "cos_ename": "Human Resource Management",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "709",
+          "dep_primary": "1",
+          "dep_cname": "經營管理研究所",
+          "dep_ename": "Institute of Business Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5600": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5600",
+          "cos_code": "IBM6050",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "電子商務",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "林君信",
+          "cos_time": "Fabc-TD",
+          "memo": "上課地點：台北校區",
+          "cos_ename": "Electronic Commerce",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "709",
+          "dep_primary": "1",
+          "dep_cname": "經營管理研究所",
+          "dep_ename": "Institute of Business Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5604": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5604",
+          "cos_code": "IBM6122",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "經營講座",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "林介鵬",
+          "cos_time": "Mabc-TD",
+          "memo": "上課地點：台北校區",
+          "cos_ename": "Lectures on Business Practices",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "709",
+          "dep_primary": "1",
+          "dep_cname": "經營管理研究所",
+          "dep_ename": "Institute of Business Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5605": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5605",
+          "cos_code": "IBM6137",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "現代行銷觀點",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "高瑞麟",
+          "cos_time": "R567-TD",
+          "memo": "經管所主開、GMBA輔開；上課地點：台北校區B435",
+          "cos_ename": "Modern Marketing Perspectives",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "709",
+          "dep_primary": "1",
+          "dep_cname": "經營管理研究所",
+          "dep_ename": "Institute of Business Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5606": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5606",
+          "cos_code": "IBM6155",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "標竿管理實務專題",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "林介鵬、林嘉勳",
+          "cos_time": "R234-TD",
+          "memo": "上課地點：台北校區；限經管所學生",
+          "cos_ename": "Benchmarking Projects in Management",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "709",
+          "dep_primary": "1",
+          "dep_cname": "經營管理研究所",
+          "dep_ename": "Institute of Business Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5607": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5607",
+          "cos_code": "IBM6175",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "科技產業分析",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.ibm.nctu.edu.tw/ibm/faculty/proTsaidnWebsite/proTsaidn.html",
+          "teacher": "蔡蕙安",
+          "cos_time": "Tn56-TD",
+          "memo": "上課地點：台北校區；英語授課;IMBA學程;經管所主開、管科所及GMBA輔開[English Medium Course]",
+          "cos_ename": "Science & Technology Industry Analysis",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "709",
+          "dep_primary": "1",
+          "dep_cname": "經營管理研究所",
+          "dep_ename": "Institute of Business Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5608": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5608",
+          "cos_code": "IBM6176",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "網路策略:方法與應用",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "姜真秀",
+          "cos_time": "T567-TD",
+          "memo": "上課地點：台北校區；英語授課;IMBA學程；經管所主開,管科所及GMBA輔開；開放社會人士選課[English Medium Course]",
+          "cos_ename": "Network Strategies: Method and Applications",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "709",
+          "dep_primary": "1",
+          "dep_cname": "經營管理研究所",
+          "dep_ename": "Institute of Business Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5610": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5610",
+          "cos_code": "IBM6187",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "組織設計與管理",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "https://sites.google.com/nctu.edu.tw/profuenspages/",
+          "teacher": "溫金豐",
+          "cos_time": "R567-TD",
+          "memo": "上課地點：台北校區",
+          "cos_ename": "Organization Design and Management",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "709",
+          "dep_primary": "1",
+          "dep_cname": "經營管理研究所",
+          "dep_ename": "Institute of Business Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "1101_5593": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5594": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5595": {
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "電,資",
+            "GECIEngName": "ECE,CCS"
+          }
+        },
+        "1101_5596": {
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "電,資",
+            "GECIEngName": "ECE,CCS"
+          }
+        },
+        "1101_5597": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5598": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5600": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5604": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5605": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5606": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5607": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5608": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5610": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_5593": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5594": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5595": {
+          "A203,A504": {
+            "brief_code": "A203,A504",
+            "brief": "公民/進階(96),跨院基本素養(106)"
+          }
+        },
+        "1101_5596": {
+          "A203,A504": {
+            "brief_code": "A203,A504",
+            "brief": "公民/進階(96),跨院基本素養(106)"
+          }
+        },
+        "1101_5597": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5598": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5600": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5604": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5605": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5606": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5607": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5608": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5610": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_5593": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5594": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5595": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5596": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5597": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5598": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5600": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5604": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5605": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5606": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5607": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5608": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5610": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "ABF1A309-8B7A-4035-85D5-0C2944E857AC": {
       "dep_id": "ABF1A309-8B7A-4035-85D5-0C2944E857AC",
       "dep_cname": "科技法律研究所",
@@ -10428,6 +11407,203 @@
         },
         "1101_4033": {
           "授課語言代碼": "en-us"
+        }
+      }
+    },
+    "B6613731-2E3C-481C-B6C9-69D9BEDF2A62": {
+      "dep_id": "B6613731-2E3C-481C-B6C9-69D9BEDF2A62",
+      "dep_cname": "經營管理研究所",
+      "dep_ename": "Institute of Business Management",
+      "1": {
+        "1101_4034": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "4034",
+          "cos_code": "IBM5013",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "績效評估(博士班)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://web2.cc.nctu.edu.tw/~jinlihu/Chinese.htm",
+          "teacher": "胡均立",
+          "cos_time": "Tabc-TD",
+          "memo": "上課地點：台北校區；開放社會人士選課",
+          "cos_ename": "Performance Assessment",
+          "brief": "",
+          "degree": "4",
+          "dep_id": "709",
+          "dep_primary": "1",
+          "dep_cname": "經營管理研究所",
+          "dep_ename": "Institute of Business Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "D"
+        },
+        "1101_4035": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "4035",
+          "cos_code": "IBM6003",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "個別研究 (博士班)",
+          "cos_credit": "1.00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "經管所",
+          "cos_time": "F8-TD",
+          "memo": "上課地點：台北校區",
+          "cos_ename": "Individual Study(PhD)",
+          "brief": "",
+          "degree": "4",
+          "dep_id": "709",
+          "dep_primary": "1",
+          "dep_cname": "經營管理研究所",
+          "dep_ename": "Institute of Business Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "D"
+        },
+        "1101_4036": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "4036",
+          "cos_code": "IBM6047",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "賽局論(博士班)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://web2.cc.nctu.edu.tw/~jinlihu/Chinese.htm",
+          "teacher": "胡均立",
+          "cos_time": "T234-TD",
+          "memo": "開放社會人士選課；上課地點：台北校區",
+          "cos_ename": "Game Theory",
+          "brief": "",
+          "degree": "4",
+          "dep_id": "709",
+          "dep_primary": "1",
+          "dep_cname": "經營管理研究所",
+          "dep_ename": "Institute of Business Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "D"
+        },
+        "1101_4037": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "4037",
+          "cos_code": "IBM6196",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "管理理論(一)(博士班)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.ibm.nctu.edu.tw/ibm/faculty/proTsaidnWebsite/proTsaidn.html",
+          "teacher": "蔡蕙安、胡均立、高瑞麟、劉志諒",
+          "cos_time": "T789-TD",
+          "memo": "上課地點：台北校區",
+          "cos_ename": "Management Theory(I)(PhD)",
+          "brief": "",
+          "degree": "4",
+          "dep_id": "709",
+          "dep_primary": "1",
+          "dep_cname": "經營管理研究所",
+          "dep_ename": "Institute of Business Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "D"
+        }
+      },
+      "costype": {
+        "1101_4034": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_4035": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_4036": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_4037": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_4034": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_4035": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_4036": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_4037": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_4034": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_4035": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_4036": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_4037": {
+          "授課語言代碼": "zh-tw"
         }
       }
     },

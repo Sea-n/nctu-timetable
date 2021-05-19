@@ -6115,6 +6115,34 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1101_7120": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7120",
+          "cos_code": "DFR1105",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "大一英文（一）",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "吳舜華",
+          "cos_time": "R34-A502",
+          "memo": "",
+          "cos_ename": "Freshman English (I)",
+          "brief": "基礎",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_7130": {
           "acy": "110",
           "sem": "1",
@@ -6215,6 +6243,34 @@
           "cos_time": "W12-A308",
           "memo": "",
           "cos_ename": "Advanced English Listening and Writing",
+          "brief": "進階",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_7166": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7166",
+          "cos_code": "DFR1323",
+          "num_limit": "25",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "背包客英文",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "吳舜華",
+          "cos_time": "R12-A502",
+          "memo": "",
+          "cos_ename": "Backpacker English",
           "brief": "進階",
           "degree": "1",
           "dep_id": "OU6",
@@ -6377,6 +6433,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_7120": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_7130": {
           "": {
             "course_category_cname": "",
@@ -6405,6 +6470,15 @@
           }
         },
         "1101_7156": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_7166": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -6475,6 +6549,12 @@
             "brief": "基礎(87)"
           }
         },
+        "1101_7120": {
+          "B071": {
+            "brief_code": "B071",
+            "brief": "基礎(87)"
+          }
+        },
         "1101_7130": {
           "B071": {
             "brief_code": "B071",
@@ -6494,6 +6574,12 @@
           }
         },
         "1101_7156": {
+          "B072": {
+            "brief_code": "B072",
+            "brief": "進階(87)"
+          }
+        },
+        "1101_7166": {
           "B072": {
             "brief_code": "B072",
             "brief": "進階(87)"
@@ -6537,6 +6623,9 @@
         "1101_7117": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_7120": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_7130": {
           "授課語言代碼": "zh-tw"
         },
@@ -6547,6 +6636,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_7156": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_7166": {
           "授課語言代碼": "zh-tw"
         },
         "1101_7172": {
@@ -8071,6 +8163,34 @@
           "reg_num": "0",
           "depType": "P"
         },
+        "1101_5268": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5268",
+          "cos_code": "IOC5219",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "智慧系統之感知與決策(英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳奕廷",
+          "cos_time": "T56F2-EC329",
+          "memo": "本院學生優先；英文授課[English Medium Course]",
+          "cos_ename": "Perception and Decision Making in Intelligent Systems",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAN",
+          "dep_primary": "1",
+          "dep_cname": "電機資訊英語授課學分學程",
+          "dep_ename": "Electrical Engineering and Computer Science-International Program",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
         "1101_5284": {
           "acy": "110",
           "sem": "1",
@@ -8192,6 +8312,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5268": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5284": {
           "": {
             "course_category_cname": "",
@@ -8254,6 +8383,12 @@
             "brief": ""
           }
         },
+        "1101_5268": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5284": {
           "": {
             "brief_code": "",
@@ -8287,6 +8422,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_5136": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5268": {
           "授課語言代碼": "en-us"
         },
         "1101_5284": {
@@ -11110,6 +11248,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1101_5268": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5268",
+          "cos_code": "IOC5219",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "智慧系統之感知與決策(英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳奕廷",
+          "cos_time": "T56F2-EC329",
+          "memo": "本院學生優先；英文授課[English Medium Course]",
+          "cos_ename": "Perception and Decision Making in Intelligent Systems",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "551",
+          "dep_primary": "1",
+          "dep_cname": "資訊科學與工程研究所",
+          "dep_ename": "Institute of Computer Science and Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
@@ -11166,6 +11332,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_5268": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -11204,6 +11379,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_5268": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -11224,6 +11405,9 @@
         },
         "1101_5263": {
           "授課語言代碼": "zh-tw"
+        },
+        "1101_5268": {
+          "授課語言代碼": "en-us"
         }
       }
     },

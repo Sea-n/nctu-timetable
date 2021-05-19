@@ -1660,6 +1660,34 @@
       "dep_cname": "電子物理學系",
       "dep_ename": "Department of Electro-Physics",
       "1": {
+        "1101_1346": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1346",
+          "cos_code": "DEP2348",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "電路理論（一）",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "羅舜聰",
+          "cos_time": "T34R3-SC158",
+          "memo": "",
+          "cos_ename": "Circuit Theory (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "651",
+          "dep_primary": "1",
+          "dep_cname": "電子物理學系",
+          "dep_ename": "Department of Electro-Physics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1352": {
           "acy": "110",
           "sem": "1",
@@ -1684,6 +1712,34 @@
           "dep_ename": "Department of Electro-Physics",
           "cos_type": "必修",
           "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1101_1356": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1356",
+          "cos_code": "DEP3333",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "量子元件與物理",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "羅舜聰",
+          "cos_time": "T2F34-SC162",
+          "memo": "",
+          "cos_ename": "",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "651",
+          "dep_primary": "1",
+          "dep_cname": "電子物理學系",
+          "dep_ename": "Department of Electro-Physics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "U"
@@ -1718,7 +1774,25 @@
         }
       },
       "costype": {
+        "1101_1346": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1352": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1356": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -1738,7 +1812,19 @@
         }
       },
       "brief": {
+        "1101_1346": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1352": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1356": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -1752,7 +1838,13 @@
         }
       },
       "language": {
+        "1101_1346": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1352": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1356": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1361": {

@@ -753,6 +753,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "U"
+        },
+        "1101_1930": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1930",
+          "cos_code": "DCP1267",
+          "num_limit": "60",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "圖形理論導論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cis.nctu.edu.tw/~ylli/",
+          "teacher": "李毅郎",
+          "cos_time": "M56R8-ED102",
+          "memo": "外系生請於開學上網加選；資工系與電資學士班學生優先選課",
+          "cos_ename": "Elementary graph theory",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "550",
+          "dep_primary": "1",
+          "dep_cname": "資訊工程學系",
+          "dep_ename": "Department of Computer Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
         }
       },
       "costype": {
@@ -791,6 +819,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_1930": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -817,6 +854,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_1930": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -830,6 +873,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_1173": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1930": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -1121,6 +1167,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "U"
+        },
+        "1101_1245": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1245",
+          "cos_code": "DME3334",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "無人機飛行實作",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "劉義強、賴錦文、程登湖",
+          "cos_time": "R234-EE231",
+          "memo": "",
+          "cos_ename": "Unmanned Aerial Vehicles",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "611",
+          "dep_primary": "1",
+          "dep_cname": "機械工程學系",
+          "dep_ename": "Department of Mechanical Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
         }
       },
       "costype": {
@@ -1195,6 +1269,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_1245": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -1245,6 +1328,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_1245": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -1270,6 +1359,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1237": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1245": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -2343,6 +2435,202 @@
       "dep_cname": "通識教育中心",
       "dep_ename": "Center of General Education",
       "1": {
+        "1101_6101": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6101",
+          "cos_code": "GEC3001",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "政治學",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "胡正光",
+          "cos_time": "M34-A503",
+          "memo": "",
+          "cos_ename": "Political Science",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6104": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6104",
+          "cos_code": "GEC6041",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "音樂理論導論",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "洪億津",
+          "cos_time": "M56-A102",
+          "memo": "",
+          "cos_ename": "Introduction to Music Theory",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6105": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6105",
+          "cos_code": "GEC4000",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "社會學",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "胡正光",
+          "cos_time": "M56-A503",
+          "memo": "",
+          "cos_ename": "Sociology",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6106": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6106",
+          "cos_code": "GEC5001",
+          "num_limit": "70",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "生命科學",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "陳文亮、李曉青",
+          "cos_time": "M56-A103",
+          "memo": "不接受生科系、奈米學系同學修讀。",
+          "cos_ename": "Life Science",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6107": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6107",
+          "cos_code": "GEC3001",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "政治學",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "邱奕宏",
+          "cos_time": "M56-A401",
+          "memo": "",
+          "cos_ename": "Political Science",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6110": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6110",
+          "cos_code": "GEC1021",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "文學經典-魯迅作品選讀",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "彭明偉",
+          "cos_time": "T12-A509",
+          "memo": "",
+          "cos_ename": "Selected Readings on Lu Xun",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6113": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6113",
+          "cos_code": "GEC4001",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "心理學概論",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "梁瓊惠",
+          "cos_time": "T34-A103",
+          "memo": "不接受修讀過「心理學」或「心理學概論」同學修讀。",
+          "cos_ename": "Introduction to Psychology",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_6114": {
           "acy": "110",
           "sem": "1",
@@ -2359,6 +2647,258 @@
           "cos_time": "T34-A509",
           "memo": "",
           "cos_ename": "The  Paradigms of Novels",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6115": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6115",
+          "cos_code": "GEC2000",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "台灣史",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "張文昌",
+          "cos_time": "T34-A204",
+          "memo": "不接受修讀過「中國與東亞文明史」同學修讀。",
+          "cos_ename": "The Taiwan History",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6116": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6116",
+          "cos_code": "GEC7429",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "資訊素養與倫理",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "http://www.cc.nctu.edu.tw/~globe/",
+          "teacher": "王美鴻",
+          "cos_time": "T34-A401",
+          "memo": "限大一、大二同學修讀。",
+          "cos_ename": "Information Literacy and Ethics",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6117": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6117",
+          "cos_code": "GEC1004",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "音樂概論",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "宋育任",
+          "cos_time": "T34-A102",
+          "memo": "",
+          "cos_ename": "Introduction to Music",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6118": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6118",
+          "cos_code": "GEC0002",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "當代世界",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "邱奕宏",
+          "cos_time": "T34-A503",
+          "memo": "不接受修讀過「當代世界：認同與文化」、「當代世界：國際關係與組織」、「當代世界：跨國社會與經濟議題」、「當代世界：環境危機與生態永續」同學修讀。[English Medium Course]",
+          "cos_ename": "Contemporary World",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6120": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6120",
+          "cos_code": "GEC2003",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "歷史分析：世界史導論",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "陳仁姮",
+          "cos_time": "T34-A205",
+          "memo": "",
+          "cos_ename": "History Analysis: Introduction to the World History",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6121": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6121",
+          "cos_code": "GEC4000",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "社會學",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "王佩迪",
+          "cos_time": "T56-A503",
+          "memo": "",
+          "cos_ename": "Sociology",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6122": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6122",
+          "cos_code": "GEC2002",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "中國與東亞文明史",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "張文昌",
+          "cos_time": "T56-A204",
+          "memo": "不接受修讀過「臺灣史」同學修讀。",
+          "cos_ename": "A General Survey of China and East Asia's Civilization",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6123": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6123",
+          "cos_code": "GEC7440",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "國際關係",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "邱奕宏",
+          "cos_time": "T56-A401",
+          "memo": "",
+          "cos_ename": "International Relations",
+          "brief": "通識/必修",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6124": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6124",
+          "cos_code": "GEC1004",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "音樂概論",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "宋育任",
+          "cos_time": "T56-A102",
+          "memo": "",
+          "cos_ename": "Introduction to Music",
           "brief": "",
           "degree": "1",
           "dep_id": "OU1",
@@ -2399,6 +2939,34 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1101_6127": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6127",
+          "cos_code": "GEC4001",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "心理學概論",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "梁瓊惠",
+          "cos_time": "T78-A103",
+          "memo": "不接受修讀過「心理學」或「心理學概論」同學修讀。",
+          "cos_ename": "Introduction to Psychology",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_6128": {
           "acy": "110",
           "sem": "1",
@@ -2427,6 +2995,62 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1101_6129": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6129",
+          "cos_code": "GEC2003",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "歷史分析：世界史導論",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "陳仁姮",
+          "cos_time": "T78-A205",
+          "memo": "不接受修讀過「世界文明史」同學修讀。",
+          "cos_ename": "History Analysis: Introduction to the World History",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6130": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6130",
+          "cos_code": "GEC1013",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "文學經典:現代文學選讀",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "彭明偉",
+          "cos_time": "W12-A401",
+          "memo": "",
+          "cos_ename": "Selected Reading on Modern Literature",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_6134": {
           "acy": "110",
           "sem": "1",
@@ -2443,6 +3067,146 @@
           "cos_time": "W34-A204",
           "memo": "不接受生科系同學修讀。[English Medium Course]",
           "cos_ename": "Life and Biomedicine",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6135": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6135",
+          "cos_code": "GEC8158",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "教育學概論",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "黃漢昌",
+          "cos_time": "W34-A509",
+          "memo": "",
+          "cos_ename": "An introduction to pedagogy",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6138": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6138",
+          "cos_code": "GEC1004",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "音樂概論",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "宋育任",
+          "cos_time": "R34-A102",
+          "memo": "",
+          "cos_ename": "Introduction to Music",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6139": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6139",
+          "cos_code": "GEC4000",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "社會學",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "黃國清",
+          "cos_time": "R34-A103",
+          "memo": "",
+          "cos_ename": "Sociology",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6140": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6140",
+          "cos_code": "GEC0002",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "當代世界",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "胡正光",
+          "cos_time": "R34-A503",
+          "memo": "不接受修讀過「當代世界：認同與文化」、「當代世界：國際關係與組織」、「當代世界：跨國社會與經濟議題」、「當代世界：環境危機與生態永續」同學修讀。",
+          "cos_ename": "Contemporary World",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6142": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6142",
+          "cos_code": "GEC5000",
+          "num_limit": "60",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "邏輯與思維",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "王冠生",
+          "cos_time": "R34-A205",
+          "memo": "",
+          "cos_ename": "Logic and Thinking",
           "brief": "",
           "degree": "1",
           "dep_id": "OU1",
@@ -2511,6 +3275,34 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1101_6153": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6153",
+          "cos_code": "GEC4001",
+          "num_limit": "60",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "心理學概論",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "https://ics.nctu.edu.tw/professors/shihyulo",
+          "teacher": "羅仕宇",
+          "cos_time": "F34-F110",
+          "memo": "不接受修讀過「心理學」或「心理學概論」同學修讀。",
+          "cos_ename": "Introduction to Psychology",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_6156": {
           "acy": "110",
           "sem": "1",
@@ -2567,6 +3359,34 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1101_6158": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6158",
+          "cos_code": "GEC1008",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "文學經典:詩經",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "王月秀",
+          "cos_time": "M12-A509",
+          "memo": "",
+          "cos_ename": "Chinese Literature-Shin Ching",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_6159": {
           "acy": "110",
           "sem": "1",
@@ -2583,6 +3403,174 @@
           "cos_time": "W56-A204",
           "memo": "不接受生科系同學修讀。[English Medium Course]",
           "cos_ename": "Life and Biomedicine",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6160": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6160",
+          "cos_code": "GEC3005",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "政治學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "胡正光",
+          "cos_time": "R567-A503",
+          "memo": "不接受已修過「政治學」(2學分)同學修讀。",
+          "cos_ename": "Political Science",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6161": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6161",
+          "cos_code": "GEC1029",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "文學經典：台灣文學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "黃毓婷",
+          "cos_time": "W234-A503",
+          "memo": "不接受已修過「文學經典：台灣文學」(2學分)及修讀過「台灣社會與文化」同學修讀。",
+          "cos_ename": "Taiwanese Literature",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6162": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6162",
+          "cos_code": "GEC1029",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "文學經典：台灣文學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "黃毓婷",
+          "cos_time": "M789-A509",
+          "memo": "不接受已修過「文學經典：台灣文學」(2學分)及修讀過「台灣社會與文化」同學修讀。",
+          "cos_ename": "Taiwanese Literature",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6163": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6163",
+          "cos_code": "GEC3004",
+          "num_limit": "80",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "經濟學概論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "梁婉麗",
+          "cos_time": "M234-M-b10",
+          "memo": "不接受管理學院同學修讀。",
+          "cos_ename": "Introduction to Economics",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6301": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6301",
+          "cos_code": "GEC6703",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "日本文化論",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "楊永良",
+          "cos_time": "M34-A205",
+          "memo": "",
+          "cos_ename": "Cultural Heritage of Japan",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6302": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6302",
+          "cos_code": "GEC6076",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "閱讀與寫作",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "王月秀",
+          "cos_time": "M34-A509",
+          "memo": "包含寫作指導。",
+          "cos_ename": "Reading and Writing",
           "brief": "",
           "degree": "1",
           "dep_id": "OU1",
@@ -2623,6 +3611,286 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1101_6304": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6304",
+          "cos_code": "GEC8108",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "資訊行為",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "http://www.cc.nctu.edu.tw/~globe/",
+          "teacher": "王美鴻",
+          "cos_time": "M34-A401",
+          "memo": "不接受修讀過「社會心理學」同學修讀。",
+          "cos_ename": "Human Information Behavior",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6305": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6305",
+          "cos_code": "GEC7451",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "國際政治經濟學",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "邱奕宏",
+          "cos_time": "M34-A204",
+          "memo": "",
+          "cos_ename": "International Political Economy",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6306": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6306",
+          "cos_code": "GEC6735",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "法國社會文化史",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "邱德亮",
+          "cos_time": "M34-F210",
+          "memo": "",
+          "cos_ename": "Socio-cultural history of France",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6307": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6307",
+          "cos_code": "GEC8871",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "食品安全與生活",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "http://www.cc.nctu.edu.tw/~kjni",
+          "teacher": "倪貴榮",
+          "cos_time": "M34-CS100",
+          "memo": "",
+          "cos_ename": "Food Safety and Life",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6309": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6309",
+          "cos_code": "GEC7430",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "日本現勢",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "楊永良",
+          "cos_time": "M56-A205",
+          "memo": "",
+          "cos_ename": "Japan Today",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6312": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6312",
+          "cos_code": "GEC8108",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "資訊行為",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "http://www.cc.nctu.edu.tw/~globe/",
+          "teacher": "王美鴻",
+          "cos_time": "M78-A401",
+          "memo": "不接受修讀過「社會心理學」同學修讀。",
+          "cos_ename": "Human Information Behavior",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6316": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6316",
+          "cos_code": "GEC8108",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "資訊行為",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "http://www.cc.nctu.edu.tw/~globe/",
+          "teacher": "王美鴻",
+          "cos_time": "T12-A401",
+          "memo": "不接受修讀過「社會心理學」同學修讀。",
+          "cos_ename": "Human Information Behavior",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6319": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6319",
+          "cos_code": "GEC8807",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "運動與健康",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "巫慧萍",
+          "cos_time": "T56-A103",
+          "memo": "大四學生優先修讀。",
+          "cos_ename": "Sport and Health",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6322": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6322",
+          "cos_code": "GEC8164",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "性別與社會",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "王佩迪",
+          "cos_time": "T78-A503",
+          "memo": "",
+          "cos_ename": "Gender and Society",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6325": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6325",
+          "cos_code": "GEC6006",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "書學與書道",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "黃漢昌",
+          "cos_time": "W12-A509",
+          "memo": "",
+          "cos_ename": "Theories and Practice of Calligraphy",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_6334": {
           "acy": "110",
           "sem": "1",
@@ -2639,6 +3907,90 @@
           "cos_time": "R56-A205",
           "memo": "",
           "cos_ename": "Introduction to Islamic Civilization",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6335": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6335",
+          "cos_code": "GEC6000",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "西洋歌劇史",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "宋育任",
+          "cos_time": "R56-A102",
+          "memo": "",
+          "cos_ename": "A History of Western Opera",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6336": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6336",
+          "cos_code": "GEC8173",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "認同與文化",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "黃國清",
+          "cos_time": "R56-A103",
+          "memo": "不接受修讀過「當代世界：認同與文化」同學修讀。",
+          "cos_ename": "Identity and Culture",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6337": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6337",
+          "cos_code": "GEC8129",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "道德推理",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "王冠生",
+          "cos_time": "R56-A401",
+          "memo": "",
+          "cos_ename": "Moral Reasoning",
           "brief": "",
           "degree": "1",
           "dep_id": "OU1",
@@ -2679,6 +4031,118 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1101_6341": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6341",
+          "cos_code": "GEC8887",
+          "num_limit": "35",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "科技與社會導論",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "彭松嶽",
+          "cos_time": "R78-A204",
+          "memo": "",
+          "cos_ename": "",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6343": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6343",
+          "cos_code": "GEC6103",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "性別與電影",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "蔡華臻",
+          "cos_time": "F34-F210",
+          "memo": "",
+          "cos_ename": "Gender, Sexuality and Cinema",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6344": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6344",
+          "cos_code": "GEC8814",
+          "num_limit": "41",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "幾何造形",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "陳明璋",
+          "cos_time": "F34-CSPC2",
+          "memo": "",
+          "cos_ename": "Patterning in Geometry",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6348": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6348",
+          "cos_code": "GEC8814",
+          "num_limit": "41",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "幾何造形",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "陳明璋",
+          "cos_time": "F56-CSPC2",
+          "memo": "",
+          "cos_ename": "Patterning in Geometry",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_6351": {
           "acy": "110",
           "sem": "1",
@@ -2706,10 +4170,266 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "O"
+        },
+        "1101_6352": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6352",
+          "cos_code": "GEC7400",
+          "num_limit": "200",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "經典通識教育講座",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "黃毓婷",
+          "cos_time": "W56-圖書館B1國",
+          "memo": "地點:圖書館B1國際會議廳\r\n",
+          "cos_ename": "Contemporary Civilization",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6354": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6354",
+          "cos_code": "GEC6742",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "俄羅斯歷史與文化",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳仁姮",
+          "cos_time": "W34n-A205",
+          "memo": "不接受已修過「俄羅斯歷史與文化」(2學分)同學修讀。",
+          "cos_ename": "History of Russian Culture",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6355": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6355",
+          "cos_code": "GEC8140",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "領導與統御",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "林紹胤",
+          "cos_time": "R789-A102",
+          "memo": "",
+          "cos_ename": "Leadership",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6356": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6356",
+          "cos_code": "GEC8176",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "發展心理學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "梁瓊惠",
+          "cos_time": "F234-A103",
+          "memo": "",
+          "cos_ename": "Development Psychology",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
         }
       },
       "costype": {
+        "1101_6101": {
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6104": {
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6105": {
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6106": {
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6107": {
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6110": {
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6113": {
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_6114": {
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6115": {
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6116": {
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6117": {
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6118": {
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6120": {
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6121": {
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6122": {
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6123": {
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6124": {
           "通識核心課程_通識核心": {
             "course_category_cname": "通識核心課程_通識核心",
             "course_category_ename": "General Education Course_GEC",
@@ -2727,6 +4447,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_6127": {
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_6128": {
           "通識核心課程_通識核心": {
             "course_category_cname": "通識核心課程_通識核心",
@@ -2736,7 +4465,70 @@
             "GECIEngName": ""
           }
         },
+        "1101_6129": {
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6130": {
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_6134": {
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6135": {
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6138": {
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6139": {
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6140": {
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6142": {
           "通識核心課程_通識核心": {
             "course_category_cname": "通識核心課程_通識核心",
             "course_category_ename": "General Education Course_GEC",
@@ -2763,6 +4555,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_6153": {
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_6156": {
           "通識核心課程_通識核心": {
             "course_category_cname": "通識核心課程_通識核心",
@@ -2781,6 +4582,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_6158": {
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_6159": {
           "通識核心課程_通識核心": {
             "course_category_cname": "通識核心課程_通識核心",
@@ -2790,7 +4600,151 @@
             "GECIEngName": ""
           }
         },
+        "1101_6160": {
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6161": {
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6162": {
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6163": {
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6301": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6302": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_6303": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6304": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6305": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6306": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6307": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6309": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6312": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6316": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6319": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6322": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6325": {
           "通識校基本素養_通識校基本": {
             "course_category_cname": "通識校基本素養_通識校基本",
             "course_category_ename": "General Education Course: Literacy_GECL",
@@ -2808,6 +4762,33 @@
             "GECIEngName": ""
           }
         },
+        "1101_6335": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6336": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6337": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_6340": {
           "通識校基本素養_通識校基本": {
             "course_category_cname": "通識校基本素養_通識校基本",
@@ -2817,7 +4798,79 @@
             "GECIEngName": ""
           }
         },
+        "1101_6341": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6343": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6344": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6348": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_6351": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6352": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6354": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6355": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6356": {
           "通識校基本素養_通識校基本": {
             "course_category_cname": "通識校基本素養_通識校基本",
             "course_category_ename": "General Education Course: Literacy_GECL",
@@ -2828,7 +4881,103 @@
         }
       },
       "brief": {
+        "1101_6101": {
+          "A103,A502": {
+            "brief_code": "A103,A502",
+            "brief": "公民/基礎(96),核心-社會(106)"
+          }
+        },
+        "1101_6104": {
+          "A201,A501": {
+            "brief_code": "A201,A501",
+            "brief": "文化/進階(96),核心-人文(106)"
+          }
+        },
+        "1101_6105": {
+          "A104,A502": {
+            "brief_code": "A104,A502",
+            "brief": "群己/基礎(96),核心-社會(106)"
+          }
+        },
+        "1101_6106": {
+          "A105,A503": {
+            "brief_code": "A105,A503",
+            "brief": "自然/基礎(96),核心-自然(106)"
+          }
+        },
+        "1101_6107": {
+          "A103,A502": {
+            "brief_code": "A103,A502",
+            "brief": "公民/基礎(96),核心-社會(106)"
+          }
+        },
+        "1101_6110": {
+          "A101,A501": {
+            "brief_code": "A101,A501",
+            "brief": "文化/基礎(96),核心-人文(106)"
+          }
+        },
+        "1101_6113": {
+          "A104,A502": {
+            "brief_code": "A104,A502",
+            "brief": "群己/基礎(96),核心-社會(106)"
+          }
+        },
         "1101_6114": {
+          "A101,A501": {
+            "brief_code": "A101,A501",
+            "brief": "文化/基礎(96),核心-人文(106)"
+          }
+        },
+        "1101_6115": {
+          "A102,A501": {
+            "brief_code": "A102,A501",
+            "brief": "歷史/基礎(96),核心-人文(106)"
+          }
+        },
+        "1101_6116": {
+          "A203,A502": {
+            "brief_code": "A203,A502",
+            "brief": "公民/進階(96),核心-社會(106)"
+          }
+        },
+        "1101_6117": {
+          "A101,A501": {
+            "brief_code": "A101,A501",
+            "brief": "文化/基礎(96),核心-人文(106)"
+          }
+        },
+        "1101_6118": {
+          "A000,A502": {
+            "brief_code": "A000,A502",
+            "brief": "通識/必修(96),核心-社會(106)"
+          }
+        },
+        "1101_6120": {
+          "A102,A501": {
+            "brief_code": "A102,A501",
+            "brief": "歷史/基礎(96),核心-人文(106)"
+          }
+        },
+        "1101_6121": {
+          "A104,A502": {
+            "brief_code": "A104,A502",
+            "brief": "群己/基礎(96),核心-社會(106)"
+          }
+        },
+        "1101_6122": {
+          "A102,A501": {
+            "brief_code": "A102,A501",
+            "brief": "歷史/基礎(96),核心-人文(106)"
+          }
+        },
+        "1101_6123": {
+          "A203,A502": {
+            "brief_code": "A203,A502",
+            "brief": "公民/進階(96),核心-社會(106)"
+          }
+        },
+        "1101_6124": {
           "A101,A501": {
             "brief_code": "A101,A501",
             "brief": "文化/基礎(96),核心-人文(106)"
@@ -2840,16 +4989,64 @@
             "brief": "文化/基礎(96),核心-人文(106)"
           }
         },
+        "1101_6127": {
+          "A104,A502": {
+            "brief_code": "A104,A502",
+            "brief": "群己/基礎(96),核心-社會(106)"
+          }
+        },
         "1101_6128": {
           "A201,A501": {
             "brief_code": "A201,A501",
             "brief": "文化/進階(96),核心-人文(106)"
           }
         },
+        "1101_6129": {
+          "A102,A501": {
+            "brief_code": "A102,A501",
+            "brief": "歷史/基礎(96),核心-人文(106)"
+          }
+        },
+        "1101_6130": {
+          "A101,A501": {
+            "brief_code": "A101,A501",
+            "brief": "文化/基礎(96),核心-人文(106)"
+          }
+        },
         "1101_6134": {
           "A205,A503": {
             "brief_code": "A205,A503",
             "brief": "自然/進階(96),核心-自然(106)"
+          }
+        },
+        "1101_6135": {
+          "A204,A502": {
+            "brief_code": "A204,A502",
+            "brief": "群己/進階(96),核心-社會(106)"
+          }
+        },
+        "1101_6138": {
+          "A101,A501": {
+            "brief_code": "A101,A501",
+            "brief": "文化/基礎(96),核心-人文(106)"
+          }
+        },
+        "1101_6139": {
+          "A104,A502": {
+            "brief_code": "A104,A502",
+            "brief": "群己/基礎(96),核心-社會(106)"
+          }
+        },
+        "1101_6140": {
+          "A000,A502": {
+            "brief_code": "A000,A502",
+            "brief": "通識/必修(96),核心-社會(106)"
+          }
+        },
+        "1101_6142": {
+          "A105,A501": {
+            "brief_code": "A105,A501",
+            "brief": "自然/基礎(96),核心-人文(106)"
           }
         },
         "1101_6149": {
@@ -2864,6 +5061,12 @@
             "brief": "文化/進階(96),核心-人文(106)"
           }
         },
+        "1101_6153": {
+          "A104,A502": {
+            "brief_code": "A104,A502",
+            "brief": "群己/基礎(96),核心-社會(106)"
+          }
+        },
         "1101_6156": {
           "A201,A501": {
             "brief_code": "A201,A501",
@@ -2874,6 +5077,12 @@
           "A205,A503": {
             "brief_code": "A205,A503",
             "brief": "自然/進階(96),核心-自然(106)"
+          }
+        },
+        "1101_6158": {
+          "A101,A501": {
+            "brief_code": "A101,A501",
+            "brief": "文化/基礎(96),核心-人文(106)"
           }
         },
         "1101_6159": {
@@ -2882,10 +5091,106 @@
             "brief": "自然/進階(96),核心-人文(106)"
           }
         },
+        "1101_6160": {
+          "A103,A502": {
+            "brief_code": "A103,A502",
+            "brief": "公民/基礎(96),核心-社會(106)"
+          }
+        },
+        "1101_6161": {
+          "A101,A501": {
+            "brief_code": "A101,A501",
+            "brief": "文化/基礎(96),核心-人文(106)"
+          }
+        },
+        "1101_6162": {
+          "A101,A501": {
+            "brief_code": "A101,A501",
+            "brief": "文化/基礎(96),核心-人文(106)"
+          }
+        },
+        "1101_6163": {
+          "A103,A502": {
+            "brief_code": "A103,A502",
+            "brief": "公民/基礎(96),核心-社會(106)"
+          }
+        },
+        "1101_6301": {
+          "A202,A505": {
+            "brief_code": "A202,A505",
+            "brief": "歷史/進階(96),校基本素養(106)"
+          }
+        },
+        "1101_6302": {
+          "A201,A505": {
+            "brief_code": "A201,A505",
+            "brief": "文化/進階(96),校基本素養(106)"
+          }
+        },
         "1101_6303": {
           "A202,A505": {
             "brief_code": "A202,A505",
             "brief": "歷史/進階(96),校基本素養(106)"
+          }
+        },
+        "1101_6304": {
+          "A204,A505": {
+            "brief_code": "A204,A505",
+            "brief": "群己/進階(96),校基本素養(106)"
+          }
+        },
+        "1101_6305": {
+          "A203,A505": {
+            "brief_code": "A203,A505",
+            "brief": "公民/進階(96),校基本素養(106)"
+          }
+        },
+        "1101_6306": {
+          "A202,A505": {
+            "brief_code": "A202,A505",
+            "brief": "歷史/進階(96),校基本素養(106)"
+          }
+        },
+        "1101_6307": {
+          "A205,A505": {
+            "brief_code": "A205,A505",
+            "brief": "自然/進階(96),校基本素養(106)"
+          }
+        },
+        "1101_6309": {
+          "A203,A505": {
+            "brief_code": "A203,A505",
+            "brief": "公民/進階(96),校基本素養(106)"
+          }
+        },
+        "1101_6312": {
+          "A204,A505": {
+            "brief_code": "A204,A505",
+            "brief": "群己/進階(96),校基本素養(106)"
+          }
+        },
+        "1101_6316": {
+          "A204,A505": {
+            "brief_code": "A204,A505",
+            "brief": "群己/進階(96),校基本素養(106)"
+          }
+        },
+        "1101_6319": {
+          "A205,A505": {
+            "brief_code": "A205,A505",
+            "brief": "自然/進階(96),校基本素養(106)"
+          }
+        },
+        "1101_6322": {
+          "A204,A505": {
+            "brief_code": "A204,A505",
+            "brief": "群己/進階(96),校基本素養(106)"
+          }
+        },
+        "1101_6325": {
+          "A201,A505": {
+            "brief_code": "A201,A505",
+            "brief": "文化/進階(96),校基本素養(106)"
           }
         },
         "1101_6334": {
@@ -2894,10 +5199,52 @@
             "brief": "歷史/進階(96),校基本素養(106)"
           }
         },
+        "1101_6335": {
+          "A201,A505": {
+            "brief_code": "A201,A505",
+            "brief": "文化/進階(96),校基本素養(106)"
+          }
+        },
+        "1101_6336": {
+          "A204,A505": {
+            "brief_code": "A204,A505",
+            "brief": "群己/進階(96),校基本素養(106)"
+          }
+        },
+        "1101_6337": {
+          "A204,A505": {
+            "brief_code": "A204,A505",
+            "brief": "群己/進階(96),校基本素養(106)"
+          }
+        },
         "1101_6340": {
           "A202,A505": {
             "brief_code": "A202,A505",
             "brief": "歷史/進階(96),校基本素養(106)"
+          }
+        },
+        "1101_6341": {
+          "A205,A505": {
+            "brief_code": "A205,A505",
+            "brief": "自然/進階(96),校基本素養(106)"
+          }
+        },
+        "1101_6343": {
+          "A201,A505": {
+            "brief_code": "A201,A505",
+            "brief": "文化/進階(96),校基本素養(106)"
+          }
+        },
+        "1101_6344": {
+          "A205,A505": {
+            "brief_code": "A205,A505",
+            "brief": "自然/進階(96),校基本素養(106)"
+          }
+        },
+        "1101_6348": {
+          "A205,A505": {
+            "brief_code": "A205,A505",
+            "brief": "自然/進階(96),校基本素養(106)"
           }
         },
         "1101_6351": {
@@ -2905,25 +5252,124 @@
             "brief_code": "A202,A505",
             "brief": "歷史/進階(96),校基本素養(106)"
           }
+        },
+        "1101_6352": {
+          "A203,A505": {
+            "brief_code": "A203,A505",
+            "brief": "公民/進階(96),校基本素養(106)"
+          }
+        },
+        "1101_6354": {
+          "A202,A505": {
+            "brief_code": "A202,A505",
+            "brief": "歷史/進階(96),校基本素養(106)"
+          }
+        },
+        "1101_6355": {
+          "A204,A505": {
+            "brief_code": "A204,A505",
+            "brief": "群己/進階(96),校基本素養(106)"
+          }
+        },
+        "1101_6356": {
+          "A204,A505": {
+            "brief_code": "A204,A505",
+            "brief": "群己/進階(96),校基本素養(106)"
+          }
         }
       },
       "language": {
+        "1101_6101": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6104": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6105": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6106": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6107": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6110": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6113": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_6114": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6115": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6116": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6117": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6118": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6120": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6121": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6122": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6123": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6124": {
           "授課語言代碼": "zh-tw"
         },
         "1101_6125": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_6127": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_6128": {
           "授課語言代碼": "en-us"
         },
+        "1101_6129": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6130": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_6134": {
           "授課語言代碼": "en-us"
+        },
+        "1101_6135": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6138": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6139": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6140": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6142": {
+          "授課語言代碼": "zh-tw"
         },
         "1101_6149": {
           "授課語言代碼": "zh-tw"
         },
         "1101_6152": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6153": {
           "授課語言代碼": "zh-tw"
         },
         "1101_6156": {
@@ -2932,19 +5378,103 @@
         "1101_6157": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_6158": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_6159": {
           "授課語言代碼": "en-us"
         },
+        "1101_6160": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6161": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6162": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6163": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6301": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6302": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_6303": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6304": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6305": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6306": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6307": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6309": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6312": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6316": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6319": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6322": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6325": {
           "授課語言代碼": "zh-tw"
         },
         "1101_6334": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_6335": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6336": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6337": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_6340": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_6341": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6343": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6344": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6348": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_6351": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6352": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6354": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6355": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6356": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -5012,6 +7542,65 @@
         }
       }
     },
+    "766C288E-B3E9-4F2C-B835-CC802F620CAE": {
+      "dep_id": "766C288E-B3E9-4F2C-B835-CC802F620CAE",
+      "dep_cname": "音樂學分學程",
+      "dep_ename": "Program of Music",
+      "1": {
+        "1101_6104": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6104",
+          "cos_code": "GEC6041",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "音樂理論導論",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "洪億津",
+          "cos_time": "M56-A102",
+          "memo": "",
+          "cos_ename": "Introduction to Music Theory",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PBN",
+          "dep_primary": "1",
+          "dep_cname": "音樂學分學程",
+          "dep_ename": "Program of Music",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        }
+      },
+      "costype": {
+        "1101_6104": {
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_6104": {
+          "A201,A501": {
+            "brief_code": "A201,A501",
+            "brief": "文化/進階(96),核心-人文(106)"
+          }
+        }
+      },
+      "language": {
+        "1101_6104": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "A426BEEB-DA2C-49E2-8B21-D801ABF1209C": {
       "dep_id": "A426BEEB-DA2C-49E2-8B21-D801ABF1209C",
       "dep_cname": "創新科技藝術學分學程",
@@ -5560,6 +8149,65 @@
       },
       "language": {
         "1101_1532": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "8FC55056-E913-4D0C-919E-EAB1EC4FFC69": {
+      "dep_id": "8FC55056-E913-4D0C-919E-EAB1EC4FFC69",
+      "dep_cname": "人文社會學院藝術與音樂跨域學程",
+      "dep_ename": "College of Humanities and Social Sciences for Transdisciplinary Inn",
+      "1": {
+        "1101_6104": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6104",
+          "cos_code": "GEC6041",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "音樂理論導論",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "洪億津",
+          "cos_time": "M56-A102",
+          "memo": "",
+          "cos_ename": "Introduction to Music Theory",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QKS",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學院藝術與音樂跨域學程",
+          "dep_ename": "College of Humanities and Social Sciences for Transdisciplinary Inn",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        }
+      },
+      "costype": {
+        "1101_6104": {
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_6104": {
+          "A201,A501": {
+            "brief_code": "A201,A501",
+            "brief": "文化/進階(96),核心-人文(106)"
+          }
+        }
+      },
+      "language": {
+        "1101_6104": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -7985,6 +10633,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5342": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5342",
+          "cos_code": "IME5567",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "非線性控制系統",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://ncrl.nctu.edu.tw",
+          "teacher": "程登湖",
+          "cos_time": "M34n-EE231",
+          "memo": "",
+          "cos_ename": "Nonlinear Control System",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "611",
+          "dep_primary": "1",
+          "dep_cname": "機械工程學系",
+          "dep_ename": "Institute of Mechanical Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5347": {
           "acy": "110",
           "sem": "1",
@@ -8078,6 +10754,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5342": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5347": {
           "": {
             "course_category_cname": "",
@@ -8131,6 +10816,12 @@
             "brief": ""
           }
         },
+        "1101_5342": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5347": {
           "": {
             "brief_code": "",
@@ -8158,6 +10849,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_5341": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5342": {
           "授課語言代碼": "zh-tw"
         },
         "1101_5347": {
@@ -9527,6 +12221,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5599": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5599",
+          "cos_code": "IBM6042",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "線性結構模式",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "丁承",
+          "cos_time": "W234-TD",
+          "memo": "上課地點：台北校區",
+          "cos_ename": "Structural Equation Modeling",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "709",
+          "dep_primary": "1",
+          "dep_cname": "經營管理研究所",
+          "dep_ename": "Institute of Business Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5600": {
           "acy": "110",
           "sem": "1",
@@ -9543,6 +12265,34 @@
           "cos_time": "Fabc-TD",
           "memo": "上課地點：台北校區",
           "cos_ename": "Electronic Commerce",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "709",
+          "dep_primary": "1",
+          "dep_cname": "經營管理研究所",
+          "dep_ename": "Institute of Business Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5601": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5601",
+          "cos_code": "IBM6087",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "統計方法與資料分析",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "丁承",
+          "cos_time": "M234-TD",
+          "memo": "上課地點：台北校區",
+          "cos_ename": "Statistical Methods and Data Analyis",
           "brief": "",
           "degree": "3",
           "dep_id": "709",
@@ -9779,6 +12529,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5599": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5600": {
           "": {
             "course_category_cname": "",
@@ -9786,6 +12545,15 @@
             "course_category_type": "",
             "GECIName": "",
             "GECIEngName": ""
+          }
+        },
+        "1101_5601": {
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "電,資",
+            "GECIEngName": "ECE,CCS"
           }
         },
         "1101_5604": {
@@ -9880,10 +12648,22 @@
             "brief": ""
           }
         },
+        "1101_5599": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5600": {
           "": {
             "brief_code": "",
             "brief": ""
+          }
+        },
+        "1101_5601": {
+          "A205,A504": {
+            "brief_code": "A205,A504",
+            "brief": "自然/進階(96),跨院基本素養(106)"
           }
         },
         "1101_5604": {
@@ -9942,7 +12722,13 @@
         "1101_5598": {
           "授課語言代碼": "en-us"
         },
+        "1101_5599": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_5600": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5601": {
           "授課語言代碼": "zh-tw"
         },
         "1101_5604": {

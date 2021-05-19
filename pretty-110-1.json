@@ -10190,6 +10190,65 @@
         }
       }
     },
+    "100009B7-D98B-4DA2-8FBF-6F5332B89390": {
+      "dep_id": "100009B7-D98B-4DA2-8FBF-6F5332B89390",
+      "dep_cname": "外國語文學系外國文學與語言學碩士班",
+      "dep_ename": "Institute of Foreign Literatures and Linguistics",
+      "1": {
+        "1101_5787": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5787",
+          "cos_code": "ILC5305",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "酷兒小說",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "辜崇豪",
+          "cos_time": "T234-HC402",
+          "memo": "專選[English Medium Course]",
+          "cos_ename": "Queer Fiction",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "451",
+          "dep_primary": "1",
+          "dep_cname": "外國語文學系外國文學與語言學碩士班",
+          "dep_ename": "Institute of Foreign Literatures and Linguistics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "1101_5787": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_5787": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_5787": {
+          "授課語言代碼": "en-us"
+        }
+      }
+    },
     "4773A07E-3455-436F-A514-D4971F2FC14A": {
       "dep_id": "4773A07E-3455-436F-A514-D4971F2FC14A",
       "dep_cname": "英語教學研究所",
@@ -11928,6 +11987,34 @@
       "dep_cname": "電子物理學系",
       "dep_ename": "Institute of Electro-Physics",
       "1": {
+        "1101_5403": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5403",
+          "cos_code": "IEP5526",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "雷射導論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳永富",
+          "cos_time": "R789-SC160",
+          "memo": "",
+          "cos_ename": "Int. to Laser",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "651",
+          "dep_primary": "1",
+          "dep_cname": "電子物理學系",
+          "dep_ename": "Institute of Electro-Physics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5404": {
           "acy": "110",
           "sem": "1",
@@ -11958,6 +12045,15 @@
         }
       },
       "costype": {
+        "1101_5403": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5404": {
           "": {
             "course_category_cname": "",
@@ -11969,6 +12065,12 @@
         }
       },
       "brief": {
+        "1101_5403": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5404": {
           "": {
             "brief_code": "",
@@ -11977,6 +12079,9 @@
         }
       },
       "language": {
+        "1101_5403": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_5404": {
           "授課語言代碼": "en-us"
         }

@@ -1306,6 +1306,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1240": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1240",
+          "cos_code": "DME3212",
+          "num_limit": "55",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "機械工程實驗 (一)",
+          "cos_credit": "1.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "洪景華",
+          "cos_time": "T234-EE310",
+          "memo": "",
+          "cos_ename": "Mechanical Engineering Laboratory (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "611",
+          "dep_primary": "1",
+          "dep_cname": "機械工程學系",
+          "dep_ename": "Department of Mechanical Engineering",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1245": {
           "acy": "110",
           "sem": "1",
@@ -1408,6 +1436,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1240": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1245": {
           "": {
             "course_category_cname": "",
@@ -1467,6 +1504,12 @@
             "brief": ""
           }
         },
+        "1101_1240": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1245": {
           "": {
             "brief_code": "",
@@ -1497,6 +1540,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1237": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1240": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1245": {
@@ -1605,6 +1651,65 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1265": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "900C8A5B-25F1-4110-8F09-E9ACB0D68CFD": {
+      "dep_id": "900C8A5B-25F1-4110-8F09-E9ACB0D68CFD",
+      "dep_cname": "電子物理學系",
+      "dep_ename": "Department of Electro-Physics",
+      "1": {
+        "1101_1352": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1352",
+          "cos_code": "DEP3325",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "電磁學（一）",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "周武清",
+          "cos_time": "T5R78-SC158",
+          "memo": "",
+          "cos_ename": "Electromagnetics (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "651",
+          "dep_primary": "1",
+          "dep_cname": "電子物理學系",
+          "dep_ename": "Department of Electro-Physics",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        }
+      },
+      "costype": {
+        "1101_1352": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_1352": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_1352": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -1751,7 +1856,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "53",
           "depType": "U"
         },
         "1101_1409": {
@@ -1779,7 +1884,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "53",
           "depType": "U"
         },
         "1101_1422": {
@@ -1788,7 +1893,7 @@
           "cos_id": "1422",
           "cos_code": "DAC3217",
           "num_limit": "18",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "書報討論C(一)",
           "cos_credit": "1.00",
@@ -2579,7 +2684,7 @@
           "cos_id": "6101",
           "cos_code": "GEC3001",
           "num_limit": "40",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "政治學",
           "cos_credit": "2.00",
@@ -2607,7 +2712,7 @@
           "cos_id": "6104",
           "cos_code": "GEC6041",
           "num_limit": "40",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "音樂理論導論",
           "cos_credit": "2.00",
@@ -2635,7 +2740,7 @@
           "cos_id": "6105",
           "cos_code": "GEC4000",
           "num_limit": "40",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "社會學",
           "cos_credit": "2.00",
@@ -2691,7 +2796,7 @@
           "cos_id": "6107",
           "cos_code": "GEC3001",
           "num_limit": "50",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "政治學",
           "cos_credit": "2.00",
@@ -2719,7 +2824,7 @@
           "cos_id": "6108",
           "cos_code": "GEC1024",
           "num_limit": "40",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "文學經典：俄國名著選讀",
           "cos_credit": "2.00",
@@ -2747,7 +2852,7 @@
           "cos_id": "6110",
           "cos_code": "GEC1021",
           "num_limit": "40",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "文學經典-魯迅作品選讀",
           "cos_credit": "2.00",
@@ -2775,7 +2880,7 @@
           "cos_id": "6113",
           "cos_code": "GEC4001",
           "num_limit": "40",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "心理學概論",
           "cos_credit": "2.00",
@@ -2803,7 +2908,7 @@
           "cos_id": "6114",
           "cos_code": "GEC1009",
           "num_limit": "40",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "文學經典:小說名著選",
           "cos_credit": "2.00",
@@ -2831,7 +2936,7 @@
           "cos_id": "6115",
           "cos_code": "GEC2000",
           "num_limit": "40",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "台灣史",
           "cos_credit": "2.00",
@@ -2887,7 +2992,7 @@
           "cos_id": "6117",
           "cos_code": "GEC1004",
           "num_limit": "40",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "音樂概論",
           "cos_credit": "2.00",
@@ -2915,7 +3020,7 @@
           "cos_id": "6118",
           "cos_code": "GEC0002",
           "num_limit": "40",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "當代世界",
           "cos_credit": "2.00",
@@ -2943,7 +3048,7 @@
           "cos_id": "6120",
           "cos_code": "GEC2003",
           "num_limit": "40",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "歷史分析：世界史導論",
           "cos_credit": "2.00",
@@ -2971,7 +3076,7 @@
           "cos_id": "6121",
           "cos_code": "GEC4000",
           "num_limit": "50",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "社會學",
           "cos_credit": "2.00",
@@ -2999,7 +3104,7 @@
           "cos_id": "6122",
           "cos_code": "GEC2002",
           "num_limit": "40",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "中國與東亞文明史",
           "cos_credit": "2.00",
@@ -3027,7 +3132,7 @@
           "cos_id": "6123",
           "cos_code": "GEC7440",
           "num_limit": "50",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "國際關係",
           "cos_credit": "2.00",
@@ -3055,7 +3160,7 @@
           "cos_id": "6124",
           "cos_code": "GEC1004",
           "num_limit": "40",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "音樂概論",
           "cos_credit": "2.00",
@@ -3083,7 +3188,7 @@
           "cos_id": "6125",
           "cos_code": "GEC1009",
           "num_limit": "40",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "文學經典:小說名著選",
           "cos_credit": "2.00",
@@ -3111,7 +3216,7 @@
           "cos_id": "6127",
           "cos_code": "GEC4001",
           "num_limit": "40",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "心理學概論",
           "cos_credit": "2.00",
@@ -3139,7 +3244,7 @@
           "cos_id": "6128",
           "cos_code": "GEC6109",
           "num_limit": "40",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "古希臘哲學史",
           "cos_credit": "2.00",
@@ -3167,7 +3272,7 @@
           "cos_id": "6129",
           "cos_code": "GEC2003",
           "num_limit": "40",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "歷史分析：世界史導論",
           "cos_credit": "2.00",
@@ -3195,7 +3300,7 @@
           "cos_id": "6130",
           "cos_code": "GEC1013",
           "num_limit": "40",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "文學經典:現代文學選讀",
           "cos_credit": "2.00",
@@ -3223,7 +3328,7 @@
           "cos_id": "6133",
           "cos_code": "GEC6013",
           "num_limit": "40",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "台灣音樂史",
           "cos_credit": "2.00",
@@ -3279,7 +3384,7 @@
           "cos_id": "6135",
           "cos_code": "GEC8158",
           "num_limit": "50",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "教育學概論",
           "cos_credit": "2.00",
@@ -3307,7 +3412,7 @@
           "cos_id": "6138",
           "cos_code": "GEC1004",
           "num_limit": "40",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "音樂概論",
           "cos_credit": "2.00",
@@ -3335,7 +3440,7 @@
           "cos_id": "6139",
           "cos_code": "GEC4000",
           "num_limit": "50",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "社會學",
           "cos_credit": "2.00",
@@ -3363,7 +3468,7 @@
           "cos_id": "6140",
           "cos_code": "GEC0002",
           "num_limit": "40",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "當代世界",
           "cos_credit": "2.00",
@@ -3391,7 +3496,7 @@
           "cos_id": "6142",
           "cos_code": "GEC5000",
           "num_limit": "60",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "邏輯與思維",
           "cos_credit": "2.00",
@@ -3419,7 +3524,7 @@
           "cos_id": "6149",
           "cos_code": "GEC8876",
           "num_limit": "50",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "探索科學II:從前現代到現代科學",
           "cos_credit": "2.00",
@@ -3447,7 +3552,7 @@
           "cos_id": "6152",
           "cos_code": "GEC6099",
           "num_limit": "30",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "文學名著：生命書寫",
           "cos_credit": "2.00",
@@ -3475,7 +3580,7 @@
           "cos_id": "6153",
           "cos_code": "GEC4001",
           "num_limit": "60",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "心理學概論",
           "cos_credit": "2.00",
@@ -3503,7 +3608,7 @@
           "cos_id": "6156",
           "cos_code": "GEC6099",
           "num_limit": "30",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "文學名著：生命書寫",
           "cos_credit": "2.00",
@@ -3531,7 +3636,7 @@
           "cos_id": "6157",
           "cos_code": "GEC8813",
           "num_limit": "50",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "天文學概論",
           "cos_credit": "2.00",
@@ -3559,7 +3664,7 @@
           "cos_id": "6158",
           "cos_code": "GEC1008",
           "num_limit": "50",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "文學經典:詩經",
           "cos_credit": "2.00",
@@ -3615,7 +3720,7 @@
           "cos_id": "6160",
           "cos_code": "GEC3005",
           "num_limit": "40",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "政治學",
           "cos_credit": "3.00",
@@ -3643,7 +3748,7 @@
           "cos_id": "6161",
           "cos_code": "GEC1029",
           "num_limit": "40",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "文學經典：台灣文學",
           "cos_credit": "3.00",
@@ -3671,7 +3776,7 @@
           "cos_id": "6162",
           "cos_code": "GEC1029",
           "num_limit": "40",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "文學經典：台灣文學",
           "cos_credit": "3.00",
@@ -3727,7 +3832,7 @@
           "cos_id": "6301",
           "cos_code": "GEC6703",
           "num_limit": "50",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "日本文化論",
           "cos_credit": "2.00",
@@ -3755,7 +3860,7 @@
           "cos_id": "6302",
           "cos_code": "GEC6076",
           "num_limit": "30",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "閱讀與寫作",
           "cos_credit": "2.00",
@@ -3783,7 +3888,7 @@
           "cos_id": "6303",
           "cos_code": "GEC6728",
           "num_limit": "50",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "霸權興衰史:從十五世紀至當代",
           "cos_credit": "2.00",
@@ -3811,7 +3916,7 @@
           "cos_id": "6304",
           "cos_code": "GEC8108",
           "num_limit": "50",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "資訊行為",
           "cos_credit": "2.00",
@@ -3839,7 +3944,7 @@
           "cos_id": "6305",
           "cos_code": "GEC7451",
           "num_limit": "50",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "國際政治經濟學",
           "cos_credit": "2.00",
@@ -3867,7 +3972,7 @@
           "cos_id": "6306",
           "cos_code": "GEC6735",
           "num_limit": "50",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "法國社會文化史",
           "cos_credit": "2.00",
@@ -3895,7 +4000,7 @@
           "cos_id": "6307",
           "cos_code": "GEC8871",
           "num_limit": "50",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "食品安全與生活",
           "cos_credit": "2.00",
@@ -3923,7 +4028,7 @@
           "cos_id": "6309",
           "cos_code": "GEC7430",
           "num_limit": "50",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "日本現勢",
           "cos_credit": "2.00",
@@ -3951,7 +4056,7 @@
           "cos_id": "6312",
           "cos_code": "GEC8108",
           "num_limit": "50",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "資訊行為",
           "cos_credit": "2.00",
@@ -3979,7 +4084,7 @@
           "cos_id": "6316",
           "cos_code": "GEC8108",
           "num_limit": "50",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "資訊行為",
           "cos_credit": "2.00",
@@ -4007,7 +4112,7 @@
           "cos_id": "6319",
           "cos_code": "GEC8807",
           "num_limit": "50",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "運動與健康",
           "cos_credit": "2.00",
@@ -4035,7 +4140,7 @@
           "cos_id": "6322",
           "cos_code": "GEC8164",
           "num_limit": "50",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "性別與社會",
           "cos_credit": "2.00",
@@ -4063,7 +4168,7 @@
           "cos_id": "6325",
           "cos_code": "GEC6006",
           "num_limit": "50",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "書學與書道",
           "cos_credit": "2.00",
@@ -4091,7 +4196,7 @@
           "cos_id": "6328",
           "cos_code": "GEC8147",
           "num_limit": "60",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "新馬克思主義與當代思潮",
           "cos_credit": "2.00",
@@ -4119,7 +4224,7 @@
           "cos_id": "6334",
           "cos_code": "GEC6730",
           "num_limit": "50",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "伊斯蘭文明",
           "cos_credit": "2.00",
@@ -4147,7 +4252,7 @@
           "cos_id": "6335",
           "cos_code": "GEC6000",
           "num_limit": "40",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "西洋歌劇史",
           "cos_credit": "2.00",
@@ -4175,7 +4280,7 @@
           "cos_id": "6336",
           "cos_code": "GEC8173",
           "num_limit": "50",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "認同與文化",
           "cos_credit": "2.00",
@@ -4203,7 +4308,7 @@
           "cos_id": "6337",
           "cos_code": "GEC8129",
           "num_limit": "50",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "道德推理",
           "cos_credit": "2.00",
@@ -4231,7 +4336,7 @@
           "cos_id": "6340",
           "cos_code": "GEC6730",
           "num_limit": "50",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "伊斯蘭文明",
           "cos_credit": "2.00",
@@ -4259,7 +4364,7 @@
           "cos_id": "6341",
           "cos_code": "GEC8887",
           "num_limit": "35",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "科技與社會導論",
           "cos_credit": "2.00",
@@ -4287,7 +4392,7 @@
           "cos_id": "6343",
           "cos_code": "GEC6103",
           "num_limit": "50",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "性別與電影",
           "cos_credit": "2.00",
@@ -4315,7 +4420,7 @@
           "cos_id": "6344",
           "cos_code": "GEC8814",
           "num_limit": "41",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "幾何造形",
           "cos_credit": "2.00",
@@ -4343,7 +4448,7 @@
           "cos_id": "6348",
           "cos_code": "GEC8814",
           "num_limit": "41",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "幾何造形",
           "cos_credit": "2.00",
@@ -4371,7 +4476,7 @@
           "cos_id": "6351",
           "cos_code": "GEC6728",
           "num_limit": "50",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "霸權興衰史:從十五世紀至當代",
           "cos_credit": "2.00",
@@ -4399,7 +4504,7 @@
           "cos_id": "6352",
           "cos_code": "GEC7400",
           "num_limit": "200",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "經典通識教育講座",
           "cos_credit": "2.00",
@@ -4427,7 +4532,7 @@
           "cos_id": "6354",
           "cos_code": "GEC6742",
           "num_limit": "40",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "俄羅斯歷史與文化",
           "cos_credit": "3.00",
@@ -4455,7 +4560,7 @@
           "cos_id": "6355",
           "cos_code": "GEC8140",
           "num_limit": "50",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "領導與統御",
           "cos_credit": "3.00",
@@ -4483,7 +4588,7 @@
           "cos_id": "6356",
           "cos_code": "GEC8176",
           "num_limit": "40",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "發展心理學",
           "cos_credit": "3.00",
@@ -7540,6 +7645,34 @@
       "dep_cname": "電機資訊英語授課學分學程",
       "dep_ename": "Electrical Engineering and Computer Science-International Program",
       "1": {
+        "1101_1165": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1165",
+          "cos_code": "DCP3103",
+          "num_limit": "0",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "資訊工程專題(一)(英文授課)",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "資工系",
+          "cos_time": "S56-ED102",
+          "memo": "不開放網路選課，需經指導教授同意後以書面加簽。Pass the “Basic Programming” before taking “Computer Science and Engineering Projects (I)”；英文授課[English Medium Course]",
+          "cos_ename": "Computer Science and Engineering Projects (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAN",
+          "dep_primary": "1",
+          "dep_cname": "電機資訊英語授課學分學程",
+          "dep_ename": "Electrical Engineering and Computer Science-International Program",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
         "1101_1717": {
           "acy": "110",
           "sem": "1",
@@ -7564,6 +7697,34 @@
           "dep_ename": "Electrical Engineering and Computer Science-International Program",
           "cos_type": "選修",
           "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
+        "1101_4007": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "4007",
+          "cos_code": "IOC5148",
+          "num_limit": "60",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "博士班書報討論(英)",
+          "cos_credit": ".00",
+          "cos_hours": "2.00",
+          "TURL": "http://www.csie.nctu.edu.tw/~mcyuang/",
+          "teacher": "楊啟瑞",
+          "cos_time": "R56-ED302",
+          "memo": "博二以上方能選修； 英文授課[English Medium Course]",
+          "cos_ename": "Special Topics Seminar A (PhD)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAN",
+          "dep_primary": "1",
+          "dep_cname": "電機資訊英語授課學分學程",
+          "dep_ename": "Electrical Engineering and Computer Science-International Program",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "P"
@@ -7738,7 +7899,25 @@
         }
       },
       "costype": {
+        "1101_1165": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1717": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_4007": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -7803,7 +7982,19 @@
         }
       },
       "brief": {
+        "1101_1165": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1717": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_4007": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -7847,7 +8038,13 @@
         }
       },
       "language": {
+        "1101_1165": {
+          "授課語言代碼": "en-us"
+        },
         "1101_1717": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_4007": {
           "授課語言代碼": "en-us"
         },
         "1101_5078": {
@@ -7993,7 +8190,7 @@
           "cos_id": "6104",
           "cos_code": "GEC6041",
           "num_limit": "40",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "音樂理論導論",
           "cos_credit": "2.00",
@@ -8604,7 +8801,7 @@
           "cos_id": "6104",
           "cos_code": "GEC6041",
           "num_limit": "40",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "音樂理論導論",
           "cos_credit": "2.00",
@@ -15794,6 +15991,525 @@
       },
       "language": {
         "1101_5654": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "36D1A068-8A6B-4536-9015-D178A59577EC": {
+      "dep_id": "36D1A068-8A6B-4536-9015-D178A59577EC",
+      "dep_cname": "管理學院碩士在職專班-科管組",
+      "dep_ename": "Degree Program of Management of Technology",
+      "1": {
+        "1101_5671": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5671",
+          "cos_code": "ITM5063",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "國際行銷",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "林亭汝",
+          "cos_time": "Rabc-A701",
+          "memo": "限專班同學選修，不接受校際選修",
+          "cos_ename": "International Marketing",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "718",
+          "dep_primary": "1",
+          "dep_cname": "管理學院碩士在職專班-科管組",
+          "dep_ename": "Degree Program of Management of Technology",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
+        "1101_5672": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5672",
+          "cos_code": "ITM5088",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "科技事業規劃與經營發展",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "王仁聖、彭志強",
+          "cos_time": "U234567-A701",
+          "memo": "專碩合開；專班主開；隔週上課；不接受校際選修",
+          "cos_ename": "The Business Planning and Developing of Technology Enterprises",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "718",
+          "dep_primary": "1",
+          "dep_cname": "管理學院碩士在職專班-科管組",
+          "dep_ename": "Degree Program of Management of Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
+        "1101_5673": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5673",
+          "cos_code": "ITM5142",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "科管研究方法",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "洪志洋",
+          "cos_time": "Mabc-A701",
+          "memo": "限專班同學選修，不接受校際選修",
+          "cos_ename": "Research Methods in MOT",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "718",
+          "dep_primary": "1",
+          "dep_cname": "管理學院碩士在職專班-科管組",
+          "dep_ename": "Degree Program of Management of Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
+        "1101_5674": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5674",
+          "cos_code": "ITM5212",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "人工智慧與高科技之商業運用",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "李昕潔",
+          "cos_time": "Fabc-A722",
+          "memo": "限專班同學選修，不接受校際選修",
+          "cos_ename": "Artificial Intelligence and Its Application to High-Tech Business",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "718",
+          "dep_primary": "1",
+          "dep_cname": "管理學院碩士在職專班-科管組",
+          "dep_ename": "Degree Program of Management of Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
+        "1101_5675": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5675",
+          "cos_code": "ITM5215",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "科技管理與科技政策議題",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "李昕潔",
+          "cos_time": "Tabc-A308",
+          "memo": "限專班同學選修，不接受校際選修",
+          "cos_ename": "Technology Management and Issus of Technology Policy",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "718",
+          "dep_primary": "1",
+          "dep_cname": "管理學院碩士在職專班-科管組",
+          "dep_ename": "Degree Program of Management of Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
+        "1101_5676": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5676",
+          "cos_code": "ITM5227",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "創意思考與問題解決",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "林士平",
+          "cos_time": "S234-A701",
+          "memo": "限專班同學選修，不接受校際選修",
+          "cos_ename": "Creativity Thinking and Problem Solving",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "718",
+          "dep_primary": "1",
+          "dep_cname": "管理學院碩士在職專班-科管組",
+          "dep_ename": "Degree Program of Management of Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
+        "1101_5677": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5677",
+          "cos_code": "ITM5230",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "科技創新與智財佈局",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "蘇信寧",
+          "cos_time": "Fabc-A701",
+          "memo": "限專班同學選修，不接受校際選修",
+          "cos_ename": "Technological Innovation and Intellectual Property Deployment",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "718",
+          "dep_primary": "1",
+          "dep_cname": "管理學院碩士在職專班-科管組",
+          "dep_ename": "Degree Program of Management of Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
+        "1101_5678": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5678",
+          "cos_code": "ITM5236",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "科技創新創業管理",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳詩欣、高啟明",
+          "cos_time": "U89a-A722",
+          "memo": "限專班同學選修，不接受校際選修",
+          "cos_ename": "Technological Innovation and Entrepreneurship Management",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "718",
+          "dep_primary": "1",
+          "dep_cname": "管理學院碩士在職專班-科管組",
+          "dep_ename": "Degree Program of Management of Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
+        "1101_5680": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5680",
+          "cos_code": "ITM5331",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "碩士論文研究",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "科管所",
+          "cos_time": "Sabc-A722",
+          "memo": "限專班同學選修，不接受校際選修",
+          "cos_ename": "MBA Thesis",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "718",
+          "dep_primary": "1",
+          "dep_cname": "管理學院碩士在職專班-科管組",
+          "dep_ename": "Degree Program of Management of Technology",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
+        "1101_5681": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5681",
+          "cos_code": "ITM5530",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "財務管理",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "洪志洋",
+          "cos_time": "S56789a-A701",
+          "memo": "專碩合開；專班主開；隔週上課；不接受校際選修",
+          "cos_ename": "Financial Management",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "718",
+          "dep_primary": "1",
+          "dep_cname": "管理學院碩士在職專班-科管組",
+          "dep_ename": "Degree Program of Management of Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
+        "1101_5682": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5682",
+          "cos_code": "ITM5541",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "企業政策與策略管理",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "黃仕斌",
+          "cos_time": "Tabc-A722",
+          "memo": "限專班同學選修，不接受校際選修",
+          "cos_ename": "Business Policy & Strategic Management",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "718",
+          "dep_primary": "1",
+          "dep_cname": "管理學院碩士在職專班-科管組",
+          "dep_ename": "Degree Program of Management of Technology",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        }
+      },
+      "costype": {
+        "1101_5671": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5672": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5673": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5674": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5675": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5676": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5677": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5678": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5680": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5681": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5682": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_5671": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5672": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5673": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5674": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5675": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5676": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5677": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5678": {
+          "A505": {
+            "brief_code": "A505",
+            "brief": "校基本素養(106)"
+          }
+        },
+        "1101_5680": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5681": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5682": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_5671": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5672": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5673": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5674": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5675": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5676": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5677": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5678": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5680": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5681": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5682": {
           "授課語言代碼": "zh-tw"
         }
       }

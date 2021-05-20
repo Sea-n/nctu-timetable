@@ -5515,6 +5515,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1508": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1508",
+          "cos_code": "DIF1005",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "個體經濟學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cc.nctu.edu.tw/~hhhuang",
+          "teacher": "黃星華",
+          "cos_time": "W9R34-M-b09",
+          "memo": "資財系優先選課；先修課程：經濟學(一)(二)",
+          "cos_ename": "Micro-Economic",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "705",
+          "dep_primary": "1",
+          "dep_cname": "資訊管理與財務金融系",
+          "dep_ename": "Department of Information and Finance Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1514": {
           "acy": "110",
           "sem": "1",
@@ -5554,6 +5582,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1508": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1514": {
           "": {
             "course_category_cname": "",
@@ -5571,6 +5608,12 @@
             "brief": ""
           }
         },
+        "1101_1508": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1514": {
           "": {
             "brief_code": "",
@@ -5580,6 +5623,9 @@
       },
       "language": {
         "1101_1505": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1508": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1514": {
@@ -9283,6 +9329,34 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1101_7505": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7505",
+          "cos_code": "DFR1231",
+          "num_limit": "45",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "日文(一)",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "賴薇如",
+          "cos_time": "T34-A502",
+          "memo": "",
+          "cos_ename": "Japanese(I)",
+          "brief": "其它",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_7506": {
           "acy": "110",
           "sem": "1",
@@ -9325,6 +9399,34 @@
           "TURL": "",
           "teacher": "賴郁芳",
           "cos_time": "M56-A405",
+          "memo": "",
+          "cos_ename": "Japanese(II)",
+          "brief": "其它",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_7513": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7513",
+          "cos_code": "DFR1232",
+          "num_limit": "45",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "日文(二)",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "賴薇如",
+          "cos_time": "T12-A502",
           "memo": "",
           "cos_ename": "Japanese(II)",
           "brief": "其它",
@@ -9503,6 +9605,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_7505": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_7506": {
           "": {
             "course_category_cname": "",
@@ -9513,6 +9624,15 @@
           }
         },
         "1101_7512": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_7513": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -9631,6 +9751,12 @@
             "brief": "其它(87)"
           }
         },
+        "1101_7505": {
+          "B075": {
+            "brief_code": "B075",
+            "brief": "其它(87)"
+          }
+        },
         "1101_7506": {
           "B075": {
             "brief_code": "B075",
@@ -9638,6 +9764,12 @@
           }
         },
         "1101_7512": {
+          "B075": {
+            "brief_code": "B075",
+            "brief": "其它(87)"
+          }
+        },
+        "1101_7513": {
           "B075": {
             "brief_code": "B075",
             "brief": "其它(87)"
@@ -9699,10 +9831,16 @@
         "1101_7503": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_7505": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_7506": {
           "授課語言代碼": "zh-tw"
         },
         "1101_7512": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_7513": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -15351,6 +15489,65 @@
         }
       }
     },
+    "29A058AC-DE9C-4693-8734-B0C601AE6738": {
+      "dep_id": "29A058AC-DE9C-4693-8734-B0C601AE6738",
+      "dep_cname": "電子研究所",
+      "dep_ename": "Institute of Electronics",
+      "1": {
+        "1101_5033": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5033",
+          "cos_code": "IEE5620",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "隨機過程",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "https://sites.google.com/nctu.edu.tw/ftchien",
+          "teacher": "簡鳳村",
+          "cos_time": "W234-EDB26",
+          "memo": "",
+          "cos_ename": "Stochastic Processes",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "510",
+          "dep_primary": "1",
+          "dep_cname": "電子研究所",
+          "dep_ename": "Institute of Electronics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "1101_5033": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_5033": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_5033": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "138AA9B5-ADF5-467B-A6C4-7B81ACEF431B": {
       "dep_id": "138AA9B5-ADF5-467B-A6C4-7B81ACEF431B",
       "dep_cname": "電機工程學系",
@@ -20243,6 +20440,34 @@
       "dep_cname": "資訊管理與財務金融系財務金融碩博士班",
       "dep_ename": "Graduate institute of finance",
       "1": {
+        "1101_5560": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5560",
+          "cos_code": "IOF5063",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "實質選擇權與策略投資",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cc.nctu.edu.tw/~hhhuang",
+          "teacher": "黃星華",
+          "cos_time": "R89a-M101",
+          "memo": "財務類課程；財金類課程；財金碩士班主開；財務金融碩博士班、資財系大三、大四優先",
+          "cos_ename": "Real Options and Strategic Investment",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "707",
+          "dep_primary": "1",
+          "dep_cname": "資訊管理與財務金融系財務金融碩博士班",
+          "dep_ename": "Graduate institute of finance",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5567": {
           "acy": "110",
           "sem": "1",
@@ -20273,6 +20498,15 @@
         }
       },
       "costype": {
+        "1101_5560": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5567": {
           "": {
             "course_category_cname": "",
@@ -20284,6 +20518,12 @@
         }
       },
       "brief": {
+        "1101_5560": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5567": {
           "": {
             "brief_code": "",
@@ -20292,6 +20532,9 @@
         }
       },
       "language": {
+        "1101_5560": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_5567": {
           "授課語言代碼": "zh-tw"
         }

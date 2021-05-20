@@ -148,6 +148,34 @@
           "reg_num": "46",
           "depType": "U"
         },
+        "1101_1616": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1616",
+          "cos_code": "DFL4155",
+          "num_limit": "25",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "初級西班牙文（一）",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "詹閔如",
+          "cos_time": "M56-F207",
+          "memo": "",
+          "cos_ename": "Elementary Spanish (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "450",
+          "dep_primary": "1",
+          "dep_cname": "外國語文學系",
+          "dep_ename": "Department of Foreign Languages and Literatures",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1619": {
           "acy": "110",
           "sem": "1",
@@ -231,6 +259,34 @@
           "crsoutline_type": "data",
           "reg_num": "46",
           "depType": "U"
+        },
+        "1101_1627": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1627",
+          "cos_code": "DFL4171",
+          "num_limit": "25",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "中級西班牙文（一）",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "詹閔如",
+          "cos_time": "M78-F207",
+          "memo": "",
+          "cos_ename": "Intermediate Spanish (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "450",
+          "dep_primary": "1",
+          "dep_cname": "外國語文學系",
+          "dep_ename": "Department of Foreign Languages and Literatures",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
         }
       },
       "costype": {
@@ -261,6 +317,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1616": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1619": {
           "": {
             "course_category_cname": "",
@@ -280,6 +345,15 @@
           }
         },
         "1101_1622": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1627": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -308,6 +382,12 @@
             "brief": ""
           }
         },
+        "1101_1616": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1619": {
           "": {
             "brief_code": "",
@@ -321,6 +401,12 @@
           }
         },
         "1101_1622": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1627": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -337,6 +423,9 @@
         "1101_1612": {
           "授課語言代碼": "en-us"
         },
+        "1101_1616": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1619": {
           "授課語言代碼": "zh-tw"
         },
@@ -344,6 +433,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1622": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1627": {
           "授課語言代碼": "zh-tw"
         }
       }

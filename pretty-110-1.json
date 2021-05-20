@@ -1609,6 +1609,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1058": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1058",
+          "cos_code": "UEE3203",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "無線通訊之電波傳播與天線",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "黃謀勤",
+          "cos_time": "M7R34-ED303",
+          "memo": "",
+          "cos_ename": "Radio Propagation and Antennas for Wireless",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "511",
+          "dep_primary": "1",
+          "dep_cname": "電機工程學系",
+          "dep_ename": "Department of Electrical and Computer Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1059": {
           "acy": "110",
           "sem": "1",
@@ -2017,6 +2045,34 @@
           "cos_time": "T7F34-EDB07",
           "memo": "",
           "cos_ename": "Electromagnetic Wave",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "511",
+          "dep_primary": "1",
+          "dep_cname": "電機工程學系",
+          "dep_ename": "Department of Electrical and Computer Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1101_1080": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1080",
+          "cos_code": "UEE4202",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "電磁波(英文班) ",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://RobertHu.ee.nctu.edu.tw",
+          "teacher": "胡樹",
+          "cos_time": "T7-ED301,F34-ED201",
+          "memo": "[English Medium Course]",
+          "cos_ename": "",
           "brief": "",
           "degree": "1",
           "dep_id": "511",
@@ -2472,6 +2528,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1058": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1059": {
           "": {
             "course_category_cname": "",
@@ -2599,6 +2664,15 @@
           }
         },
         "1101_1079": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1080": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -2846,6 +2920,12 @@
             "brief": ""
           }
         },
+        "1101_1058": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1059": {
           "": {
             "brief_code": "",
@@ -2931,6 +3011,12 @@
           }
         },
         "1101_1079": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1080": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -3061,6 +3147,9 @@
         "1101_1056": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_1058": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1059": {
           "授課語言代碼": "zh-tw"
         },
@@ -3105,6 +3194,9 @@
         },
         "1101_1079": {
           "授課語言代碼": "zh-tw"
+        },
+        "1101_1080": {
+          "授課語言代碼": "en-us"
         },
         "1101_1085": {
           "授課語言代碼": "zh-tw"
@@ -8687,6 +8779,34 @@
       "dep_cname": "語言教學與研究中心",
       "dep_ename": "Language Teaching and Research Center",
       "1": {
+        "1101_7101": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7101",
+          "cos_code": "DFR1105",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "大一英文（一）",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "陳亞玲",
+          "cos_time": "M78-A506",
+          "memo": "",
+          "cos_ename": "Freshman English (I)",
+          "brief": "基礎",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_7103": {
           "acy": "110",
           "sem": "1",
@@ -8855,6 +8975,62 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1101_7131": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7131",
+          "cos_code": "DFR1105",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "大一英文（一）",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "陳亞玲",
+          "cos_time": "F34-A504",
+          "memo": "",
+          "cos_ename": "Freshman English (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_7150": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7150",
+          "cos_code": "DFR1303",
+          "num_limit": "25",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "進階英文閱讀與討論",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "陳亞玲",
+          "cos_time": "M56-A504",
+          "memo": "",
+          "cos_ename": "Advanced English Reading and Discussion",
+          "brief": "進階",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_7152": {
           "acy": "110",
           "sem": "1",
@@ -8869,6 +9045,34 @@
           "TURL": "",
           "teacher": "郭詩芝",
           "cos_time": "W12-A502",
+          "memo": "",
+          "cos_ename": "Advanced English Reading and Discussion",
+          "brief": "進階",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_7154": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7154",
+          "cos_code": "DFR1303",
+          "num_limit": "25",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "進階英文閱讀與討論",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "陳亞玲",
+          "cos_time": "F56-A505",
           "memo": "",
           "cos_ename": "Advanced English Reading and Discussion",
           "brief": "進階",
@@ -9081,6 +9285,15 @@
         }
       },
       "costype": {
+        "1101_7101": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_7103": {
           "": {
             "course_category_cname": "",
@@ -9135,7 +9348,34 @@
             "GECIEngName": ""
           }
         },
+        "1101_7131": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_7150": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_7152": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_7154": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -9209,6 +9449,12 @@
         }
       },
       "brief": {
+        "1101_7101": {
+          "B071": {
+            "brief_code": "B071",
+            "brief": "基礎(87)"
+          }
+        },
         "1101_7103": {
           "B071": {
             "brief_code": "B071",
@@ -9245,7 +9491,25 @@
             "brief": "基礎(87)"
           }
         },
+        "1101_7131": {
+          "B071": {
+            "brief_code": "B071",
+            "brief": "基礎(87)"
+          }
+        },
+        "1101_7150": {
+          "B072": {
+            "brief_code": "B072",
+            "brief": "進階(87)"
+          }
+        },
         "1101_7152": {
+          "B072": {
+            "brief_code": "B072",
+            "brief": "進階(87)"
+          }
+        },
+        "1101_7154": {
           "B072": {
             "brief_code": "B072",
             "brief": "進階(87)"
@@ -9295,6 +9559,9 @@
         }
       },
       "language": {
+        "1101_7101": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_7103": {
           "授課語言代碼": "zh-tw"
         },
@@ -9313,7 +9580,16 @@
         "1101_7130": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_7131": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_7150": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_7152": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_7154": {
           "授課語言代碼": "zh-tw"
         },
         "1101_7155": {
@@ -9344,6 +9620,34 @@
       "dep_cname": "師資培育中心",
       "dep_ename": "Center for Teacher Education",
       "1": {
+        "1101_9904": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "9904",
+          "cos_code": "EDU1056",
+          "num_limit": "20",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "教學媒體與操作",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "張志銘、楊子奇",
+          "cos_time": "W56-HA220",
+          "memo": "",
+          "cos_ename": "Instructional Media and Operations",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU7",
+          "dep_primary": "1",
+          "dep_cname": "師資培育中心",
+          "dep_ename": "Center for Teacher Education",
+          "cos_type": "教育",
+          "cos_type_e": "Teacher Education",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_9910": {
           "acy": "110",
           "sem": "1",
@@ -9374,6 +9678,15 @@
         }
       },
       "costype": {
+        "1101_9904": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_9910": {
           "": {
             "course_category_cname": "",
@@ -9385,6 +9698,12 @@
         }
       },
       "brief": {
+        "1101_9904": {
+          "D099": {
+            "brief_code": "D099",
+            "brief": "教育學程(87)"
+          }
+        },
         "1101_9910": {
           "D099": {
             "brief_code": "D099",
@@ -9393,6 +9712,9 @@
         }
       },
       "language": {
+        "1101_9904": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_9910": {
           "授課語言代碼": "en-us"
         }
@@ -10707,21 +11029,49 @@
           "reg_num": "0",
           "depType": "P"
         },
+        "1101_1080": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1080",
+          "cos_code": "UEE4202",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "電磁波(英文班) ",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://RobertHu.ee.nctu.edu.tw",
+          "teacher": "胡樹",
+          "cos_time": "T7-ED301,F34-ED201",
+          "memo": "[English Medium Course]",
+          "cos_ename": "",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAN",
+          "dep_primary": "1",
+          "dep_cname": "電機資訊英語授課學分學程",
+          "dep_ename": "Electrical Engineering and Computer Science-International Program",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
         "1101_1138": {
           "acy": "110",
           "sem": "1",
           "cos_id": "1138",
-          "cos_code": "UEE2407",
+          "cos_code": "UEE2406",
           "num_limit": "55",
           "dep_limit": "*",
           "URL": null,
           "cos_cname": "電路學－(英文班)",
           "cos_credit": "3.00",
-          "cos_hours": "4.00",
+          "cos_hours": "3.00",
           "TURL": "http://neural-lab.nctu.edu.tw/",
           "teacher": "蔡德明",
-          "cos_time": "T34R78-EE623",
-          "memo": "[English Medium Course]",
+          "cos_time": "T34R7-EE623",
+          "memo": " 2A[English Medium Course]",
           "cos_ename": "Circuit Theory ",
           "brief": "",
           "degree": "1",
@@ -11343,6 +11693,15 @@
             "GECIEngName": "COE"
           }
         },
+        "1101_1080": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1138": {
           "": {
             "course_category_cname": "",
@@ -11562,6 +11921,12 @@
             "brief": "自然/進階(96),跨院基本素養(106)"
           }
         },
+        "1101_1080": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1138": {
           "": {
             "brief_code": "",
@@ -11700,6 +12065,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_1077": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_1080": {
           "授課語言代碼": "en-us"
         },
         "1101_1138": {
@@ -14576,6 +14944,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5060": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5060",
+          "cos_code": "ICN5523",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "可變結構控制系統",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://jsjk.cn.nctu.edu.tw",
+          "teacher": "陳永平",
+          "cos_time": "T567-EE102",
+          "memo": "電控所學生注意：畢業學分須修本所課程至少15學分(本所課程為永久課號ICN開頭之課程)",
+          "cos_ename": "Variable Structure Control System",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "512",
+          "dep_primary": "1",
+          "dep_cname": "電控工程研究所",
+          "dep_ename": "Institute of Electrical Control Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5061": {
           "acy": "110",
           "sem": "1",
@@ -14704,6 +15100,34 @@
           "cos_time": "M567-EE623",
           "memo": "電控所學生注意：畢業學分須修本所課程至少15學分(本所課程為永久課號ICN開頭之課程)",
           "cos_ename": "Image Processing",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "512",
+          "dep_primary": "1",
+          "dep_cname": "電控工程研究所",
+          "dep_ename": "Institute of Electrical Control Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5066": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5066",
+          "cos_code": "ICN6510",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "適應控制系統",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://web.it.nctu.edu.tw/~sklin/",
+          "teacher": "林錫寬",
+          "cos_time": "F567-EE207",
+          "memo": "電控所學生注意：畢業學分須修本所課程至少15學分(本所課程為永久課號ICN開頭之課程)",
+          "cos_ename": "Adaptive Control Systems",
           "brief": "",
           "degree": "3",
           "dep_id": "512",
@@ -14931,6 +15355,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5060": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5061": {
           "": {
             "course_category_cname": "",
@@ -14968,6 +15401,15 @@
           }
         },
         "1101_5065": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5066": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -15062,6 +15504,12 @@
             "brief": ""
           }
         },
+        "1101_5060": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5061": {
           "": {
             "brief_code": "",
@@ -15087,6 +15535,12 @@
           }
         },
         "1101_5065": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5066": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -15145,6 +15599,9 @@
         "1101_5059": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_5060": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_5061": {
           "授課語言代碼": "zh-tw"
         },
@@ -15158,6 +15615,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_5065": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5066": {
           "授課語言代碼": "zh-tw"
         },
         "1101_5067": {
@@ -15465,6 +15925,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5085": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5085",
+          "cos_code": "ECM5214",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "數位訊號處理",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳信宏",
+          "cos_time": "R234-ED219",
+          "memo": "",
+          "cos_ename": "Digital Signal Processing",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "513",
+          "dep_primary": "1",
+          "dep_cname": "電信工程研究所",
+          "dep_ename": "Institute of Communication Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5086": {
           "acy": "110",
           "sem": "1",
@@ -15509,6 +15997,62 @@
           "cos_time": "R567-ED103",
           "memo": "",
           "cos_ename": "Moblie Phone Communication System",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "513",
+          "dep_primary": "1",
+          "dep_cname": "電信工程研究所",
+          "dep_ename": "Institute of Communication Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5089": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5089",
+          "cos_code": "ECM5407",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "電波傳播與散射",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "唐震寰",
+          "cos_time": "T567-ED203",
+          "memo": "",
+          "cos_ename": "Wave Propagation and Scattering",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "513",
+          "dep_primary": "1",
+          "dep_cname": "電信工程研究所",
+          "dep_ename": "Institute of Communication Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5090": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5090",
+          "cos_code": "ECM5410",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "數值半導體元件模式",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.ymlab.org/",
+          "teacher": "李義明",
+          "cos_time": "Wyab-ES503",
+          "memo": "",
+          "cos_ename": "Numerical Semiconductor Device Modeling",
           "brief": "",
           "degree": "3",
           "dep_id": "513",
@@ -15893,6 +16437,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5085": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5086": {
           "": {
             "course_category_cname": "",
@@ -15903,6 +16456,24 @@
           }
         },
         "1101_5087": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5089": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5090": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -16063,6 +16634,12 @@
             "brief": ""
           }
         },
+        "1101_5085": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5086": {
           "": {
             "brief_code": "",
@@ -16070,6 +16647,18 @@
           }
         },
         "1101_5087": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5089": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5090": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -16167,10 +16756,19 @@
         "1101_5084": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_5085": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_5086": {
           "授課語言代碼": "zh-tw"
         },
         "1101_5087": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5089": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5090": {
           "授課語言代碼": "zh-tw"
         },
         "1101_5091": {
@@ -24906,16 +25504,16 @@
           "acy": "110",
           "sem": "1",
           "cos_id": "1132",
-          "cos_code": "UEE2405",
+          "cos_code": "UEE2410",
           "num_limit": "55",
           "dep_limit": "*",
           "URL": null,
           "cos_cname": "電路學",
           "cos_credit": "3.00",
-          "cos_hours": "4.00",
+          "cos_hours": "3.00",
           "TURL": "",
           "teacher": "洪崇智",
-          "cos_time": "T34R78-ED203",
+          "cos_time": "T34R7-ED203",
           "memo": "",
           "cos_ename": "Circuit Theory ",
           "brief": "",
@@ -24934,13 +25532,13 @@
           "acy": "110",
           "sem": "1",
           "cos_id": "1133",
-          "cos_code": "UEE2405",
+          "cos_code": "UEE2410",
           "num_limit": "55",
           "dep_limit": "*",
           "URL": null,
           "cos_cname": "電路學",
           "cos_credit": "3.00",
-          "cos_hours": "4.00",
+          "cos_hours": "3.00",
           "TURL": "",
           "teacher": "蔡嘉明",
           "cos_time": "T34R7-ED201",
@@ -24962,16 +25560,16 @@
           "acy": "110",
           "sem": "1",
           "cos_id": "1134",
-          "cos_code": "UEE2405",
+          "cos_code": "UEE2410",
           "num_limit": "55",
           "dep_limit": "*",
           "URL": null,
           "cos_cname": "電路學",
           "cos_credit": "3.00",
-          "cos_hours": "4.00",
+          "cos_hours": "3.00",
           "TURL": "http://vlsi-eda.cm.nctu.edu.tw/yumin/",
           "teacher": "李育民",
-          "cos_time": "T34R78-EDB26",
+          "cos_time": "T34R7-EDB26",
           "memo": "",
           "cos_ename": "Circuit Theory ",
           "brief": "",
@@ -24990,16 +25588,16 @@
           "acy": "110",
           "sem": "1",
           "cos_id": "1135",
-          "cos_code": "UEE2405",
+          "cos_code": "UEE2410",
           "num_limit": "55",
           "dep_limit": "*",
           "URL": null,
           "cos_cname": "電路學",
           "cos_credit": "3.00",
-          "cos_hours": "4.00",
+          "cos_hours": "3.00",
           "TURL": "",
           "teacher": "陳稷康",
-          "cos_time": "T34R78-ED303",
+          "cos_time": "T34R7-ED303",
           "memo": "",
           "cos_ename": "Circuit Theory ",
           "brief": "",
@@ -25018,16 +25616,16 @@
           "acy": "110",
           "sem": "1",
           "cos_id": "1136",
-          "cos_code": "UEE2405",
+          "cos_code": "UEE2410",
           "num_limit": "55",
           "dep_limit": "*",
           "URL": null,
           "cos_cname": "電路學",
           "cos_credit": "3.00",
-          "cos_hours": "4.00",
+          "cos_hours": "3.00",
           "TURL": "http://web.it.nctu.edu.tw/~sklin/",
           "teacher": "林錫寬",
-          "cos_time": "T34R78-EE207",
+          "cos_time": "T34R7-EE207",
           "memo": "",
           "cos_ename": "Circuit Theory ",
           "brief": "",
@@ -25046,13 +25644,13 @@
           "acy": "110",
           "sem": "1",
           "cos_id": "1137",
-          "cos_code": "UEE2405",
+          "cos_code": "UEE2410",
           "num_limit": "55",
           "dep_limit": "*",
           "URL": null,
           "cos_cname": "電路學",
           "cos_credit": "3.00",
-          "cos_hours": "4.00",
+          "cos_hours": "3.00",
           "TURL": "",
           "teacher": "陳柏宏",
           "cos_time": "T34R7-ED220",
@@ -25074,17 +25672,17 @@
           "acy": "110",
           "sem": "1",
           "cos_id": "1138",
-          "cos_code": "UEE2407",
+          "cos_code": "UEE2406",
           "num_limit": "55",
           "dep_limit": "*",
           "URL": null,
           "cos_cname": "電路學－(英文班)",
           "cos_credit": "3.00",
-          "cos_hours": "4.00",
+          "cos_hours": "3.00",
           "TURL": "http://neural-lab.nctu.edu.tw/",
           "teacher": "蔡德明",
-          "cos_time": "T34R78-EE623",
-          "memo": "[English Medium Course]",
+          "cos_time": "T34R7-EE623",
+          "memo": " 2A[English Medium Course]",
           "cos_ename": "Circuit Theory ",
           "brief": "",
           "degree": "A",

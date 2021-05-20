@@ -117,7 +117,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "16",
           "depType": "U"
         },
         "1101_1612": {
@@ -145,7 +145,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "46",
           "depType": "U"
         },
         "1101_1619": {
@@ -229,7 +229,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "46",
           "depType": "U"
         }
       },
@@ -9199,6 +9199,34 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1101_7168": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7168",
+          "cos_code": "DFR1327",
+          "num_limit": "25",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "正向幸福心理學的英文課 ",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "http://sun.nctu.edu.tw",
+          "teacher": "孫于智",
+          "cos_time": "F34-A405",
+          "memo": "",
+          "cos_ename": "Positive psychology English class",
+          "brief": "進階",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_7172": {
           "acy": "110",
           "sem": "1",
@@ -9448,6 +9476,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_7168": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_7172": {
           "": {
             "course_category_cname": "",
@@ -9576,6 +9613,12 @@
             "brief": "進階(87)"
           }
         },
+        "1101_7168": {
+          "B072": {
+            "brief_code": "B072",
+            "brief": "進階(87)"
+          }
+        },
         "1101_7172": {
           "B072": {
             "brief_code": "B072",
@@ -9645,6 +9688,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_7166": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_7168": {
           "授課語言代碼": "zh-tw"
         },
         "1101_7172": {
@@ -10740,6 +10786,62 @@
           "reg_num": "0",
           "depType": "P"
         },
+        "1101_5574": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5574",
+          "cos_code": "ITM5161",
+          "num_limit": "36",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "創意與創新管理",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "林士平",
+          "cos_time": "W234-A701",
+          "memo": "科管所主開、GMBA輔開；英語授課；MOT/GMBA/VIP/IMBA/跨域/通識/英文/大四[English Medium Course]",
+          "cos_ename": "Creativity and Innovation Management",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAL",
+          "dep_primary": "1",
+          "dep_cname": "IMBA國際管理學分學程",
+          "dep_ename": "Program of International Management ＆ Business Administration",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
+        "1101_5582": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5582",
+          "cos_code": "ITM5221",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "專利與創新策略",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "蘇信寧",
+          "cos_time": "R234-A722",
+          "memo": "科管所主開、GMBA輔開；英語授課；IMBA/跨域[English Medium Course]",
+          "cos_ename": "Patent and Innovation Strategy",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAL",
+          "dep_primary": "1",
+          "dep_cname": "IMBA國際管理學分學程",
+          "dep_ename": "Program of International Management ＆ Business Administration",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
         "1101_5595": {
           "acy": "110",
           "sem": "1",
@@ -10900,6 +11002,24 @@
             "GECIEngName": ""
           }
         },
+        "1101_5574": {
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "電,資,理,生,人,客",
+            "GECIEngName": "ECE,CCS,COS,CBT,CHS,CHK"
+          }
+        },
+        "1101_5582": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5595": {
           "通識跨院基本素養_通識跨院": {
             "course_category_cname": "通識跨院基本素養_通識跨院",
@@ -10959,6 +11079,18 @@
             "brief": ""
           }
         },
+        "1101_5574": {
+          "A203,A504": {
+            "brief_code": "A203,A504",
+            "brief": "公民/進階(96),跨院基本素養(106)"
+          }
+        },
+        "1101_5582": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5595": {
           "A203,A504": {
             "brief_code": "A203,A504",
@@ -10995,6 +11127,12 @@
           "授課語言代碼": "en-us"
         },
         "1101_4027": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5574": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5582": {
           "授課語言代碼": "en-us"
         },
         "1101_5595": {
@@ -12789,6 +12927,157 @@
         }
       }
     },
+    "C7AEA193-438E-4EC0-B89F-C33688A98A86": {
+      "dep_id": "C7AEA193-438E-4EC0-B89F-C33688A98A86",
+      "dep_cname": "科技管理研究所跨域學程(B)外系學生",
+      "dep_ename": "Institute of Management of Technology for Cross-Disciplinary Progra",
+      "1": {
+        "1101_5576": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5576",
+          "cos_code": "ITM5177",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "智慧財產權管理",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳詩欣",
+          "cos_time": "F567-A701",
+          "memo": "管科／生科院／電資院輔開；加入VIP、Venture Lab、跨域、科管跨域學程 (通識、網路課程，限40人)；第一、第二階段選課限碩博、開學後開放大四以；上不列入電信所、電控所、電機所專業科目；不列入光電系碩士班應修17學分\r\n",
+          "cos_ename": "Intellectual Property Management ",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QJS",
+          "dep_primary": "1",
+          "dep_cname": "科技管理研究所跨域學程(B)外系學生",
+          "dep_ename": "Institute of Management of Technology for Cross-Disciplinary Progra",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
+        "1101_5584": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5584",
+          "cos_code": "ITM5235",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "創新研發管理與創業實務",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳詩欣",
+          "cos_time": "R567-A722",
+          "memo": "英文授課；限科管所、科管跨域學程、VIP[English Medium Course]",
+          "cos_ename": "Management of Research and Development and the Practice of Entrepreneurship",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QJS",
+          "dep_primary": "1",
+          "dep_cname": "科技管理研究所跨域學程(B)外系學生",
+          "dep_ename": "Institute of Management of Technology for Cross-Disciplinary Progra",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
+        "1101_5585": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5585",
+          "cos_code": "ITM5236",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "科技創新創業管理",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳詩欣、高啟明",
+          "cos_time": "Rabc-A703",
+          "memo": "科管所主開、科管跨域學程；管科／生科院／電資院輔開；通識、VIP；網路課程，限30人 ；開放大四以上；不列入電信所、電控所、電機所專業科目；不列入光電系碩士班應修17學分",
+          "cos_ename": "Technological Innovation and Entrepreneurship Management",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QJS",
+          "dep_primary": "1",
+          "dep_cname": "科技管理研究所跨域學程(B)外系學生",
+          "dep_ename": "Institute of Management of Technology for Cross-Disciplinary Progra",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        }
+      },
+      "costype": {
+        "1101_5576": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5584": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5585": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_5576": {
+          "A203,A505": {
+            "brief_code": "A203,A505",
+            "brief": "公民/進階(96),校基本素養(106)"
+          }
+        },
+        "1101_5584": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5585": {
+          "A505": {
+            "brief_code": "A505",
+            "brief": "校基本素養(106)"
+          }
+        }
+      },
+      "language": {
+        "1101_5576": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5584": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5585": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "59CF9F1F-FA7C-43D1-8608-9601013D79AB": {
       "dep_id": "59CF9F1F-FA7C-43D1-8608-9601013D79AB",
       "dep_cname": "人文社會學院跨領域設計與創新科技跨域學程",
@@ -12881,6 +13170,118 @@
           "reg_num": "0",
           "depType": "Q"
         },
+        "1101_5574": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5574",
+          "cos_code": "ITM5161",
+          "num_limit": "36",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "創意與創新管理",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "林士平",
+          "cos_time": "W234-A701",
+          "memo": "科管所主開、GMBA輔開；英語授課；MOT/GMBA/VIP/IMBA/跨域/通識/英文/大四[English Medium Course]",
+          "cos_ename": "Creativity and Innovation Management",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QKQ",
+          "dep_primary": "1",
+          "dep_cname": "管理學院創業與創新管理跨域學程",
+          "dep_ename": "College of Management Venture & Innovation Management Cross-Discipl",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
+        "1101_5576": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5576",
+          "cos_code": "ITM5177",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "智慧財產權管理",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳詩欣",
+          "cos_time": "F567-A701",
+          "memo": "管科／生科院／電資院輔開；加入VIP、Venture Lab、跨域、科管跨域學程 (通識、網路課程，限40人)；第一、第二階段選課限碩博、開學後開放大四以；上不列入電信所、電控所、電機所專業科目；不列入光電系碩士班應修17學分\r\n",
+          "cos_ename": "Intellectual Property Management ",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QKQ",
+          "dep_primary": "1",
+          "dep_cname": "管理學院創業與創新管理跨域學程",
+          "dep_ename": "College of Management Venture & Innovation Management Cross-Discipl",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
+        "1101_5584": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5584",
+          "cos_code": "ITM5235",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "創新研發管理與創業實務",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳詩欣",
+          "cos_time": "R567-A722",
+          "memo": "英文授課；限科管所、科管跨域學程、VIP[English Medium Course]",
+          "cos_ename": "Management of Research and Development and the Practice of Entrepreneurship",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QKQ",
+          "dep_primary": "1",
+          "dep_cname": "管理學院創業與創新管理跨域學程",
+          "dep_ename": "College of Management Venture & Innovation Management Cross-Discipl",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
+        "1101_5585": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5585",
+          "cos_code": "ITM5236",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "科技創新創業管理",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳詩欣、高啟明",
+          "cos_time": "Rabc-A703",
+          "memo": "科管所主開、科管跨域學程；管科／生科院／電資院輔開；通識、VIP；網路課程，限30人 ；開放大四以上；不列入電信所、電控所、電機所專業科目；不列入光電系碩士班應修17學分",
+          "cos_ename": "Technological Innovation and Entrepreneurship Management",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QKQ",
+          "dep_primary": "1",
+          "dep_cname": "管理學院創業與創新管理跨域學程",
+          "dep_ename": "College of Management Venture & Innovation Management Cross-Discipl",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
         "1101_5635": {
           "acy": "110",
           "sem": "1",
@@ -12948,6 +13349,42 @@
             "GECIEngName": ""
           }
         },
+        "1101_5574": {
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "電,資,理,生,人,客",
+            "GECIEngName": "ECE,CCS,COS,CBT,CHS,CHK"
+          }
+        },
+        "1101_5576": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5584": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5585": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5635": {
           "通識校基本素養_通識校基本": {
             "course_category_cname": "通識校基本素養_通識校基本",
@@ -12974,6 +13411,30 @@
             "brief": ""
           }
         },
+        "1101_5574": {
+          "A203,A504": {
+            "brief_code": "A203,A504",
+            "brief": "公民/進階(96),跨院基本素養(106)"
+          }
+        },
+        "1101_5576": {
+          "A203,A505": {
+            "brief_code": "A203,A505",
+            "brief": "公民/進階(96),校基本素養(106)"
+          }
+        },
+        "1101_5584": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5585": {
+          "A505": {
+            "brief_code": "A505",
+            "brief": "校基本素養(106)"
+          }
+        },
         "1101_5635": {
           "A203,A505": {
             "brief_code": "A203,A505",
@@ -12989,6 +13450,18 @@
       },
       "language": {
         "1101_1532": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5574": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5576": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5584": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5585": {
           "授課語言代碼": "zh-tw"
         },
         "1101_5635": {
@@ -19640,6 +20113,946 @@
         }
       }
     },
+    "1A52EEB5-2A5E-4DB9-B6A6-960369C484DE": {
+      "dep_id": "1A52EEB5-2A5E-4DB9-B6A6-960369C484DE",
+      "dep_cname": "科技管理研究所",
+      "dep_ename": "Institute of Management of Technology",
+      "1": {
+        "1101_5570": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5570",
+          "cos_code": "ITM5063",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "國際行銷",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "林亭汝",
+          "cos_time": "Tabc-A701",
+          "memo": "限科管所學生-碩士1年級",
+          "cos_ename": "International Marketing",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "708",
+          "dep_primary": "1",
+          "dep_cname": "科技管理研究所",
+          "dep_ename": "Institute of Management of Technology",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5571": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5571",
+          "cos_code": "ITM5142",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "科管研究方法",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "洪志洋",
+          "cos_time": "M567-A701",
+          "memo": "",
+          "cos_ename": "Research Methods in MOT",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "708",
+          "dep_primary": "1",
+          "dep_cname": "科技管理研究所",
+          "dep_ename": "Institute of Management of Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5572": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5572",
+          "cos_code": "ITM5151",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "創業與籌資",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "洪志洋、胡秋江",
+          "cos_time": "Rabc-A722",
+          "memo": "碩專合開；碩班主開",
+          "cos_ename": "Entrepreneuship and New Venture Funding",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "708",
+          "dep_primary": "1",
+          "dep_cname": "科技管理研究所",
+          "dep_ename": "Institute of Management of Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5573": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5573",
+          "cos_code": "ITM5160",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "創新與網路創業",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "黃仕斌",
+          "cos_time": "R567-A701",
+          "memo": "",
+          "cos_ename": "Innovation and Internet Entrepreneurship",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "708",
+          "dep_primary": "1",
+          "dep_cname": "科技管理研究所",
+          "dep_ename": "Institute of Management of Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5574": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5574",
+          "cos_code": "ITM5161",
+          "num_limit": "36",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "創意與創新管理",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "林士平",
+          "cos_time": "W234-A701",
+          "memo": "科管所主開、GMBA輔開；英語授課；MOT/GMBA/VIP/IMBA/跨域/通識/英文/大四[English Medium Course]",
+          "cos_ename": "Creativity and Innovation Management",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "708",
+          "dep_primary": "1",
+          "dep_cname": "科技管理研究所",
+          "dep_ename": "Institute of Management of Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5575": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5575",
+          "cos_code": "ITM5175",
+          "num_limit": "12",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "創意、創新與創業研究",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "林士平",
+          "cos_time": "W789-A722",
+          "memo": "限科管所學生；英語授課[English Medium Course]",
+          "cos_ename": "Creativity, Innovation and Entrepreneurship Research",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "708",
+          "dep_primary": "1",
+          "dep_cname": "科技管理研究所",
+          "dep_ename": "Institute of Management of Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5576": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5576",
+          "cos_code": "ITM5177",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "智慧財產權管理",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳詩欣",
+          "cos_time": "F567-A701",
+          "memo": "管科／生科院／電資院輔開；加入VIP、Venture Lab、跨域、科管跨域學程 (通識、網路課程，限40人)；第一、第二階段選課限碩博、開學後開放大四以；上不列入電信所、電控所、電機所專業科目；不列入光電系碩士班應修17學分\r\n",
+          "cos_ename": "Intellectual Property Management ",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "708",
+          "dep_primary": "1",
+          "dep_cname": "科技管理研究所",
+          "dep_ename": "Institute of Management of Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5577": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5577",
+          "cos_code": "ITM5186",
+          "num_limit": "15",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "新興科技發展趨勢專題研究",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳詩欣",
+          "cos_time": "M34n-A722",
+          "memo": "限科管所學生；英語授課[English Medium Course]",
+          "cos_ename": "Research in the Emergence of Emerging Technologies",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "708",
+          "dep_primary": "1",
+          "dep_cname": "科技管理研究所",
+          "dep_ename": "Institute of Management of Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5578": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5578",
+          "cos_code": "ITM5190",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "新創事業財務工程",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "洪志洋",
+          "cos_time": "T234-A701",
+          "memo": "",
+          "cos_ename": "Financial Engineering for New Ventures",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "708",
+          "dep_primary": "1",
+          "dep_cname": "科技管理研究所",
+          "dep_ename": "Institute of Management of Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5579": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5579",
+          "cos_code": "ITM5191",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "品牌經營策略",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "林亭汝",
+          "cos_time": "S567-A703",
+          "memo": "限科管所學生",
+          "cos_ename": "Strategic Brand Management",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "708",
+          "dep_primary": "1",
+          "dep_cname": "科技管理研究所",
+          "dep_ename": "Institute of Management of Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5580": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5580",
+          "cos_code": "ITM5212",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "人工智慧與高科技之商業運用",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "李昕潔",
+          "cos_time": "T234-A722",
+          "memo": "",
+          "cos_ename": "Artificial Intelligence and Its Application to High-Tech Business",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "708",
+          "dep_primary": "1",
+          "dep_cname": "科技管理研究所",
+          "dep_ename": "Institute of Management of Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5581": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5581",
+          "cos_code": "ITM5215",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "科技管理與科技政策議題",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "李昕潔",
+          "cos_time": "Wabc-A701",
+          "memo": "",
+          "cos_ename": "Technology Management and Issus of Technology Policy",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "708",
+          "dep_primary": "1",
+          "dep_cname": "科技管理研究所",
+          "dep_ename": "Institute of Management of Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5582": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5582",
+          "cos_code": "ITM5221",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "專利與創新策略",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "蘇信寧",
+          "cos_time": "R234-A722",
+          "memo": "科管所主開、GMBA輔開；英語授課；IMBA/跨域[English Medium Course]",
+          "cos_ename": "Patent and Innovation Strategy",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "708",
+          "dep_primary": "1",
+          "dep_cname": "科技管理研究所",
+          "dep_ename": "Institute of Management of Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5584": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5584",
+          "cos_code": "ITM5235",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "創新研發管理與創業實務",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳詩欣",
+          "cos_time": "R567-A722",
+          "memo": "英文授課；限科管所、科管跨域學程、VIP[English Medium Course]",
+          "cos_ename": "Management of Research and Development and the Practice of Entrepreneurship",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "708",
+          "dep_primary": "1",
+          "dep_cname": "科技管理研究所",
+          "dep_ename": "Institute of Management of Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5585": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5585",
+          "cos_code": "ITM5236",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "科技創新創業管理",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳詩欣、高啟明",
+          "cos_time": "Rabc-A703",
+          "memo": "科管所主開、科管跨域學程；管科／生科院／電資院輔開；通識、VIP；網路課程，限30人 ；開放大四以上；不列入電信所、電控所、電機所專業科目；不列入光電系碩士班應修17學分",
+          "cos_ename": "Technological Innovation and Entrepreneurship Management",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "708",
+          "dep_primary": "1",
+          "dep_cname": "科技管理研究所",
+          "dep_ename": "Institute of Management of Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5587": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5587",
+          "cos_code": "ITM5258",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "區塊鏈與先進科技創新",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "徐作聖",
+          "cos_time": "Mabc-A722",
+          "memo": "碩專合開；碩班主開；不接受校際選修",
+          "cos_ename": "Innovation in Blockchain and Advanced Technologies",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "708",
+          "dep_primary": "1",
+          "dep_cname": "科技管理研究所",
+          "dep_ename": "Institute of Management of Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5588": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5588",
+          "cos_code": "ITM5301",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "科技管理專題研討 (一)",
+          "cos_credit": "1.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "科管所",
+          "cos_time": "W56-A701",
+          "memo": "限科管所學生(碩士一年級)",
+          "cos_ename": "Seminar (I)",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "708",
+          "dep_primary": "1",
+          "dep_cname": "科技管理研究所",
+          "dep_ename": "Institute of Management of Technology",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5589": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5589",
+          "cos_code": "ITM5306",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "科技管理專題研討（三）",
+          "cos_credit": "1.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "科管所",
+          "cos_time": "W56-A722",
+          "memo": "限科管所學生(碩士二年級)",
+          "cos_ename": "Seminar (Ⅲ)",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "708",
+          "dep_primary": "1",
+          "dep_cname": "科技管理研究所",
+          "dep_ename": "Institute of Management of Technology",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5590": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5590",
+          "cos_code": "ITM5331",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "碩士論文研究",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "科管所",
+          "cos_time": "",
+          "memo": "限科管所學生；限完成指導教授申請審查表且繳到辦公室的同學才可選修",
+          "cos_ename": "MBA Thesis",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "708",
+          "dep_primary": "1",
+          "dep_cname": "科技管理研究所",
+          "dep_ename": "Institute of Management of Technology",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5592": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5592",
+          "cos_code": "ITM5541",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "企業政策與策略管理",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "黃仕斌",
+          "cos_time": "T567-A701",
+          "memo": "限科管所學生-碩士2年級",
+          "cos_ename": "Business Policy & Strategic Management",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "708",
+          "dep_primary": "1",
+          "dep_cname": "科技管理研究所",
+          "dep_ename": "Institute of Management of Technology",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "1101_5570": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5571": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5572": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5573": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5574": {
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "電,資,理,生,人,客",
+            "GECIEngName": "ECE,CCS,COS,CBT,CHS,CHK"
+          }
+        },
+        "1101_5575": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5576": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5577": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5578": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "電,資,理,生,人",
+            "GECIEngName": "ECE,CCS,COS,CBT,CHS"
+          },
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "電,資,理,生,人",
+            "GECIEngName": "ECE,CCS,COS,CBT,CHS"
+          }
+        },
+        "1101_5579": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5580": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5581": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5582": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5584": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5585": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5587": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5588": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5589": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5590": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5592": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_5570": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5571": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5572": {
+          "A203,A505": {
+            "brief_code": "A203,A505",
+            "brief": "公民/進階(96),校基本素養(106)"
+          }
+        },
+        "1101_5573": {
+          "A203,A505": {
+            "brief_code": "A203,A505",
+            "brief": "公民/進階(96),校基本素養(106)"
+          }
+        },
+        "1101_5574": {
+          "A203,A504": {
+            "brief_code": "A203,A504",
+            "brief": "公民/進階(96),跨院基本素養(106)"
+          }
+        },
+        "1101_5575": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5576": {
+          "A203,A505": {
+            "brief_code": "A203,A505",
+            "brief": "公民/進階(96),校基本素養(106)"
+          }
+        },
+        "1101_5577": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5578": {
+          "A203,A504,A505": {
+            "brief_code": "A203,A504,A505",
+            "brief": "公民/進階(96),跨院基本素養(106),校基本素養(106)"
+          }
+        },
+        "1101_5579": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5580": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5581": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5582": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5584": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5585": {
+          "A505": {
+            "brief_code": "A505",
+            "brief": "校基本素養(106)"
+          }
+        },
+        "1101_5587": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5588": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5589": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5590": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5592": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_5570": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5571": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5572": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5573": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5574": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5575": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5576": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5577": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5578": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5579": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5580": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5581": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5582": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5584": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5585": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5587": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5588": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5589": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5590": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5592": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "9A7AD1DC-50DE-4485-A113-F4D8D2757FCB": {
       "dep_id": "9A7AD1DC-50DE-4485-A113-F4D8D2757FCB",
       "dep_cname": "經營管理研究所",
@@ -21720,6 +23133,65 @@
       "language": {
         "1101_5242": {
           "授課語言代碼": "en-us"
+        }
+      }
+    },
+    "2ED22A78-1B95-48B0-B4F0-E9A400786E1E": {
+      "dep_id": "2ED22A78-1B95-48B0-B4F0-E9A400786E1E",
+      "dep_cname": "寫作中心",
+      "dep_ename": "Academic Writing Center",
+      "1": {
+        "1101_7904": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7904",
+          "cos_code": "DFR6005",
+          "num_limit": "20",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "研究生英文:研究論文寫作",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "http://sun.nctu.edu.tw",
+          "teacher": "孫于智",
+          "cos_time": "F56-A405",
+          "memo": "僅供研究生選修，不列入畢業學分。",
+          "cos_ename": "Graduate English: Research Paper Writing",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "OU5",
+          "dep_primary": "1",
+          "dep_cname": "寫作中心",
+          "dep_ename": "Academic Writing Center",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        }
+      },
+      "costype": {
+        "1101_7904": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_7904": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_7904": {
+          "授課語言代碼": "zh-tw"
         }
       }
     },

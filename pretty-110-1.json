@@ -13712,6 +13712,34 @@
           "reg_num": "0",
           "depType": "Q"
         },
+        "1101_5177": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5177",
+          "cos_code": "ITL5283",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "比較醫療法",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "陳鋕雄、Robert Leflar",
+          "cos_time": "F56-MB1069",
+          "memo": "新竹實體、台北(陽明)實體同步遠距；英文授課；開放通識，修課人數上限︰交大20人、陽明20人；跨域學程[English Medium Course]",
+          "cos_ename": "Comparative Health Law",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QLI",
+          "dep_primary": "1",
+          "dep_cname": "科技法律學院跨域學程",
+          "dep_ename": "",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
         "1101_5179": {
           "acy": "110",
           "sem": "1",
@@ -13924,6 +13952,34 @@
           "cos_time": "Mabc-MB1063",
           "memo": "開放通識；開放台聯大大三以上同學選修；跨域學程\r\n",
           "cos_ename": "Information Privacy Law",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QLI",
+          "dep_primary": "1",
+          "dep_cname": "科技法律學院跨域學程",
+          "dep_ename": "",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
+        "1101_5188": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5188",
+          "cos_code": "ITL5540",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "全球網路治理",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "陳鋕雄、莊弘鈺、蔡志宏、吳國維、黃勝雄",
+          "cos_time": "Tab-",
+          "memo": "網路授課；開放大三以上同學選修；跨域學程",
+          "cos_ename": "Global Internet Governance",
           "brief": "",
           "degree": "1",
           "dep_id": "QLI",
@@ -14245,6 +14301,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5177": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5179": {
           "": {
             "course_category_cname": "",
@@ -14309,6 +14374,15 @@
           }
         },
         "1101_5187": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5188": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -14441,6 +14515,12 @@
             "brief": ""
           }
         },
+        "1101_5177": {
+          "A505": {
+            "brief_code": "A505",
+            "brief": "校基本素養(106)"
+          }
+        },
         "1101_5179": {
           "": {
             "brief_code": "",
@@ -14484,6 +14564,12 @@
           }
         },
         "1101_5187": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5188": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -14560,6 +14646,9 @@
         "1101_5175": {
           "授課語言代碼": "en-us"
         },
+        "1101_5177": {
+          "授課語言代碼": "en-us"
+        },
         "1101_5179": {
           "授課語言代碼": "zh-tw"
         },
@@ -14582,6 +14671,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_5187": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5188": {
           "授課語言代碼": "zh-tw"
         },
         "1101_5189": {
@@ -23085,6 +23177,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1101_5213": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5213",
+          "cos_code": "ITL5653",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "聯合國永續發展目標與法治",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "施明遠",
+          "cos_time": "F78-MB1063",
+          "memo": "英文授課；網路同步上課[English Medium Course]",
+          "cos_ename": "United Nations Sustainable Development Goals and the Rule of Law",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "731",
+          "dep_primary": "1",
+          "dep_cname": "科技法律研究所",
+          "dep_ename": "Institute of Technology Law",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
@@ -23220,6 +23340,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_5213": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -23306,6 +23435,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_5213": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -23350,6 +23485,9 @@
         },
         "1101_5212": {
           "授課語言代碼": "zh-tw"
+        },
+        "1101_5213": {
+          "授課語言代碼": "en-us"
         }
       }
     },
@@ -25873,6 +26011,34 @@
           "reg_num": "0",
           "depType": "J"
         },
+        "1101_5177": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5177",
+          "cos_code": "ITL5283",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "比較醫療法",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "陳鋕雄、Robert Leflar",
+          "cos_time": "F56-MB1069",
+          "memo": "新竹實體、台北(陽明)實體同步遠距；英文授課；開放通識，修課人數上限︰交大20人、陽明20人；跨域學程[English Medium Course]",
+          "cos_ename": "Comparative Health Law",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "730",
+          "dep_primary": "1",
+          "dep_cname": "科技法律研究所碩士在職專班",
+          "dep_ename": "Degree Program of Technology Law",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
         "1101_5178": {
           "acy": "110",
           "sem": "1",
@@ -26141,6 +26307,34 @@
           "cos_time": "Mabc-MB1063",
           "memo": "開放通識；開放台聯大大三以上同學選修；跨域學程\r\n",
           "cos_ename": "Information Privacy Law",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "730",
+          "dep_primary": "1",
+          "dep_cname": "科技法律研究所碩士在職專班",
+          "dep_ename": "Degree Program of Technology Law",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
+        "1101_5188": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5188",
+          "cos_code": "ITL5540",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "全球網路治理",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "陳鋕雄、莊弘鈺、蔡志宏、吳國維、黃勝雄",
+          "cos_time": "Tab-",
+          "memo": "網路授課；開放大三以上同學選修；跨域學程",
+          "cos_ename": "Global Internet Governance",
           "brief": "",
           "degree": "5",
           "dep_id": "730",
@@ -26423,6 +26617,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5177": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5178": {
           "": {
             "course_category_cname": "",
@@ -26505,6 +26708,15 @@
           }
         },
         "1101_5187": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5188": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -26633,6 +26845,12 @@
             "brief": ""
           }
         },
+        "1101_5177": {
+          "A505": {
+            "brief_code": "A505",
+            "brief": "校基本素養(106)"
+          }
+        },
         "1101_5178": {
           "": {
             "brief_code": "",
@@ -26688,6 +26906,12 @@
           }
         },
         "1101_5187": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5188": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -26761,6 +26985,9 @@
         "1101_5176": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_5177": {
+          "授課語言代碼": "en-us"
+        },
         "1101_5178": {
           "授課語言代碼": "zh-tw"
         },
@@ -26789,6 +27016,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_5187": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5188": {
           "授課語言代碼": "zh-tw"
         },
         "1101_5189": {

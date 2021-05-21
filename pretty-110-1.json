@@ -3551,6 +3551,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1164": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1164",
+          "cos_code": "DCP1265",
+          "num_limit": "60",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "微處理機系統原理與實作",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cs.nctu.edu.tw/~cjtsai",
+          "teacher": "蔡淳仁",
+          "cos_time": "T7F34-EC114",
+          "memo": "外系生請於開學上網加選；學士班七大主題學程；資工系與電資學士班學生優先選課",
+          "cos_ename": "Microprocessor Systems: Principles andImplementation",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "550",
+          "dep_primary": "1",
+          "dep_cname": "資訊工程學系",
+          "dep_ename": "Department of Computer Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1165": {
           "acy": "110",
           "sem": "1",
@@ -3689,6 +3717,15 @@
             "GECIEngName": "COE,COM"
           }
         },
+        "1101_1164": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1165": {
           "": {
             "course_category_cname": "",
@@ -3748,6 +3785,12 @@
             "brief": "自然/進階(96),跨院基本素養(106)"
           }
         },
+        "1101_1164": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1165": {
           "": {
             "brief_code": "",
@@ -3781,6 +3824,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1163": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1164": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1165": {
@@ -4137,6 +4183,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "U"
+        },
+        "1101_1252": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1252",
+          "cos_code": "DME1584",
+          "num_limit": "70",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "計算機程式",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "黃甦",
+          "cos_time": "Rabc-計中(4)",
+          "memo": "",
+          "cos_ename": "Computer Programming",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "611",
+          "dep_primary": "1",
+          "dep_cname": "機械工程學系",
+          "dep_ename": "Department of Mechanical Engineering",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
         }
       },
       "costype": {
@@ -4229,6 +4303,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_1252": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -4291,6 +4374,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_1252": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -4322,6 +4411,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1245": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1252": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -19076,6 +19168,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5346": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5346",
+          "cos_code": "IME6502",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "紊流導論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "傅武雄",
+          "cos_time": "T678-EE206",
+          "memo": "",
+          "cos_ename": "Int. to Turbulent Flow",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "611",
+          "dep_primary": "1",
+          "dep_cname": "機械工程學系",
+          "dep_ename": "Institute of Mechanical Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5347": {
           "acy": "110",
           "sem": "1",
@@ -19187,6 +19307,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5346": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5347": {
           "": {
             "course_category_cname": "",
@@ -19252,6 +19381,12 @@
             "brief": ""
           }
         },
+        "1101_5346": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5347": {
           "": {
             "brief_code": "",
@@ -19285,6 +19420,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_5343": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5346": {
           "授課語言代碼": "zh-tw"
         },
         "1101_5347": {
@@ -19572,6 +19710,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1101_5964": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5964",
+          "cos_code": "IMO5150",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "生物結構化學",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "平松弘嗣",
+          "cos_time": "R56-SB202",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Biostructural Chemistry",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "655",
+          "dep_primary": "1",
+          "dep_cname": "應用化學系分子科學碩博班",
+          "dep_ename": "Institute of Molecular Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
@@ -19610,6 +19776,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_5964": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -19636,6 +19811,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_5964": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -19650,6 +19831,9 @@
         },
         "1101_5453": {
           "授課語言代碼": "en-us"
+        },
+        "1101_5964": {
+          "授課語言代碼": "zh-tw"
         }
       }
     },

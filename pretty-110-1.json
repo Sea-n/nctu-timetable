@@ -18976,10 +18976,47 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1101_5219": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5219",
+          "cos_code": "CST5026",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "半導體物理及元件(一)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "許恒通",
+          "cos_time": "M567-EE116",
+          "memo": "英語授課[English Medium Course]",
+          "cos_ename": "Semiconductor Physics and Devices (I)",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "591",
+          "dep_primary": "1",
+          "dep_cname": "國際半導體產業學院碩士班",
+          "dep_ename": "International College of Semiconductor Technology",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
         "1101_5218": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5219": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -18995,10 +19032,19 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_5219": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
         "1101_5218": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5219": {
           "授課語言代碼": "en-us"
         }
       }

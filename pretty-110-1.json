@@ -12003,6 +12003,34 @@
           "reg_num": "0",
           "depType": "P"
         },
+        "1101_5248": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5248",
+          "cos_code": "IOC5008",
+          "num_limit": "100",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "基於深度學習之視覺辨識專論(英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "https://www.cs.nctu.edu.tw/members/detail/lin",
+          "teacher": "林彥宇",
+          "cos_time": "R34n-EC114",
+          "memo": "本院學生優先； 英文授課[English Medium Course]",
+          "cos_ename": "Selected Topics in Visual Recognition using Deep Learning",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAN",
+          "dep_primary": "1",
+          "dep_cname": "電機資訊英語授課學分學程",
+          "dep_ename": "Electrical Engineering and Computer Science-International Program",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
         "1101_5268": {
           "acy": "110",
           "sem": "1",
@@ -12294,6 +12322,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5248": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5268": {
           "": {
             "course_category_cname": "",
@@ -12455,6 +12492,12 @@
             "brief": ""
           }
         },
+        "1101_5248": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5268": {
           "": {
             "brief_code": "",
@@ -12539,6 +12582,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_5136": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5248": {
           "授課語言代碼": "en-us"
         },
         "1101_5268": {
@@ -13592,7 +13638,7 @@
           "cos_id": "5635",
           "cos_code": "IOM5012",
           "num_limit": "10",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "創業與創新實作專案(I)",
           "cos_credit": "3.00",
@@ -18023,6 +18069,34 @@
       "dep_cname": "資訊科學與工程研究所",
       "dep_ename": "Institute of Computer Science and Engineering",
       "1": {
+        "1101_5248": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5248",
+          "cos_code": "IOC5008",
+          "num_limit": "100",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "基於深度學習之視覺辨識專論(英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "https://www.cs.nctu.edu.tw/members/detail/lin",
+          "teacher": "林彥宇",
+          "cos_time": "R34n-EC114",
+          "memo": "本院學生優先； 英文授課[English Medium Course]",
+          "cos_ename": "Selected Topics in Visual Recognition using Deep Learning",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "551",
+          "dep_primary": "1",
+          "dep_cname": "資訊科學與工程研究所",
+          "dep_ename": "Institute of Computer Science and Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5250": {
           "acy": "110",
           "sem": "1",
@@ -18221,6 +18295,15 @@
         }
       },
       "costype": {
+        "1101_5248": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5250": {
           "": {
             "course_category_cname": "",
@@ -18286,6 +18369,12 @@
         }
       },
       "brief": {
+        "1101_5248": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5250": {
           "": {
             "brief_code": "",
@@ -18330,6 +18419,9 @@
         }
       },
       "language": {
+        "1101_5248": {
+          "授課語言代碼": "en-us"
+        },
         "1101_5250": {
           "授課語言代碼": "zh-tw"
         },
@@ -20560,6 +20652,62 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5561": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5561",
+          "cos_code": "IOF5091",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "碩士論文研究",
+          "cos_credit": "1.00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "財務金融碩博士班教授",
+          "cos_time": "Sa-M101",
+          "memo": "碩二必修；限財務金融碩士班學生選課",
+          "cos_ename": "Thesis",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "707",
+          "dep_primary": "1",
+          "dep_cname": "資訊管理與財務金融系財務金融碩博士班",
+          "dep_ename": "Graduate institute of finance",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5564": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5564",
+          "cos_code": "IOF5120",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "個別研究",
+          "cos_credit": "1.00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "財務金融碩博士班教授",
+          "cos_time": "F234567-M101",
+          "memo": "資料科學組必修；限財務金融碩博士班學生選修；已擇定指導教授者方可選修；上課時間將依指導教授不同而有異動",
+          "cos_ename": "Independent study",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "707",
+          "dep_primary": "1",
+          "dep_cname": "資訊管理與財務金融系財務金融碩博士班",
+          "dep_ename": "Graduate institute of finance",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5567": {
           "acy": "110",
           "sem": "1",
@@ -20599,6 +20747,24 @@
             "GECIEngName": ""
           }
         },
+        "1101_5561": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5564": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5567": {
           "": {
             "course_category_cname": "",
@@ -20616,6 +20782,18 @@
             "brief": ""
           }
         },
+        "1101_5561": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5564": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5567": {
           "": {
             "brief_code": "",
@@ -20625,6 +20803,12 @@
       },
       "language": {
         "1101_5560": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5561": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5564": {
           "授課語言代碼": "zh-tw"
         },
         "1101_5567": {
@@ -22654,7 +22838,7 @@
           "cos_id": "5635",
           "cos_code": "IOM5012",
           "num_limit": "10",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "創業與創新實作專案(I)",
           "cos_credit": "3.00",
@@ -25548,6 +25732,65 @@
       },
       "language": {
         "1101_5654": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "2842CA5A-8AA1-42DC-BBE5-4293B8F327D1": {
+      "dep_id": "2842CA5A-8AA1-42DC-BBE5-4293B8F327D1",
+      "dep_cname": "管理學院碩士在職專班-財金組",
+      "dep_ename": "Degree Program of Financ",
+      "1": {
+        "1101_5664": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5664",
+          "cos_code": "IOF5022",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "碩士論文研究",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "財務金融碩博士班教授",
+          "cos_time": "Uabc-M101",
+          "memo": "尚未擇定指導教授者不得選修；本課程修課人數如不足5人則停開；限財金專班學生選修；上課時間及地點將依指導教授不同而有異動",
+          "cos_ename": "Thesis",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "717",
+          "dep_primary": "1",
+          "dep_cname": "管理學院碩士在職專班-財金組",
+          "dep_ename": "Degree Program of Financ",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        }
+      },
+      "costype": {
+        "1101_5664": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_5664": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_5664": {
           "授課語言代碼": "zh-tw"
         }
       }

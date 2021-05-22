@@ -12335,6 +12335,34 @@
           "reg_num": "0",
           "depType": "P"
         },
+        "1101_5259": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5259",
+          "cos_code": "IOC5144",
+          "num_limit": "90",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "正規語言與計算理論(英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cs.nctu.edu.tw/~ypchen",
+          "teacher": "陳穎平",
+          "cos_time": "M7R34-EC016",
+          "memo": "本院學生優先；博士班資格考考核科目；請依各所入學年度之修業要點選課；英文授課[English Medium Course]",
+          "cos_ename": "Formal Languages and Theory of Computation",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAN",
+          "dep_primary": "1",
+          "dep_cname": "電機資訊英語授課學分學程",
+          "dep_ename": "Electrical Engineering and Computer Science-International Program",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
         "1101_5268": {
           "acy": "110",
           "sem": "1",
@@ -12644,6 +12672,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5259": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5268": {
           "": {
             "course_category_cname": "",
@@ -12817,6 +12854,12 @@
             "brief": ""
           }
         },
+        "1101_5259": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5268": {
           "": {
             "brief_code": "",
@@ -12907,6 +12950,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_5248": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5259": {
           "授課語言代碼": "en-us"
         },
         "1101_5268": {
@@ -18651,6 +18697,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5259": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5259",
+          "cos_code": "IOC5144",
+          "num_limit": "90",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "正規語言與計算理論(英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cs.nctu.edu.tw/~ypchen",
+          "teacher": "陳穎平",
+          "cos_time": "M7R34-EC016",
+          "memo": "本院學生優先；博士班資格考考核科目；請依各所入學年度之修業要點選課；英文授課[English Medium Course]",
+          "cos_ename": "Formal Languages and Theory of Computation",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "551",
+          "dep_primary": "1",
+          "dep_cname": "資訊科學與工程研究所",
+          "dep_ename": "Institute of Computer Science and Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5263": {
           "acy": "110",
           "sem": "1",
@@ -18763,6 +18837,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5259": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5263": {
           "": {
             "course_category_cname": "",
@@ -18819,6 +18902,12 @@
             "brief": ""
           }
         },
+        "1101_5259": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5263": {
           "": {
             "brief_code": "",
@@ -18850,6 +18939,9 @@
         },
         "1101_5256": {
           "授課語言代碼": "zh-tw"
+        },
+        "1101_5259": {
+          "授課語言代碼": "en-us"
         },
         "1101_5263": {
           "授課語言代碼": "zh-tw"
@@ -25709,6 +25801,34 @@
       "dep_cname": "電機學院碩士在職專班",
       "dep_ename": "Degree Program of Electrical and Computer Science",
       "1": {
+        "1101_5006": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5006",
+          "cos_code": "IEC5116",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "計算機運算，組織與分類",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "單智君",
+          "cos_time": "Wabc-EC114",
+          "memo": "資訊組；限交大在職專班學生選修",
+          "cos_ename": "Computer Operations,  Organization and Categorization",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "506",
+          "dep_primary": "1",
+          "dep_cname": "電機學院碩士在職專班",
+          "dep_ename": "Degree Program of Electrical and Computer Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
         "1101_5007": {
           "acy": "110",
           "sem": "1",
@@ -25795,6 +25915,15 @@
         }
       },
       "costype": {
+        "1101_5006": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5007": {
           "": {
             "course_category_cname": "",
@@ -25824,6 +25953,12 @@
         }
       },
       "brief": {
+        "1101_5006": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5007": {
           "": {
             "brief_code": "",
@@ -25844,6 +25979,9 @@
         }
       },
       "language": {
+        "1101_5006": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_5007": {
           "授課語言代碼": "zh-tw"
         },

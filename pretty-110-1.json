@@ -4330,6 +4330,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1236": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1236",
+          "cos_code": "DME1587",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "機械實作(二)",
+          "cos_credit": "2.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "蔡佳宏",
+          "cos_time": "T234-EE230",
+          "memo": "",
+          "cos_ename": "Mechanical Practice (II)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "611",
+          "dep_primary": "1",
+          "dep_cname": "機械工程學系",
+          "dep_ename": "Department of Mechanical Engineering",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1237": {
           "acy": "110",
           "sem": "1",
@@ -4507,6 +4535,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1236": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1237": {
           "": {
             "course_category_cname": "",
@@ -4587,6 +4624,12 @@
             "brief": ""
           }
         },
+        "1101_1236": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1237": {
           "": {
             "brief_code": "",
@@ -4632,6 +4675,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1235": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1236": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1237": {
@@ -19734,6 +19780,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5330": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5330",
+          "cos_code": "IME5339",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "微流體系統與應用",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "蔡佳宏",
+          "cos_time": "T567-EE230",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Microfluidic System and Applications",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "611",
+          "dep_primary": "1",
+          "dep_cname": "機械工程學系",
+          "dep_ename": "Institute of Mechanical Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5332": {
           "acy": "110",
           "sem": "1",
@@ -20006,6 +20080,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5330": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5332": {
           "": {
             "course_category_cname": "",
@@ -20101,6 +20184,12 @@
             "brief": ""
           }
         },
+        "1101_5330": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5332": {
           "": {
             "brief_code": "",
@@ -20162,6 +20251,9 @@
         },
         "1101_5327": {
           "授課語言代碼": "zh-tw"
+        },
+        "1101_5330": {
+          "授課語言代碼": "en-us"
         },
         "1101_5332": {
           "授課語言代碼": "zh-tw"
@@ -26386,10 +26478,47 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "J"
+        },
+        "1101_5312": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5312",
+          "cos_code": "IAP5154",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "影像自動化與實務",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "蔡佳宏",
+          "cos_time": "Mabc-EE231",
+          "memo": "限交大在職專班學生選修",
+          "cos_ename": "Image-Based Automation and Practice",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "607",
+          "dep_primary": "1",
+          "dep_cname": "工學院碩士在職專班-精密組",
+          "dep_ename": "Degree Program of Automation and Precision Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
         }
       },
       "costype": {
         "1101_5311": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5312": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -26405,10 +26534,19 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_5312": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
         "1101_5311": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5312": {
           "授課語言代碼": "zh-tw"
         }
       }

@@ -3513,6 +3513,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1153": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1153",
+          "cos_code": "DCP1264",
+          "num_limit": "45",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "數位系統設計(英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "單智君",
+          "cos_time": "T2F56-EC016",
+          "memo": "外系生請於開學上網加選；資工系與電資學士班學生優先選課；英文授課[English Medium Course]",
+          "cos_ename": "Digital Systems Design",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "550",
+          "dep_primary": "1",
+          "dep_cname": "資訊工程學系",
+          "dep_ename": "Department of Computer Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1155": {
           "acy": "110",
           "sem": "1",
@@ -3764,6 +3792,15 @@
             "GECIEngName": "COE"
           }
         },
+        "1101_1153": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1155": {
           "": {
             "course_category_cname": "",
@@ -3850,6 +3887,12 @@
             "brief": "自然/進階(96),跨院基本素養(106)"
           }
         },
+        "1101_1153": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1155": {
           "": {
             "brief_code": "",
@@ -3905,6 +3948,9 @@
         },
         "1101_1146": {
           "授課語言代碼": "zh-tw"
+        },
+        "1101_1153": {
+          "授課語言代碼": "en-us"
         },
         "1101_1155": {
           "授課語言代碼": "zh-tw"
@@ -11757,6 +11803,34 @@
           "reg_num": "0",
           "depType": "P"
         },
+        "1101_1153": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1153",
+          "cos_code": "DCP1264",
+          "num_limit": "45",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "數位系統設計(英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "單智君",
+          "cos_time": "T2F56-EC016",
+          "memo": "外系生請於開學上網加選；資工系與電資學士班學生優先選課；英文授課[English Medium Course]",
+          "cos_ename": "Digital Systems Design",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAN",
+          "dep_primary": "1",
+          "dep_cname": "電機資訊英語授課學分學程",
+          "dep_ename": "Electrical Engineering and Computer Science-International Program",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
         "1101_1165": {
           "acy": "110",
           "sem": "1",
@@ -12399,6 +12473,15 @@
             "GECIEngName": "CCS,COE,COM,CBT"
           }
         },
+        "1101_1153": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1165": {
           "": {
             "course_category_cname": "",
@@ -12620,6 +12703,12 @@
             "brief": "群己/進階(96),跨院基本素養(106),校基本素養(106)"
           }
         },
+        "1101_1153": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1165": {
           "": {
             "brief_code": "",
@@ -12761,6 +12850,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_1145": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_1153": {
           "授課語言代碼": "en-us"
         },
         "1101_1165": {

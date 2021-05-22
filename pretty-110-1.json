@@ -3689,6 +3689,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1157": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1157",
+          "cos_code": "DCP4513",
+          "num_limit": "65",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "計算機網路概論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://cs.nctu.edu.tw/~jcc",
+          "teacher": "陳志成",
+          "cos_time": "T56F2-EC122",
+          "memo": "外系生請於開學上網加選；學士班七大主題學程；資訊工程組必修；網路與多媒體工程組的網路領域專業課程必修；資工系與電資學士班學生優先選課",
+          "cos_ename": "Intro. to Computer Networks",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "550",
+          "dep_primary": "1",
+          "dep_cname": "資訊工程學系",
+          "dep_ename": "Department of Computer Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1158": {
           "acy": "110",
           "sem": "1",
@@ -3911,6 +3939,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1157": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1158": {
           "": {
             "course_category_cname": "",
@@ -3997,6 +4034,12 @@
             "brief": ""
           }
         },
+        "1101_1157": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1158": {
           "": {
             "brief_code": "",
@@ -4048,6 +4091,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1156": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1157": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1158": {

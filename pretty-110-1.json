@@ -4414,6 +4414,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1241": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1241",
+          "cos_code": "DME3301",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "機械設計原理（一）",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "蔡佳宏",
+          "cos_time": "M56R2-EE130",
+          "memo": "",
+          "cos_ename": "Principles of Mechanical Design (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "611",
+          "dep_primary": "1",
+          "dep_cname": "機械工程學系",
+          "dep_ename": "Department of Mechanical Engineering",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1245": {
           "acy": "110",
           "sem": "1",
@@ -4562,6 +4590,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1241": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1245": {
           "": {
             "course_category_cname": "",
@@ -4642,6 +4679,12 @@
             "brief": ""
           }
         },
+        "1101_1241": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1245": {
           "": {
             "brief_code": "",
@@ -4684,6 +4727,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1240": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1241": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1245": {

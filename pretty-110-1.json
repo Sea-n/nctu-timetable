@@ -4458,6 +4458,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1230": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1230",
+          "cos_code": "DME2301",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "工程數學（一）",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳竺博淵",
+          "cos_time": "T2W34-EE130",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Engineering Mathematics (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "611",
+          "dep_primary": "1",
+          "dep_cname": "機械工程學系",
+          "dep_ename": "Department of Mechanical Engineering",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1233": {
           "acy": "110",
           "sem": "1",
@@ -4729,6 +4757,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1230": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1233": {
           "": {
             "course_category_cname": "",
@@ -4833,6 +4870,12 @@
             "brief": ""
           }
         },
+        "1101_1230": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1233": {
           "": {
             "brief_code": "",
@@ -4896,6 +4939,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1226": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_1230": {
           "授課語言代碼": "en-us"
         },
         "1101_1233": {

@@ -120,6 +120,34 @@
           "reg_num": "16",
           "depType": "U"
         },
+        "1101_1610": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1610",
+          "cos_code": "DFL2137",
+          "num_limit": "25",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "初級日文(一)",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "王瑋婷",
+          "cos_time": "M34-F207",
+          "memo": "",
+          "cos_ename": "Elementary Japanese(1)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "450",
+          "dep_primary": "1",
+          "dep_cname": "外國語文學系",
+          "dep_ename": "Department of Foreign Languages and Literatures",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1612": {
           "acy": "110",
           "sem": "1",
@@ -308,6 +336,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1610": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1612": {
           "": {
             "course_category_cname": "",
@@ -376,6 +413,12 @@
             "brief": ""
           }
         },
+        "1101_1610": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1612": {
           "": {
             "brief_code": "",
@@ -418,6 +461,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_1605": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1610": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1612": {
@@ -5036,6 +5082,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1358": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1358",
+          "cos_code": "DEP3570",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "熱物理",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "鄭舜仁",
+          "cos_time": "M5W34-SC158",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Thermal Physics",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "651",
+          "dep_primary": "1",
+          "dep_cname": "電子物理學系",
+          "dep_ename": "Department of Electro-Physics",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1361": {
           "acy": "110",
           "sem": "1",
@@ -5111,6 +5185,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1358": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1361": {
           "": {
             "course_category_cname": "",
@@ -5152,6 +5235,12 @@
             "brief": ""
           }
         },
+        "1101_1358": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1361": {
           "": {
             "brief_code": "",
@@ -5174,6 +5263,9 @@
         },
         "1101_1357": {
           "授課語言代碼": "zh-tw"
+        },
+        "1101_1358": {
+          "授課語言代碼": "en-us"
         },
         "1101_1361": {
           "授課語言代碼": "zh-tw"
@@ -20495,6 +20587,62 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1101_5409": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5409",
+          "cos_code": "IEP5610",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "固態光學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "鄭舜仁",
+          "cos_time": "T34F2-SC160",
+          "memo": "",
+          "cos_ename": "Optical properties of solids",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "651",
+          "dep_primary": "1",
+          "dep_cname": "電子物理學系",
+          "dep_ename": "Institute of Electro-Physics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5413": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5413",
+          "cos_code": "IEP5801",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "半導體製程技術",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://140.113.28.160/",
+          "teacher": "趙天生",
+          "cos_time": "M234-SC160",
+          "memo": "",
+          "cos_ename": "Semiconductor Process and Technology",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "651",
+          "dep_primary": "1",
+          "dep_cname": "電子物理學系",
+          "dep_ename": "Institute of Electro-Physics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
@@ -20508,6 +20656,24 @@
           }
         },
         "1101_5404": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5409": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5413": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -20529,6 +20695,18 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_5409": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5413": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -20537,6 +20715,12 @@
         },
         "1101_5404": {
           "授課語言代碼": "en-us"
+        },
+        "1101_5409": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5413": {
+          "授課語言代碼": "zh-tw"
         }
       }
     },

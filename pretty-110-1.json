@@ -11336,6 +11336,65 @@
         }
       }
     },
+    "EDC2AE3B-55E0-40CB-8DA1-BAF46ABAAA7C": {
+      "dep_id": "EDC2AE3B-55E0-40CB-8DA1-BAF46ABAAA7C",
+      "dep_cname": "教學發展中心",
+      "dep_ename": "Center of Teaching and Learning Development",
+      "1": {
+        "1101_1909": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1909",
+          "cos_code": "DOA1113",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "多線互動敘事工作坊",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "張俊彥",
+          "cos_time": "F34-HC104",
+          "memo": "",
+          "cos_ename": "Workshop for Interactive Branching Narratives",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OUH",
+          "dep_primary": "1",
+          "dep_cname": "教學發展中心",
+          "dep_ename": "Center of Teaching and Learning Development",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        }
+      },
+      "costype": {
+        "1101_1909": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_1909": {
+          "A505": {
+            "brief_code": "A505",
+            "brief": "校基本素養(106)"
+          }
+        }
+      },
+      "language": {
+        "1101_1909": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "B3BDF974-6156-48A8-8D2A-DCC59EAAB19D": {
       "dep_id": "B3BDF974-6156-48A8-8D2A-DCC59EAAB19D",
       "dep_cname": "國際處",
@@ -15235,6 +15294,65 @@
       },
       "language": {
         "1101_6104": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "1908531A-F394-46F5-BEAA-8B96AC5F109A": {
+      "dep_id": "1908531A-F394-46F5-BEAA-8B96AC5F109A",
+      "dep_cname": "說故事與多媒體跨域學程",
+      "dep_ename": "",
+      "1": {
+        "1101_1909": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1909",
+          "cos_code": "DOA1113",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "多線互動敘事工作坊",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "張俊彥",
+          "cos_time": "F34-HC104",
+          "memo": "",
+          "cos_ename": "Workshop for Interactive Branching Narratives",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QKZ",
+          "dep_primary": "1",
+          "dep_cname": "說故事與多媒體跨域學程",
+          "dep_ename": "",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        }
+      },
+      "costype": {
+        "1101_1909": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_1909": {
+          "A505": {
+            "brief_code": "A505",
+            "brief": "校基本素養(106)"
+          }
+        }
+      },
+      "language": {
+        "1101_1909": {
           "授課語言代碼": "zh-tw"
         }
       }

@@ -260,6 +260,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1621": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1621",
+          "cos_code": "DFL2139",
+          "num_limit": "25",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "中級日文(一)",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "王瑋婷",
+          "cos_time": "M56-F206",
+          "memo": "",
+          "cos_ename": "Intermediate Japanese(1)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "450",
+          "dep_primary": "1",
+          "dep_cname": "外國語文學系",
+          "dep_ename": "Department of Foreign Languages and Literatures",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1622": {
           "acy": "110",
           "sem": "1",
@@ -286,6 +314,34 @@
           "cos_type_e": "Required",
           "crsoutline_type": "data",
           "reg_num": "46",
+          "depType": "U"
+        },
+        "1101_1626": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1626",
+          "cos_code": "DFL4135",
+          "num_limit": "25",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "高級日文(一)",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "王瑋婷",
+          "cos_time": "M78-F206",
+          "memo": "",
+          "cos_ename": "Advanced Japanese(1)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "450",
+          "dep_primary": "1",
+          "dep_cname": "外國語文學系",
+          "dep_ename": "Department of Foreign Languages and Literatures",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
           "depType": "U"
         },
         "1101_1627": {
@@ -381,7 +437,25 @@
             "GECIEngName": ""
           }
         },
+        "1101_1621": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1622": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1626": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -443,7 +517,19 @@
             "brief": ""
           }
         },
+        "1101_1621": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1622": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1626": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -478,7 +564,13 @@
         "1101_1620": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_1621": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1622": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1626": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1627": {

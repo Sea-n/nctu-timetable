@@ -21684,6 +21684,62 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1101_5227": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5227",
+          "cos_code": "CST5065",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "2D奈米電子學：材料，物理及其應用",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "阿圖爾Artur Useinov",
+          "cos_time": "M234-M118",
+          "memo": "英語授課[English Medium Course]",
+          "cos_ename": "2D nanoelectronics: Materials, Physics, and Applications",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "591",
+          "dep_primary": "1",
+          "dep_cname": "國際半導體產業學院碩士班",
+          "dep_ename": "International College of Semiconductor Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": null,
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5228": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5228",
+          "cos_code": "CST5066",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "基礎量子計算",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "阿圖爾Artur Useinov",
+          "cos_time": "F234-",
+          "memo": "英語授課[English Medium Course]",
+          "cos_ename": "Basics in Quantum Computing",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "591",
+          "dep_primary": "1",
+          "dep_cname": "國際半導體產業學院碩士班",
+          "dep_ename": "International College of Semiconductor Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": null,
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
@@ -21697,6 +21753,24 @@
           }
         },
         "1101_5219": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5227": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5228": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -21718,6 +21792,18 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_5227": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5228": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -21725,6 +21811,12 @@
           "授課語言代碼": "en-us"
         },
         "1101_5219": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5227": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5228": {
           "授課語言代碼": "en-us"
         }
       }

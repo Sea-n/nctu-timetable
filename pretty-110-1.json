@@ -6969,6 +6969,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1513": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1513",
+          "cos_code": "DIF1071",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "財務風險管理",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "郭家豪",
+          "cos_time": "WaR56-M102",
+          "memo": "財金類課程；資財系優先選課",
+          "cos_ename": "Financial Risk Management",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "705",
+          "dep_primary": "1",
+          "dep_cname": "資訊管理與財務金融系",
+          "dep_ename": "Department of Information and Finance Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1514": {
           "acy": "110",
           "sem": "1",
@@ -7017,6 +7045,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1513": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1514": {
           "": {
             "course_category_cname": "",
@@ -7040,6 +7077,12 @@
             "brief": ""
           }
         },
+        "1101_1513": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1514": {
           "": {
             "brief_code": "",
@@ -7052,6 +7095,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1508": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1513": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1514": {
@@ -14870,6 +14916,34 @@
       "dep_cname": "管理學院:管理基礎學分學程",
       "dep_ename": "Fundamental of Management Program",
       "1": {
+        "1101_1522": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1522",
+          "cos_code": "DOM1001",
+          "num_limit": "88",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "經濟學(一)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "郭家豪",
+          "cos_time": "W34R7-M101",
+          "memo": "管院大學部共同必修課程；管院學生優先選課；上限88人，得請授課教師簽准後可放寬至93人；若有演習課則安排於YI；管理基礎學分學程課程",
+          "cos_ename": "Economics (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PFH",
+          "dep_primary": "1",
+          "dep_cname": "管理學院:管理基礎學分學程",
+          "dep_ename": "Fundamental of Management Program",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
         "1101_1532": {
           "acy": "110",
           "sem": "1",
@@ -14928,6 +15002,15 @@
         }
       },
       "costype": {
+        "1101_1522": {
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "電,資,工,理,生,人,客",
+            "GECIEngName": "ECE,CCS,COE,COS,CBT,CHS,CHK"
+          }
+        },
         "1101_1532": {
           "": {
             "course_category_cname": "",
@@ -14948,6 +15031,12 @@
         }
       },
       "brief": {
+        "1101_1522": {
+          "A103,A504": {
+            "brief_code": "A103,A504",
+            "brief": "公民/基礎(96),跨院基本素養(106)"
+          }
+        },
         "1101_1532": {
           "": {
             "brief_code": "",
@@ -14962,6 +15051,9 @@
         }
       },
       "language": {
+        "1101_1522": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1532": {
           "授課語言代碼": "zh-tw"
         },
@@ -15658,6 +15750,34 @@
       "dep_cname": "管理學院創業與創新管理跨域學程",
       "dep_ename": "College of Management Venture & Innovation Management Cross-Discipl",
       "1": {
+        "1101_1522": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1522",
+          "cos_code": "DOM1001",
+          "num_limit": "88",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "經濟學(一)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "郭家豪",
+          "cos_time": "W34R7-M101",
+          "memo": "管院大學部共同必修課程；管院學生優先選課；上限88人，得請授課教師簽准後可放寬至93人；若有演習課則安排於YI；管理基礎學分學程課程",
+          "cos_ename": "Economics (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QKQ",
+          "dep_primary": "1",
+          "dep_cname": "管理學院創業與創新管理跨域學程",
+          "dep_ename": "College of Management Venture & Innovation Management Cross-Discipl",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
         "1101_1532": {
           "acy": "110",
           "sem": "1",
@@ -15884,6 +16004,15 @@
         }
       },
       "costype": {
+        "1101_1522": {
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "電,資,工,理,生,人,客",
+            "GECIEngName": "ECE,CCS,COE,COS,CBT,CHS,CHK"
+          }
+        },
         "1101_1532": {
           "": {
             "course_category_cname": "",
@@ -15958,6 +16087,12 @@
         }
       },
       "brief": {
+        "1101_1522": {
+          "A103,A504": {
+            "brief_code": "A103,A504",
+            "brief": "公民/基礎(96),跨院基本素養(106)"
+          }
+        },
         "1101_1532": {
           "": {
             "brief_code": "",
@@ -16008,6 +16143,9 @@
         }
       },
       "language": {
+        "1101_1522": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1532": {
           "授課語言代碼": "zh-tw"
         },
@@ -23940,6 +24078,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5562": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5562",
+          "cos_code": "IOF5110",
+          "num_limit": "60",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "定價模型實證分析",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "郭家豪",
+          "cos_time": "W789-M101",
+          "memo": "財務類課程；財務金融碩博士班優先選課",
+          "cos_ename": "Empirical Analyses of Asset Pricing",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "707",
+          "dep_primary": "1",
+          "dep_cname": "資訊管理與財務金融系財務金融碩博士班",
+          "dep_ename": "Graduate institute of finance",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5564": {
           "acy": "110",
           "sem": "1",
@@ -24025,6 +24191,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5562": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5564": {
           "": {
             "course_category_cname": "",
@@ -24063,6 +24238,12 @@
             "brief": ""
           }
         },
+        "1101_5562": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5564": {
           "": {
             "brief_code": "",
@@ -24084,6 +24265,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_5561": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5562": {
           "授課語言代碼": "zh-tw"
         },
         "1101_5564": {
@@ -32383,6 +32567,34 @@
       "dep_cname": "管理學院共同課程",
       "dep_ename": "College of Management",
       "1": {
+        "1101_1522": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1522",
+          "cos_code": "DOM1001",
+          "num_limit": "88",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "經濟學(一)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "郭家豪",
+          "cos_time": "W34R7-M101",
+          "memo": "管院大學部共同必修課程；管院學生優先選課；上限88人，得請授課教師簽准後可放寬至93人；若有演習課則安排於YI；管理基礎學分學程課程",
+          "cos_ename": "Economics (I)",
+          "brief": "",
+          "degree": "A",
+          "dep_id": "7M1",
+          "dep_primary": "1",
+          "dep_cname": "管理學院共同課程",
+          "dep_ename": "College of Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1531": {
           "acy": "110",
           "sem": "1",
@@ -32469,6 +32681,15 @@
         }
       },
       "costype": {
+        "1101_1522": {
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "電,資,工,理,生,人,客",
+            "GECIEngName": "ECE,CCS,COE,COS,CBT,CHS,CHK"
+          }
+        },
         "1101_1531": {
           "": {
             "course_category_cname": "",
@@ -32498,6 +32719,12 @@
         }
       },
       "brief": {
+        "1101_1522": {
+          "A103,A504": {
+            "brief_code": "A103,A504",
+            "brief": "公民/基礎(96),跨院基本素養(106)"
+          }
+        },
         "1101_1531": {
           "": {
             "brief_code": "",
@@ -32518,6 +32745,9 @@
         }
       },
       "language": {
+        "1101_1522": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1531": {
           "授課語言代碼": "zh-tw"
         },

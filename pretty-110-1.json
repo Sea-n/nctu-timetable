@@ -12431,7 +12431,7 @@
           "TURL": "http://neural-lab.nctu.edu.tw/",
           "teacher": "蔡德明",
           "cos_time": "T34R7-EE623",
-          "memo": " 2A、醫師工程組[English Medium Course]",
+          "memo": " 2A [English Medium Course]",
           "cos_ename": "Circuit Theory ",
           "brief": "",
           "degree": "1",
@@ -12893,6 +12893,34 @@
           "reg_num": "0",
           "depType": "P"
         },
+        "1101_5102": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5102",
+          "cos_code": "IEO5211",
+          "num_limit": "70",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "顯示電子電路",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "戴亞翔",
+          "cos_time": "F234-CY201",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Electronic Circuits for Display",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAN",
+          "dep_primary": "1",
+          "dep_cname": "電機資訊英語授課學分學程",
+          "dep_ename": "Electrical Engineering and Computer Science-International Program",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
         "1101_5114": {
           "acy": "110",
           "sem": "1",
@@ -13306,6 +13334,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5102": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5114": {
           "": {
             "course_category_cname": "",
@@ -13500,6 +13537,12 @@
             "brief": ""
           }
         },
+        "1101_5102": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5114": {
           "": {
             "brief_code": "",
@@ -13608,6 +13651,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_5101": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5102": {
           "授課語言代碼": "en-us"
         },
         "1101_5114": {
@@ -19363,6 +19409,34 @@
       "dep_cname": "光電工程學系",
       "dep_ename": "Institute of Electro-Optical Engineering",
       "1": {
+        "1101_5102": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5102",
+          "cos_code": "IEO5211",
+          "num_limit": "70",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "顯示電子電路",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "戴亞翔",
+          "cos_time": "F234-CY201",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Electronic Circuits for Display",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "514",
+          "dep_primary": "1",
+          "dep_cname": "光電工程學系",
+          "dep_ename": "Institute of Electro-Optical Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5114": {
           "acy": "110",
           "sem": "1",
@@ -19393,6 +19467,15 @@
         }
       },
       "costype": {
+        "1101_5102": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5114": {
           "": {
             "course_category_cname": "",
@@ -19404,6 +19487,12 @@
         }
       },
       "brief": {
+        "1101_5102": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5114": {
           "": {
             "brief_code": "",
@@ -19412,6 +19501,9 @@
         }
       },
       "language": {
+        "1101_5102": {
+          "授課語言代碼": "en-us"
+        },
         "1101_5114": {
           "授課語言代碼": "en-us"
         }
@@ -30353,7 +30445,7 @@
           "TURL": "http://neural-lab.nctu.edu.tw/",
           "teacher": "蔡德明",
           "cos_time": "T34R7-EE623",
-          "memo": " 2A、醫師工程組[English Medium Course]",
+          "memo": " 2A [English Medium Course]",
           "cos_ename": "Circuit Theory ",
           "brief": "",
           "degree": "A",

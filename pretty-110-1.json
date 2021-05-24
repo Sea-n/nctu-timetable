@@ -879,6 +879,34 @@
       "dep_cname": "傳播與科技學系",
       "dep_ename": "Department of Communication and Technology",
       "1": {
+        "1101_1694": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1694",
+          "cos_code": "DCT1038",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "統計學",
+          "cos_credit": "4.00",
+          "cos_hours": "4.00",
+          "TURL": "",
+          "teacher": "陶振超",
+          "cos_time": "R5678-HK114",
+          "memo": "",
+          "cos_ename": "Statistics and Statistical Computing Language",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "483",
+          "dep_primary": "1",
+          "dep_cname": "傳播與科技學系",
+          "dep_ename": "Department of Communication and Technology",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1695": {
           "acy": "110",
           "sem": "1",
@@ -965,6 +993,15 @@
         }
       },
       "costype": {
+        "1101_1694": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1695": {
           "": {
             "course_category_cname": "",
@@ -994,6 +1031,12 @@
         }
       },
       "brief": {
+        "1101_1694": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1695": {
           "": {
             "brief_code": "",
@@ -1014,6 +1057,9 @@
         }
       },
       "language": {
+        "1101_1694": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1695": {
           "授課語言代碼": "zh-tw"
         },
@@ -1085,6 +1131,62 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "U"
+        },
+        "1101_1649": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1649",
+          "cos_code": "DOH3001",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "器樂進階演奏(一)",
+          "cos_credit": "1.00",
+          "cos_hours": ".50",
+          "TURL": "",
+          "teacher": "許佳穎、辛幸純",
+          "cos_time": "",
+          "memo": "每學期開課，需通過檢定才可修習(前一學期第5周前提出)，修習音樂個別指導課程者收取音樂個別指導費。 累進修習規定請參閱實施要點。 109跨域學程器樂修課檢定考試規定如下，目前樂器別限鋼琴及小提琴。 檢定當天 1. 書面資料包含 (1)音樂相關背景，例如：學習歷程、師承。 (2)學過的曲目。 2. 鋼琴： (1) 一首巴赫 (J. S. Bach) 作品/樂章，或一首練習曲。 (2) 兩首對比性樂曲或樂章。 3. 小提琴: (1) 巴赫 (J. S. Bach)：一個樂章無伴奏奏鳴曲或組曲。 (2) 一首自選曲 (曲長需5分鐘以上)。 原則上，11月進行檢定，詳細時間將另行通知。",
+          "cos_ename": "Advanced Instrumental Performance I",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "4A1",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學院院本部",
+          "dep_ename": "College of Humanities and Social Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1101_1650": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1650",
+          "cos_code": "DOH3002",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "器樂進階演奏(二)",
+          "cos_credit": "2.00",
+          "cos_hours": "1.00",
+          "TURL": "http://proarte.googlepages.com",
+          "teacher": "李俊穎、辛幸純",
+          "cos_time": "",
+          "memo": "每學期開課，需通過檢定才可修習(前一學期第5周前提出)，修習音樂個別指導課程者收取音樂個別指導費。 累進修習規定請參閱實施要點。 109跨域學程器樂修課檢定考試規定如下，目前樂器別限鋼琴及小提琴。 檢定當天 1. 書面資料包含 (1)音樂相關背景，例如：學習歷程、師承。 (2)學過的曲目。 2. 鋼琴： (1) 一首巴赫 (J. S. Bach) 作品/樂章，或一首練習曲。 (2) 兩首對比性樂曲或樂章。 3. 小提琴: (1) 巴赫 (J. S. Bach)：一個樂章無伴奏奏鳴曲或組曲。 (2) 一首自選曲 (曲長需5分鐘以上)。 原則上，11月進行檢定，詳細時間將另行通知。",
+          "cos_ename": "Advanced Instrumental Performance II",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "4A1",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學院院本部",
+          "dep_ename": "College of Humanities and Social Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
         }
       },
       "costype": {
@@ -1098,6 +1200,24 @@
           }
         },
         "1101_1642": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1649": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1650": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -1119,6 +1239,18 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_1649": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1650": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -1126,6 +1258,12 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1642": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1649": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1650": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -5087,6 +5225,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "U"
+        },
+        "1101_1254": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1254",
+          "cos_code": "DME3301",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "機械設計原理（一）",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "黃正昇",
+          "cos_time": "M56R2-EE206",
+          "memo": "",
+          "cos_ename": "Principles of Mechanical Design (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "611",
+          "dep_primary": "1",
+          "dep_cname": "機械工程學系",
+          "dep_ename": "Department of Mechanical Engineering",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
         }
       },
       "costype": {
@@ -5233,6 +5399,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_1254": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -5331,6 +5506,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_1254": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -5380,6 +5561,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1252": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1254": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -15612,6 +15796,62 @@
       "dep_cname": "人文社會學院藝術與音樂跨域學程",
       "dep_ename": "College of Humanities and Social Sciences for Transdisciplinary Inn",
       "1": {
+        "1101_1649": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1649",
+          "cos_code": "DOH3001",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "器樂進階演奏(一)",
+          "cos_credit": "1.00",
+          "cos_hours": ".50",
+          "TURL": "",
+          "teacher": "許佳穎、辛幸純",
+          "cos_time": "",
+          "memo": "每學期開課，需通過檢定才可修習(前一學期第5周前提出)，修習音樂個別指導課程者收取音樂個別指導費。 累進修習規定請參閱實施要點。 109跨域學程器樂修課檢定考試規定如下，目前樂器別限鋼琴及小提琴。 檢定當天 1. 書面資料包含 (1)音樂相關背景，例如：學習歷程、師承。 (2)學過的曲目。 2. 鋼琴： (1) 一首巴赫 (J. S. Bach) 作品/樂章，或一首練習曲。 (2) 兩首對比性樂曲或樂章。 3. 小提琴: (1) 巴赫 (J. S. Bach)：一個樂章無伴奏奏鳴曲或組曲。 (2) 一首自選曲 (曲長需5分鐘以上)。 原則上，11月進行檢定，詳細時間將另行通知。",
+          "cos_ename": "Advanced Instrumental Performance I",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QKS",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學院藝術與音樂跨域學程",
+          "dep_ename": "College of Humanities and Social Sciences for Transdisciplinary Inn",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
+        "1101_1650": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1650",
+          "cos_code": "DOH3002",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "器樂進階演奏(二)",
+          "cos_credit": "2.00",
+          "cos_hours": "1.00",
+          "TURL": "http://proarte.googlepages.com",
+          "teacher": "李俊穎、辛幸純",
+          "cos_time": "",
+          "memo": "每學期開課，需通過檢定才可修習(前一學期第5周前提出)，修習音樂個別指導課程者收取音樂個別指導費。 累進修習規定請參閱實施要點。 109跨域學程器樂修課檢定考試規定如下，目前樂器別限鋼琴及小提琴。 檢定當天 1. 書面資料包含 (1)音樂相關背景，例如：學習歷程、師承。 (2)學過的曲目。 2. 鋼琴： (1) 一首巴赫 (J. S. Bach) 作品/樂章，或一首練習曲。 (2) 兩首對比性樂曲或樂章。 3. 小提琴: (1) 巴赫 (J. S. Bach)：一個樂章無伴奏奏鳴曲或組曲。 (2) 一首自選曲 (曲長需5分鐘以上)。 原則上，11月進行檢定，詳細時間將另行通知。",
+          "cos_ename": "Advanced Instrumental Performance II",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QKS",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學院藝術與音樂跨域學程",
+          "dep_ename": "College of Humanities and Social Sciences for Transdisciplinary Inn",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
         "1101_6104": {
           "acy": "110",
           "sem": "1",
@@ -15642,6 +15882,24 @@
         }
       },
       "costype": {
+        "1101_1649": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1650": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_6104": {
           "通識核心課程_通識核心": {
             "course_category_cname": "通識核心課程_通識核心",
@@ -15653,6 +15911,18 @@
         }
       },
       "brief": {
+        "1101_1649": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1650": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_6104": {
           "A201,A501": {
             "brief_code": "A201,A501",
@@ -15661,6 +15931,12 @@
         }
       },
       "language": {
+        "1101_1649": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1650": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_6104": {
           "授課語言代碼": "zh-tw"
         }
@@ -17504,6 +17780,34 @@
       "dep_cname": "傳播與科技學系",
       "dep_ename": "Department of Communication and Technology",
       "1": {
+        "1101_5952": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5952",
+          "cos_code": "ICH5004",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "傳播量化研究方法",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陶振超",
+          "cos_time": "M567-HK206",
+          "memo": "",
+          "cos_ename": "Quantitative Communication Research Methods",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "483",
+          "dep_primary": "1",
+          "dep_cname": "傳播與科技學系",
+          "dep_ename": "Department of Communication and Technology",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5954": {
           "acy": "110",
           "sem": "1",
@@ -17534,6 +17838,15 @@
         }
       },
       "costype": {
+        "1101_5952": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5954": {
           "": {
             "course_category_cname": "",
@@ -17545,6 +17858,12 @@
         }
       },
       "brief": {
+        "1101_5952": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5954": {
           "": {
             "brief_code": "",
@@ -17553,6 +17872,9 @@
         }
       },
       "language": {
+        "1101_5952": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_5954": {
           "授課語言代碼": "en-us"
         }
@@ -17590,10 +17912,47 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1101_5048": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5048",
+          "cos_code": "IEE7582",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": "https://mcube.nctu.edu.tw/~dwlin/courses/21digcom",
+          "cos_cname": "數位通訊",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "https://mcube.nctu.edu.tw/~dwlin",
+          "teacher": "林大衛",
+          "cos_time": "W567-ED525",
+          "memo": "",
+          "cos_ename": "Digital Communication",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "510",
+          "dep_primary": "1",
+          "dep_cname": "電子研究所",
+          "dep_ename": "Institute of Electronics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
         "1101_5033": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5048": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -17609,10 +17968,19 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_5048": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
         "1101_5033": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5048": {
           "授課語言代碼": "zh-tw"
         }
       }

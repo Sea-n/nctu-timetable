@@ -777,6 +777,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1685": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1685",
+          "cos_code": "DHS3165",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "文化理論選讀",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://",
+          "teacher": "蔣淑貞",
+          "cos_time": "R234-HK105",
+          "memo": "",
+          "cos_ename": "A Selected Reading of Cultural Theories",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "481",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學系",
+          "dep_ename": "Department of Humanities and Social Sciences",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1687": {
           "acy": "110",
           "sem": "1",
@@ -832,6 +860,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1685": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1687": {
           "": {
             "course_category_cname": "",
@@ -855,6 +892,12 @@
             "brief": ""
           }
         },
+        "1101_1685": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1687": {
           "": {
             "brief_code": "",
@@ -867,6 +910,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1684": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1685": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1687": {
@@ -11387,7 +11433,7 @@
           "cos_id": "8101",
           "cos_code": "PYY1051",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "大一體育",
           "cos_credit": ".00",
@@ -11415,7 +11461,7 @@
           "cos_id": "8102",
           "cos_code": "PYY1051",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "大一體育",
           "cos_credit": ".00",
@@ -11838,6 +11884,111 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_0546": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "49552B82-2C24-4355-AA37-2E503351C46B": {
+      "dep_id": "49552B82-2C24-4355-AA37-2E503351C46B",
+      "dep_cname": "微積分教學小組",
+      "dep_ename": "Calculus section",
+      "1": {
+        "1101_0320": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "0320",
+          "cos_code": "DAM1367",
+          "num_limit": "60",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "微積分甲（一）",
+          "cos_credit": "4.00",
+          "cos_hours": "4.00",
+          "TURL": "",
+          "teacher": "楊春美",
+          "cos_time": "T34F56-EE105",
+          "memo": "",
+          "cos_ename": "Calculus (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OUE",
+          "dep_primary": "1",
+          "dep_cname": "微積分教學小組",
+          "dep_ename": "Calculus section",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_0418": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "0418",
+          "cos_code": "DAM1367",
+          "num_limit": "60",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "微積分甲（一）",
+          "cos_credit": "4.00",
+          "cos_hours": "4.00",
+          "TURL": "",
+          "teacher": "楊春美",
+          "cos_time": "M78-EDB26,R34-EE102",
+          "memo": "",
+          "cos_ename": "Calculus (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OUE",
+          "dep_primary": "1",
+          "dep_cname": "微積分教學小組",
+          "dep_ename": "Calculus section",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        }
+      },
+      "costype": {
+        "1101_0320": {
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "客",
+            "GECIEngName": "CHK"
+          }
+        },
+        "1101_0418": {
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "客",
+            "GECIEngName": "CHK"
+          }
+        }
+      },
+      "brief": {
+        "1101_0320": {
+          "A205,A504": {
+            "brief_code": "A205,A504",
+            "brief": "自然/進階(96),跨院基本素養(106)"
+          }
+        },
+        "1101_0418": {
+          "A205,A504": {
+            "brief_code": "A205,A504",
+            "brief": "自然/進階(96),跨院基本素養(106)"
+          }
+        }
+      },
+      "language": {
+        "1101_0320": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_0418": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -13455,6 +13606,34 @@
           "reg_num": "0",
           "depType": "P"
         },
+        "1101_5118": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5118",
+          "cos_code": "IEO5547",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "固態物理",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "黃嘉彥",
+          "cos_time": "R567-CY202",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Solid State Physics",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAN",
+          "dep_primary": "1",
+          "dep_cname": "電機資訊英語授課學分學程",
+          "dep_ename": "Electrical Engineering and Computer Science-International Program",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
         "1101_5135": {
           "acy": "110",
           "sem": "1",
@@ -13858,6 +14037,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5118": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5135": {
           "": {
             "course_category_cname": "",
@@ -14055,6 +14243,12 @@
             "brief": ""
           }
         },
+        "1101_5118": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5135": {
           "": {
             "brief_code": "",
@@ -14163,6 +14357,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_5114": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5118": {
           "授課語言代碼": "en-us"
         },
         "1101_5135": {
@@ -14931,6 +15128,34 @@
           "reg_num": "0",
           "depType": "P"
         },
+        "1101_1685": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1685",
+          "cos_code": "DHS3165",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "文化理論選讀",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://",
+          "teacher": "蔣淑貞",
+          "cos_time": "R234-HK105",
+          "memo": "",
+          "cos_ename": "A Selected Reading of Cultural Theories",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PFR",
+          "dep_primary": "1",
+          "dep_cname": "人社系:文化產業學分學程",
+          "dep_ename": "Program of Cultural Industries",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
         "1101_1687": {
           "acy": "110",
           "sem": "1",
@@ -14998,6 +15223,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1685": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1687": {
           "": {
             "course_category_cname": "",
@@ -15024,6 +15258,12 @@
             "brief": ""
           }
         },
+        "1101_1685": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1687": {
           "": {
             "brief_code": "",
@@ -15039,6 +15279,9 @@
       },
       "language": {
         "1101_1684": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1685": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1687": {
@@ -20257,6 +20500,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5118": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5118",
+          "cos_code": "IEO5547",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "固態物理",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "黃嘉彥",
+          "cos_time": "R567-CY202",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Solid State Physics",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "514",
+          "dep_primary": "1",
+          "dep_cname": "光電工程學系",
+          "dep_ename": "Institute of Electro-Optical Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5120": {
           "acy": "110",
           "sem": "1",
@@ -20351,6 +20622,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5118": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5120": {
           "": {
             "course_category_cname": "",
@@ -20395,6 +20675,12 @@
             "brief": ""
           }
         },
+        "1101_5118": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5120": {
           "": {
             "brief_code": "",
@@ -20419,6 +20705,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_5114": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5118": {
           "授課語言代碼": "en-us"
         },
         "1101_5120": {
@@ -31906,6 +32195,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "U"
+        },
+        "1101_1721": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1721",
+          "cos_code": "UEE2101",
+          "num_limit": "55",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "微分方程",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "楊春美",
+          "cos_time": "M34W2-EE105",
+          "memo": "",
+          "cos_ename": "Differential Equation",
+          "brief": "",
+          "degree": "A",
+          "dep_id": "5Y1",
+          "dep_primary": "1",
+          "dep_cname": "電機學院與資訊學院共同課程",
+          "dep_ename": "College of Electrical Engineering and Computer Science",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
         }
       },
       "costype": {
@@ -31919,6 +32236,15 @@
           }
         },
         "1101_1720": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1721": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -31940,6 +32266,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_1721": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -31947,6 +32279,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_1720": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1721": {
           "授課語言代碼": "zh-tw"
         }
       }

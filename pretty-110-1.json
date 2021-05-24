@@ -11424,6 +11424,34 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1101_9912": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "9912",
+          "cos_code": "EDU1212",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "分科教材教法(自然領域/物理)",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "陳聖昌",
+          "cos_time": "T56-HA212B",
+          "memo": "",
+          "cos_ename": "Subject-related Teaching Materials & Methods(Physics)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU7",
+          "dep_primary": "1",
+          "dep_cname": "師資培育中心",
+          "dep_ename": "Center for Teacher Education",
+          "cos_type": "教育",
+          "cos_type_e": "Teacher Education",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_9916": {
           "acy": "110",
           "sem": "1",
@@ -11472,6 +11500,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_9912": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_9916": {
           "": {
             "course_category_cname": "",
@@ -11495,6 +11532,12 @@
             "brief": "教育學程(87)"
           }
         },
+        "1101_9912": {
+          "D099": {
+            "brief_code": "D099",
+            "brief": "教育學程(87)"
+          }
+        },
         "1101_9916": {
           "D099": {
             "brief_code": "D099",
@@ -11508,6 +11551,9 @@
         },
         "1101_9910": {
           "授課語言代碼": "en-us"
+        },
+        "1101_9912": {
+          "授課語言代碼": "zh-tw"
         },
         "1101_9916": {
           "授課語言代碼": "zh-tw"
@@ -16428,6 +16474,65 @@
         }
       }
     },
+    "E43BCD23-13DD-4AB5-A6A7-CD154D25A1F7": {
+      "dep_id": "E43BCD23-13DD-4AB5-A6A7-CD154D25A1F7",
+      "dep_cname": "教育研究所學習科學跨域學程",
+      "dep_ename": "Institute of Education for Learning Science Cross-Disciplinary Prog",
+      "1": {
+        "1101_5815": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5815",
+          "cos_code": "IED5311",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "STEM教學與研究",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "陳聖昌",
+          "cos_time": "T34-HA218",
+          "memo": "",
+          "cos_ename": "The Instruction and Research of STEM",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QKT",
+          "dep_primary": "1",
+          "dep_cname": "教育研究所學習科學跨域學程",
+          "dep_ename": "Institute of Education for Learning Science Cross-Disciplinary Prog",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        }
+      },
+      "costype": {
+        "1101_5815": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_5815": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_5815": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "1908531A-F394-46F5-BEAA-8B96AC5F109A": {
       "dep_id": "1908531A-F394-46F5-BEAA-8B96AC5F109A",
       "dep_cname": "說故事與多媒體跨域學程",
@@ -17851,6 +17956,111 @@
       "language": {
         "1101_5792": {
           "授課語言代碼": "en-us"
+        }
+      }
+    },
+    "B5BB6F71-1D6C-4050-BD7B-CA6B0558A7B7": {
+      "dep_id": "B5BB6F71-1D6C-4050-BD7B-CA6B0558A7B7",
+      "dep_cname": "教育研究所",
+      "dep_ename": "Institute of Education",
+      "1": {
+        "1101_5808": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5808",
+          "cos_code": "IED5179",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "科學探究與實作課程設計",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "陳聖昌",
+          "cos_time": "F34-HA218",
+          "memo": "1.本課程為師資生認證國高中自然領域教育專門課程學生使用，不能採計為教育專業學分。2.大學生如欲將此課程列為畢業學分，需自行向各系確認。\r\n",
+          "cos_ename": "Scientific Inquiry and Practice Curriculum Design",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "460",
+          "dep_primary": "1",
+          "dep_cname": "教育研究所",
+          "dep_ename": "Institute of Education",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5815": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5815",
+          "cos_code": "IED5311",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "STEM教學與研究",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "陳聖昌",
+          "cos_time": "T34-HA218",
+          "memo": "",
+          "cos_ename": "The Instruction and Research of STEM",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "460",
+          "dep_primary": "1",
+          "dep_cname": "教育研究所",
+          "dep_ename": "Institute of Education",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "1101_5808": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5815": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_5808": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5815": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_5808": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5815": {
+          "授課語言代碼": "zh-tw"
         }
       }
     },

@@ -2714,8 +2714,8 @@
             "course_category_cname": "通識跨院基本素養_通識跨院",
             "course_category_ename": "General Education Course: Intercollegiate_GECI",
             "course_category_type": "16",
-            "GECIName": "",
-            "GECIEngName": ""
+            "GECIName": "工,客",
+            "GECIEngName": "COE,CHK"
           }
         },
         "1101_1017": {
@@ -2730,8 +2730,8 @@
             "course_category_cname": "通識跨院基本素養_通識跨院",
             "course_category_ename": "General Education Course: Intercollegiate_GECI",
             "course_category_type": "16",
-            "GECIName": "",
-            "GECIEngName": ""
+            "GECIName": "工,客",
+            "GECIEngName": "COE,CHK"
           }
         },
         "1101_1018": {
@@ -2746,8 +2746,8 @@
             "course_category_cname": "通識跨院基本素養_通識跨院",
             "course_category_ename": "General Education Course: Intercollegiate_GECI",
             "course_category_type": "16",
-            "GECIName": "",
-            "GECIEngName": ""
+            "GECIName": "工,客",
+            "GECIEngName": "COE,CHK"
           }
         },
         "1101_1019": {
@@ -4920,6 +4920,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1239": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1239",
+          "cos_code": "DME3207",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "大學部專題 (二)",
+          "cos_credit": "1.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "機械系",
+          "cos_time": "",
+          "memo": "",
+          "cos_ename": "Supervised Independent Study(II)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "611",
+          "dep_primary": "1",
+          "dep_cname": "機械工程學系",
+          "dep_ename": "Department of Mechanical Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1240": {
           "acy": "110",
           "sem": "1",
@@ -4992,6 +5020,34 @@
           "cos_time": "R234-EE231",
           "memo": "",
           "cos_ename": "Unmanned Aerial Vehicles",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "611",
+          "dep_primary": "1",
+          "dep_cname": "機械工程學系",
+          "dep_ename": "Department of Mechanical Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1101_1247": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1247",
+          "cos_code": "DME3513",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "數值控制工具機之程式教學及實作",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "李安謙",
+          "cos_time": "F234-實習工廠",
+          "memo": "",
+          "cos_ename": "CNC Machine Exercising",
           "brief": "",
           "degree": "1",
           "dep_id": "611",
@@ -5124,6 +5180,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1239": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1240": {
           "": {
             "course_category_cname": "",
@@ -5143,6 +5208,15 @@
           }
         },
         "1101_1245": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1247": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -5222,6 +5296,12 @@
             "brief": ""
           }
         },
+        "1101_1239": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1240": {
           "": {
             "brief_code": "",
@@ -5235,6 +5315,12 @@
           }
         },
         "1101_1245": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1247": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -5278,6 +5364,9 @@
         "1101_1237": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_1239": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1240": {
           "授課語言代碼": "zh-tw"
         },
@@ -5285,6 +5374,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1245": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1247": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1252": {
@@ -30829,7 +30921,7 @@
           "cos_cname": "電子學(一)",
           "cos_credit": "3.00",
           "cos_hours": "4.00",
-          "TURL": "",
+          "TURL": "https://amsdft.cn.nctu.edu.tw",
           "teacher": "洪浩喬",
           "cos_time": "M78R34-EE113",
           "memo": "A~F班、醫師工程師組\r\n",
@@ -31326,10 +31418,47 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "U"
+        },
+        "1101_1720": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1720",
+          "cos_code": "UEE2101",
+          "num_limit": "55",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "微分方程",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "王忠炫",
+          "cos_time": "M34W2-ED219",
+          "memo": "",
+          "cos_ename": "Differential Equation",
+          "brief": "",
+          "degree": "A",
+          "dep_id": "5Y1",
+          "dep_primary": "1",
+          "dep_cname": "電機學院與資訊學院共同課程",
+          "dep_ename": "College of Electrical Engineering and Computer Science",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
         }
       },
       "costype": {
         "1101_1717": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1720": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -31345,11 +31474,20 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_1720": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
         "1101_1717": {
           "授課語言代碼": "en-us"
+        },
+        "1101_1720": {
+          "授課語言代碼": "zh-tw"
         }
       }
     },

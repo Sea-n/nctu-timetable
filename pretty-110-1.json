@@ -148,6 +148,34 @@
           "reg_num": "16",
           "depType": "U"
         },
+        "1101_1607": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1607",
+          "cos_code": "DFL2107",
+          "num_limit": "18",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "高級寫作（一）",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "劉啟明",
+          "cos_time": "W234-HC402",
+          "memo": "B組,限外文系",
+          "cos_ename": "Advanced Writing (1)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "450",
+          "dep_primary": "1",
+          "dep_cname": "外國語文學系",
+          "dep_ename": "Department of Foreign Languages and Literatures",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "17",
+          "depType": "U"
+        },
         "1101_1610": {
           "acy": "110",
           "sem": "1",
@@ -457,6 +485,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1607": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1610": {
           "": {
             "course_category_cname": "",
@@ -567,6 +604,12 @@
             "brief": ""
           }
         },
+        "1101_1607": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1610": {
           "": {
             "brief_code": "",
@@ -636,6 +679,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1605": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1607": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1610": {
@@ -3674,6 +3720,34 @@
       "dep_cname": "光電工程學系",
       "dep_ename": "Department  of Photonics",
       "1": {
+        "1101_1094": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1094",
+          "cos_code": "DEO1004",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "光電專題研究(一)",
+          "cos_credit": "1.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "光電系",
+          "cos_time": "S234-CY201",
+          "memo": "",
+          "cos_ename": "Entrance-Level Topics of Photonics (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "514",
+          "dep_primary": "1",
+          "dep_cname": "光電工程學系",
+          "dep_ename": "Department  of Photonics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1095": {
           "acy": "110",
           "sem": "1",
@@ -3698,6 +3772,34 @@
           "dep_ename": "Department  of Photonics",
           "cos_type": "必修",
           "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1101_1100": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1100",
+          "cos_code": "DEO1012",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "光電專題研究(三)",
+          "cos_credit": "1.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "光電系",
+          "cos_time": "S234-CY202",
+          "memo": "",
+          "cos_ename": "Entrance-Level Topics of Photonics(III)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "514",
+          "dep_primary": "1",
+          "dep_cname": "光電工程學系",
+          "dep_ename": "Department  of Photonics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "U"
@@ -3729,9 +3831,74 @@
           "crsoutline_type": "data",
           "reg_num": "36",
           "depType": "U"
+        },
+        "1101_1110": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1110",
+          "cos_code": "DEO1601",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "光電工程專題(一)",
+          "cos_credit": ".00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "光電系",
+          "cos_time": "S567-CY201",
+          "memo": "",
+          "cos_ename": "Special Project of Photonics (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "514",
+          "dep_primary": "1",
+          "dep_cname": "光電工程學系",
+          "dep_ename": "Department  of Photonics",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "36",
+          "depType": "U"
+        },
+        "1101_1114": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1114",
+          "cos_code": "DEO1607",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "光電工程專題(三)",
+          "cos_credit": ".00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "光電系",
+          "cos_time": "S234-CY203",
+          "memo": "",
+          "cos_ename": "Special Project of Photonics (III)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "514",
+          "dep_primary": "1",
+          "dep_cname": "光電工程學系",
+          "dep_ename": "Department  of Photonics",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "32",
+          "depType": "U"
         }
       },
       "costype": {
+        "1101_1094": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1095": {
           "": {
             "course_category_cname": "",
@@ -3741,7 +3908,34 @@
             "GECIEngName": ""
           }
         },
+        "1101_1100": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1105": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1110": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1114": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -3752,13 +3946,37 @@
         }
       },
       "brief": {
+        "1101_1094": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1095": {
           "": {
             "brief_code": "",
             "brief": ""
           }
         },
+        "1101_1100": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1105": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1110": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1114": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -3766,10 +3984,22 @@
         }
       },
       "language": {
+        "1101_1094": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1095": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_1100": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1105": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1110": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1114": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -16611,6 +16841,34 @@
       "dep_cname": "外國語文學系外國文學與語言學碩士班",
       "dep_ename": "Institute of Foreign Literatures and Linguistics",
       "1": {
+        "1101_5783": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5783",
+          "cos_code": "ILC5189",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "句法學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "劉啟明",
+          "cos_time": "T567-F322",
+          "memo": "專選[English Medium Course]",
+          "cos_ename": "Formal Syntax",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "451",
+          "dep_primary": "1",
+          "dep_cname": "外國語文學系外國文學與語言學碩士班",
+          "dep_ename": "Institute of Foreign Literatures and Linguistics",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5787": {
           "acy": "110",
           "sem": "1",
@@ -16641,6 +16899,15 @@
         }
       },
       "costype": {
+        "1101_5783": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5787": {
           "": {
             "course_category_cname": "",
@@ -16652,6 +16919,12 @@
         }
       },
       "brief": {
+        "1101_5783": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5787": {
           "": {
             "brief_code": "",
@@ -16660,6 +16933,9 @@
         }
       },
       "language": {
+        "1101_5783": {
+          "授課語言代碼": "en-us"
+        },
         "1101_5787": {
           "授課語言代碼": "en-us"
         }
@@ -19437,6 +19713,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5105": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5105",
+          "cos_code": "IEO5307",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "專題演講 (碩一、博一)",
+          "cos_credit": ".00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "陳方中",
+          "cos_time": "F56-EO103",
+          "memo": "光電系碩、博必選",
+          "cos_ename": "Colloquium",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "514",
+          "dep_primary": "1",
+          "dep_cname": "光電工程學系",
+          "dep_ename": "Institute of Electro-Optical Engineering",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5114": {
           "acy": "110",
           "sem": "1",
@@ -19476,6 +19780,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5105": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5114": {
           "": {
             "course_category_cname": "",
@@ -19493,6 +19806,12 @@
             "brief": ""
           }
         },
+        "1101_5105": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5114": {
           "": {
             "brief_code": "",
@@ -19503,6 +19822,9 @@
       "language": {
         "1101_5102": {
           "授課語言代碼": "en-us"
+        },
+        "1101_5105": {
+          "授課語言代碼": "zh-tw"
         },
         "1101_5114": {
           "授課語言代碼": "en-us"
@@ -27385,11 +27707,144 @@
         }
       }
     },
+    "571ADF90-0648-4891-87C4-1840CF588EC0": {
+      "dep_id": "571ADF90-0648-4891-87C4-1840CF588EC0",
+      "dep_cname": "工學院碩士在職專班-產安組",
+      "dep_ename": "Degree Program of Industrial Safety and Risk Management",
+      "1": {
+        "1101_5305": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5305",
+          "cos_code": "ISR5110",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "碩士論文研究",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "產安專班",
+          "cos_time": "",
+          "memo": "應已簽指導教授協議書且繳至專班辦公室，才能選修「碩士論文研究」限交大在職專班學生選修",
+          "cos_ename": "Thesis Research",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "606",
+          "dep_primary": "1",
+          "dep_cname": "工學院碩士在職專班-產安組",
+          "dep_ename": "Degree Program of Industrial Safety and Risk Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
+        "1101_5308": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5308",
+          "cos_code": "ISR5315",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "機率、統計與可靠度",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳俊勳、金大仁",
+          "cos_time": "Wabc-EE324",
+          "memo": "限交大在職專班學生選修",
+          "cos_ename": "Probability Statistics and Reliability",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "606",
+          "dep_primary": "1",
+          "dep_cname": "工學院碩士在職專班-產安組",
+          "dep_ename": "Degree Program of Industrial Safety and Risk Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        }
+      },
+      "costype": {
+        "1101_5305": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5308": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_5305": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5308": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_5305": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5308": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "8295113B-FFF7-4AD9-A7CB-2B372A8CB71F": {
       "dep_id": "8295113B-FFF7-4AD9-A7CB-2B372A8CB71F",
       "dep_cname": "工學院碩士在職專班-精密組",
       "dep_ename": "Degree Program of Automation and Precision Engineering",
       "1": {
+        "1101_5309": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5309",
+          "cos_code": "IAP5004",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "碩士論文研究",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "精密專班",
+          "cos_time": "",
+          "memo": "應已簽指導教授協議書且繳至專班辦公室，才能選修「碩士論文研究」限交大在職專班學生選修",
+          "cos_ename": "Thesis Research",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "607",
+          "dep_primary": "1",
+          "dep_cname": "工學院碩士在職專班-精密組",
+          "dep_ename": "Degree Program of Automation and Precision Engineering",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
         "1101_5311": {
           "acy": "110",
           "sem": "1",
@@ -27448,6 +27903,15 @@
         }
       },
       "costype": {
+        "1101_5309": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5311": {
           "": {
             "course_category_cname": "",
@@ -27468,6 +27932,12 @@
         }
       },
       "brief": {
+        "1101_5309": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5311": {
           "": {
             "brief_code": "",
@@ -27482,6 +27952,9 @@
         }
       },
       "language": {
+        "1101_5309": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_5311": {
           "授課語言代碼": "zh-tw"
         },

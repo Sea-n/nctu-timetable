@@ -20263,7 +20263,7 @@
           "cos_id": "5120",
           "cos_code": "IEO5627",
           "num_limit": "50",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "光電子學",
           "cos_credit": "3.00",
@@ -20281,6 +20281,34 @@
           "dep_ename": "Institute of Electro-Optical Engineering",
           "cos_type": "必修",
           "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5122": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5122",
+          "cos_code": "IEO5773",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "加速器光源之應用)(二)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "徐嘉鴻",
+          "cos_time": "R567-同步輻射",
+          "memo": "上課地點：同步輻射中心D251",
+          "cos_ename": "Introduction to Applications of Synchrotron Radiation II",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "514",
+          "dep_primary": "1",
+          "dep_cname": "光電工程學系",
+          "dep_ename": "Institute of Electro-Optical Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
@@ -20331,6 +20359,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_5122": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -20363,6 +20400,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_5122": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -20379,6 +20422,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_5120": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5122": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -28310,6 +28356,34 @@
       "dep_cname": "工學院碩士在職專班-產安組",
       "dep_ename": "Degree Program of Industrial Safety and Risk Management",
       "1": {
+        "1101_5304": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5304",
+          "cos_code": "ISR5103",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "產業衛生特論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "汪禧年、游逸駿、陳志勇",
+          "cos_time": "S567-EE324",
+          "memo": "限交大在職專班學生選修",
+          "cos_ename": "Special Issues on Occupational Health",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "606",
+          "dep_primary": "1",
+          "dep_cname": "工學院碩士在職專班-產安組",
+          "dep_ename": "Degree Program of Industrial Safety and Risk Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
         "1101_5305": {
           "acy": "110",
           "sem": "1",
@@ -28368,6 +28442,15 @@
         }
       },
       "costype": {
+        "1101_5304": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5305": {
           "": {
             "course_category_cname": "",
@@ -28388,6 +28471,12 @@
         }
       },
       "brief": {
+        "1101_5304": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5305": {
           "": {
             "brief_code": "",
@@ -28402,6 +28491,9 @@
         }
       },
       "language": {
+        "1101_5304": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_5305": {
           "授課語言代碼": "zh-tw"
         },

@@ -6477,6 +6477,34 @@
           "reg_num": "53",
           "depType": "U"
         },
+        "1101_1416": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1416",
+          "cos_code": "DAC3309",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "物理化學（三）",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "朱超原",
+          "cos_time": "M34T7-SB202",
+          "memo": "",
+          "cos_ename": "Physical Chemistry (III)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "654",
+          "dep_primary": "1",
+          "dep_cname": "應用化學系",
+          "dep_ename": "Department of Applied Chemistry",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1422": {
           "acy": "110",
           "sem": "1",
@@ -6561,6 +6589,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1416": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1422": {
           "": {
             "course_category_cname": "",
@@ -6608,6 +6645,12 @@
             "brief": ""
           }
         },
+        "1101_1416": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1422": {
           "": {
             "brief_code": "",
@@ -6632,6 +6675,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1409": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1416": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1422": {
@@ -22532,7 +22578,7 @@
           "cos_hours": "3.00",
           "TURL": "https://wlabnctu.wixsite.com/wlabnctu",
           "teacher": "吳添立",
-          "cos_time": "W234-",
+          "cos_time": "W234-EE207",
           "memo": "英語授課[English Medium Course]",
           "cos_ename": "Reliability and Failure Physics of Semiconductor Devices",
           "brief": "",

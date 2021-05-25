@@ -13772,6 +13772,34 @@
           "reg_num": "0",
           "depType": "P"
         },
+        "1101_5129": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5129",
+          "cos_code": "IIE5030",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "超音波導論與應用",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳稷康",
+          "cos_time": "M234-EE118",
+          "memo": "開學後，開放 大四選修 [English Medium Course]",
+          "cos_ename": "Introduction to Ultrasound and its Applications  ",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAN",
+          "dep_primary": "1",
+          "dep_cname": "電機資訊英語授課學分學程",
+          "dep_ename": "Electrical Engineering and Computer Science-International Program",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
         "1101_5135": {
           "acy": "110",
           "sem": "1",
@@ -14184,6 +14212,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5129": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5135": {
           "": {
             "course_category_cname": "",
@@ -14387,6 +14424,12 @@
             "brief": ""
           }
         },
+        "1101_5129": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5135": {
           "": {
             "brief_code": "",
@@ -14498,6 +14541,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_5118": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5129": {
           "授課語言代碼": "en-us"
         },
         "1101_5135": {
@@ -21176,6 +21222,90 @@
       "dep_cname": "生醫工程研究所",
       "dep_ename": "Institute of Biomedical Imaging and Engineering",
       "1": {
+        "1101_5124": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5124",
+          "cos_code": "IIE5001",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "個別研究",
+          "cos_credit": "1.00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "生醫工所",
+          "cos_time": "",
+          "memo": "",
+          "cos_ename": "Independent Study",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "515",
+          "dep_primary": "1",
+          "dep_cname": "生醫工程研究所",
+          "dep_ename": "Institute of Biomedical Imaging and Engineering",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5127": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5127",
+          "cos_code": "IIE5022",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "人體結構、功能、臨床及醫療器材",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "葉伯壽、蔡貴嶔、吳金俊",
+          "cos_time": "F567-EE113",
+          "memo": "",
+          "cos_ename": "Human Function Anatomy and Medical Instrument Application  ",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "515",
+          "dep_primary": "1",
+          "dep_cname": "生醫工程研究所",
+          "dep_ename": "Institute of Biomedical Imaging and Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5129": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5129",
+          "cos_code": "IIE5030",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "超音波導論與應用",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳稷康",
+          "cos_time": "M234-EE118",
+          "memo": "開學後，開放 大四選修 [English Medium Course]",
+          "cos_ename": "Introduction to Ultrasound and its Applications  ",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "515",
+          "dep_primary": "1",
+          "dep_cname": "生醫工程研究所",
+          "dep_ename": "Institute of Biomedical Imaging and Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5133": {
           "acy": "110",
           "sem": "1",
@@ -21206,6 +21336,33 @@
         }
       },
       "costype": {
+        "1101_5124": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5127": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5129": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5133": {
           "": {
             "course_category_cname": "",
@@ -21217,6 +21374,24 @@
         }
       },
       "brief": {
+        "1101_5124": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5127": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5129": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5133": {
           "": {
             "brief_code": "",
@@ -21225,6 +21400,15 @@
         }
       },
       "language": {
+        "1101_5124": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5127": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5129": {
+          "授課語言代碼": "en-us"
+        },
         "1101_5133": {
           "授課語言代碼": "zh-tw"
         }

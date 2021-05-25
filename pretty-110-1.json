@@ -14273,6 +14273,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "P"
+        },
+        "1101_5965": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5965",
+          "cos_code": "ECM5106",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "無線通訊",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "李明峻",
+          "cos_time": "R567-EE102",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Wireless Communications",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAN",
+          "dep_primary": "1",
+          "dep_cname": "電機資訊英語授課學分學程",
+          "dep_ename": "Electrical Engineering and Computer Science-International Program",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
         }
       },
       "costype": {
@@ -14570,6 +14598,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_5965": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -14764,6 +14801,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_5965": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -14861,6 +14904,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_5296": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5965": {
           "授課語言代碼": "en-us"
         }
       }
@@ -20768,6 +20814,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1101_5965": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5965",
+          "cos_code": "ECM5106",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "無線通訊",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "李明峻",
+          "cos_time": "R567-EE102",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Wireless Communications",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "513",
+          "dep_primary": "1",
+          "dep_cname": "電信工程研究所",
+          "dep_ename": "Institute of Communication Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
@@ -20995,6 +21069,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_5965": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -21147,6 +21230,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_5965": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -21223,6 +21312,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_5101": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5965": {
           "授課語言代碼": "en-us"
         }
       }

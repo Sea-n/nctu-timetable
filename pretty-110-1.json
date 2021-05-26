@@ -14763,6 +14763,34 @@
           "reg_num": "0",
           "depType": "P"
         },
+        "1101_5130": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5130",
+          "cos_code": "IIE5039",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "生物微型檢測技術",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://liborran.weebly.com/",
+          "teacher": "李博仁",
+          "cos_time": "T234-EE113",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Biomedical Micro Analysis Systems",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAN",
+          "dep_primary": "1",
+          "dep_cname": "電機資訊英語授課學分學程",
+          "dep_ename": "Electrical Engineering and Computer Science-International Program",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
         "1101_5135": {
           "acy": "110",
           "sem": "1",
@@ -15230,6 +15258,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5130": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5135": {
           "": {
             "course_category_cname": "",
@@ -15460,6 +15497,12 @@
             "brief": ""
           }
         },
+        "1101_5130": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5135": {
           "": {
             "brief_code": "",
@@ -15586,6 +15629,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_5129": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5130": {
           "授課語言代碼": "en-us"
         },
         "1101_5135": {
@@ -22620,6 +22666,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5125": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5125",
+          "cos_code": "IIE5005",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "生醫工程特論",
+          "cos_credit": ".00",
+          "cos_hours": "2.00",
+          "TURL": "http://neural-lab.nctu.edu.tw/",
+          "teacher": "蔡德明、陳冠宇、陳榮治、李博仁",
+          "cos_time": "W56-EE118",
+          "memo": "",
+          "cos_ename": "Special Topics on Biomedical Engineering",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "515",
+          "dep_primary": "1",
+          "dep_cname": "生醫工程研究所",
+          "dep_ename": "Institute of Biomedical Imaging and Engineering",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5127": {
           "acy": "110",
           "sem": "1",
@@ -22676,6 +22750,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5130": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5130",
+          "cos_code": "IIE5039",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "生物微型檢測技術",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://liborran.weebly.com/",
+          "teacher": "李博仁",
+          "cos_time": "T234-EE113",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Biomedical Micro Analysis Systems",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "515",
+          "dep_primary": "1",
+          "dep_cname": "生醫工程研究所",
+          "dep_ename": "Institute of Biomedical Imaging and Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5133": {
           "acy": "110",
           "sem": "1",
@@ -22715,6 +22817,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5125": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5127": {
           "": {
             "course_category_cname": "",
@@ -22725,6 +22836,15 @@
           }
         },
         "1101_5129": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5130": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -22750,6 +22870,12 @@
             "brief": ""
           }
         },
+        "1101_5125": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5127": {
           "": {
             "brief_code": "",
@@ -22757,6 +22883,12 @@
           }
         },
         "1101_5129": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5130": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -22773,10 +22905,16 @@
         "1101_5124": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_5125": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_5127": {
           "授課語言代碼": "zh-tw"
         },
         "1101_5129": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5130": {
           "授課語言代碼": "en-us"
         },
         "1101_5133": {
@@ -26090,7 +26228,7 @@
           "sem": "1",
           "cos_id": "5562",
           "cos_code": "IOF5110",
-          "num_limit": "60",
+          "num_limit": "30",
           "dep_limit": "N",
           "URL": null,
           "cos_cname": "定價模型實證分析",
@@ -26146,7 +26284,7 @@
           "sem": "1",
           "cos_id": "5567",
           "cos_code": "IOF5143",
-          "num_limit": "50",
+          "num_limit": "9999",
           "dep_limit": "N",
           "URL": null,
           "cos_cname": "人工智慧與金融科技實務",
@@ -30312,7 +30450,7 @@
           "sem": "1",
           "cos_id": "4032",
           "cos_code": "IOF5118",
-          "num_limit": "9999",
+          "num_limit": "30",
           "dep_limit": "N",
           "URL": null,
           "cos_cname": "博士班論文研討A",
@@ -30340,7 +30478,7 @@
           "sem": "1",
           "cos_id": "4033",
           "cos_code": "IOF5119",
-          "num_limit": "9999",
+          "num_limit": "30",
           "dep_limit": "N",
           "URL": null,
           "cos_cname": "博士班論文研討B",

@@ -5153,7 +5153,7 @@
           "cos_id": "1236",
           "cos_code": "DME1587",
           "num_limit": "40",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "機械實作(二)",
           "cos_credit": "2.00",
@@ -5181,7 +5181,7 @@
           "cos_id": "1237",
           "cos_code": "DME1587",
           "num_limit": "40",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "機械實作(二)",
           "cos_credit": "2.00",
@@ -5303,6 +5303,34 @@
           "cos_time": "R234-EE231",
           "memo": "",
           "cos_ename": "Unmanned Aerial Vehicles",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "611",
+          "dep_primary": "1",
+          "dep_cname": "機械工程學系",
+          "dep_ename": "Department of Mechanical Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1101_1246": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1246",
+          "cos_code": "DME3513",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "數值控制工具機之程式教學及實作",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "張瑞永",
+          "cos_time": "M234-實習工廠",
+          "memo": "",
+          "cos_ename": "CNC Machine Exercising",
           "brief": "",
           "degree": "1",
           "dep_id": "611",
@@ -5527,6 +5555,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1246": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1247": {
           "": {
             "course_category_cname": "",
@@ -5640,6 +5677,12 @@
             "brief": ""
           }
         },
+        "1101_1246": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1247": {
           "": {
             "brief_code": "",
@@ -5700,6 +5743,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1245": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1246": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1247": {
@@ -18968,6 +19014,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1101_5955": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5955",
+          "cos_code": "ICH5117",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "科技、情感與性別",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "https://dcat.nctu.edu.tw/members/weiping_chen/",
+          "teacher": "陳維平",
+          "cos_time": "F234-HK206",
+          "memo": "",
+          "cos_ename": "Technologies, emotions, and gender",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "483",
+          "dep_primary": "1",
+          "dep_cname": "傳播與科技學系",
+          "dep_ename": "Department of Communication and Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
@@ -18981,6 +19055,15 @@
           }
         },
         "1101_5954": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5955": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -19002,6 +19085,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_5955": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -19010,6 +19099,9 @@
         },
         "1101_5954": {
           "授課語言代碼": "en-us"
+        },
+        "1101_5955": {
+          "授課語言代碼": "zh-tw"
         }
       }
     },

@@ -7493,6 +7493,65 @@
         }
       }
     },
+    "CF366320-3E10-4874-A393-3A028DEC5E79": {
+      "dep_id": "CF366320-3E10-4874-A393-3A028DEC5E79",
+      "dep_cname": "系統工程與科技學士學位學程",
+      "dep_ename": "Undergraduate Degree Program of System Engineering and Technology",
+      "1": {
+        "1101_2729": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "2729",
+          "cos_code": "SET1005",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "普通物理(1)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "杜建明",
+          "cos_time": "R34F1-",
+          "memo": "上課地點：國防大學理工學院",
+          "cos_ename": "General Physics (1) ",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "951",
+          "dep_primary": "1",
+          "dep_cname": "系統工程與科技學士學位學程",
+          "dep_ename": "Undergraduate Degree Program of System Engineering and Technology",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "T"
+        }
+      },
+      "costype": {
+        "1101_2729": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_2729": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_2729": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "F820DFDB-0D95-48BC-B9D9-F7939405AD83": {
       "dep_id": "F820DFDB-0D95-48BC-B9D9-F7939405AD83",
       "dep_cname": "通識教育中心",

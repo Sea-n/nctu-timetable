@@ -21834,6 +21834,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1101_5966": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5966",
+          "cos_code": "ECM5313",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "衛星太空通訊",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.eed.nctu.edu.tw/people/bio.php?PID=10805",
+          "teacher": "李佳翰",
+          "cos_time": "R567-EDB07",
+          "memo": "",
+          "cos_ename": "",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "513",
+          "dep_primary": "1",
+          "dep_cname": "電信工程研究所",
+          "dep_ename": "Institute of Communication Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
@@ -22070,6 +22098,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_5966": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -22228,6 +22265,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_5966": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -22308,6 +22351,9 @@
         },
         "1101_5965": {
           "授課語言代碼": "en-us"
+        },
+        "1101_5966": {
+          "授課語言代碼": "zh-tw"
         }
       }
     },

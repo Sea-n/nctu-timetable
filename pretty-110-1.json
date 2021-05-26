@@ -1181,7 +1181,7 @@
           "cos_id": "1638",
           "cos_code": "DOH1034",
           "num_limit": "0",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "排版印刷",
           "cos_credit": "2.00",
@@ -1209,7 +1209,7 @@
           "cos_id": "1642",
           "cos_code": "DOH1040",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "計算人文與創造力工作坊：師法自然",
           "cos_credit": "3.00",
@@ -1237,7 +1237,7 @@
           "cos_id": "1649",
           "cos_code": "DOH3001",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "器樂進階演奏(一)",
           "cos_credit": "1.00",
@@ -1265,7 +1265,7 @@
           "cos_id": "1650",
           "cos_code": "DOH3002",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "器樂進階演奏(二)",
           "cos_credit": "2.00",
@@ -12524,6 +12524,62 @@
       "dep_cname": "教學發展中心",
       "dep_ename": "Center of Teaching and Learning Development",
       "1": {
+        "1101_1902": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1902",
+          "cos_code": "DOA1033",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "西洋藝術史觀點",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "蕭智尹",
+          "cos_time": "W34n-",
+          "memo": "",
+          "cos_ename": "Perspectives in Western Art History",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OUH",
+          "dep_primary": "1",
+          "dep_cname": "教學發展中心",
+          "dep_ename": "Center of Teaching and Learning Development",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_1903": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1903",
+          "cos_code": "DOA1035",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "英國文化史",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "蕭智尹",
+          "cos_time": "M789-",
+          "memo": "",
+          "cos_ename": "Perspectives in British History and Culture",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OUH",
+          "dep_primary": "1",
+          "dep_cname": "教學發展中心",
+          "dep_ename": "Center of Teaching and Learning Development",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_1909": {
           "acy": "110",
           "sem": "1",
@@ -12554,6 +12610,24 @@
         }
       },
       "costype": {
+        "1101_1902": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1903": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1909": {
           "通識校基本素養_通識校基本": {
             "course_category_cname": "通識校基本素養_通識校基本",
@@ -12565,6 +12639,18 @@
         }
       },
       "brief": {
+        "1101_1902": {
+          "A201,A505": {
+            "brief_code": "A201,A505",
+            "brief": "文化/進階(96),校基本素養(106)"
+          }
+        },
+        "1101_1903": {
+          "A505": {
+            "brief_code": "A505",
+            "brief": "校基本素養(106)"
+          }
+        },
         "1101_1909": {
           "A505": {
             "brief_code": "A505",
@@ -12573,6 +12659,12 @@
         }
       },
       "language": {
+        "1101_1902": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1903": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1909": {
           "授課語言代碼": "zh-tw"
         }
@@ -12633,6 +12725,111 @@
       },
       "language": {
         "1101_1932": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "4F7E4186-F826-47A4-87F9-975C7F604D9A": {
+      "dep_id": "4F7E4186-F826-47A4-87F9-975C7F604D9A",
+      "dep_cname": "創創工坊",
+      "dep_ename": "Innovative Creative Technology",
+      "1": {
+        "1101_1918": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1918",
+          "cos_code": "DOA1021",
+          "num_limit": "16",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "逐格動畫製作",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "詹家維",
+          "cos_time": "F234-EA101",
+          "memo": "",
+          "cos_ename": "Stop Motion Animation",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OUZ",
+          "dep_primary": "1",
+          "dep_cname": "創創工坊",
+          "dep_ename": "Innovative Creative Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_1919": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1919",
+          "cos_code": "DOA1020",
+          "num_limit": "16",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "電影拍攝製作",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "詹家維",
+          "cos_time": "F567-EA101",
+          "memo": "",
+          "cos_ename": "Film Production",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OUZ",
+          "dep_primary": "1",
+          "dep_cname": "創創工坊",
+          "dep_ename": "Innovative Creative Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        }
+      },
+      "costype": {
+        "1101_1918": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1919": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_1918": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1919": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_1918": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1919": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -15238,7 +15435,7 @@
           "cos_id": "1638",
           "cos_code": "DOH1034",
           "num_limit": "0",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "排版印刷",
           "cos_credit": "2.00",
@@ -15266,7 +15463,7 @@
           "cos_id": "1642",
           "cos_code": "DOH1040",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "計算人文與創造力工作坊：師法自然",
           "cos_credit": "3.00",
@@ -16356,7 +16553,7 @@
           "cos_id": "1638",
           "cos_code": "DOH1034",
           "num_limit": "0",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "排版印刷",
           "cos_credit": "2.00",
@@ -16384,7 +16581,7 @@
           "cos_id": "1642",
           "cos_code": "DOH1040",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "計算人文與創造力工作坊：師法自然",
           "cos_credit": "3.00",
@@ -16902,7 +17099,7 @@
           "cos_id": "1649",
           "cos_code": "DOH3001",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "器樂進階演奏(一)",
           "cos_credit": "1.00",
@@ -16930,7 +17127,7 @@
           "cos_id": "1650",
           "cos_code": "DOH3002",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "器樂進階演奏(二)",
           "cos_credit": "2.00",

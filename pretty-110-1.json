@@ -4292,6 +4292,34 @@
       "dep_cname": "資訊工程學系",
       "dep_ename": "Department of Computer Science",
       "1": {
+        "1101_1144": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1144",
+          "cos_code": "DCP1217",
+          "num_limit": "90",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "競技程式設計(二)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://sites.google.com/site/mzshieh/",
+          "teacher": "謝旻錚",
+          "cos_time": "Fabc-EC122",
+          "memo": "外系生請於開學上網加選；資工系與電資學士班學生優先選課",
+          "cos_ename": "Competitive Programming (II)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "550",
+          "dep_primary": "1",
+          "dep_cname": "資訊工程學系",
+          "dep_ename": "Department of Computer Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1145": {
           "acy": "110",
           "sem": "1",
@@ -4336,6 +4364,34 @@
           "cos_time": "F234-EC315",
           "memo": "外系生請於開學上網加選；資工系與電資學士班學生優先選課；上課教室：EC315、EC316 \r\n",
           "cos_ename": "LabVIEW Programming Language",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "550",
+          "dep_primary": "1",
+          "dep_cname": "資訊工程學系",
+          "dep_ename": "Department of Computer Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1101_1147": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1147",
+          "cos_code": "DCP1258",
+          "num_limit": "80",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "競技程式設計(三)(英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://sites.google.com/site/mzshieh/",
+          "teacher": "謝旻錚",
+          "cos_time": "S34n-EC115",
+          "memo": "外系生請於開學上網加選；資工系與電資學士班學生優先選課；英文授課[English Medium Course]",
+          "cos_ename": "Competitive Programming(III)",
           "brief": "",
           "degree": "1",
           "dep_id": "550",
@@ -4420,62 +4476,6 @@
           "cos_time": "Mabc-EC220,F34-EC122",
           "memo": "外系生請於開學上網加選；學士班七大主題學程；資電工程組必修；資工系與電資學士班學生優先選課；Mabc上課教室:EC220+EC221+EC222",
           "cos_ename": "Digital Circuit Lab.",
-          "brief": "",
-          "degree": "1",
-          "dep_id": "550",
-          "dep_primary": "1",
-          "dep_cname": "資訊工程學系",
-          "dep_ename": "Department of Computer Science",
-          "cos_type": "選修",
-          "cos_type_e": "Elective",
-          "crsoutline_type": "data",
-          "reg_num": "0",
-          "depType": "U"
-        },
-        "1101_1157": {
-          "acy": "110",
-          "sem": "1",
-          "cos_id": "1157",
-          "cos_code": "DCP4513",
-          "num_limit": "65",
-          "dep_limit": "*",
-          "URL": null,
-          "cos_cname": "計算機網路概論",
-          "cos_credit": "3.00",
-          "cos_hours": "3.00",
-          "TURL": "http://cs.nctu.edu.tw/~jcc",
-          "teacher": "陳志成",
-          "cos_time": "T56F2-EC122",
-          "memo": "外系生請於開學上網加選；學士班七大主題學程；資訊工程組必修；網路與多媒體工程組的網路領域專業課程必修；資工系與電資學士班學生優先選課",
-          "cos_ename": "Intro. to Computer Networks",
-          "brief": "",
-          "degree": "1",
-          "dep_id": "550",
-          "dep_primary": "1",
-          "dep_cname": "資訊工程學系",
-          "dep_ename": "Department of Computer Science",
-          "cos_type": "選修",
-          "cos_type_e": "Elective",
-          "crsoutline_type": "data",
-          "reg_num": "0",
-          "depType": "U"
-        },
-        "1101_1158": {
-          "acy": "110",
-          "sem": "1",
-          "cos_id": "1158",
-          "cos_code": "DCP4513",
-          "num_limit": "65",
-          "dep_limit": "*",
-          "URL": null,
-          "cos_cname": "計算機網路概論",
-          "cos_credit": "3.00",
-          "cos_hours": "3.00",
-          "TURL": "http://people.cs.nctu.edu.tw/~shieyuan/",
-          "teacher": "王協源",
-          "cos_time": "T56F2-EC015",
-          "memo": "外系生請於開學上網加選；學士班七大主題學程；資訊工程組必修；網路與多媒體工程組的網路領域專業課程必修；資工系與電資學士班學生優先選課",
-          "cos_ename": "Intro. to Computer Networks",
           "brief": "",
           "degree": "1",
           "dep_id": "550",
@@ -4630,6 +4630,15 @@
         }
       },
       "costype": {
+        "1101_1144": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1145": {
           "通識校基本素養_通識校基本": {
             "course_category_cname": "通識校基本素養_通識校基本",
@@ -4655,6 +4664,15 @@
             "GECIEngName": "COE"
           }
         },
+        "1101_1147": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1153": {
           "": {
             "course_category_cname": "",
@@ -4674,24 +4692,6 @@
           }
         },
         "1101_1156": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        },
-        "1101_1157": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        },
-        "1101_1158": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -4747,6 +4747,12 @@
         }
       },
       "brief": {
+        "1101_1144": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1145": {
           "A204,A504,A505": {
             "brief_code": "A204,A504,A505",
@@ -4757,6 +4763,12 @@
           "A205,A504": {
             "brief_code": "A205,A504",
             "brief": "自然/進階(96),跨院基本素養(106)"
+          }
+        },
+        "1101_1147": {
+          "": {
+            "brief_code": "",
+            "brief": ""
           }
         },
         "1101_1153": {
@@ -4772,18 +4784,6 @@
           }
         },
         "1101_1156": {
-          "": {
-            "brief_code": "",
-            "brief": ""
-          }
-        },
-        "1101_1157": {
-          "": {
-            "brief_code": "",
-            "brief": ""
-          }
-        },
-        "1101_1158": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -4821,11 +4821,17 @@
         }
       },
       "language": {
+        "1101_1144": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1145": {
           "授課語言代碼": "en-us"
         },
         "1101_1146": {
           "授課語言代碼": "zh-tw"
+        },
+        "1101_1147": {
+          "授課語言代碼": "en-us"
         },
         "1101_1153": {
           "授課語言代碼": "en-us"
@@ -4834,12 +4840,6 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1156": {
-          "授課語言代碼": "zh-tw"
-        },
-        "1101_1157": {
-          "授課語言代碼": "zh-tw"
-        },
-        "1101_1158": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1163": {
@@ -11922,6 +11922,34 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1101_9909": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "9909",
+          "cos_code": "EDU1201",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "分科教材教法(數學領域/數學)",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "梁志平",
+          "cos_time": "T34-HA217",
+          "memo": "",
+          "cos_ename": "Subject-related Teaching Materials & Methods(Mathematics)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU7",
+          "dep_primary": "1",
+          "dep_cname": "師資培育中心",
+          "dep_ename": "Center for Teacher Education",
+          "cos_type": "教育",
+          "cos_type_e": "Teacher Education",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_9910": {
           "acy": "110",
           "sem": "1",
@@ -12045,6 +12073,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_9909": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_9910": {
           "": {
             "course_category_cname": "",
@@ -12089,6 +12126,12 @@
             "brief": "教育學程(87)"
           }
         },
+        "1101_9909": {
+          "D099": {
+            "brief_code": "D099",
+            "brief": "教育學程(87)"
+          }
+        },
         "1101_9910": {
           "D099": {
             "brief_code": "D099",
@@ -12116,6 +12159,9 @@
       },
       "language": {
         "1101_9904": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_9909": {
           "授課語言代碼": "zh-tw"
         },
         "1101_9910": {
@@ -12347,6 +12393,34 @@
       "dep_cname": "資訊技術服務中心",
       "dep_ename": "Information Technology Service Center",
       "1": {
+        "1101_3003": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "3003",
+          "cos_code": "CCP1054",
+          "num_limit": "65",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "Python 應用概論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://sites.google.com/site/mzshieh/",
+          "teacher": "謝旻錚",
+          "cos_time": "R567-CS",
+          "memo": "",
+          "cos_ename": "Introduction to Python Applications",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OUB",
+          "dep_primary": "1",
+          "dep_cname": "資訊技術服務中心",
+          "dep_ename": "Information Technology Service Center",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_3004": {
           "acy": "110",
           "sem": "1",
@@ -12377,6 +12451,15 @@
         }
       },
       "costype": {
+        "1101_3003": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_3004": {
           "通識校基本素養_通識校基本": {
             "course_category_cname": "通識校基本素養_通識校基本",
@@ -12388,6 +12471,12 @@
         }
       },
       "brief": {
+        "1101_3003": {
+          "A205,A505": {
+            "brief_code": "A205,A505",
+            "brief": "自然/進階(96),校基本素養(106)"
+          }
+        },
         "1101_3004": {
           "A205,A505": {
             "brief_code": "A205,A505",
@@ -12396,6 +12485,9 @@
         }
       },
       "language": {
+        "1101_3003": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_3004": {
           "授課語言代碼": "zh-tw"
         }
@@ -14083,6 +14175,34 @@
           "reg_num": "0",
           "depType": "P"
         },
+        "1101_1147": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1147",
+          "cos_code": "DCP1258",
+          "num_limit": "80",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "競技程式設計(三)(英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://sites.google.com/site/mzshieh/",
+          "teacher": "謝旻錚",
+          "cos_time": "S34n-EC115",
+          "memo": "外系生請於開學上網加選；資工系與電資學士班學生優先選課；英文授課[English Medium Course]",
+          "cos_ename": "Competitive Programming(III)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAN",
+          "dep_primary": "1",
+          "dep_cname": "電機資訊英語授課學分學程",
+          "dep_ename": "Electrical Engineering and Computer Science-International Program",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
         "1101_1153": {
           "acy": "110",
           "sem": "1",
@@ -14921,6 +15041,15 @@
             "GECIEngName": "CCS,COE,COM,CBT"
           }
         },
+        "1101_1147": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1153": {
           "": {
             "course_category_cname": "",
@@ -15205,6 +15334,12 @@
             "brief": "群己/進階(96),跨院基本素養(106),校基本素養(106)"
           }
         },
+        "1101_1147": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1153": {
           "": {
             "brief_code": "",
@@ -15388,6 +15523,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_1145": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_1147": {
           "授課語言代碼": "en-us"
         },
         "1101_1153": {
@@ -22952,6 +23090,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5262": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5262",
+          "cos_code": "IOC5169",
+          "num_limit": "7",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "校務系統開發與管理(一)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cs.nctu.edu.tw/~skhuang/",
+          "teacher": "黃世昆、謝旻錚、鄭昌杰",
+          "cos_time": "T1W56-CS335",
+          "memo": "資訊科學與工程研究所戊組必修",
+          "cos_ename": "Institutional System Development and Management (I)",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "551",
+          "dep_primary": "1",
+          "dep_cname": "資訊科學與工程研究所",
+          "dep_ename": "Institute of Computer Science and Engineering",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5263": {
           "acy": "110",
           "sem": "1",
@@ -23073,6 +23239,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5262": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5263": {
           "": {
             "course_category_cname": "",
@@ -23135,6 +23310,12 @@
             "brief": ""
           }
         },
+        "1101_5262": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5263": {
           "": {
             "brief_code": "",
@@ -23169,6 +23350,9 @@
         },
         "1101_5259": {
           "授課語言代碼": "en-us"
+        },
+        "1101_5262": {
+          "授課語言代碼": "zh-tw"
         },
         "1101_5263": {
           "授課語言代碼": "zh-tw"
@@ -23606,7 +23790,7 @@
           "dep_ename": "International College of Semiconductor Technology",
           "cos_type": "選修",
           "cos_type_e": "Elective",
-          "crsoutline_type": null,
+          "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
         }
@@ -33360,6 +33544,62 @@
       "dep_cname": "資訊學院共同課程",
       "dep_ename": "College of Computer Science",
       "1": {
+        "1101_1157": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1157",
+          "cos_code": "DCP4513",
+          "num_limit": "65",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "計算機網路概論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://cs.nctu.edu.tw/~jcc",
+          "teacher": "陳志成",
+          "cos_time": "T56F2-EC114",
+          "memo": "外系生請於開學上網加選；學士班七大主題學程；資訊工程組必修；網路與多媒體工程組的網路領域專業課程必修；資工系與電資學士班學生優先選課",
+          "cos_ename": "Intro. to Computer Networks",
+          "brief": "",
+          "degree": "A",
+          "dep_id": "5C1",
+          "dep_primary": "1",
+          "dep_cname": "資訊學院共同課程",
+          "dep_ename": "College of Computer Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1101_1158": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1158",
+          "cos_code": "DCP4513",
+          "num_limit": "65",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "計算機網路概論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://people.cs.nctu.edu.tw/~shieyuan/",
+          "teacher": "王協源",
+          "cos_time": "T567-EC015",
+          "memo": "外系生請於開學上網加選；學士班七大主題學程；資訊工程組必修；網路與多媒體工程組的網路領域專業課程必修；資工系與電資學士班學生優先選課",
+          "cos_ename": "Intro. to Computer Networks",
+          "brief": "",
+          "degree": "A",
+          "dep_id": "5C1",
+          "dep_primary": "1",
+          "dep_cname": "資訊學院共同課程",
+          "dep_ename": "College of Computer Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1180": {
           "acy": "110",
           "sem": "1",
@@ -33586,6 +33826,24 @@
         }
       },
       "costype": {
+        "1101_1157": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1158": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1180": {
           "通識跨院基本素養_通識跨院": {
             "course_category_cname": "通識跨院基本素養_通識跨院",
@@ -33660,6 +33918,18 @@
         }
       },
       "brief": {
+        "1101_1157": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1158": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1180": {
           "A205,A504": {
             "brief_code": "A205,A504",
@@ -33710,6 +33980,12 @@
         }
       },
       "language": {
+        "1101_1157": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1158": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1180": {
           "授課語言代碼": "en-us"
         },

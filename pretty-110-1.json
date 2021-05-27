@@ -2867,6 +2867,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1081": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1081",
+          "cos_code": "UEE4203",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "材料科學導論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "https://sites.google.com/view/lighttaiwan",
+          "teacher": "譚至善",
+          "cos_time": "W34F5-ED301",
+          "memo": "",
+          "cos_ename": "Introduction to Materials Science ",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "511",
+          "dep_primary": "1",
+          "dep_cname": "電機工程學系",
+          "dep_ename": "Department of Electrical and Computer Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1085": {
           "acy": "110",
           "sem": "1",
@@ -3461,6 +3489,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1081": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1085": {
           "": {
             "course_category_cname": "",
@@ -3796,6 +3833,12 @@
             "brief": ""
           }
         },
+        "1101_1081": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1085": {
           "": {
             "brief_code": "",
@@ -3968,6 +4011,9 @@
         },
         "1101_1080": {
           "授課語言代碼": "en-us"
+        },
+        "1101_1081": {
+          "授課語言代碼": "zh-tw"
         },
         "1101_1085": {
           "授課語言代碼": "zh-tw"
@@ -4912,7 +4958,7 @@
           "cos_id": "1199",
           "cos_code": "DPN1202",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "化學 (一)",
           "cos_credit": "3.00",
@@ -6421,6 +6467,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "U"
+        },
+        "1101_1387": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1387",
+          "cos_code": "DAM3210",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "機器學習導論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "薛名成、康明軒、林得勝",
+          "cos_time": "M56R2-SA213",
+          "memo": "",
+          "cos_ename": "Introduction to Machine Learning",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "652",
+          "dep_primary": "1",
+          "dep_cname": "應用數學系",
+          "dep_ename": "Department of Applied Mathematics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
         }
       },
       "costype": {
@@ -6450,6 +6524,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_1387": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -6470,6 +6553,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_1387": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -6480,6 +6569,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1384": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1387": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -16879,7 +16971,7 @@
           "cos_id": "1522",
           "cos_code": "DOM1001",
           "num_limit": "88",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "經濟學(一)",
           "cos_credit": "3.00",
@@ -17333,7 +17425,7 @@
           "cos_hours": "3.00",
           "TURL": "http://hs.nctu.edu.tw/Faculty/HCTuan",
           "teacher": "段馨君",
-          "cos_time": "W234-HK120",
+          "cos_time": "M678-HK207",
           "memo": "",
           "cos_ename": "Visual Culture",
           "brief": "",
@@ -17378,13 +17470,6 @@
           }
         },
         "1101_5945": {
-          "核心通識-藝術與文化_核心通識-藝術與文化": {
-            "course_category_cname": "核心通識-藝術與文化_核心通識-藝術與文化",
-            "course_category_ename": "Art and Cultures_Art and Cultures",
-            "course_category_type": "36",
-            "GECIName": "",
-            "GECIEngName": ""
-          },
           "通識校基本素養_通識校基本": {
             "course_category_cname": "通識校基本素養_通識校基本",
             "course_category_ename": "General Education Course: Literacy_GECL",
@@ -17414,9 +17499,9 @@
           }
         },
         "1101_5945": {
-          "A201,A505,A908": {
-            "brief_code": "A201,A505,A908",
-            "brief": "文化/進階(96),校基本素養(106),核心通識-藝術與文化(90)"
+          "A201,A505": {
+            "brief_code": "A201,A505",
+            "brief": "文化/進階(96),校基本素養(106)"
           }
         }
       },
@@ -17835,7 +17920,7 @@
           "cos_id": "1522",
           "cos_code": "DOM1001",
           "num_limit": "88",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "經濟學(一)",
           "cos_credit": "3.00",
@@ -20660,7 +20745,7 @@
           "cos_hours": "3.00",
           "TURL": "http://hs.nctu.edu.tw/Faculty/HCTuan",
           "teacher": "段馨君",
-          "cos_time": "W234-HK120",
+          "cos_time": "M678-HK207",
           "memo": "",
           "cos_ename": "Visual Culture",
           "brief": "",
@@ -20678,13 +20763,6 @@
       },
       "costype": {
         "1101_5945": {
-          "核心通識-藝術與文化_核心通識-藝術與文化": {
-            "course_category_cname": "核心通識-藝術與文化_核心通識-藝術與文化",
-            "course_category_ename": "Art and Cultures_Art and Cultures",
-            "course_category_type": "36",
-            "GECIName": "",
-            "GECIEngName": ""
-          },
           "通識校基本素養_通識校基本": {
             "course_category_cname": "通識校基本素養_通識校基本",
             "course_category_ename": "General Education Course: Literacy_GECL",
@@ -20696,9 +20774,9 @@
       },
       "brief": {
         "1101_5945": {
-          "A201,A505,A908": {
-            "brief_code": "A201,A505,A908",
-            "brief": "文化/進階(96),校基本素養(106),核心通識-藝術與文化(90)"
+          "A201,A505": {
+            "brief_code": "A201,A505",
+            "brief": "文化/進階(96),校基本素養(106)"
           }
         }
       },
@@ -36356,7 +36434,7 @@
           "cos_id": "1522",
           "cos_code": "DOM1001",
           "num_limit": "88",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "經濟學(一)",
           "cos_credit": "3.00",
@@ -36384,7 +36462,7 @@
           "cos_id": "1531",
           "cos_code": "DOM1034",
           "num_limit": "55",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "程式設計",
           "cos_credit": "3.00",

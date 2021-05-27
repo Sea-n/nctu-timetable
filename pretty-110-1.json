@@ -6255,7 +6255,7 @@
           "sem": "1",
           "cos_id": "1373",
           "cos_code": "DAM1313",
-          "num_limit": "9999",
+          "num_limit": "65",
           "dep_limit": "*",
           "URL": null,
           "cos_cname": "計算機概論（一）",
@@ -6311,7 +6311,7 @@
           "sem": "1",
           "cos_id": "1384",
           "cos_code": "DAM2103",
-          "num_limit": "9999",
+          "num_limit": "65",
           "dep_limit": "*",
           "URL": null,
           "cos_cname": "分析導論(一)",
@@ -24040,6 +24040,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5225": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5225",
+          "cos_code": "CST5056",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "先進化合物半導體及其應用",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "潘康瑞Krishna Pande",
+          "cos_time": "F567-ES601",
+          "memo": "英語授課[English Medium Course]",
+          "cos_ename": "Advanced Compound Semiconductors and Their Applications",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "591",
+          "dep_primary": "1",
+          "dep_cname": "國際半導體產業學院碩士班",
+          "dep_ename": "International College of Semiconductor Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5227": {
           "acy": "110",
           "sem": "1",
@@ -24116,6 +24144,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5225": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5227": {
           "": {
             "course_category_cname": "",
@@ -24148,6 +24185,12 @@
             "brief": ""
           }
         },
+        "1101_5225": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5227": {
           "": {
             "brief_code": "",
@@ -24166,6 +24209,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_5219": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5225": {
           "授課語言代碼": "en-us"
         },
         "1101_5227": {

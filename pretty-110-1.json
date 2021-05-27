@@ -35453,6 +35453,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1185": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1185",
+          "cos_code": "DCP3108",
+          "num_limit": "65",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "作業系統概論(英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "林盈達",
+          "cos_time": "W34F7-EC114",
+          "memo": "外系生請於開學上網加選；資工系與電資學士班學生優先選課；資訊共同；英文授課[English Medium Course]",
+          "cos_ename": "Introduction to Operating Systems",
+          "brief": "",
+          "degree": "A",
+          "dep_id": "5C1",
+          "dep_primary": "1",
+          "dep_cname": "資訊學院共同課程",
+          "dep_ename": "College of Computer Science",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1187": {
           "acy": "110",
           "sem": "1",
@@ -35621,6 +35649,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1185": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1187": {
           "通識跨院基本素養_通識跨院": {
             "course_category_cname": "通識跨院基本素養_通識跨院",
@@ -35695,6 +35732,12 @@
             "brief": ""
           }
         },
+        "1101_1185": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1187": {
           "A205,A504": {
             "brief_code": "A205,A504",
@@ -35738,6 +35781,9 @@
         },
         "1101_1184": {
           "授課語言代碼": "zh-tw"
+        },
+        "1101_1185": {
+          "授課語言代碼": "en-us"
         },
         "1101_1187": {
           "授課語言代碼": "zh-tw"

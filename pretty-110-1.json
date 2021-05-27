@@ -2709,34 +2709,6 @@
           "reg_num": "0",
           "depType": "U"
         },
-        "1101_1076": {
-          "acy": "110",
-          "sem": "1",
-          "cos_id": "1076",
-          "cos_code": "UEE3804",
-          "num_limit": "9999",
-          "dep_limit": "*",
-          "URL": null,
-          "cos_cname": "電力工程導論",
-          "cos_credit": "3.00",
-          "cos_hours": "3.00",
-          "TURL": "",
-          "teacher": "黃韻華",
-          "cos_time": "Mabc-EE102",
-          "memo": "",
-          "cos_ename": "Introduction to Electrical Power Engineering",
-          "brief": "",
-          "degree": "1",
-          "dep_id": "511",
-          "dep_primary": "1",
-          "dep_cname": "電機工程學系",
-          "dep_ename": "Department of Electrical and Computer Engineering",
-          "cos_type": "選修",
-          "cos_type_e": "Elective",
-          "crsoutline_type": "data",
-          "reg_num": "0",
-          "depType": "U"
-        },
         "1101_1077": {
           "acy": "110",
           "sem": "1",
@@ -3407,15 +3379,6 @@
             "GECIEngName": ""
           }
         },
-        "1101_1076": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        },
         "1101_1077": {
           "通識跨院基本素養_通識跨院": {
             "course_category_cname": "通識跨院基本素養_通識跨院",
@@ -3763,12 +3726,6 @@
             "brief": ""
           }
         },
-        "1101_1076": {
-          "": {
-            "brief_code": "",
-            "brief": ""
-          }
-        },
         "1101_1077": {
           "A205,A504": {
             "brief_code": "A205,A504",
@@ -3952,9 +3909,6 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1075": {
-          "授課語言代碼": "zh-tw"
-        },
-        "1101_1076": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1077": {
@@ -32529,6 +32483,308 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_5312": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "8FC7C3E2-F857-431A-9716-DC9C05C4AA64": {
+      "dep_id": "8FC7C3E2-F857-431A-9716-DC9C05C4AA64",
+      "dep_cname": "工學院碩士在職專班-工程管理組",
+      "dep_ename": "Degree Program of Construction Technology and Management",
+      "1": {
+        "1101_5314": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5314",
+          "cos_code": "IMI5201",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "碩士論文研究",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "工程專",
+          "cos_time": "",
+          "memo": "「碩士論文研究」限有簽指導教授協議書且繳至專班辦公室才能選修；限交大在職專班學生選修",
+          "cos_ename": "Thesis Research",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "608",
+          "dep_primary": "1",
+          "dep_cname": "工學院碩士在職專班-工程管理組",
+          "dep_ename": "Degree Program of Construction Technology and Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
+        "1101_5315": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5315",
+          "cos_code": "IMI5346",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "工程財務管理",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "曾惠斌",
+          "cos_time": "Fabc-EB227",
+          "memo": "限交大在職專班學生選修",
+          "cos_ename": "Financial Application in Engineering Project",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "608",
+          "dep_primary": "1",
+          "dep_cname": "工學院碩士在職專班-工程管理組",
+          "dep_ename": "Degree Program of Construction Technology and Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
+        "1101_5316": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5316",
+          "cos_code": "IMI5349",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "災害管理與防災科技",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "單信瑜",
+          "cos_time": "S567-EB227",
+          "memo": "限交大在職專班學生選修",
+          "cos_ename": "Emergency Management and Hazard Mitigation Technology\t",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "608",
+          "dep_primary": "1",
+          "dep_cname": "工學院碩士在職專班-工程管理組",
+          "dep_ename": "Degree Program of Construction Technology and Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
+        "1101_5317": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5317",
+          "cos_code": "IMI5354",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "BIM與專題討論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "工程專",
+          "cos_time": "S234-EB227",
+          "memo": "限交大在職專班學生選修",
+          "cos_ename": "Building Information Modeling (BIM) and Seminar",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "608",
+          "dep_primary": "1",
+          "dep_cname": "工學院碩士在職專班-工程管理組",
+          "dep_ename": "Degree Program of Construction Technology and Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        }
+      },
+      "costype": {
+        "1101_5314": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5315": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5316": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5317": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_5314": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5315": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5316": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5317": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_5314": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5315": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5316": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5317": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "9FA73A9C-3D78-4A4F-98B0-D32BBA16F024": {
+      "dep_id": "9FA73A9C-3D78-4A4F-98B0-D32BBA16F024",
+      "dep_cname": "工學院碩士在職專班-半導體組",
+      "dep_ename": "Degree Program of Semiconductor Material and Processing Equipment",
+      "1": {
+        "1101_5318": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5318",
+          "cos_code": "ISE5001",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "碩士論文研究",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "半導體專班",
+          "cos_time": "",
+          "memo": "「碩士論文研究」限制有簽指導教授協議書且繳至專班辦公室才能選修；限交大在職專班學生選修",
+          "cos_ename": "Thesis Research",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "609",
+          "dep_primary": "1",
+          "dep_cname": "工學院碩士在職專班-半導體組",
+          "dep_ename": "Degree Program of Semiconductor Material and Processing Equipment",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
+        "1101_5322": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5322",
+          "cos_code": "ISE5213",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "半導體製程設備概論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "游欽宏",
+          "cos_time": "Fabc-EE324",
+          "memo": "限交大在職專班學生選修",
+          "cos_ename": "Introduction to Semiconductor Equipment ",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "609",
+          "dep_primary": "1",
+          "dep_cname": "工學院碩士在職專班-半導體組",
+          "dep_ename": "Degree Program of Semiconductor Material and Processing Equipment",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        }
+      },
+      "costype": {
+        "1101_5318": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5322": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_5318": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5322": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_5318": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5322": {
           "授課語言代碼": "zh-tw"
         }
       }

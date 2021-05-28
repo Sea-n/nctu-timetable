@@ -1,5 +1,64 @@
 [
   {
+    "E2D47D2E-B529-4449-8619-8561D3401D32": {
+      "dep_id": "E2D47D2E-B529-4449-8619-8561D3401D32",
+      "dep_cname": "資訊工程學系",
+      "dep_ename": "Department of Computer Science",
+      "1": {
+        "109X_1015": {
+          "acy": "109",
+          "sem": "X",
+          "cos_id": "1015",
+          "cos_code": "DCP1242",
+          "num_limit": "70",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "資料結構與物件導向程式設計",
+          "cos_credit": "3.00",
+          "cos_hours": "5.00",
+          "TURL": "",
+          "teacher": "黃世強",
+          "cos_time": "T234W234R234-EC122",
+          "memo": "日期:7月13日-8月18日,T234W234R234(EC122)T789W789R789(EC315,EC316),8月24日T34(EC122)T789(EC315,EC316)",
+          "cos_ename": "Data Structures and Object-oriented Programming",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "550",
+          "dep_primary": "1",
+          "dep_cname": "資訊工程學系",
+          "dep_ename": "Department of Computer Science",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        }
+      },
+      "costype": {
+        "109X_1015": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "109X_1015": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "109X_1015": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "FBD12D47-AE15-4D1E-AA2E-1398CCCADD45": {
       "dep_id": "FBD12D47-AE15-4D1E-AA2E-1398CCCADD45",
       "dep_cname": "應用化學系",

@@ -5,6 +5,34 @@
       "dep_cname": "應用化學系",
       "dep_ename": "Department of Applied Chemistry",
       "1": {
+        "109X_1005": {
+          "acy": "109",
+          "sem": "X",
+          "cos_id": "1005",
+          "cos_code": "DAC1205",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "化學(一)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://web.it.nctu.edu.tw/~twli/",
+          "teacher": "李大偉",
+          "cos_time": "",
+          "memo": "時間:7/5第一週面授時間2小時(下午1:20-3:20資訊服務中心PC4),8/2期中考及8/30期末考2小時(下午1:20-3:20,SC159)網路課程",
+          "cos_ename": "Chemistry (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "654",
+          "dep_primary": "1",
+          "dep_cname": "應用化學系",
+          "dep_ename": "Department of Applied Chemistry",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "109X_1041": {
           "acy": "109",
           "sem": "X",
@@ -35,6 +63,15 @@
         }
       },
       "costype": {
+        "109X_1005": {
+          "網路課程_網路": {
+            "course_category_cname": "網路課程_網路",
+            "course_category_ename": "Network Courses_NET",
+            "course_category_type": "5",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "109X_1041": {
           "": {
             "course_category_cname": "",
@@ -46,6 +83,12 @@
         }
       },
       "brief": {
+        "109X_1005": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "109X_1041": {
           "": {
             "brief_code": "",
@@ -54,6 +97,9 @@
         }
       },
       "language": {
+        "109X_1005": {
+          "授課語言代碼": "zh-tw"
+        },
         "109X_1041": {
           "授課語言代碼": "zh-tw"
         }
@@ -282,6 +328,65 @@
         }
       }
     },
+    "DA5BA833-FBD2-4842-8445-5DA53A84F2C5": {
+      "dep_id": "DA5BA833-FBD2-4842-8445-5DA53A84F2C5",
+      "dep_cname": "統計學研究所",
+      "dep_ename": "Institute of Statistics",
+      "1": {
+        "109X_5004": {
+          "acy": "109",
+          "sem": "X",
+          "cos_id": "5004",
+          "cos_code": "IST5552",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "統計計算語言",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.stat.nctu.edu.tw/people/bio.php?PID=12",
+          "teacher": "洪慧念",
+          "cos_time": "M567T567W567-CS105",
+          "memo": "日期:7月19日- 8月25日",
+          "cos_ename": "Statistical Computing Software",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "657",
+          "dep_primary": "1",
+          "dep_cname": "統計學研究所",
+          "dep_ename": "Institute of Statistics",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "109X_5004": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "109X_5004": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "109X_5004": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "2842CA5A-8AA1-42DC-BBE5-4293B8F327D1": {
       "dep_id": "2842CA5A-8AA1-42DC-BBE5-4293B8F327D1",
       "dep_cname": "管理學院碩士在職專班-財金組",
@@ -442,6 +547,118 @@
           "授課語言代碼": "zh-tw"
         },
         "109X_5031": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "E2EF737A-BF42-408A-A2B3-59533017F7C2": {
+      "dep_id": "E2EF737A-BF42-408A-A2B3-59533017F7C2",
+      "dep_cname": "科技法律研究所碩士在職專班",
+      "dep_ename": "Degree Program of Technology Law",
+      "1": {
+        "109X_5036": {
+          "acy": "109",
+          "sem": "X",
+          "cos_id": "5036",
+          "cos_code": "ITL5309",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "民法總則",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "江浣翠",
+          "cos_time": "Tabc-MB1069,Fabc-BM1069,S567-MB1069",
+          "memo": "日期:7月7日-9月4日",
+          "cos_ename": "Civil Law: General Principles",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "730",
+          "dep_primary": "1",
+          "dep_cname": "科技法律研究所碩士在職專班",
+          "dep_ename": "Degree Program of Technology Law",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
+        "109X_5037": {
+          "acy": "109",
+          "sem": "X",
+          "cos_id": "5037",
+          "cos_code": "ITL5314",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "刑法總則",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "邱忠義",
+          "cos_time": "MabcS234-MB1069",
+          "memo": "日期:7月5日-9月4日,教室:台北校區第五教室、新竹管理二館MB1069",
+          "cos_ename": "Criminal Law: General Principles",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "730",
+          "dep_primary": "1",
+          "dep_cname": "科技法律研究所碩士在職專班",
+          "dep_ename": "Degree Program of Technology Law",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        }
+      },
+      "costype": {
+        "109X_5036": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "工,理,生,人,客",
+            "GECIEngName": "COE,COS,CBT,CHS,CHK"
+          },
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "工,理,生,人,客",
+            "GECIEngName": "COE,COS,CBT,CHS,CHK"
+          }
+        },
+        "109X_5037": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "109X_5036": {
+          "A203,A504,A505": {
+            "brief_code": "A203,A504,A505",
+            "brief": "公民/進階(96),跨院基本素養(106),校基本素養(106)"
+          }
+        },
+        "109X_5037": {
+          "A201,A505": {
+            "brief_code": "A201,A505",
+            "brief": "文化/進階(96),校基本素養(106)"
+          }
+        }
+      },
+      "language": {
+        "109X_5036": {
+          "授課語言代碼": "zh-tw"
+        },
+        "109X_5037": {
           "授課語言代碼": "zh-tw"
         }
       }

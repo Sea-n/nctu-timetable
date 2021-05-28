@@ -34590,6 +34590,62 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "J"
+        },
+        "1101_5669": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5669",
+          "cos_code": "IOF5150",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "看財報挑好股:電子商務產業與個股分析",
+          "cos_credit": "1.00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "林瑞嘉",
+          "cos_time": "S8-M-b09",
+          "memo": "限本校在職專班學生選修；依資財系網站https://imf.nctu.edu.tw /公告之課程時間表上課",
+          "cos_ename": "Evaluate stock investments by using financial statement analysis:E-commerce industry",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "717",
+          "dep_primary": "1",
+          "dep_cname": "管理學院碩士在職專班-財金組",
+          "dep_ename": "Degree Program of Financ",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
+        "1101_5670": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5670",
+          "cos_code": "IOF5151",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "看財報挑好股:零售產業與個股分析",
+          "cos_credit": "1.00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "林瑞嘉",
+          "cos_time": "S9-M-b09",
+          "memo": "限本校在職專班學生選修；依資財系網站https://imf.nctu.edu.tw/公告之課程時間表上課",
+          "cos_ename": "Evaluate stock investments by using financial statement analysis:Retailing industry",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "717",
+          "dep_primary": "1",
+          "dep_cname": "管理學院碩士在職專班-財金組",
+          "dep_ename": "Degree Program of Financ",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
         }
       },
       "costype": {
@@ -34603,6 +34659,24 @@
           }
         },
         "1101_5667": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5669": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5670": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -34624,6 +34698,18 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_5669": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5670": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -34631,6 +34717,12 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_5667": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5669": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5670": {
           "授課語言代碼": "zh-tw"
         }
       }

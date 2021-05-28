@@ -1,5 +1,169 @@
 [
   {
+    "FBD12D47-AE15-4D1E-AA2E-1398CCCADD45": {
+      "dep_id": "FBD12D47-AE15-4D1E-AA2E-1398CCCADD45",
+      "dep_cname": "應用化學系",
+      "dep_ename": "Department of Applied Chemistry",
+      "1": {
+        "109X_1041": {
+          "acy": "109",
+          "sem": "X",
+          "cos_id": "1041",
+          "cos_code": "DAC3201",
+          "num_limit": "0",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "專題研究(一)",
+          "cos_credit": "1.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.ac.nctu.edu.tw/zh_tw/member/-%E5%90%B3%E6%B7%91%E8%A4%93-27397960",
+          "teacher": "吳淑褓",
+          "cos_time": "",
+          "memo": "日期:7月5日-8月27日,請於7月1日前向系辦登記.",
+          "cos_ename": "Research (1)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "654",
+          "dep_primary": "1",
+          "dep_cname": "應用化學系",
+          "dep_ename": "Department of Applied Chemistry",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        }
+      },
+      "costype": {
+        "109X_1041": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "109X_1041": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "109X_1041": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "49552B82-2C24-4355-AA37-2E503351C46B": {
+      "dep_id": "49552B82-2C24-4355-AA37-2E503351C46B",
+      "dep_cname": "微積分教學小組",
+      "dep_ename": "Calculus section",
+      "1": {
+        "109X_1001": {
+          "acy": "109",
+          "sem": "X",
+          "cos_id": "1001",
+          "cos_code": "DAM1367",
+          "num_limit": "90",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "微積分甲（一）",
+          "cos_credit": "4.00",
+          "cos_hours": "4.00",
+          "TURL": "http://jupiter.math.nctu.edu.tw/~smchang/",
+          "teacher": "張書銘",
+          "cos_time": "M234T234W234R234-SA321",
+          "memo": "日期:7月5日-8月13日",
+          "cos_ename": "Calculus (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OUE",
+          "dep_primary": "1",
+          "dep_cname": "微積分教學小組",
+          "dep_ename": "Calculus section",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "109X_1002": {
+          "acy": "109",
+          "sem": "X",
+          "cos_id": "1002",
+          "cos_code": "DAM1368",
+          "num_limit": "90",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "微積分甲（二）",
+          "cos_credit": "4.00",
+          "cos_hours": "4.00",
+          "TURL": "http://jupiter.math.nctu.edu.tw/~smchang/",
+          "teacher": "張書銘",
+          "cos_time": "M567T567W567R567-SA321",
+          "memo": "日期:7月5日-8月13日",
+          "cos_ename": "Calculus (II)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OUE",
+          "dep_primary": "1",
+          "dep_cname": "微積分教學小組",
+          "dep_ename": "Calculus section",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        }
+      },
+      "costype": {
+        "109X_1001": {
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "客",
+            "GECIEngName": "CHK"
+          }
+        },
+        "109X_1002": {
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "客",
+            "GECIEngName": "CHK"
+          }
+        }
+      },
+      "brief": {
+        "109X_1001": {
+          "A205,A504": {
+            "brief_code": "A205,A504",
+            "brief": "自然/進階(96),跨院基本素養(106)"
+          }
+        },
+        "109X_1002": {
+          "A205,A504": {
+            "brief_code": "A205,A504",
+            "brief": "自然/進階(96),跨院基本素養(106)"
+          }
+        }
+      },
+      "language": {
+        "109X_1001": {
+          "授課語言代碼": "zh-tw"
+        },
+        "109X_1002": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "B2C67A04-C925-4785-B8AC-3FAEEF0A458F": {
       "dep_id": "B2C67A04-C925-4785-B8AC-3FAEEF0A458F",
       "dep_cname": "光電工程學系",
@@ -55,6 +219,124 @@
       },
       "language": {
         "109X_5002": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "8F93E581-C5C5-4D6A-9608-3AE0220B377B": {
+      "dep_id": "8F93E581-C5C5-4D6A-9608-3AE0220B377B",
+      "dep_cname": "應用化學系",
+      "dep_ename": "Institute of Applied Chemistry",
+      "1": {
+        "109X_5010": {
+          "acy": "109",
+          "sem": "X",
+          "cos_id": "5010",
+          "cos_code": "IAC5419",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "論文研究",
+          "cos_credit": "1.00",
+          "cos_hours": "2.00",
+          "TURL": "http://www.ac.nctu.edu.tw/zh_tw/member/-%E5%90%B3%E6%B7%91%E8%A4%93-27397960",
+          "teacher": "吳淑褓",
+          "cos_time": "",
+          "memo": "日期:7月5日- 8月13日",
+          "cos_ename": "Thesis Research",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "654",
+          "dep_primary": "1",
+          "dep_cname": "應用化學系",
+          "dep_ename": "Institute of Applied Chemistry",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "109X_5010": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "109X_5010": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "109X_5010": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "2842CA5A-8AA1-42DC-BBE5-4293B8F327D1": {
+      "dep_id": "2842CA5A-8AA1-42DC-BBE5-4293B8F327D1",
+      "dep_cname": "管理學院碩士在職專班-財金組",
+      "dep_ename": "Degree Program of Financ",
+      "1": {
+        "109X_5027": {
+          "acy": "109",
+          "sem": "X",
+          "cos_id": "5027",
+          "cos_code": "IOF5064",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "經濟學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cc.nctu.edu.tw/~hhhuang",
+          "teacher": "黃星華",
+          "cos_time": "U234567-M101",
+          "memo": "日期:7月4日-8月29日,限本校在職專班學生選修；依資財系網站https://imf.nctu.edu.tw公告之課程時間表上課。",
+          "cos_ename": "Economics",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "717",
+          "dep_primary": "1",
+          "dep_cname": "管理學院碩士在職專班-財金組",
+          "dep_ename": "Degree Program of Financ",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        }
+      },
+      "costype": {
+        "109X_5027": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "109X_5027": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "109X_5027": {
           "授課語言代碼": "zh-tw"
         }
       }

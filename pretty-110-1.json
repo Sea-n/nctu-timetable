@@ -767,6 +767,34 @@
       "dep_cname": "人文社會學系",
       "dep_ename": "Department of Humanities and Social Sciences",
       "1": {
+        "1101_1671": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1671",
+          "cos_code": "DHS2021",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "人文經典閱讀(一)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "劉大和",
+          "cos_time": "F234-HKB09",
+          "memo": "",
+          "cos_ename": "Reading Classics of Humanities(I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "481",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學系",
+          "dep_ename": "Department of Humanities and Social Sciences",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1673": {
           "acy": "110",
           "sem": "1",
@@ -811,6 +839,62 @@
           "cos_time": "M234-HK105",
           "memo": "",
           "cos_ename": "Hakka Literature",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "481",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學系",
+          "dep_ename": "Department of Humanities and Social Sciences",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1101_1680": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1680",
+          "cos_code": "DHS3109",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "文化產業作品賞析",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "劉大和",
+          "cos_time": "M234-HK114",
+          "memo": "",
+          "cos_ename": "Appreciation of product of Cultural Industries",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "481",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學系",
+          "dep_ename": "Department of Humanities and Social Sciences",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1101_1681": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1681",
+          "cos_code": "DHS3120",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "實習",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "劉大和",
+          "cos_time": "S234-",
+          "memo": "",
+          "cos_ename": "Practical Training",
           "brief": "",
           "degree": "1",
           "dep_id": "481",
@@ -909,6 +993,15 @@
         }
       },
       "costype": {
+        "1101_1671": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1673": {
           "核心通識-社會與經濟_核心通識-社會與經濟": {
             "course_category_cname": "核心通識-社會與經濟_核心通識-社會與經濟",
@@ -955,6 +1048,31 @@
             "GECIEngName": ""
           }
         },
+        "1101_1680": {
+          "博雅選修通識_博雅選修通識": {
+            "course_category_cname": "博雅選修通識_博雅選修通識",
+            "course_category_ename": "Optional Liberal Education_Optional Liberal Education",
+            "course_category_type": "37",
+            "GECIName": "",
+            "GECIEngName": ""
+          },
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1681": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1684": {
           "": {
             "course_category_cname": "",
@@ -984,6 +1102,12 @@
         }
       },
       "brief": {
+        "1101_1671": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1673": {
           "A204,A504,A505,A905": {
             "brief_code": "A204,A504,A505,A905",
@@ -994,6 +1118,18 @@
           "A201,A505,A904": {
             "brief_code": "A201,A505,A904",
             "brief": "文化/進階(96),校基本素養(106),核心通識-歷史與文明(90)"
+          }
+        },
+        "1101_1680": {
+          "A201,A505,A909": {
+            "brief_code": "A201,A505,A909",
+            "brief": "文化/進階(96),校基本素養(106),博雅選修通識 (90)"
+          }
+        },
+        "1101_1681": {
+          "": {
+            "brief_code": "",
+            "brief": ""
           }
         },
         "1101_1684": {
@@ -1016,10 +1152,19 @@
         }
       },
       "language": {
+        "1101_1671": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1673": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1677": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1680": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1681": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1684": {
@@ -6823,6 +6968,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1421": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1421",
+          "cos_code": "DAC3202",
+          "num_limit": "0",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "專題研究(二)",
+          "cos_credit": "1.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.ac.nctu.edu.tw/zh_tw/member/-%E5%90%B3%E6%B7%91%E8%A4%93-27397960",
+          "teacher": "吳淑褓",
+          "cos_time": "S234-",
+          "memo": "",
+          "cos_ename": "Research (2)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "654",
+          "dep_primary": "1",
+          "dep_cname": "應用化學系",
+          "dep_ename": "Department of Applied Chemistry",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1422": {
           "acy": "110",
           "sem": "1",
@@ -6916,6 +7089,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1421": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1422": {
           "": {
             "course_category_cname": "",
@@ -6969,6 +7151,12 @@
             "brief": ""
           }
         },
+        "1101_1421": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1422": {
           "": {
             "brief_code": "",
@@ -6996,6 +7184,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1416": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1421": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1422": {
@@ -17374,6 +17565,62 @@
       "dep_cname": "人社系:文化產業學分學程",
       "dep_ename": "Program of Cultural Industries",
       "1": {
+        "1101_1680": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1680",
+          "cos_code": "DHS3109",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "文化產業作品賞析",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "劉大和",
+          "cos_time": "M234-HK114",
+          "memo": "",
+          "cos_ename": "Appreciation of product of Cultural Industries",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PFR",
+          "dep_primary": "1",
+          "dep_cname": "人社系:文化產業學分學程",
+          "dep_ename": "Program of Cultural Industries",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
+        "1101_1681": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1681",
+          "cos_code": "DHS3120",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "實習",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "劉大和",
+          "cos_time": "S234-",
+          "memo": "",
+          "cos_ename": "Practical Training",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PFR",
+          "dep_primary": "1",
+          "dep_cname": "人社系:文化產業學分學程",
+          "dep_ename": "Program of Cultural Industries",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
         "1101_1684": {
           "acy": "110",
           "sem": "1",
@@ -17488,6 +17735,31 @@
         }
       },
       "costype": {
+        "1101_1680": {
+          "博雅選修通識_博雅選修通識": {
+            "course_category_cname": "博雅選修通識_博雅選修通識",
+            "course_category_ename": "Optional Liberal Education_Optional Liberal Education",
+            "course_category_type": "37",
+            "GECIName": "",
+            "GECIEngName": ""
+          },
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1681": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1684": {
           "": {
             "course_category_cname": "",
@@ -17526,6 +17798,18 @@
         }
       },
       "brief": {
+        "1101_1680": {
+          "A201,A505,A909": {
+            "brief_code": "A201,A505,A909",
+            "brief": "文化/進階(96),校基本素養(106),博雅選修通識 (90)"
+          }
+        },
+        "1101_1681": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1684": {
           "": {
             "brief_code": "",
@@ -17552,6 +17836,12 @@
         }
       },
       "language": {
+        "1101_1680": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1681": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1684": {
           "授課語言代碼": "zh-tw"
         },
@@ -26046,6 +26336,34 @@
       "dep_cname": "應用化學系",
       "dep_ename": "Institute of Applied Chemistry",
       "1": {
+        "1101_5435": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5435",
+          "cos_code": "IAC5419",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "論文研究",
+          "cos_credit": "1.00",
+          "cos_hours": "2.00",
+          "TURL": "http://www.ac.nctu.edu.tw/zh_tw/member/-%E5%90%B3%E6%B7%91%E8%A4%93-27397960",
+          "teacher": "吳淑褓",
+          "cos_time": "",
+          "memo": "高分子、有機、無機、物化、分析、生化等領域請選本組",
+          "cos_ename": "Thesis Research",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "654",
+          "dep_primary": "1",
+          "dep_cname": "應用化學系",
+          "dep_ename": "Institute of Applied Chemistry",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5438": {
           "acy": "110",
           "sem": "1",
@@ -26104,6 +26422,15 @@
         }
       },
       "costype": {
+        "1101_5435": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5438": {
           "": {
             "course_category_cname": "",
@@ -26124,6 +26451,12 @@
         }
       },
       "brief": {
+        "1101_5435": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5438": {
           "": {
             "brief_code": "",
@@ -26138,6 +26471,9 @@
         }
       },
       "language": {
+        "1101_5435": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_5438": {
           "授課語言代碼": "zh-tw"
         },

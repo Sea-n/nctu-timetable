@@ -1239,6 +1239,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1696": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1696",
+          "cos_code": "DCT1045",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "影音原理與製作",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "張宏宇",
+          "cos_time": "F234-HK114",
+          "memo": "",
+          "cos_ename": "Audio/Video Application & Production",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "483",
+          "dep_primary": "1",
+          "dep_cname": "傳播與科技學系",
+          "dep_ename": "Department of Communication and Technology",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1702": {
           "acy": "110",
           "sem": "1",
@@ -1255,6 +1283,62 @@
           "cos_time": "R567-HK104",
           "memo": "",
           "cos_ename": "Media Literacy: Planning and Practice",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "483",
+          "dep_primary": "1",
+          "dep_cname": "傳播與科技學系",
+          "dep_ename": "Department of Communication and Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1101_1705": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1705",
+          "cos_code": "DCT3024",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "媒體實習(下)",
+          "cos_credit": ".00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "張宏宇",
+          "cos_time": "T8-HKB08",
+          "memo": "",
+          "cos_ename": "Media Internship(II)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "483",
+          "dep_primary": "1",
+          "dep_cname": "傳播與科技學系",
+          "dep_ename": "Department of Communication and Technology",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1101_1707": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1707",
+          "cos_code": "DCT3104",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "動態影像創作",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "張宏宇",
+          "cos_time": "W234-HK114",
+          "memo": "",
+          "cos_ename": "Motion graphics",
           "brief": "",
           "degree": "1",
           "dep_id": "483",
@@ -1315,6 +1399,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1696": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1702": {
           "博雅選修通識_博雅選修通識": {
             "course_category_cname": "博雅選修通識_博雅選修通識",
@@ -1327,6 +1420,24 @@
             "course_category_cname": "通識校基本素養_通識校基本",
             "course_category_ename": "General Education Course: Literacy_GECL",
             "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1705": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1707": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
             "GECIName": "",
             "GECIEngName": ""
           }
@@ -1354,10 +1465,28 @@
             "brief": ""
           }
         },
+        "1101_1696": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1702": {
           "A505,A909": {
             "brief_code": "A505,A909",
             "brief": "校基本素養(106),博雅選修通識 (90)"
+          }
+        },
+        "1101_1705": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1707": {
+          "": {
+            "brief_code": "",
+            "brief": ""
           }
         },
         "1101_1709": {
@@ -1374,7 +1503,16 @@
         "1101_1695": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_1696": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1702": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1705": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1707": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1709": {

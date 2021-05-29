@@ -35003,10 +35003,84 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "J"
+        },
+        "1101_5646": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5646",
+          "cos_code": "ITT5114",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "費率定價與財務分析",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "黃寬丞、邱裕鈞、吳宗修、林雪花",
+          "cos_time": "Fabc-TD",
+          "memo": "上課地點：台北校區",
+          "cos_ename": "Pricing Strategy and Financial Analysis",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "713",
+          "dep_primary": "1",
+          "dep_cname": "管理學院碩士在職專班-物流組",
+          "dep_ename": "Degree Program of Transportation and Logistics",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
+        "1101_5647": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5647",
+          "cos_code": "ITT5115",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "採購與作業物流",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "姚銘忠、黃寬丞、黃鐘鋒",
+          "cos_time": "S567-TD",
+          "memo": "上課地點：台北校區",
+          "cos_ename": "Procurement and Operations Logistics",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "713",
+          "dep_primary": "1",
+          "dep_cname": "管理學院碩士在職專班-物流組",
+          "dep_ename": "Degree Program of Transportation and Logistics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
         }
       },
       "costype": {
         "1101_5645": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5646": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5647": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -35022,10 +35096,28 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_5646": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5647": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
         "1101_5645": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5646": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5647": {
           "授課語言代碼": "zh-tw"
         }
       }

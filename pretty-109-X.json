@@ -674,6 +674,34 @@
       "dep_cname": "客家社會與文化碩士在職專班",
       "dep_ename": "Degree Program of Hakka Society and Culture for In-Service Teachers",
       "1": {
+        "109X_5038": {
+          "acy": "109",
+          "sem": "X",
+          "cos_id": "5038",
+          "cos_code": "IHC5219",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "傳播科技工作坊",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "張宏宇",
+          "cos_time": "S234-HK114,S567-,U234-HK114,U567-",
+          "memo": "日期:7月10日-8月28日",
+          "cos_ename": "Communication Technology Workshop",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "480",
+          "dep_primary": "1",
+          "dep_cname": "客家社會與文化碩士在職專班",
+          "dep_ename": "Degree Program of Hakka Society and Culture for In-Service Teachers",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
         "109X_5040": {
           "acy": "109",
           "sem": "X",
@@ -704,6 +732,15 @@
         }
       },
       "costype": {
+        "109X_5038": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "109X_5040": {
           "": {
             "course_category_cname": "",
@@ -715,6 +752,12 @@
         }
       },
       "brief": {
+        "109X_5038": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "109X_5040": {
           "": {
             "brief_code": "",
@@ -723,6 +766,9 @@
         }
       },
       "language": {
+        "109X_5038": {
+          "授課語言代碼": "zh-tw"
+        },
         "109X_5040": {
           "授課語言代碼": "zh-tw"
         }

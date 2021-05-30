@@ -64,6 +64,34 @@
       "dep_cname": "資訊工程學系",
       "dep_ename": "Department of Computer Science",
       "1": {
+        "109X_1012": {
+          "acy": "109",
+          "sem": "X",
+          "cos_id": "1012",
+          "cos_code": "DCP1160",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "基礎程式設計",
+          "cos_credit": ".00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "吳凱強、洪瑞鴻",
+          "cos_time": "",
+          "memo": "日期:7月5日-8月9日,星期一12:30-17:00,本課程及格條件為通過『程式能力鑑定』,第一週課程將簡介程式能力鑑定考試的流程及規定,考試時間則將另行公布;課程為資工系二年級必修課,建議有一定程式能力者再選修.限大學部.",
+          "cos_ename": "Basic Programming",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "550",
+          "dep_primary": "1",
+          "dep_cname": "資訊工程學系",
+          "dep_ename": "Department of Computer Science",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "109X_1015": {
           "acy": "109",
           "sem": "X",
@@ -94,6 +122,15 @@
         }
       },
       "costype": {
+        "109X_1012": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "109X_1015": {
           "": {
             "course_category_cname": "",
@@ -105,6 +142,12 @@
         }
       },
       "brief": {
+        "109X_1012": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "109X_1015": {
           "": {
             "brief_code": "",
@@ -113,6 +156,9 @@
         }
       },
       "language": {
+        "109X_1012": {
+          "授課語言代碼": "zh-tw"
+        },
         "109X_1015": {
           "授課語言代碼": "zh-tw"
         }

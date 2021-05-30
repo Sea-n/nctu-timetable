@@ -6053,6 +6053,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1251": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1251",
+          "cos_code": "DME4702",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "太空科技應用",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "方振洲",
+          "cos_time": "Mab-EDB26",
+          "memo": "",
+          "cos_ename": "Space Science & Technology Applications",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "611",
+          "dep_primary": "1",
+          "dep_cname": "機械工程學系",
+          "dep_ename": "Department of Mechanical Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1252": {
           "acy": "110",
           "sem": "1",
@@ -6264,6 +6292,29 @@
             "GECIEngName": ""
           }
         },
+        "1101_1251": {
+          "核心通識-科技與社會_核心通識-科技與社會": {
+            "course_category_cname": "核心通識-科技與社會_核心通識-科技與社會",
+            "course_category_ename": "Science, Technology and Society_Science, Technology and Society",
+            "course_category_type": "35",
+            "GECIName": "生",
+            "GECIEngName": "CBT"
+          },
+          "網路課程_網路": {
+            "course_category_cname": "網路課程_網路",
+            "course_category_ename": "Network Courses_NET",
+            "course_category_type": "5",
+            "GECIName": "生",
+            "GECIEngName": "CBT"
+          },
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "生",
+            "GECIEngName": "CBT"
+          }
+        },
         "1101_1252": {
           "": {
             "course_category_cname": "",
@@ -6386,6 +6437,12 @@
             "brief": ""
           }
         },
+        "1101_1251": {
+          "A205,A504,A907": {
+            "brief_code": "A205,A504,A907",
+            "brief": "自然/進階(96),跨院基本素養(106),核心通識-科技與社會(90)"
+          }
+        },
         "1101_1252": {
           "": {
             "brief_code": "",
@@ -6449,6 +6506,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1249": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1251": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1252": {
@@ -18565,6 +18625,79 @@
         }
       }
     },
+    "12680AA6-8B37-474E-96BE-C872FA1AB379": {
+      "dep_id": "12680AA6-8B37-474E-96BE-C872FA1AB379",
+      "dep_cname": "太空科技與工程學分學程",
+      "dep_ename": "Program of Space Technology and Engineering",
+      "1": {
+        "1101_1251": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1251",
+          "cos_code": "DME4702",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "太空科技應用",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "方振洲",
+          "cos_time": "Mab-EDB26",
+          "memo": "",
+          "cos_ename": "Space Science & Technology Applications",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PCI",
+          "dep_primary": "1",
+          "dep_cname": "太空科技與工程學分學程",
+          "dep_ename": "Program of Space Technology and Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        }
+      },
+      "costype": {
+        "1101_1251": {
+          "核心通識-科技與社會_核心通識-科技與社會": {
+            "course_category_cname": "核心通識-科技與社會_核心通識-科技與社會",
+            "course_category_ename": "Science, Technology and Society_Science, Technology and Society",
+            "course_category_type": "35",
+            "GECIName": "生",
+            "GECIEngName": "CBT"
+          },
+          "網路課程_網路": {
+            "course_category_cname": "網路課程_網路",
+            "course_category_ename": "Network Courses_NET",
+            "course_category_type": "5",
+            "GECIName": "生",
+            "GECIEngName": "CBT"
+          },
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "生",
+            "GECIEngName": "CBT"
+          }
+        }
+      },
+      "brief": {
+        "1101_1251": {
+          "A205,A504,A907": {
+            "brief_code": "A205,A504,A907",
+            "brief": "自然/進階(96),跨院基本素養(106),核心通識-科技與社會(90)"
+          }
+        }
+      },
+      "language": {
+        "1101_1251": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "334FCAFF-BBEE-4C05-A9A7-4B87DB6796DF": {
       "dep_id": "334FCAFF-BBEE-4C05-A9A7-4B87DB6796DF",
       "dep_cname": "管理學院:管理基礎學分學程",
@@ -21659,6 +21792,65 @@
       },
       "language": {
         "1101_5711": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "C83DD0DE-7231-46B6-AE00-70B6D379564E": {
+      "dep_id": "C83DD0DE-7231-46B6-AE00-70B6D379564E",
+      "dep_cname": "分子醫學與生物工程研究所",
+      "dep_ename": "Institute of Molecular and Bioengineering",
+      "1": {
+        "1101_5770": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5770",
+          "cos_code": "IBE5076",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "精準健康法規科學",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "柯立偉、陳鋕雄",
+          "cos_time": "S34-SC109",
+          "memo": "",
+          "cos_ename": "Regulatory Science for Precision Health",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "352",
+          "dep_primary": "1",
+          "dep_cname": "分子醫學與生物工程研究所",
+          "dep_ename": "Institute of Molecular and Bioengineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "1101_5770": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_5770": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_5770": {
           "授課語言代碼": "zh-tw"
         }
       }

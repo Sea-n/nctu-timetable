@@ -492,6 +492,65 @@
         }
       }
     },
+    "29A058AC-DE9C-4693-8734-B0C601AE6738": {
+      "dep_id": "29A058AC-DE9C-4693-8734-B0C601AE6738",
+      "dep_cname": "電子研究所",
+      "dep_ename": "Institute of Electronics",
+      "1": {
+        "109X_5001": {
+          "acy": "109",
+          "sem": "X",
+          "cos_id": "5001",
+          "cos_code": "IEE5784",
+          "num_limit": "25",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "電源管理晶片設計與實作",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳柏宏",
+          "cos_time": "M234-ED220,M567-,T234-ED220,T567-,W234-ED220,W567-",
+          "memo": "日期:7月14日-8月14日,限本校,電子所優先,567為彈性上機課",
+          "cos_ename": "Power Management Integrated Circuit Design and Implementation",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "510",
+          "dep_primary": "1",
+          "dep_cname": "電子研究所",
+          "dep_ename": "Institute of Electronics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "109X_5001": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "109X_5001": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "109X_5001": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "B2C67A04-C925-4785-B8AC-3FAEEF0A458F": {
       "dep_id": "B2C67A04-C925-4785-B8AC-3FAEEF0A458F",
       "dep_cname": "光電工程學系",

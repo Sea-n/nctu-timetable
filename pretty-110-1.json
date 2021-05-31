@@ -33188,6 +33188,157 @@
         }
       }
     },
+    "90455AA1-9E14-4D69-A6A8-86F591399768": {
+      "dep_id": "90455AA1-9E14-4D69-A6A8-86F591399768",
+      "dep_cname": "光電學院",
+      "dep_ename": "College of Photonics",
+      "1": {
+        "1101_5165": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5165",
+          "cos_code": "IPO5016",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "書報討論",
+          "cos_credit": "1.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "光電學院",
+          "cos_time": "WzRzFz-CM212",
+          "memo": "為光電系統研究所、照明與能源光電研究所、影像與生醫光電研究所碩一必選課程，上課地點：台南校區。[English Medium Course]",
+          "cos_ename": "Seminar ",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "8O1",
+          "dep_primary": "1",
+          "dep_cname": "光電學院",
+          "dep_ename": "College of Photonics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5166": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5166",
+          "cos_code": "IPO5017",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "書報討論-博士班",
+          "cos_credit": "1.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "光電學院",
+          "cos_time": "WzRzFz-CM212",
+          "memo": "為光電系統研究所、照明與能源光電研究所、影像與生醫光電研究所博一必選課程，上課地點：台南校區[English Medium Course]",
+          "cos_ename": "Seminar-Ph.D. ",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "8O1",
+          "dep_primary": "1",
+          "dep_cname": "光電學院",
+          "dep_ename": "College of Photonics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5167": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5167",
+          "cos_code": "IPO5018",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "個別研討",
+          "cos_credit": "1.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "光電學院",
+          "cos_time": "WzRzFz-CM212",
+          "memo": "為光電系統研究所、照明與能源光電研究所、影像與生醫光電研究所碩二(含)以上及博二(含)以上必 選課程，上課地點：台南校區。",
+          "cos_ename": "Independent Study",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "8O1",
+          "dep_primary": "1",
+          "dep_cname": "光電學院",
+          "dep_ename": "College of Photonics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "1101_5165": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5166": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5167": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_5165": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5166": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5167": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_5165": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5166": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5167": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "2ED22A78-1B95-48B0-B4F0-E9A400786E1E": {
       "dep_id": "2ED22A78-1B95-48B0-B4F0-E9A400786E1E",
       "dep_cname": "寫作中心",
@@ -34670,6 +34821,34 @@
       "dep_cname": "工學院碩士在職專班-產安組",
       "dep_ename": "Degree Program of Industrial Safety and Risk Management",
       "1": {
+        "1101_5303": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5303",
+          "cos_code": "ISR5101",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "產業製程安全學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "于樹偉、林正鄰",
+          "cos_time": "Rabc-EE324",
+          "memo": "限交大在職專班學生選修",
+          "cos_ename": "Industrial Process Safety Design",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "606",
+          "dep_primary": "1",
+          "dep_cname": "工學院碩士在職專班-產安組",
+          "dep_ename": "Degree Program of Industrial Safety and Risk Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
         "1101_5304": {
           "acy": "110",
           "sem": "1",
@@ -34726,6 +34905,34 @@
           "reg_num": "0",
           "depType": "J"
         },
+        "1101_5307": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5307",
+          "cos_code": "ISR5313",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "火災力學導論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "邱晨瑋、雷明遠",
+          "cos_time": "S234-EE324",
+          "memo": "限交大在職專班學生選修",
+          "cos_ename": "Introduction to Fire Dynamics",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "606",
+          "dep_primary": "1",
+          "dep_cname": "工學院碩士在職專班-產安組",
+          "dep_ename": "Degree Program of Industrial Safety and Risk Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
         "1101_5308": {
           "acy": "110",
           "sem": "1",
@@ -34756,6 +34963,15 @@
         }
       },
       "costype": {
+        "1101_5303": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5304": {
           "": {
             "course_category_cname": "",
@@ -34766,6 +34982,15 @@
           }
         },
         "1101_5305": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5307": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -34785,6 +35010,12 @@
         }
       },
       "brief": {
+        "1101_5303": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5304": {
           "": {
             "brief_code": "",
@@ -34792,6 +35023,12 @@
           }
         },
         "1101_5305": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5307": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -34805,10 +35042,16 @@
         }
       },
       "language": {
+        "1101_5303": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_5304": {
           "授課語言代碼": "zh-tw"
         },
         "1101_5305": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5307": {
           "授課語言代碼": "zh-tw"
         },
         "1101_5308": {

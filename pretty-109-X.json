@@ -1195,6 +1195,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "J"
+        },
+        "109X_5023": {
+          "acy": "109",
+          "sem": "X",
+          "cos_id": "5023",
+          "cos_code": "IBM6036",
+          "num_limit": "16",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "會計學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "劉志諒",
+          "cos_time": "MabcWabc-",
+          "memo": "日期:7月5日- 9月2日,限管院各專班,經管所碩博班,地點:台北校區第二演講廳.",
+          "cos_ename": "Financial Accounting",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "719",
+          "dep_primary": "1",
+          "dep_cname": "管理學院碩士在職專班-經管組",
+          "dep_ename": "Degree Program of Business Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
         }
       },
       "costype": {
@@ -1208,6 +1236,15 @@
           }
         },
         "109X_5022": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "109X_5023": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -1229,6 +1266,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "109X_5023": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -1236,6 +1279,9 @@
           "授課語言代碼": "zh-tw"
         },
         "109X_5022": {
+          "授課語言代碼": "zh-tw"
+        },
+        "109X_5023": {
           "授課語言代碼": "zh-tw"
         }
       }

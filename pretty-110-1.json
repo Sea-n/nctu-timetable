@@ -7863,6 +7863,34 @@
           "reg_num": "53",
           "depType": "U"
         },
+        "1101_1414": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1414",
+          "cos_code": "DAC3303",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "分析化學（二）",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "詹揚翔",
+          "cos_time": "T2R34-SB211",
+          "memo": "",
+          "cos_ename": "Analytical Chemistry (2)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "654",
+          "dep_primary": "1",
+          "dep_cname": "應用化學系",
+          "dep_ename": "Department of Applied Chemistry",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "47",
+          "depType": "U"
+        },
         "1101_1416": {
           "acy": "110",
           "sem": "1",
@@ -8003,6 +8031,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1414": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1416": {
           "": {
             "course_category_cname": "",
@@ -8068,6 +8105,12 @@
             "brief": ""
           }
         },
+        "1101_1414": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1416": {
           "": {
             "brief_code": "",
@@ -8104,6 +8147,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1409": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1414": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1416": {
@@ -12944,6 +12990,34 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1101_7127": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7127",
+          "cos_code": "DFR1105",
+          "num_limit": "30",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "大一英文（一）",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "林麗美",
+          "cos_time": "R56-A504",
+          "memo": "",
+          "cos_ename": "Freshman English (I)",
+          "brief": "基礎",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_7130": {
           "acy": "110",
           "sem": "1",
@@ -12989,6 +13063,34 @@
           "memo": "",
           "cos_ename": "Freshman English (I)",
           "brief": "",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_7149": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7149",
+          "cos_code": "DFR1302",
+          "num_limit": "25",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "進階英文閱讀與寫作",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "林麗美",
+          "cos_time": "R78-A504",
+          "memo": "",
+          "cos_ename": "Advanced English Reading and Writing",
+          "brief": "進階",
           "degree": "1",
           "dep_id": "OU6",
           "dep_primary": "1",
@@ -13587,6 +13689,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_7127": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_7130": {
           "": {
             "course_category_cname": "",
@@ -13597,6 +13708,15 @@
           }
         },
         "1101_7131": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_7149": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -13823,6 +13943,12 @@
             "brief": "基礎(87)"
           }
         },
+        "1101_7127": {
+          "B071": {
+            "brief_code": "B071",
+            "brief": "基礎(87)"
+          }
+        },
         "1101_7130": {
           "B071": {
             "brief_code": "B071",
@@ -13833,6 +13959,12 @@
           "B071": {
             "brief_code": "B071",
             "brief": "基礎(87)"
+          }
+        },
+        "1101_7149": {
+          "B072": {
+            "brief_code": "B072",
+            "brief": "進階(87)"
           }
         },
         "1101_7150": {
@@ -13972,10 +14104,16 @@
         "1101_7124": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_7127": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_7130": {
           "授課語言代碼": "zh-tw"
         },
         "1101_7131": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_7149": {
           "授課語言代碼": "zh-tw"
         },
         "1101_7150": {
@@ -35069,6 +35207,34 @@
       "dep_cname": "應用化學系",
       "dep_ename": "Institute of Applied Chemistry",
       "1": {
+        "1101_5430": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5430",
+          "cos_code": "IAC5412",
+          "num_limit": "20",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "書報討論－分析組",
+          "cos_credit": "1.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "詹揚翔",
+          "cos_time": "M34-SB429",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Seminar",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "654",
+          "dep_primary": "1",
+          "dep_cname": "應用化學系",
+          "dep_ename": "Institute of Applied Chemistry",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5433": {
           "acy": "110",
           "sem": "1",
@@ -35183,6 +35349,15 @@
         }
       },
       "costype": {
+        "1101_5430": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5433": {
           "": {
             "course_category_cname": "",
@@ -35221,6 +35396,12 @@
         }
       },
       "brief": {
+        "1101_5430": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5433": {
           "": {
             "brief_code": "",
@@ -35247,6 +35428,9 @@
         }
       },
       "language": {
+        "1101_5430": {
+          "授課語言代碼": "en-us"
+        },
         "1101_5433": {
           "授課語言代碼": "en-us"
         },
@@ -43720,7 +43904,7 @@
           "cos_id": "5655",
           "cos_code": "IIM5237",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "資料探勘研究與實務",
           "cos_credit": "3.00",
@@ -43748,7 +43932,7 @@
           "cos_id": "5656",
           "cos_code": "IIM5254",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "網路科學與社會計算",
           "cos_credit": "3.00",
@@ -43832,7 +44016,7 @@
           "cos_id": "5659",
           "cos_code": "IIM5404",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "數位內容與機器學習",
           "cos_credit": "3.00",
@@ -43860,7 +44044,7 @@
           "cos_id": "5660",
           "cos_code": "IIM5408",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "演算法",
           "cos_credit": "3.00",
@@ -43888,7 +44072,7 @@
           "cos_id": "5661",
           "cos_code": "IIM6619",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "經濟與智慧計算概論",
           "cos_credit": "3.00",
@@ -43916,7 +44100,7 @@
           "cos_id": "5662",
           "cos_code": "IIM9001",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "資訊安全",
           "cos_credit": "3.00",

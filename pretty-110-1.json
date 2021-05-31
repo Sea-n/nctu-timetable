@@ -20841,6 +20841,34 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1101_0356": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "0356",
+          "cos_code": "DAM1375",
+          "num_limit": "60",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "微積分丙（一）",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://jupiter.math.nctu.edu.tw/~tslin/",
+          "teacher": "林得勝",
+          "cos_time": "T34F5-SC109",
+          "memo": "限生科系,對於未來轉系或 雙主修之同學，校內其他學系將無法承認或只能部份承認。",
+          "cos_ename": "Calculus (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OUE",
+          "dep_primary": "1",
+          "dep_cname": "微積分教學小組",
+          "dep_ename": "Calculus section",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_0411": {
           "acy": "110",
           "sem": "1",
@@ -21182,6 +21210,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_0356": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_0411": {
           "通識跨院基本素養_通識跨院": {
             "course_category_cname": "通識跨院基本素養_通識跨院",
@@ -21328,6 +21365,12 @@
             "brief": ""
           }
         },
+        "1101_0356": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_0411": {
           "A205,A504": {
             "brief_code": "A205,A504",
@@ -21412,6 +21455,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_0355": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_0356": {
           "授課語言代碼": "zh-tw"
         },
         "1101_0411": {
@@ -35640,6 +35686,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5452": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5452",
+          "cos_code": "IMO5148",
+          "num_limit": "10",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "半導體製程技術概論",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "孫建文",
+          "cos_time": "F34-SB429",
+          "memo": "",
+          "cos_ename": "Introduction to Semiconductor Manufacturing Technology",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "655",
+          "dep_primary": "1",
+          "dep_cname": "應用化學系分子科學碩博班",
+          "dep_ename": "Institute of Molecular Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5453": {
           "acy": "110",
           "sem": "1",
@@ -35725,6 +35799,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5452": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5453": {
           "": {
             "course_category_cname": "",
@@ -35763,6 +35846,12 @@
             "brief": ""
           }
         },
+        "1101_5452": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5453": {
           "": {
             "brief_code": "",
@@ -35785,6 +35874,9 @@
         },
         "1101_5451": {
           "授課語言代碼": "en-us"
+        },
+        "1101_5452": {
+          "授課語言代碼": "zh-tw"
         },
         "1101_5453": {
           "授課語言代碼": "en-us"

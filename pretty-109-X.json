@@ -434,6 +434,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "O"
+        },
+        "109X_1023": {
+          "acy": "109",
+          "sem": "X",
+          "cos_id": "1023",
+          "cos_code": "DFR1107",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "大一英文（二）",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "吳舜華",
+          "cos_time": "T567R567-A502",
+          "memo": "日期:7月28日-9月2日",
+          "cos_ename": "Freshman English (II)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
         }
       },
       "costype": {
@@ -447,6 +475,15 @@
           }
         },
         "109X_1022": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "109X_1023": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -468,6 +505,12 @@
             "brief_code": "B071",
             "brief": "基礎(87)"
           }
+        },
+        "109X_1023": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -475,6 +518,9 @@
           "授課語言代碼": "zh-tw"
         },
         "109X_1022": {
+          "授課語言代碼": "zh-tw"
+        },
+        "109X_1023": {
           "授課語言代碼": "zh-tw"
         }
       }

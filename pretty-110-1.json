@@ -89,6 +89,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1568": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1568",
+          "cos_code": "DBT4021",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "遺傳學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "莊碧簪、林勇欣、黃兆祺",
+          "cos_time": "R34F2-SC151",
+          "memo": "",
+          "cos_ename": "Genetics",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "350",
+          "dep_primary": "1",
+          "dep_cname": "生物科技學系",
+          "dep_ename": "Department of Biological Science and Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1573": {
           "acy": "110",
           "sem": "1",
@@ -105,6 +133,34 @@
           "cos_time": "F34-ED220",
           "memo": "需先修過生化、分生",
           "cos_ename": "Cell Biology (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "350",
+          "dep_primary": "1",
+          "dep_cname": "生物科技學系",
+          "dep_ename": "Department of Biological Science and Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1101_1576": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1576",
+          "cos_code": "DBT3306",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "分子生物學(二)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "廖光文、蕭育源、黃兆祺",
+          "cos_time": "M4W56-SC157",
+          "memo": "",
+          "cos_ename": "Molecular Biology (II)",
           "brief": "",
           "degree": "1",
           "dep_id": "350",
@@ -146,7 +202,25 @@
             "GECIEngName": ""
           }
         },
+        "1101_1568": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1573": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1576": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -175,7 +249,19 @@
             "brief": ""
           }
         },
+        "1101_1568": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1573": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1576": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -192,7 +278,13 @@
         "1101_1565": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_1568": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1573": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1576": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -3729,6 +3821,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1088": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1088",
+          "cos_code": "UEE4504",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "AI無線通訊系統實驗",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "https://sites.google.com/site/ycjerryhuang/",
+          "teacher": "黃昱智、吳文榕、方凱田、伍紹勳",
+          "cos_time": "M567-ED814",
+          "memo": "",
+          "cos_ename": "AI Lab for Wireless Communication",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "511",
+          "dep_primary": "1",
+          "dep_cname": "電機工程學系",
+          "dep_ename": "Department of Electrical and Computer Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1089": {
           "acy": "110",
           "sem": "1",
@@ -4322,6 +4442,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1088": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1089": {
           "": {
             "course_category_cname": "",
@@ -4666,6 +4795,12 @@
             "brief": ""
           }
         },
+        "1101_1088": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1089": {
           "": {
             "brief_code": "",
@@ -4840,6 +4975,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1085": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1088": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1089": {
@@ -28504,6 +28642,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5696": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5696",
+          "cos_code": "IBT5308",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "論文研究",
+          "cos_credit": "1.00",
+          "cos_hours": "1.00",
+          "TURL": "https://huangslab.weebly.com/",
+          "teacher": "黃植懋、黃兆祺、高智飛",
+          "cos_time": "T8-",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Thesis",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "350",
+          "dep_primary": "1",
+          "dep_cname": "生物科技學系",
+          "dep_ename": "Institute of Biological Science and Technology",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5699": {
           "acy": "110",
           "sem": "1",
@@ -28627,6 +28793,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5696": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5699": {
           "": {
             "course_category_cname": "",
@@ -28671,6 +28846,12 @@
             "brief": ""
           }
         },
+        "1101_5696": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5699": {
           "": {
             "brief_code": "",
@@ -28698,6 +28879,9 @@
       },
       "language": {
         "1101_5692": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5696": {
           "授課語言代碼": "en-us"
         },
         "1101_5699": {

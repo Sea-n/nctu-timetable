@@ -1135,6 +1135,111 @@
         }
       }
     },
+    "A8A7D5C3-9AC4-49E4-A799-3B53CBD46CCE": {
+      "dep_id": "A8A7D5C3-9AC4-49E4-A799-3B53CBD46CCE",
+      "dep_cname": "管理學院碩士在職專班-經管組",
+      "dep_ename": "Degree Program of Business Management",
+      "1": {
+        "109X_5021": {
+          "acy": "109",
+          "sem": "X",
+          "cos_id": "5021",
+          "cos_code": "IBM6035",
+          "num_limit": "16",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "統計學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "丁承",
+          "cos_time": "Tabc-",
+          "memo": "日期:7月6日- 9月2日,限管院各專班,經管所碩博班,地點:台北校區第二演講廳.",
+          "cos_ename": "Statistics",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "719",
+          "dep_primary": "1",
+          "dep_cname": "管理學院碩士在職專班-經管組",
+          "dep_ename": "Degree Program of Business Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
+        "109X_5022": {
+          "acy": "109",
+          "sem": "X",
+          "cos_id": "5022",
+          "cos_code": "IBM6039",
+          "num_limit": "75",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "管理技能發展專題研討",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "鄧東濱、唐瓔璋",
+          "cos_time": "U234567-",
+          "memo": "日期:7/4,7/11,7/18,7/25,8/8,8/15,8/22,8/29,上課時間為9:00-12:00；13:30-16:45。限管院各專班,經管優先,地點:台北校區第二演講廳(本課程只進行第一階段選課分發,不進行第二階段分發)",
+          "cos_ename": "Selected Topics on Management Skills",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "719",
+          "dep_primary": "1",
+          "dep_cname": "管理學院碩士在職專班-經管組",
+          "dep_ename": "Degree Program of Business Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        }
+      },
+      "costype": {
+        "109X_5021": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "109X_5022": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "109X_5021": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "109X_5022": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "109X_5021": {
+          "授課語言代碼": "zh-tw"
+        },
+        "109X_5022": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "E2EF737A-BF42-408A-A2B3-59533017F7C2": {
       "dep_id": "E2EF737A-BF42-408A-A2B3-59533017F7C2",
       "dep_cname": "科技法律研究所碩士在職專班",

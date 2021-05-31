@@ -13882,6 +13882,118 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "O"
+        },
+        "1101_8230": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "8230",
+          "cos_code": "PYY1722",
+          "num_limit": "40",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "體育－游泳",
+          "cos_credit": ".00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "徐國陽",
+          "cos_time": "F34-",
+          "memo": "上課地點:室外游泳池",
+          "cos_ename": "Physical Eduaction",
+          "brief": "體育必修",
+          "degree": "1",
+          "dep_id": "OU9",
+          "dep_primary": "1",
+          "dep_cname": "體育室",
+          "dep_ename": "Physical Education Office",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_8328": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "8328",
+          "cos_code": "PYY1722",
+          "num_limit": "40",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "體育－游泳",
+          "cos_credit": ".00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "徐國陽",
+          "cos_time": "F12-",
+          "memo": "上課地點:室外游泳池",
+          "cos_ename": "Physical Eduaction",
+          "brief": "體育必修",
+          "degree": "1",
+          "dep_id": "OU9",
+          "dep_primary": "1",
+          "dep_cname": "體育室",
+          "dep_ename": "Physical Education Office",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_8703": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "8703",
+          "cos_code": "PYY1712",
+          "num_limit": "40",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "體育－MV熱舞",
+          "cos_credit": ".00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "林怡君",
+          "cos_time": "W12-",
+          "memo": "上課地點:體育館B1體適能教室",
+          "cos_ename": "Physical Education",
+          "brief": "體育必修",
+          "degree": "1",
+          "dep_id": "OU9",
+          "dep_primary": "1",
+          "dep_cname": "體育室",
+          "dep_ename": "Physical Education Office",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_8704": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "8704",
+          "cos_code": "PYY1716",
+          "num_limit": "40",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "體育－健康體適能甲",
+          "cos_credit": ".00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "林怡君",
+          "cos_time": "W34-",
+          "memo": "上課地點:韻律教室",
+          "cos_ename": "Physical Education",
+          "brief": "體育必修",
+          "degree": "1",
+          "dep_id": "OU9",
+          "dep_primary": "1",
+          "dep_cname": "體育室",
+          "dep_ename": "Physical Education Office",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
         }
       },
       "costype": {
@@ -13895,6 +14007,42 @@
           }
         },
         "1101_8102": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_8230": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_8328": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_8703": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_8704": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -13916,6 +14064,30 @@
             "brief_code": "C081",
             "brief": "體育必修(87)"
           }
+        },
+        "1101_8230": {
+          "C081": {
+            "brief_code": "C081",
+            "brief": "體育必修(87)"
+          }
+        },
+        "1101_8328": {
+          "C081": {
+            "brief_code": "C081",
+            "brief": "體育必修(87)"
+          }
+        },
+        "1101_8703": {
+          "C081": {
+            "brief_code": "C081",
+            "brief": "體育必修(87)"
+          }
+        },
+        "1101_8704": {
+          "C081": {
+            "brief_code": "C081",
+            "brief": "體育必修(87)"
+          }
         }
       },
       "language": {
@@ -13923,6 +14095,18 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_8102": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_8230": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_8328": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_8703": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_8704": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -14647,6 +14831,34 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1101_0355": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "0355",
+          "cos_code": "DAM1369",
+          "num_limit": "60",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "微積分乙（一）",
+          "cos_credit": "4.00",
+          "cos_hours": "4.00",
+          "TURL": "http://www.stat.nctu.edu.tw/people/bio.php?PID=12",
+          "teacher": "洪慧念",
+          "cos_time": "T34-SC152,F56-A309",
+          "memo": "限管科系及資財系財金組。對於未來轉系或 雙主修之同學，校內其他學系將無法承認或只能部份承認。",
+          "cos_ename": "Calculus (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OUE",
+          "dep_primary": "1",
+          "dep_cname": "微積分教學小組",
+          "dep_ename": "Calculus section",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_0411": {
           "acy": "110",
           "sem": "1",
@@ -14979,6 +15191,15 @@
             "GECIEngName": "CHK"
           }
         },
+        "1101_0355": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_0411": {
           "通識跨院基本素養_通識跨院": {
             "course_category_cname": "通識跨院基本素養_通識跨院",
@@ -15119,6 +15340,12 @@
             "brief": "自然/進階(96),跨院基本素養(106)"
           }
         },
+        "1101_0355": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_0411": {
           "A205,A504": {
             "brief_code": "A205,A504",
@@ -15200,6 +15427,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_0353": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_0355": {
           "授課語言代碼": "zh-tw"
         },
         "1101_0411": {

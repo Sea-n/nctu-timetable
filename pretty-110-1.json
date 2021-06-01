@@ -36523,6 +36523,111 @@
         }
       }
     },
+    "FFC961F1-2C03-4FB3-870B-FB60725FDCE3": {
+      "dep_id": "FFC961F1-2C03-4FB3-870B-FB60725FDCE3",
+      "dep_cname": "管理科學系",
+      "dep_ename": "Institute of Management Science",
+      "1": {
+        "1101_5501": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5501",
+          "cos_code": "IMS5367",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "國際企業管理",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "郭國泰",
+          "cos_time": "T567-M301",
+          "memo": "1.英語授課。2.開放大三大四同學選修 。3. 管科所主開、GMBA輔開[English Medium Course]",
+          "cos_ename": "International Business Management",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "700",
+          "dep_primary": "1",
+          "dep_cname": "管理科學系",
+          "dep_ename": "Institute of Management Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5503": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5503",
+          "cos_code": "IMS5369",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "知識經濟時代的策略思維",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "郭國泰",
+          "cos_time": "F567-M301",
+          "memo": "開放大三大四同學選修",
+          "cos_ename": "Strategic Thinking in the Era of Knowledge Economy",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "700",
+          "dep_primary": "1",
+          "dep_cname": "管理科學系",
+          "dep_ename": "Institute of Management Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "1101_5501": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5503": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_5501": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5503": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_5501": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5503": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "A81D8BD9-229D-4E17-8966-0544BDF3BE34": {
       "dep_id": "A81D8BD9-229D-4E17-8966-0544BDF3BE34",
       "dep_cname": "運輸與物流管理學系交通運輸碩博士班",

@@ -34815,6 +34815,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1101_5229": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5229",
+          "cos_code": "CST5067",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "電化學儲能材料",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "https://yushengsu.wixsite.com/bestlab",
+          "teacher": "蘇育陞",
+          "cos_time": "T567-EDB01",
+          "memo": "英語授課[English Medium Course]",
+          "cos_ename": "Electrochemical Energy Storage Materials",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "591",
+          "dep_primary": "1",
+          "dep_cname": "國際半導體產業學院碩士班",
+          "dep_ename": "International College of Semiconductor Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
@@ -34862,6 +34890,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_5229": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -34894,6 +34931,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_5229": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -34910,6 +34953,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_5228": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5229": {
           "授課語言代碼": "en-us"
         }
       }
@@ -41517,10 +41563,47 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1101_5144": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5144",
+          "cos_code": "ILP5117",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "光電有機化學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "楊勝雄",
+          "cos_time": "Wabc-CM214",
+          "memo": "上課地點：台南校區",
+          "cos_ename": "Optoelectronic Organic Chemistry",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "805",
+          "dep_primary": "1",
+          "dep_cname": "照明與能源光電研究所",
+          "dep_ename": "Institute of Lighting and Energy Photonics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
         "1101_5143": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5144": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -41536,10 +41619,19 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_5144": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
         "1101_5143": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5144": {
           "授課語言代碼": "zh-tw"
         }
       }

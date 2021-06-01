@@ -7381,10 +7381,47 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "U"
+        },
+        "1101_1302": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1302",
+          "cos_code": "DMA1130",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "化學實驗(一)",
+          "cos_credit": "1.00",
+          "cos_hours": "3.00",
+          "TURL": "http://140.113.206.58/index.html",
+          "teacher": "黃立心",
+          "cos_time": "W234-SB119",
+          "memo": "",
+          "cos_ename": "Chemistry Lab. I",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "613",
+          "dep_primary": "1",
+          "dep_cname": "材料科學與工程學系",
+          "dep_ename": "Department of Materials Science and Engineering",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
         }
       },
       "costype": {
         "1101_1301": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1302": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -7400,10 +7437,19 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_1302": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
         "1101_1301": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1302": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -8019,6 +8065,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1398": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1398",
+          "cos_code": "DAC1205",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "化學(一)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://140.113.206.58/index.html",
+          "teacher": "黃立心",
+          "cos_time": "M56Wn-SC109",
+          "memo": "中一中科學班優先",
+          "cos_ename": "Chemistry (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "654",
+          "dep_primary": "1",
+          "dep_cname": "應用化學系",
+          "dep_ename": "Department of Applied Chemistry",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1399": {
           "acy": "110",
           "sem": "1",
@@ -8090,6 +8164,34 @@
           "teacher": "廖奕翰",
           "cos_time": "R234-SB119",
           "memo": "應化系",
+          "cos_ename": "Chemistry Labs. (1)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "654",
+          "dep_primary": "1",
+          "dep_cname": "應用化學系",
+          "dep_ename": "Department of Applied Chemistry",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1101_1403": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1403",
+          "cos_code": "DAC1311",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "化學實驗（一）",
+          "cos_credit": "1.00",
+          "cos_hours": "3.00",
+          "TURL": "http://140.113.206.58/index.html",
+          "teacher": "黃立心",
+          "cos_time": "T234-SB119",
+          "memo": "中一中科學班優先",
           "cos_ename": "Chemistry Labs. (1)",
           "brief": "",
           "degree": "1",
@@ -8282,6 +8384,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1398": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1399": {
           "網路課程_網路": {
             "course_category_cname": "網路課程_網路",
@@ -8301,6 +8412,15 @@
           }
         },
         "1101_1402": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1403": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -8371,6 +8491,12 @@
             "brief": ""
           }
         },
+        "1101_1398": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1399": {
           "": {
             "brief_code": "",
@@ -8384,6 +8510,12 @@
           }
         },
         "1101_1402": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1403": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -8430,6 +8562,9 @@
         "1101_1396": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_1398": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1399": {
           "授課語言代碼": "zh-tw"
         },
@@ -8437,6 +8572,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1402": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1403": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1408": {

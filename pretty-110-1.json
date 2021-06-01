@@ -2103,7 +2103,7 @@
           "cos_hours": "3.00",
           "TURL": "",
           "teacher": "張俊彥、陳穎平",
-          "cos_time": "F56-HC104,S8-",
+          "cos_time": "F56-HC101,S8-",
           "memo": "",
           "cos_ename": "A Computational Journey Towards Humanities and Creativity: Inspired by Nature",
           "brief": "",
@@ -8205,6 +8205,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1405": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1405",
+          "cos_code": "DAC4998",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "導師時間",
+          "cos_credit": ".00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "吳彥谷",
+          "cos_time": "W78-SB201",
+          "memo": "單號同學",
+          "cos_ename": "Mentor's Hours",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "654",
+          "dep_primary": "1",
+          "dep_cname": "應用化學系",
+          "dep_ename": "Department of Applied Chemistry",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1408": {
           "acy": "110",
           "sem": "1",
@@ -8429,6 +8457,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1405": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1408": {
           "": {
             "course_category_cname": "",
@@ -8521,6 +8558,12 @@
             "brief": ""
           }
         },
+        "1101_1405": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1408": {
           "": {
             "brief_code": "",
@@ -8575,6 +8618,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1403": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1405": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1408": {
@@ -25195,7 +25241,7 @@
           "cos_hours": "3.00",
           "TURL": "",
           "teacher": "張俊彥、陳穎平",
-          "cos_time": "F56-HC104,S8-",
+          "cos_time": "F56-HC101,S8-",
           "memo": "",
           "cos_ename": "A Computational Journey Towards Humanities and Creativity: Inspired by Nature",
           "brief": "",
@@ -26686,7 +26732,7 @@
           "cos_hours": "3.00",
           "TURL": "",
           "teacher": "張俊彥、陳穎平",
-          "cos_time": "F56-HC104,S8-",
+          "cos_time": "F56-HC101,S8-",
           "memo": "",
           "cos_ename": "A Computational Journey Towards Humanities and Creativity: Inspired by Nature",
           "brief": "",
@@ -41330,6 +41376,65 @@
       },
       "language": {
         "1101_5140": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "8C4EBE1A-CDA4-4087-89FD-D046DB7E8AE8": {
+      "dep_id": "8C4EBE1A-CDA4-4087-89FD-D046DB7E8AE8",
+      "dep_cname": "照明與能源光電研究所",
+      "dep_ename": "Institute of Lighting and Energy Photonics",
+      "1": {
+        "1101_5143": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5143",
+          "cos_code": "ILP5110",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "有機光電元件",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "蘇海清",
+          "cos_time": "W234-CM214",
+          "memo": "上課地點：台南校區",
+          "cos_ename": "Organic Optoelectronic Devices ",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "805",
+          "dep_primary": "1",
+          "dep_cname": "照明與能源光電研究所",
+          "dep_ename": "Institute of Lighting and Energy Photonics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "1101_5143": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_5143": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_5143": {
           "授課語言代碼": "zh-tw"
         }
       }

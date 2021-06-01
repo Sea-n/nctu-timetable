@@ -6678,7 +6678,7 @@
           "cos_id": "1226",
           "cos_code": "DME2301",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "工程數學（一）",
           "cos_credit": "3.00",
@@ -6706,7 +6706,7 @@
           "cos_id": "1230",
           "cos_code": "DME2301",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "工程數學（一）",
           "cos_credit": "3.00",
@@ -6734,7 +6734,7 @@
           "cos_id": "1233",
           "cos_code": "DME2315",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "材料力學",
           "cos_credit": "3.00",
@@ -14292,7 +14292,7 @@
           "cos_hours": "2.00",
           "TURL": "http://sun.nctu.edu.tw",
           "teacher": "孫于智",
-          "cos_time": "F34-A405",
+          "cos_time": "F34-HC101",
           "memo": "",
           "cos_ename": "Positive psychology English class",
           "brief": "進階",
@@ -14969,9 +14969,9 @@
           }
         },
         "1101_7168": {
-          "B072": {
-            "brief_code": "B072",
-            "brief": "進階(87)"
+          "": {
+            "brief_code": "",
+            "brief": ""
           }
         },
         "1101_7172": {
@@ -29968,6 +29968,34 @@
       "dep_cname": "分子醫學與生物工程研究所",
       "dep_ename": "Institute of Molecular and Bioengineering",
       "1": {
+        "1101_5746": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5746",
+          "cos_code": "IBE5018",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "分子與細胞毒理學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "趙瑞益",
+          "cos_time": "M567-BI309",
+          "memo": "",
+          "cos_ename": "Molecular and Cellular Toxicology",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "352",
+          "dep_primary": "1",
+          "dep_cname": "分子醫學與生物工程研究所",
+          "dep_ename": "Institute of Molecular and Bioengineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5770": {
           "acy": "110",
           "sem": "1",
@@ -29998,6 +30026,15 @@
         }
       },
       "costype": {
+        "1101_5746": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5770": {
           "": {
             "course_category_cname": "",
@@ -30009,6 +30046,12 @@
         }
       },
       "brief": {
+        "1101_5746": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5770": {
           "": {
             "brief_code": "",
@@ -30017,6 +30060,9 @@
         }
       },
       "language": {
+        "1101_5746": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_5770": {
           "授課語言代碼": "zh-tw"
         }
@@ -36866,6 +36912,65 @@
         }
       }
     },
+    "1E6033DF-9E59-4AE3-A553-583E11583D47": {
+      "dep_id": "1E6033DF-9E59-4AE3-A553-583E11583D47",
+      "dep_cname": "應用數學系",
+      "dep_ename": "Institute of Applied Mathematics",
+      "1": {
+        "1101_5415": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5415",
+          "cos_code": "IAM5523",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "常微分方程（一）",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "莊重",
+          "cos_time": "T7W34-SC207",
+          "memo": "",
+          "cos_ename": "Ordinary Differential Equations (I)",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "652",
+          "dep_primary": "1",
+          "dep_cname": "應用數學系",
+          "dep_ename": "Institute of Applied Mathematics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "1101_5415": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_5415": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_5415": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "8F93E581-C5C5-4D6A-9608-3AE0220B377B": {
       "dep_id": "8F93E581-C5C5-4D6A-9608-3AE0220B377B",
       "dep_cname": "應用化學系",
@@ -43128,7 +43233,7 @@
           "cos_hours": "2.00",
           "TURL": "http://sun.nctu.edu.tw",
           "teacher": "孫于智",
-          "cos_time": "F56-A405",
+          "cos_time": "F56-HC104",
           "memo": "僅供研究生選修，不列入畢業學分。",
           "cos_ename": "Graduate English: Research Paper Writing",
           "brief": "",
@@ -44287,7 +44392,7 @@
           "cos_credit": "3.00",
           "cos_hours": "3.00",
           "TURL": "",
-          "teacher": "田仲豪、盧廷昌、鄒志偉、高宗聖",
+          "teacher": "田仲豪、孫家偉、盧廷昌、鄒志偉、高宗聖",
           "cos_time": "Wabc-CY201",
           "memo": "光電組；限交大在職專班學生選修",
           "cos_ename": "Intro. to Electro-optic Engineering",

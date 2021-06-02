@@ -32403,6 +32403,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1101_5951": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5951",
+          "cos_code": "INA5214",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "竹科與世界",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://hs.nctu.edu.tw/Faculty/YCCuang",
+          "teacher": "莊雅仲",
+          "cos_time": "Mabc-HK207",
+          "memo": "",
+          "cos_ename": "HSP in the Cosmos",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "482",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學系族群與文化碩士班",
+          "dep_ename": "Graduate Program of Ethnicity and Culture",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
@@ -32414,6 +32442,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_5951": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -32422,10 +32459,19 @@
             "brief_code": "A201,A505",
             "brief": "文化/進階(96),校基本素養(106)"
           }
+        },
+        "1101_5951": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
         "1101_5945": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5951": {
           "授課語言代碼": "zh-tw"
         }
       }

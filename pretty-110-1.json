@@ -1531,6 +1531,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "U"
+        },
+        "1101_1688": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1688",
+          "cos_code": "DHS3175",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "從實驗室到工程師：日常生活的社會學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "安勤之",
+          "cos_time": "W234-A315",
+          "memo": "",
+          "cos_ename": "Social Studies of Laboratories and Engineers in Taiwan: the Sociology of Everyday Life",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "481",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學系",
+          "dep_ename": "Department of Humanities and Social Sciences",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
         }
       },
       "costype": {
@@ -1656,6 +1684,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_1688": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -1712,6 +1749,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_1688": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -1740,6 +1783,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1687": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1688": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -13676,9 +13722,9 @@
           }
         },
         "1101_6149": {
-          "A205,A503,A907": {
-            "brief_code": "A205,A503,A907",
-            "brief": "自然/進階(96),核心-自然(106),核心通識-科技與社會(90)"
+          "": {
+            "brief_code": "",
+            "brief": ""
           }
         },
         "1101_6152": {
@@ -15424,9 +15470,9 @@
       },
       "brief": {
         "1101_7101": {
-          "B071": {
-            "brief_code": "B071",
-            "brief": "基礎(87)"
+          "": {
+            "brief_code": "",
+            "brief": ""
           }
         },
         "1101_7103": {
@@ -15436,15 +15482,15 @@
           }
         },
         "1101_7105": {
-          "B071": {
-            "brief_code": "B071",
-            "brief": "基礎(87)"
+          "": {
+            "brief_code": "",
+            "brief": ""
           }
         },
         "1101_7109": {
-          "B071": {
-            "brief_code": "B071",
-            "brief": "基礎(87)"
+          "": {
+            "brief_code": "",
+            "brief": ""
           }
         },
         "1101_7111": {
@@ -15478,45 +15524,45 @@
           }
         },
         "1101_7127": {
-          "B071": {
-            "brief_code": "B071",
-            "brief": "基礎(87)"
+          "": {
+            "brief_code": "",
+            "brief": ""
           }
         },
         "1101_7130": {
-          "B071": {
-            "brief_code": "B071",
-            "brief": "基礎(87)"
+          "": {
+            "brief_code": "",
+            "brief": ""
           }
         },
         "1101_7131": {
-          "B071": {
-            "brief_code": "B071",
-            "brief": "基礎(87)"
+          "": {
+            "brief_code": "",
+            "brief": ""
           }
         },
         "1101_7149": {
-          "B072": {
-            "brief_code": "B072",
-            "brief": "進階(87)"
+          "": {
+            "brief_code": "",
+            "brief": ""
           }
         },
         "1101_7150": {
-          "B072": {
-            "brief_code": "B072",
-            "brief": "進階(87)"
+          "": {
+            "brief_code": "",
+            "brief": ""
           }
         },
         "1101_7152": {
-          "B072": {
-            "brief_code": "B072",
-            "brief": "進階(87)"
+          "": {
+            "brief_code": "",
+            "brief": ""
           }
         },
         "1101_7154": {
-          "B072": {
-            "brief_code": "B072",
-            "brief": "進階(87)"
+          "": {
+            "brief_code": "",
+            "brief": ""
           }
         },
         "1101_7155": {
@@ -15532,15 +15578,15 @@
           }
         },
         "1101_7162": {
-          "B072": {
-            "brief_code": "B072",
-            "brief": "進階(87)"
+          "": {
+            "brief_code": "",
+            "brief": ""
           }
         },
         "1101_7163": {
-          "B072": {
-            "brief_code": "B072",
-            "brief": "進階(87)"
+          "": {
+            "brief_code": "",
+            "brief": ""
           }
         },
         "1101_7166": {
@@ -15556,9 +15602,9 @@
           }
         },
         "1101_7172": {
-          "B072": {
-            "brief_code": "B072",
-            "brief": "進階(87)"
+          "": {
+            "brief_code": "",
+            "brief": ""
           }
         },
         "1101_7503": {
@@ -26930,7 +26976,35 @@
           "TURL": "",
           "teacher": "郭家豪",
           "cos_time": "W34R7-M101",
-          "memo": "管院大學部共同必修課程；管院學生優先選課；上限88人，得請授課教師簽准後可放寬至93人；若有演習課則安排於YI；管理基礎學分學程課程",
+          "memo": "管院、雙主修、跨領域學程學生請於9月6日上網選課；非管院學生請於9月13日上網加選。管院大學部共同必修課程；管院學生優先選課；上限88人，得請授課教師簽准後可放寬至93人；若有演習課則安排於YI；管理基礎學分學程課程",
+          "cos_ename": "Economics (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PFH",
+          "dep_primary": "1",
+          "dep_cname": "管理學院:管理基礎學分學程",
+          "dep_ename": "Fundamental of Management Program",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
+        "1101_1523": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1523",
+          "cos_code": "DOM1001",
+          "num_limit": "88",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "經濟學(一)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cc.nctu.edu.tw/~hhhuang",
+          "teacher": "黃星華",
+          "cos_time": "W34R7-M-b10",
+          "memo": "管院、雙主修、跨領域學程學生請於9月6日上網選課；非管院學生請於9月13日上網加選。管院大學部共同必修課程；管院學生優先選課；上限88人，得請授課教師簽准後可放寬至93人；若有演習課則安排於YI；管理基礎學分學程課程",
           "cos_ename": "Economics (I)",
           "brief": "",
           "degree": "1",
@@ -26958,7 +27032,7 @@
           "TURL": "",
           "teacher": "巫佳煌",
           "cos_time": "M34W2-A316",
-          "memo": "管院大學部共同必修課程；管院學生優先選課；上限85人，得請授課教師簽准後可放寬至90人；若有演習課則安排於YI；管理基礎學分學程課程",
+          "memo": "非管院學生請於9月6日上網選課。管院大學部共同必修課程；管院學生優先選課；上限85人，得請授課教師簽准後可放寬至90人；若有演習課則安排於YI；管理基礎學分學程課程",
           "cos_ename": "Statistics (I)",
           "brief": "",
           "degree": "1",
@@ -26986,7 +27060,7 @@
           "TURL": "",
           "teacher": "洪暉智",
           "cos_time": "T34R7-MB506",
-          "memo": "管院大學部共同必修課程；管院學生優先選課；上限53人，得請授課教師簽准後可放寬至58人；若有演習課安排於YI；管理基礎學分學程課程",
+          "memo": "非管院學生請於9月6日上網選課。管院大學部共同必修課程；管院學生優先選課；上限53人，得請授課教師簽准後可放寬至58人；若有演習課安排於YI；管理基礎學分學程課程",
           "cos_ename": "Operations Research (I)",
           "brief": "",
           "degree": "1",
@@ -27003,6 +27077,22 @@
       },
       "costype": {
         "1101_1522": {
+          "核心通識-社會與經濟_核心通識-社會與經濟": {
+            "course_category_cname": "核心通識-社會與經濟_核心通識-社會與經濟",
+            "course_category_ename": "Society and Economy_Society and Economy",
+            "course_category_type": "33",
+            "GECIName": "電,資,工,理,生,人,客",
+            "GECIEngName": "ECE,CCS,COE,COS,CBT,CHS,CHK"
+          },
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "電,資,工,理,生,人,客",
+            "GECIEngName": "ECE,CCS,COE,COS,CBT,CHS,CHK"
+          }
+        },
+        "1101_1523": {
           "核心通識-社會與經濟_核心通識-社會與經濟": {
             "course_category_cname": "核心通識-社會與經濟_核心通識-社會與經濟",
             "course_category_ename": "Society and Economy_Society and Economy",
@@ -27044,6 +27134,12 @@
             "brief": "公民/基礎(96),跨院基本素養(106),核心通識-社會與經濟(90)"
           }
         },
+        "1101_1523": {
+          "A103,A504,A905": {
+            "brief_code": "A103,A504,A905",
+            "brief": "公民/基礎(96),跨院基本素養(106),核心通識-社會與經濟(90)"
+          }
+        },
         "1101_1532": {
           "": {
             "brief_code": "",
@@ -27059,6 +27155,9 @@
       },
       "language": {
         "1101_1522": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1523": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1532": {
@@ -28335,7 +28434,35 @@
           "TURL": "",
           "teacher": "郭家豪",
           "cos_time": "W34R7-M101",
-          "memo": "管院大學部共同必修課程；管院學生優先選課；上限88人，得請授課教師簽准後可放寬至93人；若有演習課則安排於YI；管理基礎學分學程課程",
+          "memo": "管院、雙主修、跨領域學程學生請於9月6日上網選課；非管院學生請於9月13日上網加選。管院大學部共同必修課程；管院學生優先選課；上限88人，得請授課教師簽准後可放寬至93人；若有演習課則安排於YI；管理基礎學分學程課程",
+          "cos_ename": "Economics (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QKQ",
+          "dep_primary": "1",
+          "dep_cname": "管理學院創業與創新管理跨域學程",
+          "dep_ename": "College of Management Venture & Innovation Management Cross-Discipl",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
+        "1101_1523": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1523",
+          "cos_code": "DOM1001",
+          "num_limit": "88",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "經濟學(一)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cc.nctu.edu.tw/~hhhuang",
+          "teacher": "黃星華",
+          "cos_time": "W34R7-M-b10",
+          "memo": "管院、雙主修、跨領域學程學生請於9月6日上網選課；非管院學生請於9月13日上網加選。管院大學部共同必修課程；管院學生優先選課；上限88人，得請授課教師簽准後可放寬至93人；若有演習課則安排於YI；管理基礎學分學程課程",
           "cos_ename": "Economics (I)",
           "brief": "",
           "degree": "1",
@@ -28363,7 +28490,7 @@
           "TURL": "",
           "teacher": "巫佳煌",
           "cos_time": "M34W2-A316",
-          "memo": "管院大學部共同必修課程；管院學生優先選課；上限85人，得請授課教師簽准後可放寬至90人；若有演習課則安排於YI；管理基礎學分學程課程",
+          "memo": "非管院學生請於9月6日上網選課。管院大學部共同必修課程；管院學生優先選課；上限85人，得請授課教師簽准後可放寬至90人；若有演習課則安排於YI；管理基礎學分學程課程",
           "cos_ename": "Statistics (I)",
           "brief": "",
           "degree": "1",
@@ -28591,6 +28718,22 @@
             "GECIEngName": "ECE,CCS,COE,COS,CBT,CHS,CHK"
           }
         },
+        "1101_1523": {
+          "核心通識-社會與經濟_核心通識-社會與經濟": {
+            "course_category_cname": "核心通識-社會與經濟_核心通識-社會與經濟",
+            "course_category_ename": "Society and Economy_Society and Economy",
+            "course_category_type": "33",
+            "GECIName": "電,資,工,理,生,人,客",
+            "GECIEngName": "ECE,CCS,COE,COS,CBT,CHS,CHK"
+          },
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "電,資,工,理,生,人,客",
+            "GECIEngName": "ECE,CCS,COE,COS,CBT,CHS,CHK"
+          }
+        },
         "1101_1532": {
           "": {
             "course_category_cname": "",
@@ -28720,6 +28863,12 @@
             "brief": "公民/基礎(96),跨院基本素養(106),核心通識-社會與經濟(90)"
           }
         },
+        "1101_1523": {
+          "A103,A504,A905": {
+            "brief_code": "A103,A504,A905",
+            "brief": "公民/基礎(96),跨院基本素養(106),核心通識-社會與經濟(90)"
+          }
+        },
         "1101_1532": {
           "": {
             "brief_code": "",
@@ -28771,6 +28920,9 @@
       },
       "language": {
         "1101_1522": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1523": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1532": {
@@ -29160,6 +29312,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "Q"
+        },
+        "1101_6149": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6149",
+          "cos_code": "GEC8876",
+          "num_limit": "38",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "探索科學II:從前現代到現代科學",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "博佳佳",
+          "cos_time": "R78-A509",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Exploring History of Science. Part 2: From pre-modern to modern science",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QLE",
+          "dep_primary": "1",
+          "dep_cname": "人機智能與哲學跨域學程",
+          "dep_ename": "",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
         }
       },
       "costype": {
@@ -29178,6 +29358,22 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_6149": {
+          "核心通識-科技與社會_核心通識-科技與社會": {
+            "course_category_cname": "核心通識-科技與社會_核心通識-科技與社會",
+            "course_category_ename": "Science, Technology and Society_Science, Technology and Society",
+            "course_category_type": "35",
+            "GECIName": "",
+            "GECIEngName": ""
+          },
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -29186,10 +29382,19 @@
             "brief_code": "A505,A903",
             "brief": "校基本素養(106),核心通識-哲學與心靈(90)"
           }
+        },
+        "1101_6149": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
         "1101_1901": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6149": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -37150,7 +37355,7 @@
           "cos_id": "5326",
           "cos_code": "IME5331",
           "num_limit": "40",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "雷射精密加工與應用",
           "cos_credit": "3.00",
@@ -37178,7 +37383,7 @@
           "cos_id": "5327",
           "cos_code": "IME5332",
           "num_limit": "30",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "微奈米工程導論",
           "cos_credit": "3.00",
@@ -37206,7 +37411,7 @@
           "cos_id": "5330",
           "cos_code": "IME5339",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "微流體系統與應用",
           "cos_credit": "3.00",
@@ -37234,7 +37439,7 @@
           "cos_id": "5332",
           "cos_code": "IME5342",
           "num_limit": "30",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "雷射光製造之理論與實作",
           "cos_credit": "3.00",
@@ -37262,7 +37467,7 @@
           "cos_id": "5333",
           "cos_code": "IME5345",
           "num_limit": "20",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "計算攝影學",
           "cos_credit": "3.00",
@@ -37290,7 +37495,7 @@
           "cos_id": "5334",
           "cos_code": "IME5346",
           "num_limit": "40",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "機器學習原理及工業應用",
           "cos_credit": "3.00",
@@ -37318,7 +37523,7 @@
           "cos_id": "5335",
           "cos_code": "IME5433",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "多相流",
           "cos_credit": "3.00",
@@ -37346,7 +37551,7 @@
           "cos_id": "5336",
           "cos_code": "IME5444",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "基礎組織工程",
           "cos_credit": "3.00",
@@ -37374,7 +37579,7 @@
           "cos_id": "5339",
           "cos_code": "IME5511",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "彈性力學",
           "cos_credit": "3.00",
@@ -37402,7 +37607,7 @@
           "cos_id": "5341",
           "cos_code": "IME5559",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "機器人學",
           "cos_credit": "3.00",
@@ -37430,7 +37635,7 @@
           "cos_id": "5342",
           "cos_code": "IME5567",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "非線性控制系統",
           "cos_credit": "3.00",
@@ -37458,7 +37663,7 @@
           "cos_id": "5343",
           "cos_code": "IME5576",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "應用塑性力學",
           "cos_credit": "3.00",
@@ -37486,7 +37691,7 @@
           "cos_id": "5346",
           "cos_code": "IME6502",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "紊流導論",
           "cos_credit": "3.00",
@@ -37514,7 +37719,7 @@
           "cos_id": "5347",
           "cos_code": "IME6520",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "複合材料力學",
           "cos_credit": "3.00",
@@ -51671,7 +51876,35 @@
           "TURL": "",
           "teacher": "郭家豪",
           "cos_time": "W34R7-M101",
-          "memo": "管院大學部共同必修課程；管院學生優先選課；上限88人，得請授課教師簽准後可放寬至93人；若有演習課則安排於YI；管理基礎學分學程課程",
+          "memo": "管院、雙主修、跨領域學程學生請於9月6日上網選課；非管院學生請於9月13日上網加選。管院大學部共同必修課程；管院學生優先選課；上限88人，得請授課教師簽准後可放寬至93人；若有演習課則安排於YI；管理基礎學分學程課程",
+          "cos_ename": "Economics (I)",
+          "brief": "",
+          "degree": "A",
+          "dep_id": "7M1",
+          "dep_primary": "1",
+          "dep_cname": "管理學院共同課程",
+          "dep_ename": "College of Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1101_1523": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1523",
+          "cos_code": "DOM1001",
+          "num_limit": "88",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "經濟學(一)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cc.nctu.edu.tw/~hhhuang",
+          "teacher": "黃星華",
+          "cos_time": "W34R7-M-b10",
+          "memo": "管院、雙主修、跨領域學程學生請於9月6日上網選課；非管院學生請於9月13日上網加選。管院大學部共同必修課程；管院學生優先選課；上限88人，得請授課教師簽准後可放寬至93人；若有演習課則安排於YI；管理基礎學分學程課程",
           "cos_ename": "Economics (I)",
           "brief": "",
           "degree": "A",
@@ -51699,7 +51932,7 @@
           "TURL": "http://www.cc.nctu.edu.tw/~cclin321/",
           "teacher": "林春成",
           "cos_time": "T78W2-MB506",
-          "memo": "管院大學部共同必修課程；管院學生優先選課；上限75人，若超過人數上限請至管院辦公室登記；若有演習課則安排於YI",
+          "memo": "管院、雙主修、跨領域學程學生請於9月6日上網選課；非管院學生請於9月13日上網加選。管院大學部共同必修課程；管院學生優先選課；上限75人，若超過人數上限請至管院辦公室登記；若有演習課則安排於YI",
           "cos_ename": "Introduction to Computer Science",
           "brief": "",
           "degree": "A",
@@ -51727,7 +51960,7 @@
           "TURL": "",
           "teacher": "黃思皓",
           "cos_time": "W9R89-M-b01",
-          "memo": "管院大學部共同必修課程；管院學生優先選課；資財系必修；上限55人，得請授課教師簽准後可放寬至60人；若有演習課安排於YI",
+          "memo": "管院、雙主修、跨領域學程學生請於9月6日上網選課；非管院學生請於9月13日上網加選。管院大學部共同必修課程；管院學生優先選課；資財系必修；上限55人，得請授課教師簽准後可放寬至60人；若有演習課安排於YI",
           "cos_ename": "Programming",
           "brief": "",
           "degree": "A",
@@ -51755,7 +51988,7 @@
           "TURL": "",
           "teacher": "巫佳煌",
           "cos_time": "M34W2-A316",
-          "memo": "管院大學部共同必修課程；管院學生優先選課；上限85人，得請授課教師簽准後可放寬至90人；若有演習課則安排於YI；管理基礎學分學程課程",
+          "memo": "非管院學生請於9月6日上網選課。管院大學部共同必修課程；管院學生優先選課；上限85人，得請授課教師簽准後可放寬至90人；若有演習課則安排於YI；管理基礎學分學程課程",
           "cos_ename": "Statistics (I)",
           "brief": "",
           "degree": "A",
@@ -51783,7 +52016,7 @@
           "TURL": "",
           "teacher": "洪暉智",
           "cos_time": "T34R7-MB506",
-          "memo": "管院大學部共同必修課程；管院學生優先選課；上限53人，得請授課教師簽准後可放寬至58人；若有演習課安排於YI；管理基礎學分學程課程",
+          "memo": "非管院學生請於9月6日上網選課。管院大學部共同必修課程；管院學生優先選課；上限53人，得請授課教師簽准後可放寬至58人；若有演習課安排於YI；管理基礎學分學程課程",
           "cos_ename": "Operations Research (I)",
           "brief": "",
           "degree": "A",
@@ -51800,6 +52033,22 @@
       },
       "costype": {
         "1101_1522": {
+          "核心通識-社會與經濟_核心通識-社會與經濟": {
+            "course_category_cname": "核心通識-社會與經濟_核心通識-社會與經濟",
+            "course_category_ename": "Society and Economy_Society and Economy",
+            "course_category_type": "33",
+            "GECIName": "電,資,工,理,生,人,客",
+            "GECIEngName": "ECE,CCS,COE,COS,CBT,CHS,CHK"
+          },
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "電,資,工,理,生,人,客",
+            "GECIEngName": "ECE,CCS,COE,COS,CBT,CHS,CHK"
+          }
+        },
+        "1101_1523": {
           "核心通識-社會與經濟_核心通識-社會與經濟": {
             "course_category_cname": "核心通識-社會與經濟_核心通識-社會與經濟",
             "course_category_ename": "Society and Economy_Society and Economy",
@@ -51859,6 +52108,12 @@
             "brief": "公民/基礎(96),跨院基本素養(106),核心通識-社會與經濟(90)"
           }
         },
+        "1101_1523": {
+          "A103,A504,A905": {
+            "brief_code": "A103,A504,A905",
+            "brief": "公民/基礎(96),跨院基本素養(106),核心通識-社會與經濟(90)"
+          }
+        },
         "1101_1529": {
           "": {
             "brief_code": "",
@@ -51886,6 +52141,9 @@
       },
       "language": {
         "1101_1522": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1523": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1529": {

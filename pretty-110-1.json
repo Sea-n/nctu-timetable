@@ -12923,17 +12923,10 @@
           }
         },
         "1101_6149": {
-          "核心通識-科技與社會_核心通識-科技與社會": {
-            "course_category_cname": "核心通識-科技與社會_核心通識-科技與社會",
-            "course_category_ename": "Science, Technology and Society_Science, Technology and Society",
-            "course_category_type": "35",
-            "GECIName": "",
-            "GECIEngName": ""
-          },
-          "通識核心課程_通識核心": {
-            "course_category_cname": "通識核心課程_通識核心",
-            "course_category_ename": "General Education Course_GEC",
-            "course_category_type": "17",
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
             "GECIName": "",
             "GECIEngName": ""
           }
@@ -27018,6 +27011,34 @@
           "reg_num": "0",
           "depType": "P"
         },
+        "1101_1527": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1527",
+          "cos_code": "DOM1030",
+          "num_limit": "135",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "會計學(一)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳宗岡",
+          "cos_time": "M56T2-M-b10",
+          "memo": "管院、雙主修、跨領域學程學生請於9月6日上網選課；非管院學生請於9月13日上網加選。管院大學部共同必修課程；管院學生優先選課；上限135人，得請授課教師簽准後可放寬至140人；若有演習課則安排於YI；管理基礎學分學程課程",
+          "cos_ename": "Accounting (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PFH",
+          "dep_primary": "1",
+          "dep_cname": "管理學院:管理基礎學分學程",
+          "dep_ename": "Fundamental of Management Program",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
         "1101_1532": {
           "acy": "110",
           "sem": "1",
@@ -27108,6 +27129,22 @@
             "GECIEngName": "ECE,CCS,COE,COS,CBT,CHS,CHK"
           }
         },
+        "1101_1527": {
+          "核心通識-社會與經濟_核心通識-社會與經濟": {
+            "course_category_cname": "核心通識-社會與經濟_核心通識-社會與經濟",
+            "course_category_ename": "Society and Economy_Society and Economy",
+            "course_category_type": "33",
+            "GECIName": "電,資,工,理,生,人,客",
+            "GECIEngName": "ECE,CCS,COE,COS,CBT,CHS,CHK"
+          },
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "電,資,工,理,生,人,客",
+            "GECIEngName": "ECE,CCS,COE,COS,CBT,CHS,CHK"
+          }
+        },
         "1101_1532": {
           "": {
             "course_category_cname": "",
@@ -27140,6 +27177,12 @@
             "brief": "公民/基礎(96),跨院基本素養(106),核心通識-社會與經濟(90)"
           }
         },
+        "1101_1527": {
+          "A203,A504,A905": {
+            "brief_code": "A203,A504,A905",
+            "brief": "公民/進階(96),跨院基本素養(106),核心通識-社會與經濟(90)"
+          }
+        },
         "1101_1532": {
           "": {
             "brief_code": "",
@@ -27158,6 +27201,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1523": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1527": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1532": {
@@ -28476,6 +28522,34 @@
           "reg_num": "0",
           "depType": "Q"
         },
+        "1101_1527": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1527",
+          "cos_code": "DOM1030",
+          "num_limit": "135",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "會計學(一)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳宗岡",
+          "cos_time": "M56T2-M-b10",
+          "memo": "管院、雙主修、跨領域學程學生請於9月6日上網選課；非管院學生請於9月13日上網加選。管院大學部共同必修課程；管院學生優先選課；上限135人，得請授課教師簽准後可放寬至140人；若有演習課則安排於YI；管理基礎學分學程課程",
+          "cos_ename": "Accounting (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QKQ",
+          "dep_primary": "1",
+          "dep_cname": "管理學院創業與創新管理跨域學程",
+          "dep_ename": "College of Management Venture & Innovation Management Cross-Discipl",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
         "1101_1532": {
           "acy": "110",
           "sem": "1",
@@ -28734,6 +28808,22 @@
             "GECIEngName": "ECE,CCS,COE,COS,CBT,CHS,CHK"
           }
         },
+        "1101_1527": {
+          "核心通識-社會與經濟_核心通識-社會與經濟": {
+            "course_category_cname": "核心通識-社會與經濟_核心通識-社會與經濟",
+            "course_category_ename": "Society and Economy_Society and Economy",
+            "course_category_type": "33",
+            "GECIName": "電,資,工,理,生,人,客",
+            "GECIEngName": "ECE,CCS,COE,COS,CBT,CHS,CHK"
+          },
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "電,資,工,理,生,人,客",
+            "GECIEngName": "ECE,CCS,COE,COS,CBT,CHS,CHK"
+          }
+        },
         "1101_1532": {
           "": {
             "course_category_cname": "",
@@ -28869,6 +28959,12 @@
             "brief": "公民/基礎(96),跨院基本素養(106),核心通識-社會與經濟(90)"
           }
         },
+        "1101_1527": {
+          "A203,A504,A905": {
+            "brief_code": "A203,A504,A905",
+            "brief": "公民/進階(96),跨院基本素養(106),核心通識-社會與經濟(90)"
+          }
+        },
         "1101_1532": {
           "": {
             "brief_code": "",
@@ -28923,6 +29019,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1523": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1527": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1532": {
@@ -29360,17 +29459,10 @@
           }
         },
         "1101_6149": {
-          "核心通識-科技與社會_核心通識-科技與社會": {
-            "course_category_cname": "核心通識-科技與社會_核心通識-科技與社會",
-            "course_category_ename": "Science, Technology and Society_Science, Technology and Society",
-            "course_category_type": "35",
-            "GECIName": "",
-            "GECIEngName": ""
-          },
-          "通識核心課程_通識核心": {
-            "course_category_cname": "通識核心課程_通識核心",
-            "course_category_ename": "General Education Course_GEC",
-            "course_category_type": "17",
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
             "GECIName": "",
             "GECIEngName": ""
           }
@@ -39063,6 +39155,34 @@
       "dep_cname": "管理科學系",
       "dep_ename": "Institute of Management Science",
       "1": {
+        "1101_5490": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5490",
+          "cos_code": "IMS2335",
+          "num_limit": "10",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "財務會計與信用風險論文研討(一)",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "陳宗岡",
+          "cos_time": "R67-M205",
+          "memo": "",
+          "cos_ename": "Research Seminar on Financial Accounting and Credit Risk (I)",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "700",
+          "dep_primary": "1",
+          "dep_cname": "管理科學系",
+          "dep_ename": "Institute of Management Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5501": {
           "acy": "110",
           "sem": "1",
@@ -39118,9 +39238,46 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1101_5510": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5510",
+          "cos_code": "IMS5652",
+          "num_limit": "35",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "財務報表分析",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳宗岡",
+          "cos_time": "F567-M205",
+          "memo": "1.管科系所優先選課。2.開放大三大四選修。",
+          "cos_ename": "Financial Statement Analysis",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "700",
+          "dep_primary": "1",
+          "dep_cname": "管理科學系",
+          "dep_ename": "Institute of Management Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
+        "1101_5490": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5501": {
           "": {
             "course_category_cname": "",
@@ -39131,6 +39288,15 @@
           }
         },
         "1101_5503": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5510": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -39141,6 +39307,12 @@
         }
       },
       "brief": {
+        "1101_5490": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5501": {
           "": {
             "brief_code": "",
@@ -39148,6 +39320,12 @@
           }
         },
         "1101_5503": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5510": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -39155,10 +39333,16 @@
         }
       },
       "language": {
+        "1101_5490": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_5501": {
           "授課語言代碼": "en-us"
         },
         "1101_5503": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5510": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -47539,11 +47723,98 @@
         }
       }
     },
+    "483A74DF-13DF-40D6-B125-AE7D2F2946BA": {
+      "dep_id": "483A74DF-13DF-40D6-B125-AE7D2F2946BA",
+      "dep_cname": "管理學院碩士在職專班-管科組",
+      "dep_ename": "Degree Program of Management Science",
+      "1": {
+        "1101_5620": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5620",
+          "cos_code": "IMS5652",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "財務報表分析",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳宗岡",
+          "cos_time": "Rabc-M205",
+          "memo": "限專班選修",
+          "cos_ename": "Financial Statement Analysis",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "710",
+          "dep_primary": "1",
+          "dep_cname": "管理學院碩士在職專班-管科組",
+          "dep_ename": "Degree Program of Management Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        }
+      },
+      "costype": {
+        "1101_5620": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_5620": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_5620": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "A9F5FF55-A079-477C-9527-564D092F10C7": {
       "dep_id": "A9F5FF55-A079-477C-9527-564D092F10C7",
       "dep_cname": "高階主管管理碩士學程",
       "dep_ename": "Degree Program of Management for Executives",
       "1": {
+        "1101_5624": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5624",
+          "cos_code": "IBA1001",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "高階主管會計",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "蕭子誼、陳宗岡",
+          "cos_time": "U234567-光寶廳",
+          "memo": "上課地點：管理一館一樓光寶廳；兩週上一次課，每次6小時；限EMBA學生選修",
+          "cos_ename": "Accounting for Executives",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "711",
+          "dep_primary": "1",
+          "dep_cname": "高階主管管理碩士學程",
+          "dep_ename": "Degree Program of Management for Executives",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "E"
+        },
         "1101_5626": {
           "acy": "110",
           "sem": "1",
@@ -47574,6 +47845,15 @@
         }
       },
       "costype": {
+        "1101_5624": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5626": {
           "": {
             "course_category_cname": "",
@@ -47585,6 +47865,12 @@
         }
       },
       "brief": {
+        "1101_5624": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5626": {
           "": {
             "brief_code": "",
@@ -47593,6 +47879,9 @@
         }
       },
       "language": {
+        "1101_5624": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_5626": {
           "授課語言代碼": "zh-tw"
         }
@@ -50622,6 +50911,65 @@
         }
       }
     },
+    "EC58F85D-9C97-4521-B274-EE205D81F071": {
+      "dep_id": "EC58F85D-9C97-4521-B274-EE205D81F071",
+      "dep_cname": "管理學院專班(共同課程)",
+      "dep_ename": "Degree Program of Management",
+      "1": {
+        "1101_5689": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5689",
+          "cos_code": "IOM5009",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "企業經營與倫理專題講座",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "鍾惠民、陳宗岡、林義貴、謝文良、林士平",
+          "cos_time": "Wabc-AB103",
+          "memo": "新竹校區授課，限管院專班生選課",
+          "cos_ename": "Seminar on Enterprise Management and Ethics",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "7M2",
+          "dep_primary": "1",
+          "dep_cname": "管理學院專班(共同課程)",
+          "dep_ename": "Degree Program of Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        }
+      },
+      "costype": {
+        "1101_5689": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_5689": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_5689": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "3FDEE98E-1A4F-4DE3-847B-ED0061569CC8": {
       "dep_id": "3FDEE98E-1A4F-4DE3-847B-ED0061569CC8",
       "dep_cname": "資訊學院共同課程",
@@ -51918,6 +52266,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1527": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1527",
+          "cos_code": "DOM1030",
+          "num_limit": "135",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "會計學(一)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳宗岡",
+          "cos_time": "M56T2-M-b10",
+          "memo": "管院、雙主修、跨領域學程學生請於9月6日上網選課；非管院學生請於9月13日上網加選。管院大學部共同必修課程；管院學生優先選課；上限135人，得請授課教師簽准後可放寬至140人；若有演習課則安排於YI；管理基礎學分學程課程",
+          "cos_ename": "Accounting (I)",
+          "brief": "",
+          "degree": "A",
+          "dep_id": "7M1",
+          "dep_primary": "1",
+          "dep_cname": "管理學院共同課程",
+          "dep_ename": "College of Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1529": {
           "acy": "110",
           "sem": "1",
@@ -52064,6 +52440,22 @@
             "GECIEngName": "ECE,CCS,COE,COS,CBT,CHS,CHK"
           }
         },
+        "1101_1527": {
+          "核心通識-社會與經濟_核心通識-社會與經濟": {
+            "course_category_cname": "核心通識-社會與經濟_核心通識-社會與經濟",
+            "course_category_ename": "Society and Economy_Society and Economy",
+            "course_category_type": "33",
+            "GECIName": "電,資,工,理,生,人,客",
+            "GECIEngName": "ECE,CCS,COE,COS,CBT,CHS,CHK"
+          },
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "電,資,工,理,生,人,客",
+            "GECIEngName": "ECE,CCS,COE,COS,CBT,CHS,CHK"
+          }
+        },
         "1101_1529": {
           "": {
             "course_category_cname": "",
@@ -52114,6 +52506,12 @@
             "brief": "公民/基礎(96),跨院基本素養(106),核心通識-社會與經濟(90)"
           }
         },
+        "1101_1527": {
+          "A203,A504,A905": {
+            "brief_code": "A203,A504,A905",
+            "brief": "公民/進階(96),跨院基本素養(106),核心通識-社會與經濟(90)"
+          }
+        },
         "1101_1529": {
           "": {
             "brief_code": "",
@@ -52144,6 +52542,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1523": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1527": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1529": {

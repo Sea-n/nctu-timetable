@@ -6553,6 +6553,72 @@
         }
       }
     },
+    "CCF66C6B-573F-4C59-B03F-EEB6DE3FF989": {
+      "dep_id": "CCF66C6B-573F-4C59-B03F-EEB6DE3FF989",
+      "dep_cname": "電機學院院級(學士班)",
+      "dep_ename": "College of Electrical and Computer Engineering",
+      "1": {
+        "1101_1118": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1118",
+          "cos_code": "DCE1109",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "全球工程領袖培育及探索系列",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "邱一、田仲豪",
+          "cos_time": "W34-詳備註",
+          "memo": "限大一、大二 2.電機學院學生可列為跨院基本素養通識課程3.上課地點：邱一老師(W34-EE208)；田仲豪老師(W34-CY202)",
+          "cos_ename": "Global Engineering Leadership Cultivation and Discovery",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "5I1",
+          "dep_primary": "1",
+          "dep_cname": "電機學院院級(學士班)",
+          "dep_ename": "College of Electrical and Computer Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        }
+      },
+      "costype": {
+        "1101_1118": {
+          "博雅選修通識_博雅選修通識": {
+            "course_category_cname": "博雅選修通識_博雅選修通識",
+            "course_category_ename": "Optional Liberal Education_Optional Liberal Education",
+            "course_category_type": "37",
+            "GECIName": "",
+            "GECIEngName": ""
+          },
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_1118": {
+          "A205,A505,A909": {
+            "brief_code": "A205,A505,A909",
+            "brief": "自然/進階(96),校基本素養(106),博雅選修通識 (90)"
+          }
+        }
+      },
+      "language": {
+        "1101_1118": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "81FEC6E5-A78C-4641-A47F-D06FD9B448C7": {
       "dep_id": "81FEC6E5-A78C-4641-A47F-D06FD9B448C7",
       "dep_cname": "奈米科學及工程學士學位學程",
@@ -7164,6 +7230,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1243": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1243",
+          "cos_code": "DME3310",
+          "num_limit": "90",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "能源科技",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳慶耀",
+          "cos_time": "Rabc-EE106",
+          "memo": "",
+          "cos_ename": "Energy Technology ",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "611",
+          "dep_primary": "1",
+          "dep_cname": "機械工程學系",
+          "dep_ename": "Department of Mechanical Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1245": {
           "acy": "110",
           "sem": "1",
@@ -7506,6 +7600,22 @@
             "GECIEngName": ""
           }
         },
+        "1101_1243": {
+          "核心通識-科技與社會_核心通識-科技與社會": {
+            "course_category_cname": "核心通識-科技與社會_核心通識-科技與社會",
+            "course_category_ename": "Science, Technology and Society_Science, Technology and Society",
+            "course_category_type": "35",
+            "GECIName": "電,資,理,管,生",
+            "GECIEngName": "ECE,CCS,COS,COM,CBT"
+          },
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "電,資,理,管,生",
+            "GECIEngName": "ECE,CCS,COS,COM,CBT"
+          }
+        },
         "1101_1245": {
           "": {
             "course_category_cname": "",
@@ -7681,6 +7791,12 @@
             "brief": ""
           }
         },
+        "1101_1243": {
+          "A205,A504,A907": {
+            "brief_code": "A205,A504,A907",
+            "brief": "自然/進階(96),跨院基本素養(106),核心通識-科技與社會(90)"
+          }
+        },
         "1101_1245": {
           "": {
             "brief_code": "",
@@ -7771,6 +7887,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1241": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1243": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1245": {
@@ -10163,6 +10282,65 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1514": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "028758A1-A365-44DB-9EF4-5B97C510A2E2": {
+      "dep_id": "028758A1-A365-44DB-9EF4-5B97C510A2E2",
+      "dep_cname": "百川學士學位學程",
+      "dep_ename": "",
+      "1": {
+        "1101_1428": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1428",
+          "cos_code": "DWA1001",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "百川學堂(一)",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "安勤之",
+          "cos_time": "W78-",
+          "memo": "",
+          "cos_ename": "Arete To-Be (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "950",
+          "dep_primary": "1",
+          "dep_cname": "百川學士學位學程",
+          "dep_ename": "",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "C"
+        }
+      },
+      "costype": {
+        "1101_1428": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_1428": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_1428": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -24332,16 +24510,16 @@
           "acy": "110",
           "sem": "1",
           "cos_id": "1138",
-          "cos_code": "UEE2406",
+          "cos_code": "UEE2407",
           "num_limit": "55",
           "dep_limit": "*",
           "URL": null,
           "cos_cname": "電路學－(英文班)",
           "cos_credit": "3.00",
-          "cos_hours": "3.00",
+          "cos_hours": "4.00",
           "TURL": "http://neural-lab.nctu.edu.tw/",
           "teacher": "蔡德明",
-          "cos_time": "T34R7-EE623",
+          "cos_time": "T34R78-EE623",
           "memo": " 2A [English Medium Course]",
           "cos_ename": "Circuit Theory ",
           "brief": "",
@@ -37081,6 +37259,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5335": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5335",
+          "cos_code": "IME5433",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "多相流",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳慶耀",
+          "cos_time": "T234-EE206",
+          "memo": "",
+          "cos_ename": "Multiphase Flow",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "611",
+          "dep_primary": "1",
+          "dep_cname": "機械工程學系",
+          "dep_ename": "Institute of Mechanical Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5336": {
           "acy": "110",
           "sem": "1",
@@ -37333,6 +37539,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5335": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5336": {
           "": {
             "course_category_cname": "",
@@ -37434,6 +37649,12 @@
             "brief": ""
           }
         },
+        "1101_5335": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5336": {
           "": {
             "brief_code": "",
@@ -37494,6 +37715,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_5334": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5335": {
           "授課語言代碼": "zh-tw"
         },
         "1101_5336": {
@@ -43722,6 +43946,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5153": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5153",
+          "cos_code": "IIB5112",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "顯示光學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "鄭協昌",
+          "cos_time": "W678-CM217",
+          "memo": "上課地點：台南校區",
+          "cos_ename": "Display Optics",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "806",
+          "dep_primary": "1",
+          "dep_cname": "影像與生醫光電研究所",
+          "dep_ename": "Institute of Imaging and Biomedical Photonics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5154": {
           "acy": "110",
           "sem": "1",
@@ -43749,6 +44001,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1101_5158": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5158",
+          "cos_code": "IIB5126",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "軟性電子技術",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "鄭協昌",
+          "cos_time": "M678-CM217",
+          "memo": "上課地點：台南校區",
+          "cos_ename": "Flexible Electronics",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "806",
+          "dep_primary": "1",
+          "dep_cname": "影像與生醫光電研究所",
+          "dep_ename": "Institute of Imaging and Biomedical Photonics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
@@ -43761,7 +44041,25 @@
             "GECIEngName": ""
           }
         },
+        "1101_5153": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5154": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5158": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -43778,7 +44076,19 @@
             "brief": ""
           }
         },
+        "1101_5153": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5154": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5158": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -43789,7 +44099,13 @@
         "1101_5151": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_5153": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_5154": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5158": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -45317,6 +45633,34 @@
           "reg_num": "0",
           "depType": "J"
         },
+        "1101_5005": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5005",
+          "cos_code": "IEC5042",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "微機電系統概論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "邱一",
+          "cos_time": "Rabc-EE208",
+          "memo": "電控組；限交大在職專班學生選修",
+          "cos_ename": "Introduction to Micro Electro Mechanical System",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "506",
+          "dep_primary": "1",
+          "dep_cname": "電機學院碩士在職專班",
+          "dep_ename": "Degree Program of Electrical and Computer Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
         "1101_5006": {
           "acy": "110",
           "sem": "1",
@@ -45468,6 +45812,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5005": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5006": {
           "": {
             "course_category_cname": "",
@@ -45521,6 +45874,12 @@
             "brief": ""
           }
         },
+        "1101_5005": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5006": {
           "": {
             "brief_code": "",
@@ -45554,6 +45913,9 @@
       },
       "language": {
         "1101_5003": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5005": {
           "授課語言代碼": "zh-tw"
         },
         "1101_5006": {
@@ -50427,16 +50789,16 @@
           "acy": "110",
           "sem": "1",
           "cos_id": "1132",
-          "cos_code": "UEE2410",
+          "cos_code": "UEE2405",
           "num_limit": "55",
           "dep_limit": "*",
           "URL": null,
           "cos_cname": "電路學",
           "cos_credit": "3.00",
-          "cos_hours": "3.00",
+          "cos_hours": "4.00",
           "TURL": "",
           "teacher": "洪崇智",
-          "cos_time": "T34R7-ED203",
+          "cos_time": "T34R78-ED203",
           "memo": "",
           "cos_ename": "Circuit Theory ",
           "brief": "",
@@ -50455,16 +50817,16 @@
           "acy": "110",
           "sem": "1",
           "cos_id": "1133",
-          "cos_code": "UEE2410",
+          "cos_code": "UEE2405",
           "num_limit": "55",
           "dep_limit": "*",
           "URL": null,
           "cos_cname": "電路學",
           "cos_credit": "3.00",
-          "cos_hours": "3.00",
+          "cos_hours": "4.00",
           "TURL": "",
           "teacher": "蔡嘉明",
-          "cos_time": "T34R7-ED201",
+          "cos_time": "T34R78-ED201",
           "memo": "",
           "cos_ename": "Circuit Theory ",
           "brief": "",
@@ -50483,16 +50845,16 @@
           "acy": "110",
           "sem": "1",
           "cos_id": "1134",
-          "cos_code": "UEE2410",
+          "cos_code": "UEE2405",
           "num_limit": "55",
           "dep_limit": "*",
           "URL": null,
           "cos_cname": "電路學",
           "cos_credit": "3.00",
-          "cos_hours": "3.00",
+          "cos_hours": "4.00",
           "TURL": "http://vlsi-eda.cm.nctu.edu.tw/yumin/",
           "teacher": "李育民",
-          "cos_time": "T34R7-EDB26",
+          "cos_time": "T34R78-EDB26",
           "memo": "",
           "cos_ename": "Circuit Theory ",
           "brief": "",
@@ -50511,16 +50873,16 @@
           "acy": "110",
           "sem": "1",
           "cos_id": "1135",
-          "cos_code": "UEE2410",
+          "cos_code": "UEE2405",
           "num_limit": "55",
           "dep_limit": "*",
           "URL": null,
           "cos_cname": "電路學",
           "cos_credit": "3.00",
-          "cos_hours": "3.00",
+          "cos_hours": "4.00",
           "TURL": "",
           "teacher": "陳稷康",
-          "cos_time": "T34R7-ED303",
+          "cos_time": "T34R78-ED303",
           "memo": "",
           "cos_ename": "Circuit Theory ",
           "brief": "",
@@ -50539,16 +50901,16 @@
           "acy": "110",
           "sem": "1",
           "cos_id": "1136",
-          "cos_code": "UEE2410",
+          "cos_code": "UEE2405",
           "num_limit": "55",
           "dep_limit": "*",
           "URL": null,
           "cos_cname": "電路學",
           "cos_credit": "3.00",
-          "cos_hours": "3.00",
+          "cos_hours": "4.00",
           "TURL": "http://web.it.nctu.edu.tw/~sklin/",
           "teacher": "林錫寬",
-          "cos_time": "T34R7-EE207",
+          "cos_time": "T34R78-EE207",
           "memo": "",
           "cos_ename": "Circuit Theory ",
           "brief": "",
@@ -50567,16 +50929,16 @@
           "acy": "110",
           "sem": "1",
           "cos_id": "1137",
-          "cos_code": "UEE2410",
+          "cos_code": "UEE2405",
           "num_limit": "55",
           "dep_limit": "*",
           "URL": null,
           "cos_cname": "電路學",
           "cos_credit": "3.00",
-          "cos_hours": "3.00",
+          "cos_hours": "4.00",
           "TURL": "",
           "teacher": "陳柏宏",
-          "cos_time": "T34R7-ED220",
+          "cos_time": "T34R78-ED220",
           "memo": "",
           "cos_ename": "Circuit Theory ",
           "brief": "",
@@ -50595,16 +50957,16 @@
           "acy": "110",
           "sem": "1",
           "cos_id": "1138",
-          "cos_code": "UEE2406",
+          "cos_code": "UEE2407",
           "num_limit": "55",
           "dep_limit": "*",
           "URL": null,
           "cos_cname": "電路學－(英文班)",
           "cos_credit": "3.00",
-          "cos_hours": "3.00",
+          "cos_hours": "4.00",
           "TURL": "http://neural-lab.nctu.edu.tw/",
           "teacher": "蔡德明",
-          "cos_time": "T34R7-EE623",
+          "cos_time": "T34R78-EE623",
           "memo": " 2A [English Medium Course]",
           "cos_ename": "Circuit Theory ",
           "brief": "",

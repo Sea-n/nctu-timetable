@@ -7068,7 +7068,7 @@
           "cos_id": "1235",
           "cos_code": "DME1584",
           "num_limit": "70",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "計算機程式",
           "cos_credit": "3.00",
@@ -7180,7 +7180,7 @@
           "cos_id": "1240",
           "cos_code": "DME3212",
           "num_limit": "55",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "機械工程實驗 (一)",
           "cos_credit": "1.00",
@@ -7208,7 +7208,7 @@
           "cos_id": "1241",
           "cos_code": "DME3301",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "機械設計原理（一）",
           "cos_credit": "3.00",
@@ -7236,7 +7236,7 @@
           "cos_id": "1243",
           "cos_code": "DME3310",
           "num_limit": "90",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "能源科技",
           "cos_credit": "3.00",
@@ -7264,7 +7264,7 @@
           "cos_id": "1245",
           "cos_code": "DME3334",
           "num_limit": "30",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "無人機飛行實作",
           "cos_credit": "3.00",
@@ -7292,7 +7292,7 @@
           "cos_id": "1246",
           "cos_code": "DME3513",
           "num_limit": "30",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "數值控制工具機之程式教學及實作",
           "cos_credit": "3.00",
@@ -7320,7 +7320,7 @@
           "cos_id": "1247",
           "cos_code": "DME3513",
           "num_limit": "30",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "數值控制工具機之程式教學及實作",
           "cos_credit": "3.00",
@@ -7348,7 +7348,7 @@
           "cos_id": "1249",
           "cos_code": "DME4603",
           "num_limit": "30",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "電動機械",
           "cos_credit": "3.00",
@@ -7404,7 +7404,7 @@
           "cos_id": "1252",
           "cos_code": "DME1584",
           "num_limit": "70",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "計算機程式",
           "cos_credit": "3.00",
@@ -7432,7 +7432,7 @@
           "cos_id": "1254",
           "cos_code": "DME3301",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "機械設計原理（一）",
           "cos_credit": "3.00",
@@ -10318,6 +10318,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "C"
+        },
+        "1101_1443": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1443",
+          "cos_code": "DWA1074",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "專題探索的基本功-從選題到上台",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "安勤之",
+          "cos_time": "T789-",
+          "memo": "",
+          "cos_ename": "The Basics of Inquiry and Research of the Arete Honors Program: From Topic",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "950",
+          "dep_primary": "1",
+          "dep_cname": "百川學士學位學程",
+          "dep_ename": "",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "C"
         }
       },
       "costype": {
@@ -10329,6 +10357,22 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_1443": {
+          "博雅選修通識_博雅選修通識": {
+            "course_category_cname": "博雅選修通識_博雅選修通識",
+            "course_category_ename": "Optional Liberal Education_Optional Liberal Education",
+            "course_category_type": "37",
+            "GECIName": "",
+            "GECIEngName": ""
+          },
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -10337,10 +10381,19 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_1443": {
+          "A204,A505,A909": {
+            "brief_code": "A204,A505,A909",
+            "brief": "群己/進階(96),校基本素養(106),博雅選修通識 (90)"
+          }
         }
       },
       "language": {
         "1101_1428": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1443": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -14158,7 +14211,7 @@
           "cos_hours": "2.00",
           "TURL": "",
           "teacher": "陳亞玲",
-          "cos_time": "M78-A506",
+          "cos_time": "M78-A505",
           "memo": "",
           "cos_ename": "Freshman English (I)",
           "brief": "基礎",
@@ -14214,7 +14267,7 @@
           "cos_hours": "2.00",
           "TURL": "",
           "teacher": "王立仁",
-          "cos_time": "M78-A505",
+          "cos_time": "M78-A506",
           "memo": "",
           "cos_ename": "Freshman English (I)",
           "brief": "基礎",
@@ -14242,7 +14295,7 @@
           "cos_hours": "2.00",
           "TURL": "",
           "teacher": "王立仁",
-          "cos_time": "T12-A505",
+          "cos_time": "T12-A506",
           "memo": "",
           "cos_ename": "Freshman English (I)",
           "brief": "基礎",
@@ -14410,7 +14463,7 @@
           "cos_hours": "2.00",
           "TURL": "",
           "teacher": "林麗美",
-          "cos_time": "R56-A504",
+          "cos_time": "R56-A505",
           "memo": "",
           "cos_ename": "Freshman English (I)",
           "brief": "基礎",
@@ -14438,7 +14491,7 @@
           "cos_hours": "2.00",
           "TURL": "",
           "teacher": "郭詩芝",
-          "cos_time": "F34-A501",
+          "cos_time": "F34-A505",
           "memo": "",
           "cos_ename": "Freshman English (I)",
           "brief": "基礎",
@@ -14466,7 +14519,7 @@
           "cos_hours": "2.00",
           "TURL": "",
           "teacher": "陳亞玲",
-          "cos_time": "F34-A504",
+          "cos_time": "F34-A506",
           "memo": "",
           "cos_ename": "Freshman English (I)",
           "brief": "",
@@ -14494,7 +14547,7 @@
           "cos_hours": "2.00",
           "TURL": "",
           "teacher": "林麗美",
-          "cos_time": "R78-A504",
+          "cos_time": "R78-A505",
           "memo": "",
           "cos_ename": "Advanced English Reading and Writing",
           "brief": "進階",
@@ -14522,7 +14575,7 @@
           "cos_hours": "2.00",
           "TURL": "",
           "teacher": "陳亞玲",
-          "cos_time": "M56-A504",
+          "cos_time": "M56-A505",
           "memo": "",
           "cos_ename": "Advanced English Reading and Discussion",
           "brief": "進階",
@@ -14550,7 +14603,7 @@
           "cos_hours": "2.00",
           "TURL": "",
           "teacher": "郭詩芝",
-          "cos_time": "W12-A502",
+          "cos_time": "W12-A505",
           "memo": "",
           "cos_ename": "Advanced English Reading and Discussion",
           "brief": "進階",
@@ -14578,7 +14631,7 @@
           "cos_hours": "2.00",
           "TURL": "",
           "teacher": "陳亞玲",
-          "cos_time": "F56-A505",
+          "cos_time": "F56-A506",
           "memo": "",
           "cos_ename": "Advanced English Reading and Discussion",
           "brief": "進階",
@@ -14662,7 +14715,7 @@
           "cos_hours": "2.00",
           "TURL": "",
           "teacher": "王立仁",
-          "cos_time": "T56-A505",
+          "cos_time": "T56-A506",
           "memo": "",
           "cos_ename": "Business English",
           "brief": "進階",
@@ -14690,7 +14743,7 @@
           "cos_hours": "2.00",
           "TURL": "",
           "teacher": "王立仁",
-          "cos_time": "R34-A504",
+          "cos_time": "R34-A506",
           "memo": "",
           "cos_ename": "Business English",
           "brief": "進階",
@@ -14774,7 +14827,7 @@
           "cos_hours": "2.00",
           "TURL": "",
           "teacher": "郭詩芝",
-          "cos_time": "F12-A501",
+          "cos_time": "F12-A505",
           "memo": "",
           "cos_ename": "English for Tourists",
           "brief": "",
@@ -39050,6 +39103,90 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5527": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5527",
+          "cos_code": "ITT5121",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "運輸與物流研究專題",
+          "cos_credit": "1.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "運管系",
+          "cos_time": "F78-A806",
+          "memo": "台北校區開課；英文授課；視訊上課[English Medium Course]",
+          "cos_ename": "Research Seminar",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "702",
+          "dep_primary": "1",
+          "dep_cname": "運輸與物流管理學系交通運輸碩博士班",
+          "dep_ename": "Institute of Traffic and Transportation",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5528": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5528",
+          "cos_code": "ITT5340",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "專題研討(乙組)一",
+          "cos_credit": "1.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "運管系",
+          "cos_time": "M56-TD",
+          "memo": "台北校區開課",
+          "cos_ename": "Seminar Ⅰ  ",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "702",
+          "dep_primary": "1",
+          "dep_cname": "運輸與物流管理學系交通運輸碩博士班",
+          "dep_ename": "Institute of Traffic and Transportation",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5529": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5529",
+          "cos_code": "ITT5341",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "專題研討(乙組)二",
+          "cos_credit": "1.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "運管系",
+          "cos_time": "F56-TD",
+          "memo": "台北校區開課",
+          "cos_ename": "Seminar Ⅱ  ",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "702",
+          "dep_primary": "1",
+          "dep_cname": "運輸與物流管理學系交通運輸碩博士班",
+          "dep_ename": "Institute of Traffic and Transportation",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5530": {
           "acy": "110",
           "sem": "1",
@@ -39125,6 +39262,33 @@
             "GECIEngName": ""
           }
         },
+        "1101_5527": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5528": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5529": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5530": {
           "": {
             "course_category_cname": "",
@@ -39166,6 +39330,24 @@
             "brief": ""
           }
         },
+        "1101_5527": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5528": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5529": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5530": {
           "": {
             "brief_code": "",
@@ -39189,7 +39371,121 @@
         "1101_5526": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_5527": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5528": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5529": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_5530": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "D07005FB-64B9-4C7E-89BB-5BDAAFCCF9E0": {
+      "dep_id": "D07005FB-64B9-4C7E-89BB-5BDAAFCCF9E0",
+      "dep_cname": "運輸與物流管理學系物流管理碩博士班",
+      "dep_ename": "Institute of Logistics Management",
+      "1": {
+        "1101_5535": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5535",
+          "cos_code": "ITT5113",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "巨量資料分析",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳穆臻",
+          "cos_time": "R567-TD",
+          "memo": "台北校區開課",
+          "cos_ename": "Big Data Analytics",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "703",
+          "dep_primary": "1",
+          "dep_cname": "運輸與物流管理學系物流管理碩博士班",
+          "dep_ename": "Institute of Logistics Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5536": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5536",
+          "cos_code": "ITT5329",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "物流品質管理",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳穆臻",
+          "cos_time": "Tabc-TD",
+          "memo": "台北校區開課",
+          "cos_ename": "Total Quality Management on Logistics\r",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "703",
+          "dep_primary": "1",
+          "dep_cname": "運輸與物流管理學系物流管理碩博士班",
+          "dep_ename": "Institute of Logistics Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "1101_5535": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5536": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_5535": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5536": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_5535": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5536": {
           "授課語言代碼": "zh-tw"
         }
       }

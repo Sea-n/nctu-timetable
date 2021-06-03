@@ -329,6 +329,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "U"
+        },
+        "109X_1018": {
+          "acy": "109",
+          "sem": "X",
+          "cos_id": "1018",
+          "cos_code": "DOM1030",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "會計學(一)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "蔡璧徽",
+          "cos_time": "M234T234W234-M205",
+          "memo": "日期:7月5日-8月11日,1.管院大學部共同必修課程.2.管科系系務會議107.4.11重申「大學部必修課程(不包括重修課程)不開放暑修,若有特殊理由,需事先申請獲得同意才能承認學分(霹靂優學園課程除外)」,管科系學生(含雙主修、輔系、跨域學程)需用網路加退選申請表取得系上同意後至課務組加選.3.運管系必修課程初修不得暑修.4.其他科系學生之學分抵免依各學系自行認定.",
+          "cos_ename": "Accounting (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "7M1",
+          "dep_primary": "1",
+          "dep_cname": "管理學院院本部",
+          "dep_ename": "College of Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
         }
       },
       "costype": {
@@ -349,6 +377,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "109X_1018": {
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "電,資,工,理,生,人,客",
+            "GECIEngName": "ECE,CCS,COE,COS,CBT,CHS,CHK"
+          }
         }
       },
       "brief": {
@@ -363,6 +400,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "109X_1018": {
+          "A203,A504": {
+            "brief_code": "A203,A504",
+            "brief": "公民/進階(96),跨院基本素養(106)"
+          }
         }
       },
       "language": {
@@ -370,6 +413,9 @@
           "授課語言代碼": "zh-tw"
         },
         "109X_1017": {
+          "授課語言代碼": "zh-tw"
+        },
+        "109X_1018": {
           "授課語言代碼": "zh-tw"
         }
       }

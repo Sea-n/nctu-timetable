@@ -38715,6 +38715,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1101_5269": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5269",
+          "cos_code": "IOC5220",
+          "num_limit": "60",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "新創雲服務與開發工具",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cs.nctu.edu.tw/~tfchen",
+          "teacher": "陳添福",
+          "cos_time": "Rn56-ED202",
+          "memo": "",
+          "cos_ename": "Innovative Cloud Services and Development Tools",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "551",
+          "dep_primary": "1",
+          "dep_cname": "資訊科學與工程研究所",
+          "dep_ename": "Institute of Computer Science and Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
@@ -38807,6 +38835,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_5269": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -38869,6 +38906,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_5269": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -38901,6 +38944,9 @@
         },
         "1101_5268": {
           "授課語言代碼": "en-us"
+        },
+        "1101_5269": {
+          "授課語言代碼": "zh-tw"
         }
       }
     },

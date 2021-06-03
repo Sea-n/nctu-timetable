@@ -374,6 +374,111 @@
         }
       }
     },
+    "B686A720-C6F0-46BC-8BFB-283274A362B7": {
+      "dep_id": "B686A720-C6F0-46BC-8BFB-283274A362B7",
+      "dep_cname": "藝文中心",
+      "dep_ename": "ARTS Center",
+      "1": {
+        "109X_1025": {
+          "acy": "109",
+          "sem": "X",
+          "cos_id": "1025",
+          "cos_code": "ART0003",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "藝文賞析教育",
+          "cos_credit": ".00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "藝文中心",
+          "cos_time": "",
+          "memo": "限本校大四應屆畢業生,日期:8/18-8/20為藝文護照認證與成績登錄期,請修課學生攜帶集滿三展一演之藝文護照至圖書館B1藝文空間辦理認證.若有疑問請電洽藝文空間03-5131233",
+          "cos_ename": "Arts Appreciation Education",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU3",
+          "dep_primary": "1",
+          "dep_cname": "藝文中心",
+          "dep_ename": "ARTS Center",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "109X_1026": {
+          "acy": "109",
+          "sem": "X",
+          "cos_id": "1026",
+          "cos_code": "ART0003",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "藝文賞析教育",
+          "cos_credit": ".00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "藝文中心",
+          "cos_time": "",
+          "memo": "限本校大四應屆畢業生,日期:8/18-8/20為藝文護照認證與成績登錄期,請修課學生攜帶集滿三展一演之藝文護照至圖書館B1藝文空間辦理認證.若有疑問請電洽藝文空間03-5131233",
+          "cos_ename": "Arts Appreciation Education",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU3",
+          "dep_primary": "1",
+          "dep_cname": "藝文中心",
+          "dep_ename": "ARTS Center",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        }
+      },
+      "costype": {
+        "109X_1025": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "109X_1026": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "109X_1025": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "109X_1026": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "109X_1025": {
+          "授課語言代碼": "zh-tw"
+        },
+        "109X_1026": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "F6B39FA0-2284-4B93-B1CF-8ECFF1111A2E": {
       "dep_id": "F6B39FA0-2284-4B93-B1CF-8ECFF1111A2E",
       "dep_cname": "語言教學與研究中心",

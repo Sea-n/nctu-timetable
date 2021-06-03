@@ -1879,6 +1879,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1699": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1699",
+          "cos_code": "DCT2031",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "媒體文化與社會",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "黃淑鈴",
+          "cos_time": "R234-HKB08",
+          "memo": "",
+          "cos_ename": "Media Culture and Society",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "483",
+          "dep_primary": "1",
+          "dep_cname": "傳播與科技學系",
+          "dep_ename": "Department of Communication and Technology",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1702": {
           "acy": "110",
           "sem": "1",
@@ -2048,6 +2076,22 @@
             "GECIEngName": ""
           }
         },
+        "1101_1699": {
+          "核心通識-社會與經濟_核心通識-社會與經濟": {
+            "course_category_cname": "核心通識-社會與經濟_核心通識-社會與經濟",
+            "course_category_ename": "Society and Economy_Society and Economy",
+            "course_category_type": "33",
+            "GECIName": "生",
+            "GECIEngName": "CBT"
+          },
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "生",
+            "GECIEngName": "CBT"
+          }
+        },
         "1101_1702": {
           "博雅選修通識_博雅選修通識": {
             "course_category_cname": "博雅選修通識_博雅選修通識",
@@ -2127,6 +2171,12 @@
             "brief": ""
           }
         },
+        "1101_1699": {
+          "A204,A504,A905": {
+            "brief_code": "A204,A504,A905",
+            "brief": "群己/進階(96),跨院基本素養(106),核心通識-社會與經濟(90)"
+          }
+        },
         "1101_1702": {
           "A505,A909": {
             "brief_code": "A505,A909",
@@ -2166,6 +2216,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1696": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1699": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1702": {

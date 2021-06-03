@@ -1109,6 +1109,34 @@
           "reg_num": "0",
           "depType": "J"
         },
+        "109X_5039": {
+          "acy": "109",
+          "sem": "X",
+          "cos_id": "5039",
+          "cos_code": "IHC5231",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "文學與社會",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://",
+          "teacher": "蔣淑貞",
+          "cos_time": "M567W567-HK207",
+          "memo": "日期:7月6日-9月2日",
+          "cos_ename": "Literature and Society",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "480",
+          "dep_primary": "1",
+          "dep_cname": "客家社會與文化碩士在職專班",
+          "dep_ename": "Degree Program of Hakka Society and Culture for In-Service Teachers",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
         "109X_5040": {
           "acy": "109",
           "sem": "X",
@@ -1148,6 +1176,15 @@
             "GECIEngName": ""
           }
         },
+        "109X_5039": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "109X_5040": {
           "": {
             "course_category_cname": "",
@@ -1165,6 +1202,12 @@
             "brief": ""
           }
         },
+        "109X_5039": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "109X_5040": {
           "": {
             "brief_code": "",
@@ -1174,6 +1217,9 @@
       },
       "language": {
         "109X_5038": {
+          "授課語言代碼": "zh-tw"
+        },
+        "109X_5039": {
           "授課語言代碼": "zh-tw"
         },
         "109X_5040": {

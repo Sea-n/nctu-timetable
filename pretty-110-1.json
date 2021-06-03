@@ -36172,6 +36172,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5088": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5088",
+          "cos_code": "ECM5401",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "高等電磁學(一)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "吳霖堃",
+          "cos_time": "T2W34-ED203",
+          "memo": "",
+          "cos_ename": "Advanced Electromagnetics(I)",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "513",
+          "dep_primary": "1",
+          "dep_cname": "電信工程研究所",
+          "dep_ename": "Institute of Communication Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5089": {
           "acy": "110",
           "sem": "1",
@@ -36683,6 +36711,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5088": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5089": {
           "": {
             "course_category_cname": "",
@@ -36889,6 +36926,12 @@
             "brief": ""
           }
         },
+        "1101_5088": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5089": {
           "": {
             "brief_code": "",
@@ -37012,6 +37055,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_5087": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5088": {
           "授課語言代碼": "zh-tw"
         },
         "1101_5089": {

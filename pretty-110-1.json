@@ -32,10 +32,47 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "U"
+        },
+        "1101_A022": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "A022",
+          "cos_code": "B2531  ",
+          "num_limit": "40",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "人本醫學思辨實作",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "嚴如玉",
+          "cos_time": "T56-YT305",
+          "memo": "醫學人文與倫理領域-醫學人文類(醫學系)，為使課程品質提升修課人數有限。",
+          "cos_ename": "Critical Thinking for Humanism in Medicine",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "101",
+          "dep_primary": "1",
+          "dep_cname": "醫學系",
+          "dep_ename": "Department of Medicine",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
         }
       },
       "costype": {
         "1101_A017": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_A022": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -51,10 +88,19 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_A022": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
         "1101_A017": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_A022": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -9198,6 +9244,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1377": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1377",
+          "cos_code": "DAM2105",
+          "num_limit": "15",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "分析導論榮譽班(一)",
+          "cos_credit": "4.00",
+          "cos_hours": "5.00",
+          "TURL": "http://",
+          "teacher": "李明佳",
+          "cos_time": "T34W5R78-SA215",
+          "memo": "",
+          "cos_ename": "Introduction to Analysis (I), Honor Class",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "652",
+          "dep_primary": "1",
+          "dep_cname": "應用數學系",
+          "dep_ename": "Department of Applied Mathematics",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1384": {
           "acy": "110",
           "sem": "1",
@@ -9253,6 +9327,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "U"
+        },
+        "1101_1388": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1388",
+          "cos_code": "DAM3211",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "經濟動態規劃",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://",
+          "teacher": "李明佳",
+          "cos_time": "W9R56-SA211",
+          "memo": "",
+          "cos_ename": "Dynamic programming in economics",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "652",
+          "dep_primary": "1",
+          "dep_cname": "應用數學系",
+          "dep_ename": "Department of Applied Mathematics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
         }
       },
       "costype": {
@@ -9274,6 +9376,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1377": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1384": {
           "": {
             "course_category_cname": "",
@@ -9284,6 +9395,15 @@
           }
         },
         "1101_1387": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1388": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -9306,6 +9426,12 @@
             "brief": ""
           }
         },
+        "1101_1377": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1384": {
           "": {
             "brief_code": "",
@@ -9313,6 +9439,12 @@
           }
         },
         "1101_1387": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1388": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -9326,10 +9458,16 @@
         "1101_1375": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_1377": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1384": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1387": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1388": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -9956,7 +10094,7 @@
           "cos_id": "1454",
           "cos_code": "DMS1602",
           "num_limit": "60",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "管理科學導論",
           "cos_credit": "2.00",
@@ -17862,34 +18000,6 @@
           "reg_num": "0",
           "depType": "O"
         },
-        "1101_8210": {
-          "acy": "110",
-          "sem": "1",
-          "cos_id": "8210",
-          "cos_code": "PYY1215",
-          "num_limit": "36",
-          "dep_limit": "N",
-          "URL": null,
-          "cos_cname": "體育－羽球甲B",
-          "cos_credit": ".00",
-          "cos_hours": "2.00",
-          "TURL": "",
-          "teacher": "王志全",
-          "cos_time": "T78-",
-          "memo": "上課教室:羽球館",
-          "cos_ename": "Physcial Education",
-          "brief": "體育必修",
-          "degree": "1",
-          "dep_id": "OU9",
-          "dep_primary": "1",
-          "dep_cname": "體育室",
-          "dep_ename": "Physical Education Office",
-          "cos_type": "必修",
-          "cos_type_e": "Required",
-          "crsoutline_type": "data",
-          "reg_num": "0",
-          "depType": "O"
-        },
         "1101_8221": {
           "acy": "110",
           "sem": "1",
@@ -18409,34 +18519,6 @@
           "teacher": "廖威彰",
           "cos_time": "T56-",
           "memo": "上課地點:綜合球館B1",
-          "cos_ename": "Physcial Education",
-          "brief": "體育必修",
-          "degree": "1",
-          "dep_id": "OU9",
-          "dep_primary": "1",
-          "dep_cname": "體育室",
-          "dep_ename": "Physical Education Office",
-          "cos_type": "必修",
-          "cos_type_e": "Required",
-          "crsoutline_type": "data",
-          "reg_num": "0",
-          "depType": "O"
-        },
-        "1101_8310": {
-          "acy": "110",
-          "sem": "1",
-          "cos_id": "8310",
-          "cos_code": "PYY1215",
-          "num_limit": "36",
-          "dep_limit": "N",
-          "URL": null,
-          "cos_cname": "體育－羽球甲B",
-          "cos_credit": ".00",
-          "cos_hours": "2.00",
-          "TURL": "",
-          "teacher": "王志全",
-          "cos_time": "T56-",
-          "memo": "上課地點:羽球館",
           "cos_ename": "Physcial Education",
           "brief": "體育必修",
           "degree": "1",
@@ -19191,7 +19273,7 @@
           "cos_hours": "2.00",
           "TURL": "",
           "teacher": "王志全",
-          "cos_time": "W56-",
+          "cos_time": "R56-",
           "memo": "上課地點:綜合球館B1",
           "cos_ename": "Physical Education",
           "brief": "體育必修",
@@ -20549,15 +20631,6 @@
             "GECIEngName": ""
           }
         },
-        "1101_8210": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        },
         "1101_8221": {
           "": {
             "course_category_cname": "",
@@ -20721,15 +20794,6 @@
           }
         },
         "1101_8309": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        },
-        "1101_8310": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -21529,12 +21593,6 @@
             "brief": "體育必修(87)"
           }
         },
-        "1101_8210": {
-          "C081": {
-            "brief_code": "C081",
-            "brief": "體育必修(87)"
-          }
-        },
         "1101_8221": {
           "C081": {
             "brief_code": "C081",
@@ -21644,12 +21702,6 @@
           }
         },
         "1101_8309": {
-          "C081": {
-            "brief_code": "C081",
-            "brief": "體育必修(87)"
-          }
-        },
-        "1101_8310": {
           "C081": {
             "brief_code": "C081",
             "brief": "體育必修(87)"
@@ -21812,9 +21864,9 @@
           }
         },
         "1101_8553": {
-          "C081": {
-            "brief_code": "C081",
-            "brief": "體育必修(87)"
+          "": {
+            "brief_code": "",
+            "brief": ""
           }
         },
         "1101_8555": {
@@ -22146,9 +22198,6 @@
         "1101_8209": {
           "授課語言代碼": "zh-tw"
         },
-        "1101_8210": {
-          "授課語言代碼": "zh-tw"
-        },
         "1101_8221": {
           "授課語言代碼": "zh-tw"
         },
@@ -22204,9 +22253,6 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_8309": {
-          "授課語言代碼": "zh-tw"
-        },
-        "1101_8310": {
           "授課語言代碼": "zh-tw"
         },
         "1101_8321": {
@@ -41240,7 +41286,7 @@
           "cos_id": "5490",
           "cos_code": "IMS2335",
           "num_limit": "10",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "財務會計與信用風險論文研討(一)",
           "cos_credit": "2.00",
@@ -54651,6 +54697,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1530": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1530",
+          "cos_code": "DOM1033",
+          "num_limit": "75",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "計算機概論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "游家牧",
+          "cos_time": "T78W2-M-b01",
+          "memo": "管院、雙主修、跨領域學程學生請於9月6日上網選課；非管院學生請於9月13日上網加選。管院大學部共同必修課程；管院學生優先選課；上限75人，若超過人數上限請至管院辦公室登記；若有演習課則安排於YI",
+          "cos_ename": "Introduction to Computer Science",
+          "brief": "",
+          "degree": "A",
+          "dep_id": "7M1",
+          "dep_primary": "1",
+          "dep_cname": "管理學院共同課程",
+          "dep_ename": "College of Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1531": {
           "acy": "110",
           "sem": "1",
@@ -54991,6 +55065,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1530": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1531": {
           "": {
             "course_category_cname": "",
@@ -55113,6 +55196,12 @@
             "brief": ""
           }
         },
+        "1101_1530": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1531": {
           "": {
             "brief_code": "",
@@ -55185,6 +55274,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1529": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1530": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1531": {

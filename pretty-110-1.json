@@ -2561,6 +2561,62 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "U"
+        },
+        "1101_1653": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1653",
+          "cos_code": "DOH3012",
+          "num_limit": "20",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "電影配樂賞析",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "http://www.mitchlinmusic.com",
+          "teacher": "林明學",
+          "cos_time": "F56-YX502",
+          "memo": "",
+          "cos_ename": "Film Music: Analysis and Aesthetics",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "4A1",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學院院本部",
+          "dep_ename": "College of Humanities and Social Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1101_1654": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1654",
+          "cos_code": "DOH3013",
+          "num_limit": "14",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "影像音訊",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "http://www.mitchlinmusic.com",
+          "teacher": "林明學",
+          "cos_time": "W34-HC512",
+          "memo": "",
+          "cos_ename": "Audio for Video",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "4A1",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學院院本部",
+          "dep_ename": "College of Humanities and Social Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
         }
       },
       "costype": {
@@ -2631,6 +2687,24 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_1653": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1654": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -2669,6 +2743,18 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_1653": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1654": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -2688,6 +2774,12 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1650": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1653": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1654": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -10443,7 +10535,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "15",
+          "reg_num": "35",
           "depType": "U"
         },
         "1101_1513": {
@@ -10471,7 +10563,7 @@
           "cos_type": "選修",
           "cos_type_e": "Elective",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "43",
           "depType": "U"
         },
         "1101_1514": {
@@ -10499,7 +10591,7 @@
           "cos_type": "選修",
           "cos_type_e": "Elective",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "43",
           "depType": "U"
         }
       },
@@ -26782,6 +26874,34 @@
       "dep_cname": "音樂學分學程",
       "dep_ename": "Program of Music",
       "1": {
+        "1101_1653": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1653",
+          "cos_code": "DOH3012",
+          "num_limit": "20",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "電影配樂賞析",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "http://www.mitchlinmusic.com",
+          "teacher": "林明學",
+          "cos_time": "F56-YX502",
+          "memo": "",
+          "cos_ename": "Film Music: Analysis and Aesthetics",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PBN",
+          "dep_primary": "1",
+          "dep_cname": "音樂學分學程",
+          "dep_ename": "Program of Music",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
         "1101_6104": {
           "acy": "110",
           "sem": "1",
@@ -26812,6 +26932,15 @@
         }
       },
       "costype": {
+        "1101_1653": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_6104": {
           "核心通識-藝術與文化_核心通識-藝術與文化": {
             "course_category_cname": "核心通識-藝術與文化_核心通識-藝術與文化",
@@ -26830,6 +26959,12 @@
         }
       },
       "brief": {
+        "1101_1653": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_6104": {
           "A201,A501,A908": {
             "brief_code": "A201,A501,A908",
@@ -26838,6 +26973,9 @@
         }
       },
       "language": {
+        "1101_1653": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_6104": {
           "授課語言代碼": "zh-tw"
         }
@@ -28813,6 +28951,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "Q"
+        },
+        "1101_1654": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1654",
+          "cos_code": "DOH3013",
+          "num_limit": "14",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "影像音訊",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "http://www.mitchlinmusic.com",
+          "teacher": "林明學",
+          "cos_time": "W34-HC512",
+          "memo": "",
+          "cos_ename": "Audio for Video",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QJZ",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學院跨領域設計與創新科技跨域學程",
+          "dep_ename": "College of Humanities and Social Sciences for Transdisciplinary Inn",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
         }
       },
       "costype": {
@@ -28865,6 +29031,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_1654": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -28891,6 +29066,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_1654": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -28904,6 +29085,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1642": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1654": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -29558,6 +29742,62 @@
           "reg_num": "0",
           "depType": "Q"
         },
+        "1101_1653": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1653",
+          "cos_code": "DOH3012",
+          "num_limit": "20",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "電影配樂賞析",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "http://www.mitchlinmusic.com",
+          "teacher": "林明學",
+          "cos_time": "F56-YX502",
+          "memo": "",
+          "cos_ename": "Film Music: Analysis and Aesthetics",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QKS",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學院藝術與音樂跨域學程",
+          "dep_ename": "College of Humanities and Social Sciences for Transdisciplinary Inn",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
+        "1101_1654": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1654",
+          "cos_code": "DOH3013",
+          "num_limit": "14",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "影像音訊",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "http://www.mitchlinmusic.com",
+          "teacher": "林明學",
+          "cos_time": "W34-HC512",
+          "memo": "",
+          "cos_ename": "Audio for Video",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QKS",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學院藝術與音樂跨域學程",
+          "dep_ename": "College of Humanities and Social Sciences for Transdisciplinary Inn",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
         "1101_6104": {
           "acy": "110",
           "sem": "1",
@@ -29606,6 +29846,24 @@
             "GECIEngName": ""
           }
         },
+        "1101_1653": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1654": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_6104": {
           "核心通識-藝術與文化_核心通識-藝術與文化": {
             "course_category_cname": "核心通識-藝術與文化_核心通識-藝術與文化",
@@ -29636,6 +29894,18 @@
             "brief": ""
           }
         },
+        "1101_1653": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1654": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_6104": {
           "A201,A501,A908": {
             "brief_code": "A201,A501,A908",
@@ -29648,6 +29918,12 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1650": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1653": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1654": {
           "授課語言代碼": "zh-tw"
         },
         "1101_6104": {
@@ -39681,6 +39957,34 @@
       "dep_cname": "統計學研究所",
       "dep_ename": "Institute of Statistics",
       "1": {
+        "1101_5458": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5458",
+          "cos_code": "IST5534",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "生物統計",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.stat.nctu.edu.tw/subhtml/source/teachers/ghuang/index.htm",
+          "teacher": "黃冠華",
+          "cos_time": "M234-A406",
+          "memo": "",
+          "cos_ename": "Biostatistics",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "657",
+          "dep_primary": "1",
+          "dep_cname": "統計學研究所",
+          "dep_ename": "Institute of Statistics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5459": {
           "acy": "110",
           "sem": "1",
@@ -39711,6 +40015,15 @@
         }
       },
       "costype": {
+        "1101_5458": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5459": {
           "": {
             "course_category_cname": "",
@@ -39722,6 +40035,12 @@
         }
       },
       "brief": {
+        "1101_5458": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5459": {
           "": {
             "brief_code": "",
@@ -39730,6 +40049,9 @@
         }
       },
       "language": {
+        "1101_5458": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_5459": {
           "授課語言代碼": "en-us"
         }

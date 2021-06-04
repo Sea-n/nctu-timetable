@@ -1438,6 +1438,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "J"
+        },
+        "109X_5029": {
+          "acy": "109",
+          "sem": "X",
+          "cos_id": "5029",
+          "cos_code": "IOF5152",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "區塊鏈與商業智慧",
+          "cos_credit": "1.00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "黃思皓",
+          "cos_time": "Sabc-M-B09",
+          "memo": "日期:7月3日-8月29日,限本校在職專班學生選修；依資財系網站https://imf.nctu.edu.tw公告之課程時間表上課。",
+          "cos_ename": "",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "717",
+          "dep_primary": "1",
+          "dep_cname": "管理學院碩士在職專班-財金組",
+          "dep_ename": "Degree Program of Financ",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
         }
       },
       "costype": {
@@ -1451,6 +1479,15 @@
           }
         },
         "109X_5028": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "109X_5029": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -1472,6 +1509,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "109X_5029": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -1479,6 +1522,9 @@
           "授課語言代碼": "zh-tw"
         },
         "109X_5028": {
+          "授課語言代碼": "zh-tw"
+        },
+        "109X_5029": {
           "授課語言代碼": "zh-tw"
         }
       }

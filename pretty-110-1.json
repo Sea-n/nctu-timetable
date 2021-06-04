@@ -2243,6 +2243,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "U"
+        },
+        "1101_1710": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1710",
+          "cos_code": "DCT3115",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "公關策略與媒體企劃：健康傳播專題",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "游婉雲",
+          "cos_time": "F234-HKB08",
+          "memo": "",
+          "cos_ename": "",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "483",
+          "dep_primary": "1",
+          "dep_cname": "傳播與科技學系",
+          "dep_ename": "Department of Communication and Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
         }
       },
       "costype": {
@@ -2347,6 +2375,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_1710": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -2403,6 +2440,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_1710": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -2431,6 +2474,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1709": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1710": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -5891,6 +5937,34 @@
           "reg_num": "36",
           "depType": "U"
         },
+        "1101_1104": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1104",
+          "cos_code": "DEO1508",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "電子學實驗(一)",
+          "cos_credit": "2.00",
+          "cos_hours": "4.00",
+          "TURL": "https://sites.google.com/g2.nctu.edu.tw/nctu-eelab/home",
+          "teacher": "電子實驗助教",
+          "cos_time": "Rabcd-ED320",
+          "memo": "",
+          "cos_ename": "Electronic Lab. (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "514",
+          "dep_primary": "1",
+          "dep_cname": "光電工程學系",
+          "dep_ename": "Department  of Photonics",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "36",
+          "depType": "U"
+        },
         "1101_1105": {
           "acy": "110",
           "sem": "1",
@@ -6151,6 +6225,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1104": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1105": {
           "": {
             "course_category_cname": "",
@@ -6267,6 +6350,12 @@
             "brief": ""
           }
         },
+        "1101_1104": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1105": {
           "": {
             "brief_code": "",
@@ -6333,6 +6422,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1103": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1104": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1105": {
@@ -37185,6 +37277,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5108": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5108",
+          "cos_code": "IEO5356",
+          "num_limit": "50",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "光電顯示實驗",
+          "cos_credit": "1.00",
+          "cos_hours": "4.00",
+          "TURL": "",
+          "teacher": "光研所",
+          "cos_time": "Mabcd-EO115",
+          "memo": "1.光電系碩士班必修 2.限光電系碩士班學生選修，其他學生另外加簽",
+          "cos_ename": "Experiments of Electro-Optics Display Technology",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "514",
+          "dep_primary": "1",
+          "dep_cname": "光電工程學系",
+          "dep_ename": "Institute of Electro-Optical Engineering",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5109": {
           "acy": "110",
           "sem": "1",
@@ -37405,6 +37525,34 @@
           "dep_ename": "Institute of Electro-Optical Engineering",
           "cos_type": "必修",
           "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5117": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5117",
+          "cos_code": "IEO5519",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "富氏光學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cc.nctu.edu.tw/~yilin/",
+          "teacher": "林怡欣",
+          "cos_time": "M4W34-CY201",
+          "memo": "",
+          "cos_ename": "Fourier Optics",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "514",
+          "dep_primary": "1",
+          "dep_cname": "光電工程學系",
+          "dep_ename": "Institute of Electro-Optical Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
@@ -37633,6 +37781,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5108": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5109": {
           "": {
             "course_category_cname": "",
@@ -37697,6 +37854,15 @@
           }
         },
         "1101_5116": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5117": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -37797,6 +37963,12 @@
             "brief": ""
           }
         },
+        "1101_5108": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5109": {
           "": {
             "brief_code": "",
@@ -37840,6 +38012,12 @@
           }
         },
         "1101_5116": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5117": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -37901,6 +38079,9 @@
         "1101_5107": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_5108": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_5109": {
           "授課語言代碼": "zh-tw"
         },
@@ -37923,6 +38104,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_5116": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5117": {
           "授課語言代碼": "zh-tw"
         },
         "1101_5118": {

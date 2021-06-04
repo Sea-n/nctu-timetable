@@ -60,6 +60,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "U"
+        },
+        "1101_A054": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "A054",
+          "cos_code": "A9813  ",
+          "num_limit": "25",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "論述寫作",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "嚴偉哲",
+          "cos_time": "W56-YX201",
+          "memo": "限醫二，全英語授課，「英國浪漫詩歌賞析」或「論述寫作」二門課程擇一修讀，為維持教學品質，限制修課人數",
+          "cos_ename": "Argumentative Essays",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "101",
+          "dep_primary": "1",
+          "dep_cname": "醫學系",
+          "dep_ename": "Department of Medicine",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
         }
       },
       "costype": {
@@ -80,6 +108,22 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_A054": {
+          "語言領域-中文(含寫作)_語言-中文": {
+            "course_category_cname": "語言領域-中文(含寫作)_語言-中文",
+            "course_category_ename": "Chinese Literature_Chinese Literature",
+            "course_category_type": "29",
+            "GECIName": "",
+            "GECIEngName": ""
+          },
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -94,6 +138,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_A054": {
+          "A505,A901": {
+            "brief_code": "A505,A901",
+            "brief": "校基本素養(106),語言-中文(90)"
+          }
         }
       },
       "language": {
@@ -102,6 +152,9 @@
         },
         "1101_A022": {
           "授課語言代碼": "zh-tw"
+        },
+        "1101_A054": {
+          "授課語言代碼": "en-us"
         }
       }
     },
@@ -973,7 +1026,7 @@
           "cos_id": "1622",
           "cos_code": "DFL3003",
           "num_limit": "60",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "美國文學(一)",
           "cos_credit": "3.00",
@@ -1001,7 +1054,7 @@
           "cos_id": "1623",
           "cos_code": "DFL3135",
           "num_limit": "65",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "句法學/語意學",
           "cos_credit": "3.00",
@@ -11177,6 +11230,65 @@
       "language": {
         "1101_2729": {
           "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "63A43442-2026-4139-89AF-D80F6F3D8D8C": {
+      "dep_id": "63A43442-2026-4139-89AF-D80F6F3D8D8C",
+      "dep_cname": "人文與社會中心",
+      "dep_ename": "Department of Anatomy and Cell Biology",
+      "1": {
+        "1101_A587": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "A587",
+          "cos_code": "A9530  ",
+          "num_limit": "30",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "英文短文寫作",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "嚴偉哲",
+          "cos_time": "W12-YX201",
+          "memo": "限醫技一、護理一、醫工一，全英語授課，為維持教學品質，限制修課人數",
+          "cos_ename": "English Composition",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "O02",
+          "dep_primary": "1",
+          "dep_cname": "人文與社會中心",
+          "dep_ename": "Department of Anatomy and Cell Biology",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        }
+      },
+      "costype": {
+        "1101_A587": {
+          "語言領域-英文_語言-英文": {
+            "course_category_cname": "語言領域-英文_語言-英文",
+            "course_category_ename": "English Literature_English Literature",
+            "course_category_type": "30",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_A587": {
+          "A902": {
+            "brief_code": "A902",
+            "brief": "語言-英文(90)"
+          }
+        }
+      },
+      "language": {
+        "1101_A587": {
+          "授課語言代碼": "en-us"
         }
       }
     },
@@ -23800,6 +23912,62 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "O"
+        },
+        "1101_6808": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6808",
+          "cos_code": "MIN1041",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "全民國防教育軍事訓練課程－全民國防",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "黃衍貴",
+          "cos_time": "F34-A104",
+          "memo": "",
+          "cos_ename": "All-out Defense Education Military Training-Civil Defense",
+          "brief": "軍訓",
+          "degree": "1",
+          "dep_id": "OUA",
+          "dep_primary": "1",
+          "dep_cname": "軍訓室",
+          "dep_ename": "Military Training Office",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6809": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6809",
+          "cos_code": "MIN1041",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "全民國防教育軍事訓練課程－全民國防",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "黃衍貴",
+          "cos_time": "F56-A104",
+          "memo": "",
+          "cos_ename": "All-out Defense Education Military Training-Civil Defense",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OUA",
+          "dep_primary": "1",
+          "dep_cname": "軍訓室",
+          "dep_ename": "Military Training Office",
+          "cos_type": "軍訓",
+          "cos_type_e": "Military Training",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
         }
       },
       "costype": {
@@ -23813,6 +23981,24 @@
           }
         },
         "1101_6807": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6808": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6809": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -23834,6 +24020,18 @@
             "brief_code": "F068",
             "brief": "軍訓(87)"
           }
+        },
+        "1101_6808": {
+          "F068": {
+            "brief_code": "F068",
+            "brief": "軍訓(87)"
+          }
+        },
+        "1101_6809": {
+          "F068": {
+            "brief_code": "F068",
+            "brief": "軍訓(87)"
+          }
         }
       },
       "language": {
@@ -23841,6 +24039,12 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_6807": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6808": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6809": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -34389,6 +34593,34 @@
       "dep_cname": "心智哲學研究所",
       "dep_ename": "Institute of Philosophy of Mind and Cognition",
       "1": {
+        "1101_B168": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "B168",
+          "cos_code": "B2123  ",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "論述寫作",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "嚴偉哲",
+          "cos_time": "W56-YX201",
+          "memo": null,
+          "cos_ename": "Argumentative Essays",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "401",
+          "dep_primary": "1",
+          "dep_cname": "心智哲學研究所",
+          "dep_ename": "Institute of Philosophy of Mind and Cognition",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_B171": {
           "acy": "110",
           "sem": "1",
@@ -34419,6 +34651,22 @@
         }
       },
       "costype": {
+        "1101_B168": {
+          "語言領域-中文(含寫作)_語言-中文": {
+            "course_category_cname": "語言領域-中文(含寫作)_語言-中文",
+            "course_category_ename": "Chinese Literature_Chinese Literature",
+            "course_category_type": "29",
+            "GECIName": "",
+            "GECIEngName": ""
+          },
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_B171": {
           "": {
             "course_category_cname": "",
@@ -34430,6 +34678,12 @@
         }
       },
       "brief": {
+        "1101_B168": {
+          "A505,A901": {
+            "brief_code": "A505,A901",
+            "brief": "校基本素養(106),語言-中文(90)"
+          }
+        },
         "1101_B171": {
           "": {
             "brief_code": "",
@@ -34438,6 +34692,9 @@
         }
       },
       "language": {
+        "1101_B168": {
+          "授課語言代碼": "en-us"
+        },
         "1101_B171": {
           "授課語言代碼": "zh-tw"
         }
@@ -34482,7 +34739,7 @@
           "cos_id": "5783",
           "cos_code": "ILC5189",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "句法學",
           "cos_credit": "3.00",
@@ -34538,7 +34795,7 @@
           "cos_id": "5786",
           "cos_code": "ILC5276",
           "num_limit": "15",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "音韻實驗方法及語料探索",
           "cos_credit": "3.00",
@@ -34566,7 +34823,7 @@
           "cos_id": "5787",
           "cos_code": "ILC5305",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "酷兒小說",
           "cos_credit": "3.00",
@@ -41806,6 +42063,118 @@
       "dep_cname": "環境工程研究所",
       "dep_ename": "Institute of Environmental Engineering",
       "1": {
+        "1101_5391": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5391",
+          "cos_code": "IEV5219",
+          "num_limit": "20",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "環境化學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "莊易學",
+          "cos_time": "R567-EV402",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Ｅnvironmental Chemistry",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "615",
+          "dep_primary": "1",
+          "dep_cname": "環境工程研究所",
+          "dep_ename": "Institute of Environmental Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5395": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5395",
+          "cos_code": "IEV5354",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "個別研究",
+          "cos_credit": "1.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "環工所",
+          "cos_time": "F234-",
+          "memo": "限環工所外籍生選修",
+          "cos_ename": "Independent Study",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "615",
+          "dep_primary": "1",
+          "dep_cname": "環境工程研究所",
+          "dep_ename": "Institute of Environmental Engineering",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5396": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5396",
+          "cos_code": "IEV5587",
+          "num_limit": "10",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "優選方法及應用",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://diygreen.ev.nycu.edu.tw",
+          "teacher": "高正忠",
+          "cos_time": "T567-EV307",
+          "memo": "環工所學生優先",
+          "cos_ename": "Optimization Methods and Applications",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "615",
+          "dep_primary": "1",
+          "dep_cname": "環境工程研究所",
+          "dep_ename": "Institute of Environmental Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5397": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5397",
+          "cos_code": "IEV5589",
+          "num_limit": "15",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "氣狀污染物控制原理及實務",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "林亮毅",
+          "cos_time": "M567-EV307",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Theory and Practice of Gaseous Pollution Control Devices",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "615",
+          "dep_primary": "1",
+          "dep_cname": "環境工程研究所",
+          "dep_ename": "Institute of Environmental Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5398": {
           "acy": "110",
           "sem": "1",
@@ -41833,10 +42202,120 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1101_5399": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5399",
+          "cos_code": "IEV5676",
+          "num_limit": "15",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "表面分析",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "張淑閔",
+          "cos_time": "T234-EV407",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Surface Analysis",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "615",
+          "dep_primary": "1",
+          "dep_cname": "環境工程研究所",
+          "dep_ename": "Institute of Environmental Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5400": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5400",
+          "cos_code": "IEV5678",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "固體廢棄物處理",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "蔡振球",
+          "cos_time": "Tabc-EV402",
+          "memo": "",
+          "cos_ename": "Solid Waste Treatment",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "615",
+          "dep_primary": "1",
+          "dep_cname": "環境工程研究所",
+          "dep_ename": "Institute of Environmental Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
+        "1101_5391": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5395": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5396": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5397": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5398": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5399": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5400": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -41847,7 +42326,43 @@
         }
       },
       "brief": {
+        "1101_5391": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5395": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5396": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5397": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5398": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5399": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5400": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -41855,8 +42370,26 @@
         }
       },
       "language": {
+        "1101_5391": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5395": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5396": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5397": {
+          "授課語言代碼": "en-us"
+        },
         "1101_5398": {
           "授課語言代碼": "en-us"
+        },
+        "1101_5399": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5400": {
+          "授課語言代碼": "zh-tw"
         }
       }
     },
@@ -48469,6 +49002,34 @@
       "dep_cname": "光電系統研究所",
       "dep_ename": "Institute of Photonic System",
       "1": {
+        "1101_5139": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5139",
+          "cos_code": "IPS5111",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "幾何光學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "潘瑞文",
+          "cos_time": "Tabc-CM224",
+          "memo": "上課地點：台南校區[English Medium Course]",
+          "cos_ename": "Geometrical Optics",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "804",
+          "dep_primary": "1",
+          "dep_cname": "光電系統研究所",
+          "dep_ename": "Institute of Photonic System",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5140": {
           "acy": "110",
           "sem": "1",
@@ -48499,6 +49060,15 @@
         }
       },
       "costype": {
+        "1101_5139": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5140": {
           "": {
             "course_category_cname": "",
@@ -48510,6 +49080,12 @@
         }
       },
       "brief": {
+        "1101_5139": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5140": {
           "": {
             "brief_code": "",
@@ -48518,6 +49094,9 @@
         }
       },
       "language": {
+        "1101_5139": {
+          "授課語言代碼": "en-us"
+        },
         "1101_5140": {
           "授課語言代碼": "zh-tw"
         }
@@ -48935,6 +49514,34 @@
       "dep_cname": "光電學院",
       "dep_ename": "College of Photonics",
       "1": {
+        "1101_5161": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5161",
+          "cos_code": "IPO5007",
+          "num_limit": "60",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "光電子學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "曾維宣",
+          "cos_time": "T234-CM218",
+          "memo": "為光電系統研究所、照明與能源光電研究所、影像與生醫光電研究所核心必修課程，建議已修過光電工程或有相關背景的同學選修，上課地點：台南校區",
+          "cos_ename": "Optical Electronics\t",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "8O1",
+          "dep_primary": "1",
+          "dep_cname": "光電學院",
+          "dep_ename": "College of Photonics",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5162": {
           "acy": "110",
           "sem": "1",
@@ -49005,7 +49612,7 @@
           "TURL": "",
           "teacher": "光電學院",
           "cos_time": "WzRzFz-CM212",
-          "memo": "為光電系統研究所、照明與能源光電研究所、影像與生醫光電研究所碩一必選課程，上課地點：台南校區。[English Medium Course]",
+          "memo": "為光電系統研究所、照明與能源光電研究所、影像與生醫光電研究所碩一必選課程，上課地點：台南校區。",
           "cos_ename": "Seminar ",
           "brief": "",
           "degree": "3",
@@ -49033,7 +49640,7 @@
           "TURL": "",
           "teacher": "光電學院",
           "cos_time": "WzRzFz-CM212",
-          "memo": "為光電系統研究所、照明與能源光電研究所、影像與生醫光電研究所博一必選課程，上課地點：台南校區[English Medium Course]",
+          "memo": "為光電學院博一必選課程，上課地點：台南校區[English Medium Course]",
           "cos_ename": "Seminar-Ph.D. ",
           "brief": "",
           "degree": "3",
@@ -49077,6 +49684,15 @@
         }
       },
       "costype": {
+        "1101_5161": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5162": {
           "": {
             "course_category_cname": "",
@@ -49124,6 +49740,12 @@
         }
       },
       "brief": {
+        "1101_5161": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5162": {
           "": {
             "brief_code": "",
@@ -49156,6 +49778,9 @@
         }
       },
       "language": {
+        "1101_5161": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_5162": {
           "授課語言代碼": "zh-tw"
         },
@@ -49163,7 +49788,7 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_5165": {
-          "授課語言代碼": "en-us"
+          "授課語言代碼": "zh-tw"
         },
         "1101_5166": {
           "授課語言代碼": "en-us"
@@ -53280,7 +53905,7 @@
           "cos_id": "5678",
           "cos_code": "ITM5236",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "科技創新創業管理",
           "cos_credit": "3.00",
@@ -55272,6 +55897,111 @@
       },
       "language": {
         "1101_5689": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "EA80BAC3-FF2B-4F14-9572-91DB26DA3157": {
+      "dep_id": "EA80BAC3-FF2B-4F14-9572-91DB26DA3157",
+      "dep_cname": "光電科技碩士在職專班",
+      "dep_ename": "Degree Program of Photonic Technology",
+      "1": {
+        "1101_5168": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5168",
+          "cos_code": "IPT5101",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "書報討論",
+          "cos_credit": "1.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "光電專班",
+          "cos_time": "WzRzFz-CM212",
+          "memo": "為碩一必選課程，限交大在職專班選修  上課地點：台南校區",
+          "cos_ename": "Seminar",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "803",
+          "dep_primary": "1",
+          "dep_cname": "光電科技碩士在職專班",
+          "dep_ename": "Degree Program of Photonic Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
+        "1101_5968": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5968",
+          "cos_code": "IPT5103",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "個別研討",
+          "cos_credit": "1.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "光電專班",
+          "cos_time": "WzRzFz-CM212",
+          "memo": "為碩二(含)以上 必選課程，限交大在職專班選修  上課地點：台南校區",
+          "cos_ename": "Independent Study",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "803",
+          "dep_primary": "1",
+          "dep_cname": "光電科技碩士在職專班",
+          "dep_ename": "Degree Program of Photonic Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        }
+      },
+      "costype": {
+        "1101_5168": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5968": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_5168": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5968": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_5168": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5968": {
           "授課語言代碼": "zh-tw"
         }
       }

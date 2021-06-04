@@ -1617,34 +1617,6 @@
           "reg_num": "0",
           "depType": "U"
         },
-        "1101_1681": {
-          "acy": "110",
-          "sem": "1",
-          "cos_id": "1681",
-          "cos_code": "DHS3120",
-          "num_limit": "9999",
-          "dep_limit": "*",
-          "URL": null,
-          "cos_cname": "實習",
-          "cos_credit": "3.00",
-          "cos_hours": "3.00",
-          "TURL": "",
-          "teacher": "劉大和",
-          "cos_time": "S234-",
-          "memo": "",
-          "cos_ename": "Practical Training",
-          "brief": "",
-          "degree": "1",
-          "dep_id": "481",
-          "dep_primary": "1",
-          "dep_cname": "人文社會學系",
-          "dep_ename": "Department of Humanities and Social Sciences",
-          "cos_type": "選修",
-          "cos_type_e": "Elective",
-          "crsoutline_type": "data",
-          "reg_num": "0",
-          "depType": "U"
-        },
         "1101_1684": {
           "acy": "110",
           "sem": "1",
@@ -1846,15 +1818,6 @@
             "GECIEngName": ""
           }
         },
-        "1101_1681": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        },
         "1101_1684": {
           "": {
             "course_category_cname": "",
@@ -1923,12 +1886,6 @@
             "brief": "文化/進階(96),校基本素養(106),博雅選修通識 (90)"
           }
         },
-        "1101_1681": {
-          "": {
-            "brief_code": "",
-            "brief": ""
-          }
-        },
         "1101_1684": {
           "": {
             "brief_code": "",
@@ -1968,9 +1925,6 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1680": {
-          "授課語言代碼": "zh-tw"
-        },
-        "1101_1681": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1684": {
@@ -14856,6 +14810,939 @@
         }
       }
     },
+    "B686A720-C6F0-46BC-8BFB-283274A362B7": {
+      "dep_id": "B686A720-C6F0-46BC-8BFB-283274A362B7",
+      "dep_cname": "藝文中心",
+      "dep_ename": "ARTS Center",
+      "1": {
+        "1101_6701": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6701",
+          "cos_code": "ART0003",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "藝文賞析教育",
+          "cos_credit": ".00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "藝文中心",
+          "cos_time": "",
+          "memo": "電機系(限大一修習此門課程)",
+          "cos_ename": "Arts Appreciation Education",
+          "brief": "藝文賞析",
+          "degree": "1",
+          "dep_id": "OU3",
+          "dep_primary": "1",
+          "dep_cname": "藝文中心",
+          "dep_ename": "ARTS Center",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6702": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6702",
+          "cos_code": "ART0003",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "藝文賞析教育",
+          "cos_credit": ".00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "藝文中心",
+          "cos_time": "",
+          "memo": "光電系(限大一修習此門課程)",
+          "cos_ename": "Arts Appreciation Education",
+          "brief": "藝文賞析",
+          "degree": "1",
+          "dep_id": "OU3",
+          "dep_primary": "1",
+          "dep_cname": "藝文中心",
+          "dep_ename": "ARTS Center",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6703": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6703",
+          "cos_code": "ART0003",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "藝文賞析教育",
+          "cos_credit": ".00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "藝文中心",
+          "cos_time": "",
+          "memo": "資工系(限大一修習此門課程)",
+          "cos_ename": "Arts Appreciation Education",
+          "brief": "藝文賞析",
+          "degree": "1",
+          "dep_id": "OU3",
+          "dep_primary": "1",
+          "dep_cname": "藝文中心",
+          "dep_ename": "ARTS Center",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6704": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6704",
+          "cos_code": "ART0003",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "藝文賞析教育",
+          "cos_credit": ".00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "藝文中心",
+          "cos_time": "",
+          "memo": "奈米學士班(限大一修習此門課程)",
+          "cos_ename": "Arts Appreciation Education",
+          "brief": "藝文賞析",
+          "degree": "1",
+          "dep_id": "OU3",
+          "dep_primary": "1",
+          "dep_cname": "藝文中心",
+          "dep_ename": "ARTS Center",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6705": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6705",
+          "cos_code": "ART0003",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "藝文賞析教育",
+          "cos_credit": ".00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "藝文中心",
+          "cos_time": "",
+          "memo": "機械系(限大一修習此門課程)",
+          "cos_ename": "Arts Appreciation Education",
+          "brief": "藝文賞析",
+          "degree": "1",
+          "dep_id": "OU3",
+          "dep_primary": "1",
+          "dep_cname": "藝文中心",
+          "dep_ename": "ARTS Center",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6706": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6706",
+          "cos_code": "ART0003",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "藝文賞析教育",
+          "cos_credit": ".00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "藝文中心",
+          "cos_time": "",
+          "memo": "土木系(限大一修習此門課程)",
+          "cos_ename": "Arts Appreciation Education",
+          "brief": "藝文賞析",
+          "degree": "1",
+          "dep_id": "OU3",
+          "dep_primary": "1",
+          "dep_cname": "藝文中心",
+          "dep_ename": "ARTS Center",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6707": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6707",
+          "cos_code": "ART0003",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "藝文賞析教育",
+          "cos_credit": ".00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "藝文中心",
+          "cos_time": "",
+          "memo": "材料系(限大一修習此門課程)",
+          "cos_ename": "Arts Appreciation Education",
+          "brief": "藝文賞析",
+          "degree": "1",
+          "dep_id": "OU3",
+          "dep_primary": "1",
+          "dep_cname": "藝文中心",
+          "dep_ename": "ARTS Center",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6708": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6708",
+          "cos_code": "ART0003",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "藝文賞析教育",
+          "cos_credit": ".00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "藝文中心",
+          "cos_time": "",
+          "memo": "電物系(限大一修習此門課程)",
+          "cos_ename": "Arts Appreciation Education",
+          "brief": "藝文賞析",
+          "degree": "1",
+          "dep_id": "OU3",
+          "dep_primary": "1",
+          "dep_cname": "藝文中心",
+          "dep_ename": "ARTS Center",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6709": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6709",
+          "cos_code": "ART0003",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "藝文賞析教育",
+          "cos_credit": ".00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "藝文中心",
+          "cos_time": "",
+          "memo": "應數系(限大一修習此門課程)",
+          "cos_ename": "Arts Appreciation Education",
+          "brief": "藝文賞析",
+          "degree": "1",
+          "dep_id": "OU3",
+          "dep_primary": "1",
+          "dep_cname": "藝文中心",
+          "dep_ename": "ARTS Center",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6710": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6710",
+          "cos_code": "ART0003",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "藝文賞析教育",
+          "cos_credit": ".00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "藝文中心",
+          "cos_time": "",
+          "memo": "應化系(限大一修習此門課程)",
+          "cos_ename": "Arts Appreciation Education",
+          "brief": "藝文賞析",
+          "degree": "1",
+          "dep_id": "OU3",
+          "dep_primary": "1",
+          "dep_cname": "藝文中心",
+          "dep_ename": "ARTS Center",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6711": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6711",
+          "cos_code": "ART0003",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "藝文賞析教育",
+          "cos_credit": ".00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "藝文中心",
+          "cos_time": "",
+          "memo": "生科系(限大一修習此門課程)",
+          "cos_ename": "Arts Appreciation Education",
+          "brief": "藝文賞析",
+          "degree": "1",
+          "dep_id": "OU3",
+          "dep_primary": "1",
+          "dep_cname": "藝文中心",
+          "dep_ename": "ARTS Center",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6712": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6712",
+          "cos_code": "ART0003",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "藝文賞析教育",
+          "cos_credit": ".00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "藝文中心",
+          "cos_time": "",
+          "memo": "管科系(限大一修習此門課程)",
+          "cos_ename": "Arts Appreciation Education",
+          "brief": "藝文賞析",
+          "degree": "1",
+          "dep_id": "OU3",
+          "dep_primary": "1",
+          "dep_cname": "藝文中心",
+          "dep_ename": "ARTS Center",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6713": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6713",
+          "cos_code": "ART0003",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "藝文賞析教育",
+          "cos_credit": ".00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "藝文中心",
+          "cos_time": "",
+          "memo": "運管系(限大一修習此門課程)",
+          "cos_ename": "Arts Appreciation Education",
+          "brief": "藝文賞析",
+          "degree": "1",
+          "dep_id": "OU3",
+          "dep_primary": "1",
+          "dep_cname": "藝文中心",
+          "dep_ename": "ARTS Center",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6714": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6714",
+          "cos_code": "ART0003",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "藝文賞析教育",
+          "cos_credit": ".00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "藝文中心",
+          "cos_time": "",
+          "memo": "工管系(限大一修習此門課程)",
+          "cos_ename": "Arts Appreciation Education",
+          "brief": "藝文賞析",
+          "degree": "1",
+          "dep_id": "OU3",
+          "dep_primary": "1",
+          "dep_cname": "藝文中心",
+          "dep_ename": "ARTS Center",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6715": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6715",
+          "cos_code": "ART0003",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "藝文賞析教育",
+          "cos_credit": ".00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "藝文中心",
+          "cos_time": "",
+          "memo": "資財系(限大一修習此門課程)",
+          "cos_ename": "Arts Appreciation Education",
+          "brief": "藝文賞析",
+          "degree": "1",
+          "dep_id": "OU3",
+          "dep_primary": "1",
+          "dep_cname": "藝文中心",
+          "dep_ename": "ARTS Center",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6716": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6716",
+          "cos_code": "ART0003",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "藝文賞析教育",
+          "cos_credit": ".00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "藝文中心",
+          "cos_time": "",
+          "memo": "外文系(限大一修習此門課程)",
+          "cos_ename": "Arts Appreciation Education",
+          "brief": "藝文賞析",
+          "degree": "1",
+          "dep_id": "OU3",
+          "dep_primary": "1",
+          "dep_cname": "藝文中心",
+          "dep_ename": "ARTS Center",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6717": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6717",
+          "cos_code": "ART0003",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "藝文賞析教育",
+          "cos_credit": ".00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "藝文中心",
+          "cos_time": "",
+          "memo": "人社系(限大一修習此門課程)",
+          "cos_ename": "Arts Appreciation Education",
+          "brief": "藝文賞析",
+          "degree": "1",
+          "dep_id": "OU3",
+          "dep_primary": "1",
+          "dep_cname": "藝文中心",
+          "dep_ename": "ARTS Center",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6718": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6718",
+          "cos_code": "ART0003",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "藝文賞析教育",
+          "cos_credit": ".00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "藝文中心",
+          "cos_time": "",
+          "memo": "傳科系(限大一修習此門課程)",
+          "cos_ename": "Arts Appreciation Education",
+          "brief": "藝文賞析",
+          "degree": "1",
+          "dep_id": "OU3",
+          "dep_primary": "1",
+          "dep_cname": "藝文中心",
+          "dep_ename": "ARTS Center",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6719": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6719",
+          "cos_code": "ART0003",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "藝文賞析教育",
+          "cos_credit": ".00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "藝文中心",
+          "cos_time": "",
+          "memo": "百川學程(限大一修習此門課程)",
+          "cos_ename": "Arts Appreciation Education",
+          "brief": "藝文賞析",
+          "degree": "1",
+          "dep_id": "OU3",
+          "dep_primary": "1",
+          "dep_cname": "藝文中心",
+          "dep_ename": "ARTS Center",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_6731": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6731",
+          "cos_code": "ART0003",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "藝文賞析教育",
+          "cos_credit": ".00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "藝文中心",
+          "cos_time": "",
+          "memo": "大二以上補修藝文賞析教育同學請選本課程.",
+          "cos_ename": "Arts Appreciation Education",
+          "brief": "藝文賞析",
+          "degree": "1",
+          "dep_id": "OU3",
+          "dep_primary": "1",
+          "dep_cname": "藝文中心",
+          "dep_ename": "ARTS Center",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        }
+      },
+      "costype": {
+        "1101_6701": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6702": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6703": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6704": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6705": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6706": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6707": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6708": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6709": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6710": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6711": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6712": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6713": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6714": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6715": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6716": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6717": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6718": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6719": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_6731": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_6701": {
+          "D099,E067": {
+            "brief_code": "D099,E067",
+            "brief": "教育學程(87),藝文賞析(87)"
+          }
+        },
+        "1101_6702": {
+          "E067": {
+            "brief_code": "E067",
+            "brief": "藝文賞析(87)"
+          }
+        },
+        "1101_6703": {
+          "E067": {
+            "brief_code": "E067",
+            "brief": "藝文賞析(87)"
+          }
+        },
+        "1101_6704": {
+          "E067": {
+            "brief_code": "E067",
+            "brief": "藝文賞析(87)"
+          }
+        },
+        "1101_6705": {
+          "E067": {
+            "brief_code": "E067",
+            "brief": "藝文賞析(87)"
+          }
+        },
+        "1101_6706": {
+          "E067": {
+            "brief_code": "E067",
+            "brief": "藝文賞析(87)"
+          }
+        },
+        "1101_6707": {
+          "E067": {
+            "brief_code": "E067",
+            "brief": "藝文賞析(87)"
+          }
+        },
+        "1101_6708": {
+          "E067": {
+            "brief_code": "E067",
+            "brief": "藝文賞析(87)"
+          }
+        },
+        "1101_6709": {
+          "E067": {
+            "brief_code": "E067",
+            "brief": "藝文賞析(87)"
+          }
+        },
+        "1101_6710": {
+          "E067": {
+            "brief_code": "E067",
+            "brief": "藝文賞析(87)"
+          }
+        },
+        "1101_6711": {
+          "E067": {
+            "brief_code": "E067",
+            "brief": "藝文賞析(87)"
+          }
+        },
+        "1101_6712": {
+          "E067": {
+            "brief_code": "E067",
+            "brief": "藝文賞析(87)"
+          }
+        },
+        "1101_6713": {
+          "E067": {
+            "brief_code": "E067",
+            "brief": "藝文賞析(87)"
+          }
+        },
+        "1101_6714": {
+          "E067": {
+            "brief_code": "E067",
+            "brief": "藝文賞析(87)"
+          }
+        },
+        "1101_6715": {
+          "E067": {
+            "brief_code": "E067",
+            "brief": "藝文賞析(87)"
+          }
+        },
+        "1101_6716": {
+          "E067": {
+            "brief_code": "E067",
+            "brief": "藝文賞析(87)"
+          }
+        },
+        "1101_6717": {
+          "E067": {
+            "brief_code": "E067",
+            "brief": "藝文賞析(87)"
+          }
+        },
+        "1101_6718": {
+          "E067": {
+            "brief_code": "E067",
+            "brief": "藝文賞析(87)"
+          }
+        },
+        "1101_6719": {
+          "E067": {
+            "brief_code": "E067",
+            "brief": "藝文賞析(87)"
+          }
+        },
+        "1101_6731": {
+          "E067": {
+            "brief_code": "E067",
+            "brief": "藝文賞析(87)"
+          }
+        }
+      },
+      "language": {
+        "1101_6701": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6702": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6703": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6704": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6705": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6706": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6707": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6708": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6709": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6710": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6711": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6712": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6713": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6714": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6715": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6716": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6717": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6718": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6719": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6731": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "F6B39FA0-2284-4B93-B1CF-8ECFF1111A2E": {
       "dep_id": "F6B39FA0-2284-4B93-B1CF-8ECFF1111A2E",
       "dep_cname": "語言教學與研究中心",
@@ -15270,6 +16157,34 @@
           "memo": "",
           "cos_ename": "Freshman English (I)",
           "brief": "",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_7144": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7144",
+          "cos_code": "DFR1308",
+          "num_limit": "25",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "進階英文聽力與討論",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "吳思葦",
+          "cos_time": "T78-A505",
+          "memo": "",
+          "cos_ename": "Advanced English Listening and Discussion",
+          "brief": "進階",
           "degree": "1",
           "dep_id": "OU6",
           "dep_primary": "1",
@@ -16286,6 +17201,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_7144": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_7149": {
           "": {
             "course_category_cname": "",
@@ -16657,6 +17581,12 @@
             "brief": ""
           }
         },
+        "1101_7144": {
+          "B072": {
+            "brief_code": "B072",
+            "brief": "進階(87)"
+          }
+        },
         "1101_7149": {
           "": {
             "brief_code": "",
@@ -16888,6 +17818,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_7131": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_7144": {
           "授課語言代碼": "zh-tw"
         },
         "1101_7149": {
@@ -29076,34 +30009,6 @@
           "reg_num": "0",
           "depType": "P"
         },
-        "1101_1681": {
-          "acy": "110",
-          "sem": "1",
-          "cos_id": "1681",
-          "cos_code": "DHS3120",
-          "num_limit": "9999",
-          "dep_limit": "*",
-          "URL": null,
-          "cos_cname": "實習",
-          "cos_credit": "3.00",
-          "cos_hours": "3.00",
-          "TURL": "",
-          "teacher": "劉大和",
-          "cos_time": "S234-",
-          "memo": "",
-          "cos_ename": "Practical Training",
-          "brief": "",
-          "degree": "1",
-          "dep_id": "PFR",
-          "dep_primary": "1",
-          "dep_cname": "人社系:文化產業學分學程",
-          "dep_ename": "Program of Cultural Industries",
-          "cos_type": "選修",
-          "cos_type_e": "Elective",
-          "crsoutline_type": "data",
-          "reg_num": "0",
-          "depType": "P"
-        },
         "1101_1684": {
           "acy": "110",
           "sem": "1",
@@ -29234,15 +30139,6 @@
             "GECIEngName": ""
           }
         },
-        "1101_1681": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        },
         "1101_1684": {
           "": {
             "course_category_cname": "",
@@ -29287,12 +30183,6 @@
             "brief": "文化/進階(96),校基本素養(106),博雅選修通識 (90)"
           }
         },
-        "1101_1681": {
-          "": {
-            "brief_code": "",
-            "brief": ""
-          }
-        },
         "1101_1684": {
           "": {
             "brief_code": "",
@@ -29320,9 +30210,6 @@
       },
       "language": {
         "1101_1680": {
-          "授課語言代碼": "zh-tw"
-        },
-        "1101_1681": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1684": {
@@ -41991,6 +42878,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5492": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5492",
+          "cos_code": "IMS2339",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "營運管理",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "姜齊",
+          "cos_time": "M123-M301",
+          "memo": "英語授課[English Medium Course]",
+          "cos_ename": "Operation Management",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "700",
+          "dep_primary": "1",
+          "dep_cname": "管理科學系",
+          "dep_ename": "Institute of Management Science",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5495": {
           "acy": "110",
           "sem": "1",
@@ -42142,6 +43057,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5492": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5495": {
           "": {
             "course_category_cname": "",
@@ -42195,6 +43119,12 @@
             "brief": ""
           }
         },
+        "1101_5492": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5495": {
           "": {
             "brief_code": "",
@@ -42229,6 +43159,9 @@
       "language": {
         "1101_5490": {
           "授課語言代碼": "zh-tw"
+        },
+        "1101_5492": {
+          "授課語言代碼": "en-us"
         },
         "1101_5495": {
           "授課語言代碼": "zh-tw"
@@ -48177,6 +49110,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "O"
+        },
+        "1101_7905": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7905",
+          "cos_code": "DFR6006",
+          "num_limit": "20",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "研究生英文:口語討論與發表",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "吳思葦",
+          "cos_time": "R78-A506",
+          "memo": "僅供研究生選修，不列入畢業學分。",
+          "cos_ename": "Graduate English: Oral Presentation and Discussion",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "OU5",
+          "dep_primary": "1",
+          "dep_cname": "寫作中心",
+          "dep_ename": "Academic Writing Center",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
         }
       },
       "costype": {
@@ -48206,6 +49167,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_7905": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -48226,6 +49196,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_7905": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -48236,6 +49212,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_7904": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_7905": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -50766,6 +51745,34 @@
       "dep_cname": "管理學院碩士在職專班-管科組",
       "dep_ename": "Degree Program of Management Science",
       "1": {
+        "1101_5614": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5614",
+          "cos_code": "IMS2339",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "營運管理",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "姜齊",
+          "cos_time": "Mabc-M301",
+          "memo": "限專班選修",
+          "cos_ename": "Operation Management",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "710",
+          "dep_primary": "1",
+          "dep_cname": "管理學院碩士在職專班-管科組",
+          "dep_ename": "Degree Program of Management Science",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
         "1101_5617": {
           "acy": "110",
           "sem": "1",
@@ -50824,6 +51831,15 @@
         }
       },
       "costype": {
+        "1101_5614": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5617": {
           "": {
             "course_category_cname": "",
@@ -50844,6 +51860,12 @@
         }
       },
       "brief": {
+        "1101_5614": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5617": {
           "": {
             "brief_code": "",
@@ -50858,6 +51880,9 @@
         }
       },
       "language": {
+        "1101_5614": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_5617": {
           "授課語言代碼": "zh-tw"
         },

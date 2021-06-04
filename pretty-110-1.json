@@ -11293,6 +11293,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "U"
+        },
+        "1101_A594": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "A594",
+          "cos_code": "B2546  ",
+          "num_limit": "24",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "科學英文",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "嚴偉哲",
+          "cos_time": "F34-YX202",
+          "memo": "限生科一、不分系一，全英語授課，為維持教學品質，限制修課人數",
+          "cos_ename": "English for Science",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "O02",
+          "dep_primary": "1",
+          "dep_cname": "人文與社會中心",
+          "dep_ename": "Department of Anatomy and Cell Biology",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
         }
       },
       "costype": {
@@ -11306,6 +11334,15 @@
           }
         },
         "1101_A590": {
+          "語言領域-英文_語言-英文": {
+            "course_category_cname": "語言領域-英文_語言-英文",
+            "course_category_ename": "English Literature_English Literature",
+            "course_category_type": "30",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_A594": {
           "語言領域-英文_語言-英文": {
             "course_category_cname": "語言領域-英文_語言-英文",
             "course_category_ename": "English Literature_English Literature",
@@ -11327,6 +11364,12 @@
             "brief_code": "A902",
             "brief": "語言-英文(90)"
           }
+        },
+        "1101_A594": {
+          "A902": {
+            "brief_code": "A902",
+            "brief": "語言-英文(90)"
+          }
         }
       },
       "language": {
@@ -11334,6 +11377,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_A590": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_A594": {
           "授課語言代碼": "en-us"
         }
       }

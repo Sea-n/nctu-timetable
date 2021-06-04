@@ -15993,6 +15993,65 @@
         }
       }
     },
+    "1198DE94-5BBA-49F0-92C5-9CA7368E945C": {
+      "dep_id": "1198DE94-5BBA-49F0-92C5-9CA7368E945C",
+      "dep_cname": "華語中心",
+      "dep_ename": "Chinese Language",
+      "1": {
+        "1101_3024": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "3024",
+          "cos_code": "COM1604",
+          "num_limit": "20",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "電影與華人文化",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "徐微喬",
+          "cos_time": "R56-A402",
+          "memo": "",
+          "cos_ename": "Film and Chinese Culture",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU4",
+          "dep_primary": "1",
+          "dep_cname": "華語中心",
+          "dep_ename": "Chinese Language",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        }
+      },
+      "costype": {
+        "1101_3024": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_3024": {
+          "H334": {
+            "brief_code": "H334",
+            "brief": "主題 Electives(98)"
+          }
+        }
+      },
+      "language": {
+        "1101_3024": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "F6B39FA0-2284-4B93-B1CF-8ECFF1111A2E": {
       "dep_id": "F6B39FA0-2284-4B93-B1CF-8ECFF1111A2E",
       "dep_cname": "語言教學與研究中心",

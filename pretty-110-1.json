@@ -11265,10 +11265,47 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "U"
+        },
+        "1101_A590": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "A590",
+          "cos_code": "B2546  ",
+          "num_limit": "33",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "科學英文",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "嚴偉哲",
+          "cos_time": "R12-YT301",
+          "memo": "限醫學一，全英語授課，為維持教學品質，限制修課人數",
+          "cos_ename": "English for Science",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "O02",
+          "dep_primary": "1",
+          "dep_cname": "人文與社會中心",
+          "dep_ename": "Department of Anatomy and Cell Biology",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
         }
       },
       "costype": {
         "1101_A587": {
+          "語言領域-英文_語言-英文": {
+            "course_category_cname": "語言領域-英文_語言-英文",
+            "course_category_ename": "English Literature_English Literature",
+            "course_category_type": "30",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_A590": {
           "語言領域-英文_語言-英文": {
             "course_category_cname": "語言領域-英文_語言-英文",
             "course_category_ename": "English Literature_English Literature",
@@ -11284,10 +11321,19 @@
             "brief_code": "A902",
             "brief": "語言-英文(90)"
           }
+        },
+        "1101_A590": {
+          "A902": {
+            "brief_code": "A902",
+            "brief": "語言-英文(90)"
+          }
         }
       },
       "language": {
         "1101_A587": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_A590": {
           "授課語言代碼": "en-us"
         }
       }
@@ -16522,6 +16568,34 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1101_7158": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7158",
+          "cos_code": "DFR1278",
+          "num_limit": "20",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "進階英文寫作",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "張靜芬",
+          "cos_time": "W34-A505",
+          "memo": "",
+          "cos_ename": "Advanced English Writing",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_7159": {
           "acy": "110",
           "sem": "1",
@@ -17422,6 +17496,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_7158": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_7159": {
           "": {
             "course_category_cname": "",
@@ -17781,6 +17864,12 @@
             "brief": "進階(87)"
           }
         },
+        "1101_7158": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_7159": {
           "": {
             "brief_code": "",
@@ -17997,6 +18086,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_7156": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_7158": {
           "授課語言代碼": "zh-tw"
         },
         "1101_7159": {
@@ -35021,10 +35113,47 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1101_5793": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5793",
+          "cos_code": "ITE5047",
+          "num_limit": "15",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "數位科技與語言學習",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "張靜芬",
+          "cos_time": "M567-HC301",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Digital Technology and Language Learning",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "452",
+          "dep_primary": "1",
+          "dep_cname": "英語教學研究所",
+          "dep_ename": "Institute of Teaching English to Speakers of Other Languages",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
         "1101_5792": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5793": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -35040,10 +35169,19 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_5793": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
         "1101_5792": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5793": {
           "授課語言代碼": "en-us"
         }
       }
@@ -55961,6 +56099,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "J"
+        },
+        "1101_5970": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5970",
+          "cos_code": "IPT5109",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "投影顯示科技",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "潘瑞文",
+          "cos_time": "Wabc-CM224",
+          "memo": "限交大在職專班選修  上課地點：台南校區",
+          "cos_ename": "Projection Display Technology",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "803",
+          "dep_primary": "1",
+          "dep_cname": "光電科技碩士在職專班",
+          "dep_ename": "Degree Program of Photonic Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
         }
       },
       "costype": {
@@ -55974,6 +56140,15 @@
           }
         },
         "1101_5968": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5970": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -55995,6 +56170,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_5970": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -56002,6 +56183,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_5968": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5970": {
           "授課語言代碼": "zh-tw"
         }
       }

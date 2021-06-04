@@ -497,7 +497,7 @@
           "cos_id": "1588",
           "cos_code": "DFL1103",
           "num_limit": "18",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "英文作文（一）",
           "cos_credit": "2.00",
@@ -525,7 +525,7 @@
           "cos_id": "1591",
           "cos_code": "DFL1117",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "大一英文一:文學作品導讀",
           "cos_credit": "3.00",
@@ -553,7 +553,7 @@
           "cos_id": "1592",
           "cos_code": "DFL1120",
           "num_limit": "18",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "傳達技巧工作坊(一)",
           "cos_credit": "3.00",
@@ -581,7 +581,7 @@
           "cos_id": "1593",
           "cos_code": "DFL1120",
           "num_limit": "18",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "傳達技巧工作坊(一)",
           "cos_credit": "3.00",
@@ -609,7 +609,7 @@
           "cos_id": "1595",
           "cos_code": "DFL1132",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "台語概論",
           "cos_credit": "3.00",
@@ -637,7 +637,7 @@
           "cos_id": "1597",
           "cos_code": "DFL1225",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "語言學概論（一）",
           "cos_credit": "2.00",
@@ -665,7 +665,7 @@
           "cos_id": "1598",
           "cos_code": "DFL1437",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "服務學習(一)",
           "cos_credit": ".00",
@@ -693,7 +693,7 @@
           "cos_id": "1605",
           "cos_code": "DFL2107",
           "num_limit": "18",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "高級寫作（一）",
           "cos_credit": "3.00",
@@ -721,7 +721,7 @@
           "cos_id": "1607",
           "cos_code": "DFL2107",
           "num_limit": "18",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "高級寫作（一）",
           "cos_credit": "3.00",
@@ -749,7 +749,7 @@
           "cos_id": "1610",
           "cos_code": "DFL2137",
           "num_limit": "25",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "初級日文(一)",
           "cos_credit": "2.00",
@@ -777,7 +777,7 @@
           "cos_id": "1611",
           "cos_code": "DFL2216",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "口語科學概論",
           "cos_credit": "3.00",
@@ -861,7 +861,7 @@
           "cos_id": "1616",
           "cos_code": "DFL4155",
           "num_limit": "25",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "初級西班牙文（一）",
           "cos_credit": "2.00",
@@ -889,7 +889,7 @@
           "cos_id": "1619",
           "cos_code": "DFL1406",
           "num_limit": "25",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "初級法文(一)",
           "cos_credit": "2.00",
@@ -917,7 +917,7 @@
           "cos_id": "1620",
           "cos_code": "DFL1412",
           "num_limit": "25",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "中級法文(一)",
           "cos_credit": "2.00",
@@ -945,7 +945,7 @@
           "cos_id": "1621",
           "cos_code": "DFL2139",
           "num_limit": "25",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "中級日文(一)",
           "cos_credit": "2.00",
@@ -1029,7 +1029,7 @@
           "cos_id": "1626",
           "cos_code": "DFL4135",
           "num_limit": "25",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "高級日文(一)",
           "cos_credit": "2.00",
@@ -1057,7 +1057,7 @@
           "cos_id": "1627",
           "cos_code": "DFL4171",
           "num_limit": "25",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "中級西班牙文（一）",
           "cos_credit": "2.00",
@@ -2058,6 +2058,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1701": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1701",
+          "cos_code": "DCT2038",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "傳播研究方法",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "游婉雲",
+          "cos_time": "T567-HKB08",
+          "memo": "",
+          "cos_ename": "Introduction to Research Methods",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "483",
+          "dep_primary": "1",
+          "dep_cname": "傳播與科技學系",
+          "dep_ename": "Department of Communication and Technology",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1702": {
           "acy": "110",
           "sem": "1",
@@ -2271,6 +2299,15 @@
             "GECIEngName": "CBT"
           }
         },
+        "1101_1701": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1702": {
           "博雅選修通識_博雅選修通識": {
             "course_category_cname": "博雅選修通識_博雅選修通識",
@@ -2365,6 +2402,12 @@
             "brief": "群己/進階(96),跨院基本素養(106),核心通識-社會與經濟(90)"
           }
         },
+        "1101_1701": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1702": {
           "A505,A909": {
             "brief_code": "A505,A909",
@@ -2413,6 +2456,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1699": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1701": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1702": {
@@ -29670,7 +29716,7 @@
           "cos_id": "1597",
           "cos_code": "DFL1225",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "語言學概論（一）",
           "cos_credit": "2.00",
@@ -30237,7 +30283,7 @@
           "cos_id": "1611",
           "cos_code": "DFL2216",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "口語科學概論",
           "cos_credit": "3.00",
@@ -34334,6 +34380,65 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_5770": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "FB596805-0704-444B-9382-CEB9950BF3C8": {
+      "dep_id": "FB596805-0704-444B-9382-CEB9950BF3C8",
+      "dep_cname": "心智哲學研究所",
+      "dep_ename": "Institute of Philosophy of Mind and Cognition",
+      "1": {
+        "1101_B171": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "B171",
+          "cos_code": "B2514  ",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "認知神經科學實作哲學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "嚴如玉",
+          "cos_time": "R678-YX406",
+          "memo": "1.為心靈哲學領域課程。\r\n2.開放大學部選修。",
+          "cos_ename": "Philosophy of Cognitive Neuroscience in Practice",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "401",
+          "dep_primary": "1",
+          "dep_cname": "心智哲學研究所",
+          "dep_ename": "Institute of Philosophy of Mind and Cognition",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "1101_B171": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_B171": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_B171": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -39499,6 +39604,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1101_5134": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5134",
+          "cos_code": "IIE5058",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "電化學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "林子恩",
+          "cos_time": "T567-EE112",
+          "memo": "開學後，開放大三、 大四選修",
+          "cos_ename": "Electrochemistry  ",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "515",
+          "dep_primary": "1",
+          "dep_cname": "生醫工程研究所",
+          "dep_ename": "Institute of Biomedical Imaging and Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
@@ -39587,6 +39720,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_5134": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -39637,6 +39779,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_5134": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -39662,6 +39810,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_5133": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5134": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -42912,7 +43063,7 @@
           "cos_id": "5495",
           "cos_code": "IMS2359",
           "num_limit": "30",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "程式設計與基礎資料結構",
           "cos_credit": "3.00",
@@ -51801,6 +51952,34 @@
           "reg_num": "0",
           "depType": "J"
         },
+        "1101_5619": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5619",
+          "cos_code": "IMS5615",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "研究方法",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "姜齊",
+          "cos_time": "U234-M301",
+          "memo": "限專班選修",
+          "cos_ename": "Research Methods",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "710",
+          "dep_primary": "1",
+          "dep_cname": "管理學院碩士在職專班-管科組",
+          "dep_ename": "Degree Program of Management Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
         "1101_5620": {
           "acy": "110",
           "sem": "1",
@@ -51849,6 +52028,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5619": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5620": {
           "": {
             "course_category_cname": "",
@@ -51872,6 +52060,12 @@
             "brief": ""
           }
         },
+        "1101_5619": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5620": {
           "": {
             "brief_code": "",
@@ -51884,6 +52078,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_5617": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5619": {
           "授課語言代碼": "zh-tw"
         },
         "1101_5620": {
@@ -52887,7 +53084,7 @@
           "cos_id": "5671",
           "cos_code": "ITM5063",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "國際行銷",
           "cos_credit": "3.00",
@@ -52915,7 +53112,7 @@
           "cos_id": "5672",
           "cos_code": "ITM5088",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "科技事業規劃與經營發展",
           "cos_credit": "3.00",
@@ -52943,7 +53140,7 @@
           "cos_id": "5673",
           "cos_code": "ITM5142",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "科管研究方法",
           "cos_credit": "3.00",
@@ -52971,7 +53168,7 @@
           "cos_id": "5674",
           "cos_code": "ITM5212",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "人工智慧與高科技之商業運用",
           "cos_credit": "3.00",
@@ -52999,7 +53196,7 @@
           "cos_id": "5675",
           "cos_code": "ITM5215",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "科技管理與科技政策議題",
           "cos_credit": "3.00",
@@ -53027,7 +53224,7 @@
           "cos_id": "5676",
           "cos_code": "ITM5227",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "創意思考與問題解決",
           "cos_credit": "3.00",
@@ -53055,7 +53252,7 @@
           "cos_id": "5677",
           "cos_code": "ITM5230",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "科技創新與智財佈局",
           "cos_credit": "3.00",
@@ -53111,7 +53308,7 @@
           "cos_id": "5679",
           "cos_code": "ITM5238",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "金融科技(FinTech)與數位行銷",
           "cos_credit": "3.00",
@@ -53139,7 +53336,7 @@
           "cos_id": "5680",
           "cos_code": "ITM5331",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "碩士論文研究",
           "cos_credit": "3.00",
@@ -53167,7 +53364,7 @@
           "cos_id": "5681",
           "cos_code": "ITM5530",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "財務管理",
           "cos_credit": "3.00",
@@ -53195,7 +53392,7 @@
           "cos_id": "5682",
           "cos_code": "ITM5541",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "企業政策與策略管理",
           "cos_credit": "3.00",

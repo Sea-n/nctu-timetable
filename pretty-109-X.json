@@ -1076,6 +1076,65 @@
         }
       }
     },
+    "FFC961F1-2C03-4FB3-870B-FB60725FDCE3": {
+      "dep_id": "FFC961F1-2C03-4FB3-870B-FB60725FDCE3",
+      "dep_cname": "管理科學系",
+      "dep_ename": "Institute of Management Science",
+      "1": {
+        "109X_5007": {
+          "acy": "109",
+          "sem": "X",
+          "cos_id": "5007",
+          "cos_code": "IMS5609",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "經濟學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "姜齊",
+          "cos_time": "M234T234R234-M301",
+          "memo": "日期:7月5日-8月12日",
+          "cos_ename": "Economics",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "700",
+          "dep_primary": "1",
+          "dep_cname": "管理科學系",
+          "dep_ename": "Institute of Management Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "109X_5007": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "109X_5007": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "109X_5007": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "30B55C0F-1EF3-4B53-8EF8-3D26A8DDDC87": {
       "dep_id": "30B55C0F-1EF3-4B53-8EF8-3D26A8DDDC87",
       "dep_cname": "客家社會與文化碩士在職專班",
@@ -1332,7 +1391,7 @@
           "cos_hours": "3.00",
           "TURL": "",
           "teacher": "彭文理",
-          "cos_time": "MabcWabc-MB110",
+          "cos_time": "MabcWabc-MB405",
           "memo": "日期:7月5日-9月1日,限專班",
           "cos_ename": "Six Sigma Performance Management",
           "brief": "",

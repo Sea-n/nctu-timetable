@@ -163,6 +163,34 @@
       "dep_cname": "生物科技學系",
       "dep_ename": "Department of Biological Science and Technology",
       "1": {
+        "1101_1547": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1547",
+          "cos_code": "DBT1121",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "化學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "張晉源、李明家",
+          "cos_time": "M789-SC151",
+          "memo": "電子.光電.電物.應化.機械.土木.材料系.奈米學士班不同意所屬學生採計通識學分",
+          "cos_ename": "Chemistry",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "350",
+          "dep_primary": "1",
+          "dep_cname": "生物科技學系",
+          "dep_ename": "Department of Biological Science and Technology",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1549": {
           "acy": "110",
           "sem": "1",
@@ -247,6 +275,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1563": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1563",
+          "cos_code": "DBT2117",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "生物化學（一）",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "吳東昆、楊裕雄、張晉源",
+          "cos_time": "M2W34-SC105",
+          "memo": "",
+          "cos_ename": "Biochemistry (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "350",
+          "dep_primary": "1",
+          "dep_cname": "生物科技學系",
+          "dep_ename": "Department of Biological Science and Technology",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1565": {
           "acy": "110",
           "sem": "1",
@@ -271,6 +327,34 @@
           "dep_ename": "Department of Biological Science and Technology",
           "cos_type": "選修",
           "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1101_1566": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1566",
+          "cos_code": "DBT3314",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "生物化學實驗",
+          "cos_credit": "1.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "張晉源",
+          "cos_time": "R567-SC258",
+          "memo": "",
+          "cos_ename": "Biochemistry lab.",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "350",
+          "dep_primary": "1",
+          "dep_cname": "生物科技學系",
+          "dep_ename": "Department of Biological Science and Technology",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "U"
@@ -389,6 +473,15 @@
         }
       },
       "costype": {
+        "1101_1547": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1549": {
           "": {
             "course_category_cname": "",
@@ -416,7 +509,25 @@
             "GECIEngName": ""
           }
         },
+        "1101_1563": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1565": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1566": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -463,6 +574,12 @@
         }
       },
       "brief": {
+        "1101_1547": {
+          "A205,A505": {
+            "brief_code": "A205,A505",
+            "brief": "自然/進階(96),校基本素養(106)"
+          }
+        },
         "1101_1549": {
           "": {
             "brief_code": "",
@@ -481,7 +598,19 @@
             "brief": ""
           }
         },
+        "1101_1563": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1565": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1566": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -513,6 +642,9 @@
         }
       },
       "language": {
+        "1101_1547": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1549": {
           "授課語言代碼": "zh-tw"
         },
@@ -522,7 +654,13 @@
         "1101_1560": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_1563": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1565": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1566": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1568": {
@@ -34258,6 +34396,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5701": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5701",
+          "cos_code": "IBT5308",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "論文研究",
+          "cos_credit": "1.00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "吳東昆、林苕吟、張晉源",
+          "cos_time": "T8-",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Thesis",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "350",
+          "dep_primary": "1",
+          "dep_cname": "生物科技學系",
+          "dep_ename": "Institute of Biological Science and Technology",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5704": {
           "acy": "110",
           "sem": "1",
@@ -34436,6 +34602,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5701": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5704": {
           "": {
             "course_category_cname": "",
@@ -34514,6 +34689,12 @@
             "brief": ""
           }
         },
+        "1101_5701": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5704": {
           "": {
             "brief_code": "",
@@ -34556,6 +34737,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_5699": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5701": {
           "授課語言代碼": "en-us"
         },
         "1101_5704": {

@@ -9326,6 +9326,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1355": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1355",
+          "cos_code": "DEP2326",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "近代物理(二)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cc.nctu.edu.tw/~jjlin/",
+          "teacher": "林志忠",
+          "cos_time": "T78R2-SC158",
+          "memo": "",
+          "cos_ename": "Modern Physics (II)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "651",
+          "dep_primary": "1",
+          "dep_cname": "電子物理學系",
+          "dep_ename": "Department of Electro-Physics",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1356": {
           "acy": "110",
           "sem": "1",
@@ -9495,6 +9523,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1355": {
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "工",
+            "GECIEngName": "COE"
+          }
+        },
         "1101_1356": {
           "": {
             "course_category_cname": "",
@@ -9560,6 +9597,12 @@
             "brief": ""
           }
         },
+        "1101_1355": {
+          "A205,A504": {
+            "brief_code": "A205,A504",
+            "brief": "自然/進階(96),跨院基本素養(106)"
+          }
+        },
         "1101_1356": {
           "": {
             "brief_code": "",
@@ -9599,6 +9642,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1352": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1355": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1356": {
@@ -31174,6 +31220,65 @@
         }
       }
     },
+    "58C04749-6608-438E-8ACF-7E06125DB934": {
+      "dep_id": "58C04749-6608-438E-8ACF-7E06125DB934",
+      "dep_cname": "物理研究所跨域學程(B)外系學生",
+      "dep_ename": "Institute of Physics for Cross-Disciplinary Program",
+      "1": {
+        "1101_1355": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1355",
+          "cos_code": "DEP2326",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "近代物理(二)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cc.nctu.edu.tw/~jjlin/",
+          "teacher": "林志忠",
+          "cos_time": "T78R2-SC158",
+          "memo": "",
+          "cos_ename": "Modern Physics (II)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QJM",
+          "dep_primary": "1",
+          "dep_cname": "物理研究所跨域學程(B)外系學生",
+          "dep_ename": "Institute of Physics for Cross-Disciplinary Program",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        }
+      },
+      "costype": {
+        "1101_1355": {
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "工",
+            "GECIEngName": "COE"
+          }
+        }
+      },
+      "brief": {
+        "1101_1355": {
+          "A205,A504": {
+            "brief_code": "A205,A504",
+            "brief": "自然/進階(96),跨院基本素養(106)"
+          }
+        }
+      },
+      "language": {
+        "1101_1355": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "C7AEA193-438E-4EC0-B89F-C33688A98A86": {
       "dep_id": "C7AEA193-438E-4EC0-B89F-C33688A98A86",
       "dep_cname": "科技管理研究所跨域學程(B)外系學生",
@@ -44252,6 +44357,34 @@
       "dep_cname": "物理研究所",
       "dep_ename": "Institute of Physics",
       "1": {
+        "1101_5470": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5470",
+          "cos_code": "IOP5444",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "低溫與介觀物理(二)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cc.nctu.edu.tw/~jjlin/",
+          "teacher": "林志忠",
+          "cos_time": "F89a-SC064",
+          "memo": "",
+          "cos_ename": "Low Temperature and Mesoscopic Physics(II)",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "658",
+          "dep_primary": "1",
+          "dep_cname": "物理研究所",
+          "dep_ename": "Institute of Physics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5473": {
           "acy": "110",
           "sem": "1",
@@ -44310,6 +44443,15 @@
         }
       },
       "costype": {
+        "1101_5470": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5473": {
           "": {
             "course_category_cname": "",
@@ -44330,6 +44472,12 @@
         }
       },
       "brief": {
+        "1101_5470": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5473": {
           "": {
             "brief_code": "",
@@ -44344,6 +44492,9 @@
         }
       },
       "language": {
+        "1101_5470": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_5473": {
           "授課語言代碼": "zh-tw"
         },

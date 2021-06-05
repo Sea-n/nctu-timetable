@@ -387,6 +387,62 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1570": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1570",
+          "cos_code": "DBT2105",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "微生物學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "彭慧玲、蘭宜錚、麥如村",
+          "cos_time": "T34-SC162,W4-SC151",
+          "memo": "限修過生化（一）者，生科系奈米學士班優先",
+          "cos_ename": "Microbiology",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "350",
+          "dep_primary": "1",
+          "dep_cname": "生物科技學系",
+          "dep_ename": "Department of Biological Science and Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1101_1571": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1571",
+          "cos_code": "DBT2107",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "微生物學實驗",
+          "cos_credit": "1.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "彭慧玲、曾慶平、麥如村",
+          "cos_time": "Wn56-SC212",
+          "memo": "生科系優先、限修過或正在選修微生物學者",
+          "cos_ename": "Microbiology Lab.",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "350",
+          "dep_primary": "1",
+          "dep_cname": "生物科技學系",
+          "dep_ename": "Department of Biological Science and Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1573": {
           "acy": "110",
           "sem": "1",
@@ -545,6 +601,24 @@
             "GECIEngName": ""
           }
         },
+        "1101_1570": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1571": {
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "工",
+            "GECIEngName": "COE"
+          }
+        },
         "1101_1573": {
           "": {
             "course_category_cname": "",
@@ -622,6 +696,18 @@
             "brief": ""
           }
         },
+        "1101_1570": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1571": {
+          "A205,A504": {
+            "brief_code": "A205,A504",
+            "brief": "自然/進階(96),跨院基本素養(106)"
+          }
+        },
         "1101_1573": {
           "": {
             "brief_code": "",
@@ -664,6 +750,12 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1568": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1570": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1571": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1573": {
@@ -7611,6 +7703,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1219": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1219",
+          "cos_code": "DME4701",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "衛星科技與工程導論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "林信嘉",
+          "cos_time": "Tabc-CS100",
+          "memo": "",
+          "cos_ename": "Introduction to Satellite Technology and Engineering",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "611",
+          "dep_primary": "1",
+          "dep_cname": "機械工程學系",
+          "dep_ename": "Department of Mechanical Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1220": {
           "acy": "110",
           "sem": "1",
@@ -8237,6 +8357,29 @@
             "GECIEngName": ""
           }
         },
+        "1101_1219": {
+          "核心通識-科技與社會_核心通識-科技與社會": {
+            "course_category_cname": "核心通識-科技與社會_核心通識-科技與社會",
+            "course_category_ename": "Science, Technology and Society_Science, Technology and Society",
+            "course_category_type": "35",
+            "GECIName": "生",
+            "GECIEngName": "CBT"
+          },
+          "網路課程_網路": {
+            "course_category_cname": "網路課程_網路",
+            "course_category_ename": "Network Courses_NET",
+            "course_category_type": "5",
+            "GECIName": "生",
+            "GECIEngName": "CBT"
+          },
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "生",
+            "GECIEngName": "CBT"
+          }
+        },
         "1101_1220": {
           "": {
             "course_category_cname": "",
@@ -8473,6 +8616,12 @@
             "brief": ""
           }
         },
+        "1101_1219": {
+          "A205,A504,A907": {
+            "brief_code": "A205,A504,A907",
+            "brief": "自然/進階(96),跨院基本素養(106),核心通識-科技與社會(90)"
+          }
+        },
         "1101_1220": {
           "": {
             "brief_code": "",
@@ -8611,6 +8760,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1218": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1219": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1220": {
@@ -29615,6 +29767,34 @@
       "dep_cname": "太空科技與工程學分學程",
       "dep_ename": "Program of Space Technology and Engineering",
       "1": {
+        "1101_1219": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1219",
+          "cos_code": "DME4701",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "衛星科技與工程導論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "林信嘉",
+          "cos_time": "Tabc-CS100",
+          "memo": "",
+          "cos_ename": "Introduction to Satellite Technology and Engineering",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PCI",
+          "dep_primary": "1",
+          "dep_cname": "太空科技與工程學分學程",
+          "dep_ename": "Program of Space Technology and Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
         "1101_1251": {
           "acy": "110",
           "sem": "1",
@@ -29645,6 +29825,29 @@
         }
       },
       "costype": {
+        "1101_1219": {
+          "核心通識-科技與社會_核心通識-科技與社會": {
+            "course_category_cname": "核心通識-科技與社會_核心通識-科技與社會",
+            "course_category_ename": "Science, Technology and Society_Science, Technology and Society",
+            "course_category_type": "35",
+            "GECIName": "生",
+            "GECIEngName": "CBT"
+          },
+          "網路課程_網路": {
+            "course_category_cname": "網路課程_網路",
+            "course_category_ename": "Network Courses_NET",
+            "course_category_type": "5",
+            "GECIName": "生",
+            "GECIEngName": "CBT"
+          },
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "生",
+            "GECIEngName": "CBT"
+          }
+        },
         "1101_1251": {
           "核心通識-科技與社會_核心通識-科技與社會": {
             "course_category_cname": "核心通識-科技與社會_核心通識-科技與社會",
@@ -29670,6 +29873,12 @@
         }
       },
       "brief": {
+        "1101_1219": {
+          "A205,A504,A907": {
+            "brief_code": "A205,A504,A907",
+            "brief": "自然/進階(96),跨院基本素養(106),核心通識-科技與社會(90)"
+          }
+        },
         "1101_1251": {
           "A205,A504,A907": {
             "brief_code": "A205,A504,A907",
@@ -29678,6 +29887,9 @@
         }
       },
       "language": {
+        "1101_1219": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1251": {
           "授課語言代碼": "zh-tw"
         }
@@ -34424,6 +34636,62 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5702": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5702",
+          "cos_code": "IBT5308",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "論文研究",
+          "cos_credit": "1.00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "彭慧玲、蘭宜錚、曲在雯",
+          "cos_time": "T8-",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Thesis",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "350",
+          "dep_primary": "1",
+          "dep_cname": "生物科技學系",
+          "dep_ename": "Institute of Biological Science and Technology",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5703": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5703",
+          "cos_code": "IBT5515",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "細菌基因體特論",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "彭慧玲",
+          "cos_time": "M56-BI308",
+          "memo": "",
+          "cos_ename": "Special Topics in Bacterial Genomics",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "350",
+          "dep_primary": "1",
+          "dep_cname": "生物科技學系",
+          "dep_ename": "Institute of Biological Science and Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5704": {
           "acy": "110",
           "sem": "1",
@@ -34611,6 +34879,24 @@
             "GECIEngName": ""
           }
         },
+        "1101_5702": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5703": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5704": {
           "": {
             "course_category_cname": "",
@@ -34695,6 +34981,18 @@
             "brief": ""
           }
         },
+        "1101_5702": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5703": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5704": {
           "": {
             "brief_code": "",
@@ -34741,6 +35039,12 @@
         },
         "1101_5701": {
           "授課語言代碼": "en-us"
+        },
+        "1101_5702": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5703": {
+          "授課語言代碼": "zh-tw"
         },
         "1101_5704": {
           "授課語言代碼": "zh-tw"

@@ -9101,6 +9101,62 @@
           "reg_num": "0",
           "depType": "C"
         },
+        "1101_1330": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1330",
+          "cos_code": "DPS2005",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "數學發展史導論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "葉李華",
+          "cos_time": "T789-SC152",
+          "memo": "理學院學士班學生優先，建議大二以上學生選修。",
+          "cos_ename": "Introduction to the History of Mathematics",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "650",
+          "dep_primary": "1",
+          "dep_cname": "理學院科學學士學位學程",
+          "dep_ename": "Undergraduate honors Program of Interdisciplinary Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "C"
+        },
+        "1101_1331": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1331",
+          "cos_code": "DPS2006",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "天文學發展史導論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "葉李華",
+          "cos_time": "W34n-SC160",
+          "memo": "理學院學士班學生優先，建議大二以上學生選修。",
+          "cos_ename": "Introduction to the History of Astronomy",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "650",
+          "dep_primary": "1",
+          "dep_cname": "理學院科學學士學位學程",
+          "dep_ename": "Undergraduate honors Program of Interdisciplinary Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "C"
+        },
         "1101_1333": {
           "acy": "110",
           "sem": "1",
@@ -9177,6 +9233,24 @@
             "GECIEngName": ""
           }
         },
+        "1101_1330": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1331": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1333": {
           "": {
             "course_category_cname": "",
@@ -9209,6 +9283,18 @@
             "brief": ""
           }
         },
+        "1101_1330": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1331": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1333": {
           "": {
             "brief_code": "",
@@ -9227,6 +9313,12 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1329": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1330": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1331": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1333": {

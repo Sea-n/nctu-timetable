@@ -37498,6 +37498,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1101_5836": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5836",
+          "cos_code": "IAA5484",
+          "num_limit": "0",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "多媒體網頁設計實務",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "徐慈璟",
+          "cos_time": "F567-HA314",
+          "memo": "限20人，不開放網路選課，於開學後加簽選課(第1堂課需出席)，應藝所優先。",
+          "cos_ename": "Multimedia Web Page Design",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "462",
+          "dep_primary": "1",
+          "dep_cname": "應用藝術研究所",
+          "dep_ename": "Institute of Applied Arts",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
@@ -37527,6 +37555,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_5836": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -37547,6 +37584,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_5836": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -37557,6 +37600,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_5833": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5836": {
           "授課語言代碼": "zh-tw"
         }
       }

@@ -37889,6 +37889,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5029": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5029",
+          "cos_code": "IEE5563",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "積體電路技術（一）",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "崔秉鉞",
+          "cos_time": "T2R56-ED220",
+          "memo": "",
+          "cos_ename": "Integrated Circuit Technology (I)",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "510",
+          "dep_primary": "1",
+          "dep_cname": "電子研究所",
+          "dep_ename": "Institute of Electronics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5033": {
           "acy": "110",
           "sem": "1",
@@ -37956,6 +37984,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5029": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5033": {
           "": {
             "course_category_cname": "",
@@ -37982,6 +38019,12 @@
             "brief": ""
           }
         },
+        "1101_5029": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5033": {
           "": {
             "brief_code": "",
@@ -37997,6 +38040,9 @@
       },
       "language": {
         "1101_5018": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5029": {
           "授課語言代碼": "zh-tw"
         },
         "1101_5033": {

@@ -47491,6 +47491,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1101_5531": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5531",
+          "cos_code": "ITT5584",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "運輸計量分析",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "吳昆峰",
+          "cos_time": "W678-TD",
+          "memo": "台北校區開課；視訊上課；英文授課[English Medium Course]",
+          "cos_ename": "Transportation Econometrics",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "702",
+          "dep_primary": "1",
+          "dep_cname": "運輸與物流管理學系交通運輸碩博士班",
+          "dep_ename": "Institute of Traffic and Transportation",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
@@ -47592,6 +47620,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_5531": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -47660,6 +47697,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_5531": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -47695,6 +47738,9 @@
         },
         "1101_5530": {
           "授課語言代碼": "zh-tw"
+        },
+        "1101_5531": {
+          "授課語言代碼": "en-us"
         }
       }
     },

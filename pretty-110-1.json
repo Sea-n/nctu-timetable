@@ -45706,6 +45706,62 @@
       "dep_cname": "統計學研究所",
       "dep_ename": "Institute of Statistics",
       "1": {
+        "1101_5455": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5455",
+          "cos_code": "IST5503",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "品質管制",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "王秀瑛",
+          "cos_time": "W234-A406",
+          "memo": "",
+          "cos_ename": "Quality Control",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "657",
+          "dep_primary": "1",
+          "dep_cname": "統計學研究所",
+          "dep_ename": "Institute of Statistics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5456": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5456",
+          "cos_code": "IST5516",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "統計諮詢",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "王秀瑛",
+          "cos_time": "M567-A406",
+          "memo": "",
+          "cos_ename": "Consulting in Statistics",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "657",
+          "dep_primary": "1",
+          "dep_cname": "統計學研究所",
+          "dep_ename": "Institute of Statistics",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5458": {
           "acy": "110",
           "sem": "1",
@@ -45764,6 +45820,24 @@
         }
       },
       "costype": {
+        "1101_5455": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5456": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5458": {
           "": {
             "course_category_cname": "",
@@ -45784,6 +45858,18 @@
         }
       },
       "brief": {
+        "1101_5455": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5456": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5458": {
           "": {
             "brief_code": "",
@@ -45798,6 +45884,12 @@
         }
       },
       "language": {
+        "1101_5455": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5456": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_5458": {
           "授課語言代碼": "zh-tw"
         },

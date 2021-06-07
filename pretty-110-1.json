@@ -17957,6 +17957,34 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1101_7121": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7121",
+          "cos_code": "DFR1105",
+          "num_limit": "30",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "大一英文（一）",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "吳宇晴",
+          "cos_time": "R34-A507",
+          "memo": "",
+          "cos_ename": "Freshman English (I)",
+          "brief": "基礎",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_7124": {
           "acy": "110",
           "sem": "1",
@@ -19486,6 +19514,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_7121": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_7124": {
           "": {
             "course_category_cname": "",
@@ -20013,6 +20050,12 @@
             "brief": "基礎(87)"
           }
         },
+        "1101_7121": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_7124": {
           "B071": {
             "brief_code": "B071",
@@ -20352,6 +20395,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_7120": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_7121": {
           "授課語言代碼": "zh-tw"
         },
         "1101_7124": {
@@ -29585,7 +29631,7 @@
           "sem": "1",
           "cos_id": "1138",
           "cos_code": "UEE2407",
-          "num_limit": "55",
+          "num_limit": "9999",
           "dep_limit": "N",
           "URL": null,
           "cos_cname": "電路學－(英文班)",
@@ -46239,7 +46285,7 @@
           "cos_id": "5403",
           "cos_code": "IEP5526",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "雷射導論",
           "cos_credit": "3.00",
@@ -46267,7 +46313,7 @@
           "cos_id": "5404",
           "cos_code": "IEP5532",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "統計場論與量子相變",
           "cos_credit": "3.00",
@@ -46295,7 +46341,7 @@
           "cos_id": "5409",
           "cos_code": "IEP5610",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "固態光學",
           "cos_credit": "3.00",
@@ -46323,7 +46369,7 @@
           "cos_id": "5410",
           "cos_code": "IEP5618",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "光學實驗",
           "cos_credit": "2.00",
@@ -46351,7 +46397,7 @@
           "cos_id": "5413",
           "cos_code": "IEP5801",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "半導體製程技術",
           "cos_credit": "3.00",
@@ -61489,7 +61535,7 @@
           "sem": "1",
           "cos_id": "1132",
           "cos_code": "UEE2405",
-          "num_limit": "55",
+          "num_limit": "60",
           "dep_limit": "N",
           "URL": null,
           "cos_cname": "電路學",
@@ -61517,7 +61563,7 @@
           "sem": "1",
           "cos_id": "1133",
           "cos_code": "UEE2405",
-          "num_limit": "55",
+          "num_limit": "60",
           "dep_limit": "N",
           "URL": null,
           "cos_cname": "電路學",
@@ -61545,7 +61591,7 @@
           "sem": "1",
           "cos_id": "1134",
           "cos_code": "UEE2405",
-          "num_limit": "55",
+          "num_limit": "60",
           "dep_limit": "N",
           "URL": null,
           "cos_cname": "電路學",
@@ -61573,7 +61619,7 @@
           "sem": "1",
           "cos_id": "1135",
           "cos_code": "UEE2405",
-          "num_limit": "55",
+          "num_limit": "60",
           "dep_limit": "N",
           "URL": null,
           "cos_cname": "電路學",
@@ -61601,7 +61647,7 @@
           "sem": "1",
           "cos_id": "1136",
           "cos_code": "UEE2405",
-          "num_limit": "55",
+          "num_limit": "60",
           "dep_limit": "N",
           "URL": null,
           "cos_cname": "電路學",
@@ -61629,7 +61675,7 @@
           "sem": "1",
           "cos_id": "1137",
           "cos_code": "UEE2405",
-          "num_limit": "55",
+          "num_limit": "60",
           "dep_limit": "N",
           "URL": null,
           "cos_cname": "電路學",
@@ -61657,7 +61703,7 @@
           "sem": "1",
           "cos_id": "1138",
           "cos_code": "UEE2407",
-          "num_limit": "55",
+          "num_limit": "9999",
           "dep_limit": "N",
           "URL": null,
           "cos_cname": "電路學－(英文班)",

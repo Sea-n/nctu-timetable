@@ -29584,7 +29584,7 @@
           "cos_id": "4007",
           "cos_code": "IOC5148",
           "num_limit": "60",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "博士班書報討論(英)",
           "cos_credit": ".00",
@@ -30250,6 +30250,34 @@
           "reg_num": "0",
           "depType": "P"
         },
+        "1101_5289": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5289",
+          "cos_code": "ILE5069",
+          "num_limit": "45",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "影像編修技術與特效合成(英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cs.nctu.edu.tw/~ichenlin",
+          "teacher": "林奕成",
+          "cos_time": "T34R7-EC329",
+          "memo": "本院學生優先；英文授課[English Medium Course]",
+          "cos_ename": "Image Manipulation Techniques and Visual Effects",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAN",
+          "dep_primary": "1",
+          "dep_cname": "電機資訊英語授課學分學程",
+          "dep_ename": "Electrical Engineering and Computer Science-International Program",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
         "1101_5295": {
           "acy": "110",
           "sem": "1",
@@ -30672,6 +30700,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5289": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5295": {
           "": {
             "course_category_cname": "",
@@ -30911,6 +30948,12 @@
             "brief": ""
           }
         },
+        "1101_5289": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5295": {
           "": {
             "brief_code": "",
@@ -31034,6 +31077,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_5284": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5289": {
           "授課語言代碼": "en-us"
         },
         "1101_5295": {
@@ -39584,7 +39630,7 @@
           "cos_id": "5971",
           "cos_code": "IEE5755",
           "num_limit": "15",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "碳化矽製程實驗",
           "cos_credit": "1.00",
@@ -44305,6 +44351,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1101_5289": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5289",
+          "cos_code": "ILE5069",
+          "num_limit": "45",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "影像編修技術與特效合成(英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cs.nctu.edu.tw/~ichenlin",
+          "teacher": "林奕成",
+          "cos_time": "T34R7-EC329",
+          "memo": "本院學生優先；英文授課[English Medium Course]",
+          "cos_ename": "Image Manipulation Techniques and Visual Effects",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "553",
+          "dep_primary": "1",
+          "dep_cname": "多媒體工程研究所",
+          "dep_ename": "Institute of Multimedia Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
@@ -44334,6 +44408,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_5289": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -44354,6 +44437,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_5289": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -44365,6 +44454,9 @@
         },
         "1101_5288": {
           "授課語言代碼": "zh-tw"
+        },
+        "1101_5289": {
+          "授課語言代碼": "en-us"
         }
       }
     },
@@ -44379,7 +44471,7 @@
           "cos_id": "5291",
           "cos_code": "IDS5001",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "個別研究",
           "cos_credit": "1.00",
@@ -46636,6 +46728,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5450": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5450",
+          "cos_code": "IMO5137",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "同步加速器光源在化學研究之應用",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "吳宇中",
+          "cos_time": "W56-SB201",
+          "memo": "",
+          "cos_ename": "Advanced Light Source in Chemical Research",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "655",
+          "dep_primary": "1",
+          "dep_cname": "應用化學系分子科學碩博班",
+          "dep_ename": "Institute of Molecular Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5451": {
           "acy": "110",
           "sem": "1",
@@ -46768,6 +46888,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5450": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5451": {
           "": {
             "course_category_cname": "",
@@ -46818,6 +46947,12 @@
             "brief": ""
           }
         },
+        "1101_5450": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5451": {
           "": {
             "brief_code": "",
@@ -46849,6 +46984,9 @@
         },
         "1101_5449": {
           "授課語言代碼": "en-us"
+        },
+        "1101_5450": {
+          "授課語言代碼": "zh-tw"
         },
         "1101_5451": {
           "授課語言代碼": "en-us"
@@ -54393,7 +54531,7 @@
           "cos_id": "4007",
           "cos_code": "IOC5148",
           "num_limit": "60",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "博士班書報討論(英)",
           "cos_credit": ".00",

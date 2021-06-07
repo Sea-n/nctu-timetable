@@ -336,7 +336,7 @@
           "sem": "1",
           "cos_id": "1566",
           "cos_code": "DBT3314",
-          "num_limit": "9999",
+          "num_limit": "45",
           "dep_limit": "*",
           "URL": null,
           "cos_cname": "生物化學實驗",
@@ -4353,7 +4353,7 @@
           "sem": "1",
           "cos_id": "1063",
           "cos_code": "UEE3404",
-          "num_limit": "9999",
+          "num_limit": "80",
           "dep_limit": "*",
           "URL": null,
           "cos_cname": "類比積體電路導論",
@@ -10140,6 +10140,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "U"
+        },
+        "1101_1393": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1393",
+          "cos_code": "DAM4402",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "幾何學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "王夏聲",
+          "cos_time": "T2R56-SA215",
+          "memo": "",
+          "cos_ename": "Geometry",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "652",
+          "dep_primary": "1",
+          "dep_cname": "應用數學系",
+          "dep_ename": "Department of Applied Mathematics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
         }
       },
       "costype": {
@@ -10205,6 +10233,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_1393": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -10249,6 +10286,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_1393": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -10271,6 +10314,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1388": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1393": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -47830,6 +47876,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5521": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5521",
+          "cos_code": "ITS5132",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "運輸系統分析",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "水敬心",
+          "cos_time": "W234-A905",
+          "memo": "新竹校區開課；英文授課；開放社會人士選讀[English Medium Course]",
+          "cos_ename": "Transportation System Analysis",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "702",
+          "dep_primary": "1",
+          "dep_cname": "運輸與物流管理學系交通運輸碩博士班",
+          "dep_ename": "Institute of Traffic and Transportation",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5523": {
           "acy": "110",
           "sem": "1",
@@ -48101,6 +48175,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5521": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5523": {
           "": {
             "course_category_cname": "",
@@ -48205,6 +48288,12 @@
             "brief": ""
           }
         },
+        "1101_5521": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5523": {
           "": {
             "brief_code": "",
@@ -48269,6 +48358,9 @@
         },
         "1101_5520": {
           "授課語言代碼": "zh-tw"
+        },
+        "1101_5521": {
+          "授課語言代碼": "en-us"
         },
         "1101_5523": {
           "授課語言代碼": "en-us"

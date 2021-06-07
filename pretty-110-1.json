@@ -12002,6 +12002,34 @@
       "dep_cname": "資訊管理與財務金融系",
       "dep_ename": "Department of Information and Finance Management",
       "1": {
+        "1101_1501": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1501",
+          "cos_code": "DIF1090",
+          "num_limit": "50",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "生涯規劃與導師時間(一)",
+          "cos_credit": "1.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "游家牧",
+          "cos_time": "W78-M-b09",
+          "memo": "大一必修；限資財系學生選修。",
+          "cos_ename": "Career Planning and Mentor's Hours (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "705",
+          "dep_primary": "1",
+          "dep_cname": "資訊管理與財務金融系",
+          "dep_ename": "Department of Information and Finance Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1505": {
           "acy": "110",
           "sem": "1",
@@ -12056,6 +12084,34 @@
           "cos_type_e": "Required",
           "crsoutline_type": "data",
           "reg_num": "35",
+          "depType": "U"
+        },
+        "1101_1511": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1511",
+          "cos_code": "DIF1066",
+          "num_limit": "50",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "演算法",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "游家牧",
+          "cos_time": "M789-M101",
+          "memo": "大三資管組核心必選；資財系優先選課；外系學生請於開學加退選階段上網選課。",
+          "cos_ename": "Computer Algorithms",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "705",
+          "dep_primary": "1",
+          "dep_cname": "資訊管理與財務金融系",
+          "dep_ename": "Department of Information and Finance Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "43",
           "depType": "U"
         },
         "1101_1513": {
@@ -12116,6 +12172,15 @@
         }
       },
       "costype": {
+        "1101_1501": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1505": {
           "": {
             "course_category_cname": "",
@@ -12126,6 +12191,15 @@
           }
         },
         "1101_1508": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1511": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -12154,6 +12228,12 @@
         }
       },
       "brief": {
+        "1101_1501": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1505": {
           "": {
             "brief_code": "",
@@ -12161,6 +12241,12 @@
           }
         },
         "1101_1508": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1511": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -12180,10 +12266,16 @@
         }
       },
       "language": {
+        "1101_1501": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1505": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1508": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1511": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1513": {
@@ -46077,6 +46169,65 @@
         }
       }
     },
+    "52AA5301-0713-48B6-817E-07CE0041FCD4": {
+      "dep_id": "52AA5301-0713-48B6-817E-07CE0041FCD4",
+      "dep_cname": "土木工程學系",
+      "dep_ename": "Institute of Civil Engineering",
+      "1": {
+        "1101_5362": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5362",
+          "cos_code": "ICV5541",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "地工數值方法",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "羅佳明",
+          "cos_time": "R234-EB404",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Numerical and Analytical Methods in Geotechnical Eng",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "612",
+          "dep_primary": "1",
+          "dep_cname": "土木工程學系",
+          "dep_ename": "Institute of Civil Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "1101_5362": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_5362": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_5362": {
+          "授課語言代碼": "en-us"
+        }
+      }
+    },
     "7528328B-140A-4777-AADC-B1DB034FD90F": {
       "dep_id": "7528328B-140A-4777-AADC-B1DB034FD90F",
       "dep_cname": "環境工程研究所",
@@ -50035,6 +50186,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1101_5568": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5568",
+          "cos_code": "IOF5148",
+          "num_limit": "20",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "資訊安全與區塊鏈",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "游家牧",
+          "cos_time": "Tabc-M101",
+          "memo": "資訊類課程；財金碩士班主開、資財系輔開；財務金融碩博士班、資財系大三大四優先；本課程限管理學院學生選修。財務金融跨域課程。外系所學生請於913開學後加選或紙本加簽。",
+          "cos_ename": "Information Security and Blockchain",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "707",
+          "dep_primary": "1",
+          "dep_cname": "資訊管理與財務金融系財務金融碩博士班",
+          "dep_ename": "Graduate institute of finance",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
@@ -50100,6 +50279,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_5568": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -50144,6 +50332,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_5568": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -50166,6 +50360,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_5567": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5568": {
           "授課語言代碼": "zh-tw"
         }
       }

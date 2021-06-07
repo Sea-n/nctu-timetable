@@ -44632,6 +44632,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5283": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5283",
+          "cos_code": "ILE5014",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "計算機圖學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cs.nctu.edu.tw/~wclin",
+          "teacher": "林文杰",
+          "cos_time": "Tn56-ED117",
+          "memo": "本院學生優先；博士班資格考考核科目；請依各所入學年度之修業要點選課",
+          "cos_ename": "Computer Graphics",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "553",
+          "dep_primary": "1",
+          "dep_cname": "多媒體工程研究所",
+          "dep_ename": "Institute of Multimedia Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5284": {
           "acy": "110",
           "sem": "1",
@@ -44727,6 +44755,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5283": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5284": {
           "": {
             "course_category_cname": "",
@@ -44762,6 +44799,12 @@
             "brief": ""
           }
         },
+        "1101_5283": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5284": {
           "": {
             "brief_code": "",
@@ -44783,6 +44826,9 @@
       },
       "language": {
         "1101_5282": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5283": {
           "授課語言代碼": "zh-tw"
         },
         "1101_5284": {

@@ -9853,6 +9853,34 @@
       "dep_cname": "應用數學系",
       "dep_ename": "Department of Applied Mathematics",
       "1": {
+        "1101_1371": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1371",
+          "cos_code": "DAM1107",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "服務學習(一)",
+          "cos_credit": "1.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "王國仲、康明軒",
+          "cos_time": "M9a-SA223",
+          "memo": "",
+          "cos_ename": "Service Learning I",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "652",
+          "dep_primary": "1",
+          "dep_cname": "應用數學系",
+          "dep_ename": "Department of Applied Mathematics",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1373": {
           "acy": "110",
           "sem": "1",
@@ -10023,6 +10051,15 @@
         }
       },
       "costype": {
+        "1101_1371": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1373": {
           "": {
             "course_category_cname": "",
@@ -10079,6 +10116,12 @@
         }
       },
       "brief": {
+        "1101_1371": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1373": {
           "": {
             "brief_code": "",
@@ -10117,6 +10160,9 @@
         }
       },
       "language": {
+        "1101_1371": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1373": {
           "授課語言代碼": "zh-tw"
         },
@@ -26311,6 +26357,34 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1101_0372": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "0372",
+          "cos_code": "DAM1379",
+          "num_limit": "65",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "微積分學而班理論組一(榮譽)",
+          "cos_credit": "1.00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "王國仲",
+          "cos_time": "",
+          "memo": "理論組，加選學而班，請填寫書面報名表，並交到基礎大樓203室。(請點課號看說明)",
+          "cos_ename": "Honor Calculus Problem Solving Session(I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OUE",
+          "dep_primary": "1",
+          "dep_cname": "微積分教學小組",
+          "dep_ename": "Calculus section",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_0411": {
           "acy": "110",
           "sem": "1",
@@ -26661,6 +26735,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_0372": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_0411": {
           "通識跨院基本素養_通識跨院": {
             "course_category_cname": "通識跨院基本素養_通識跨院",
@@ -26813,6 +26896,12 @@
             "brief": ""
           }
         },
+        "1101_0372": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_0411": {
           "A205,A504": {
             "brief_code": "A205,A504",
@@ -26900,6 +26989,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_0356": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_0372": {
           "授課語言代碼": "zh-tw"
         },
         "1101_0411": {
@@ -59296,6 +59388,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1176": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1176",
+          "cos_code": "DCP1203",
+          "num_limit": "65",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "計算機概論與程式設計",
+          "cos_credit": "3.00",
+          "cos_hours": "5.00",
+          "TURL": "http://www.cs.nctu.edu.tw/~jlhuang",
+          "teacher": "黃俊龍",
+          "cos_time": "M56-EC122,Mabc-EC315,R2-EC122",
+          "memo": "一年級必修僅開學才開放選課；外系生請於開學上網加選；資工系與電資學士班學生優先選課；資訊共同；Mabc上課教室:EC315、EC316\n※電機.電子.光電.電物.應數.機械.「108學年起入學奈米學士班」.生科系及管理學院不同意所屬學生採計通識學分。",
+          "cos_ename": "Introduction to Computers and Programming",
+          "brief": "",
+          "degree": "A",
+          "dep_id": "5C1",
+          "dep_primary": "1",
+          "dep_cname": "資訊學院共同課程",
+          "dep_ename": "College of Computer Science",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1180": {
           "acy": "110",
           "sem": "1",
@@ -59568,6 +59688,22 @@
             "GECIEngName": ""
           }
         },
+        "1101_1176": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "工,客",
+            "GECIEngName": "COE,CHK"
+          },
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "工,客",
+            "GECIEngName": "COE,CHK"
+          }
+        },
         "1101_1180": {
           "通識跨院基本素養_通識跨院": {
             "course_category_cname": "通識跨院基本素養_通識跨院",
@@ -59663,6 +59799,12 @@
             "brief": ""
           }
         },
+        "1101_1176": {
+          "A205,A504,A505": {
+            "brief_code": "A205,A504,A505",
+            "brief": "自然/進階(96),跨院基本素養(106),校基本素養(106)"
+          }
+        },
         "1101_1180": {
           "A205,A504": {
             "brief_code": "A205,A504",
@@ -59723,6 +59865,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1158": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1176": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1180": {

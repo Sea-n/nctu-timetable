@@ -219,6 +219,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1551": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1551",
+          "cos_code": "DBT1141",
+          "num_limit": "20",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "普通生物學（一）",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "鄒協成、林勇欣、莊碧簪",
+          "cos_time": "W6R56-SA320",
+          "memo": "奈米學士班不同意所屬學生採計通識學分",
+          "cos_ename": "General Biology",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "350",
+          "dep_primary": "1",
+          "dep_cname": "生物科技學系",
+          "dep_ename": "Department of Biological Science and Technology",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1559": {
           "acy": "110",
           "sem": "1",
@@ -263,6 +291,34 @@
           "cos_time": "M4n5678-SB120",
           "memo": "",
           "cos_ename": "Organic Chemistry Lab. (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "350",
+          "dep_primary": "1",
+          "dep_cname": "生物科技學系",
+          "dep_ename": "Department of Biological Science and Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1101_1561": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1561",
+          "cos_code": "DBT2114",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "程式設計 GO GO GO ",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "羅惟正",
+          "cos_time": "T789-CS",
+          "memo": "",
+          "cos_ename": "Programming GO GO GO",
           "brief": "",
           "degree": "1",
           "dep_id": "350",
@@ -547,6 +603,22 @@
             "GECIEngName": ""
           }
         },
+        "1101_1551": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "電,理,客",
+            "GECIEngName": "ECE,COS,CHK"
+          },
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "電,理,客",
+            "GECIEngName": "ECE,COS,CHK"
+          }
+        },
         "1101_1559": {
           "": {
             "course_category_cname": "",
@@ -561,6 +633,15 @@
             "course_category_cname": "",
             "course_category_ename": "",
             "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1561": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
             "GECIName": "",
             "GECIEngName": ""
           }
@@ -660,6 +741,12 @@
             "brief": ""
           }
         },
+        "1101_1551": {
+          "A105,A504,A505": {
+            "brief_code": "A105,A504,A505",
+            "brief": "自然/基礎(96),跨院基本素養(106),校基本素養(106)"
+          }
+        },
         "1101_1559": {
           "": {
             "brief_code": "",
@@ -670,6 +757,12 @@
           "": {
             "brief_code": "",
             "brief": ""
+          }
+        },
+        "1101_1561": {
+          "A205,A505": {
+            "brief_code": "A205,A505",
+            "brief": "自然/進階(96),校基本素養(106)"
           }
         },
         "1101_1563": {
@@ -734,10 +827,16 @@
         "1101_1549": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_1551": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1559": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1560": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1561": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1563": {
@@ -9137,6 +9236,34 @@
       "dep_cname": "理學院科學學士學位學程",
       "dep_ename": "Undergraduate honors Program of Interdisciplinary Science",
       "1": {
+        "1101_1326": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1326",
+          "cos_code": "DPS1003",
+          "num_limit": "60",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "普通生物學(一)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳文亮、莊碧簪",
+          "cos_time": "Wn56-SC106",
+          "memo": "理學院科學學士學位學程班學生優先。",
+          "cos_ename": "General Biology(I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "650",
+          "dep_primary": "1",
+          "dep_cname": "理學院科學學士學位學程",
+          "dep_ename": "Undergraduate honors Program of Interdisciplinary Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "C"
+        },
         "1101_1327": {
           "acy": "110",
           "sem": "1",
@@ -9307,6 +9434,22 @@
         }
       },
       "costype": {
+        "1101_1326": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "理,客",
+            "GECIEngName": "COS,CHK"
+          },
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "理,客",
+            "GECIEngName": "COS,CHK"
+          }
+        },
         "1101_1327": {
           "": {
             "course_category_cname": "",
@@ -9363,6 +9506,12 @@
         }
       },
       "brief": {
+        "1101_1326": {
+          "A105,A504,A505": {
+            "brief_code": "A105,A504,A505",
+            "brief": "自然/基礎(96),跨院基本素養(106),校基本素養(106)"
+          }
+        },
         "1101_1327": {
           "": {
             "brief_code": "",
@@ -9401,6 +9550,9 @@
         }
       },
       "language": {
+        "1101_1326": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1327": {
           "授課語言代碼": "zh-tw"
         },
@@ -9432,7 +9584,7 @@
           "cos_id": "1339",
           "cos_code": "DEP1307",
           "num_limit": "75",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "計算機概論（一）",
           "cos_credit": "3.00",
@@ -9460,7 +9612,7 @@
           "cos_id": "1345",
           "cos_code": "DEP2340",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "電子學（一）",
           "cos_credit": "3.00",
@@ -9488,7 +9640,7 @@
           "cos_id": "1346",
           "cos_code": "DEP2348",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "電路理論（一）",
           "cos_credit": "3.00",
@@ -9516,7 +9668,7 @@
           "cos_id": "1347",
           "cos_code": "DEP2351",
           "num_limit": "36",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "電子實驗（一）",
           "cos_credit": "2.00",
@@ -9544,7 +9696,7 @@
           "cos_id": "1352",
           "cos_code": "DEP3325",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "電磁學（一）",
           "cos_credit": "3.00",
@@ -9572,7 +9724,7 @@
           "cos_id": "1355",
           "cos_code": "DEP2326",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "近代物理(二)",
           "cos_credit": "3.00",
@@ -9591,7 +9743,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "29",
+          "reg_num": "56",
           "depType": "U"
         },
         "1101_1356": {
@@ -9600,7 +9752,7 @@
           "cos_id": "1356",
           "cos_code": "DEP3333",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "量子元件與物理",
           "cos_credit": "3.00",
@@ -9628,7 +9780,7 @@
           "cos_id": "1357",
           "cos_code": "DEP3342",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "電子學（三）",
           "cos_credit": "3.00",
@@ -9656,7 +9808,7 @@
           "cos_id": "1358",
           "cos_code": "DEP3570",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "熱物理",
           "cos_credit": "3.00",
@@ -9675,7 +9827,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "29",
+          "reg_num": "56",
           "depType": "U"
         },
         "1101_1361": {
@@ -9684,7 +9836,7 @@
           "cos_id": "1361",
           "cos_code": "DEP4327",
           "num_limit": "75",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "光學概論（一）",
           "cos_credit": "3.00",
@@ -9703,7 +9855,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "27",
           "depType": "U"
         },
         "1101_1368": {
@@ -9712,7 +9864,7 @@
           "cos_id": "1368",
           "cos_code": "DEP4609",
           "num_limit": "75",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "奈米科學導論",
           "cos_credit": "3.00",
@@ -30330,7 +30482,7 @@
           "cos_id": "5295",
           "cos_code": "IDS5006",
           "num_limit": "35",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "資料探勘(英文授課)",
           "cos_credit": "3.00",
@@ -30358,7 +30510,7 @@
           "cos_id": "5296",
           "cos_code": "IDS5008",
           "num_limit": "96",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": "https://yyc.solvcon.net/en/latest/nsd/schedule/nsd_21au_nycu.html",
           "cos_cname": "數值軟體開發(英文授課)",
           "cos_credit": "3.00",
@@ -33342,7 +33494,7 @@
           "cos_id": "1355",
           "cos_code": "DEP2326",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "近代物理(二)",
           "cos_credit": "3.00",
@@ -33361,7 +33513,7 @@
           "cos_type": "選修",
           "cos_type_e": "Elective",
           "crsoutline_type": "data",
-          "reg_num": "29",
+          "reg_num": "56",
           "depType": "Q"
         }
       },
@@ -37386,6 +37538,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5737": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5737",
+          "cos_code": "IBT5308",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "論文研究",
+          "cos_credit": "1.00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "柯立偉、羅惟正、陳亭妏",
+          "cos_time": "M2-",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Thesis",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "351",
+          "dep_primary": "1",
+          "dep_cname": "生物資訊及系統生物研究所",
+          "dep_ename": "Institute of Bioinformatics and System Biology",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5738": {
           "acy": "110",
           "sem": "1",
@@ -37434,6 +37614,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5737": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5738": {
           "": {
             "course_category_cname": "",
@@ -37457,6 +37646,12 @@
             "brief": ""
           }
         },
+        "1101_5737": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5738": {
           "": {
             "brief_code": "",
@@ -37470,6 +37665,9 @@
         },
         "1101_5733": {
           "授課語言代碼": "zh-tw"
+        },
+        "1101_5737": {
+          "授課語言代碼": "en-us"
         },
         "1101_5738": {
           "授課語言代碼": "en-us"
@@ -37537,6 +37735,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5766": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5766",
+          "cos_code": "IBE5072",
+          "num_limit": "6",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "線蟲生物學論文導讀與實作",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "莊碧簪",
+          "cos_time": "F567-BI311",
+          "memo": "",
+          "cos_ename": "Introduction and Manipulation of Nematode Biology",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "352",
+          "dep_primary": "1",
+          "dep_cname": "分子醫學與生物工程研究所",
+          "dep_ename": "Institute of Molecular and Bioengineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5770": {
           "acy": "110",
           "sem": "1",
@@ -37585,6 +37811,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5766": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5770": {
           "": {
             "course_category_cname": "",
@@ -37608,6 +37843,12 @@
             "brief": ""
           }
         },
+        "1101_5766": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5770": {
           "": {
             "brief_code": "",
@@ -37620,6 +37861,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_5764": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5766": {
           "授課語言代碼": "zh-tw"
         },
         "1101_5770": {
@@ -44545,7 +44789,7 @@
           "cos_id": "5295",
           "cos_code": "IDS5006",
           "num_limit": "35",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "資料探勘(英文授課)",
           "cos_credit": "3.00",
@@ -44573,7 +44817,7 @@
           "cos_id": "5296",
           "cos_code": "IDS5008",
           "num_limit": "96",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": "https://yyc.solvcon.net/en/latest/nsd/schedule/nsd_21au_nycu.html",
           "cos_cname": "數值軟體開發(英文授課)",
           "cos_credit": "3.00",
@@ -53885,7 +54129,7 @@
           "sem": "1",
           "cos_id": "5161",
           "cos_code": "IPO5007",
-          "num_limit": "60",
+          "num_limit": "48",
           "dep_limit": "*",
           "URL": null,
           "cos_cname": "光電子學",
@@ -61125,7 +61369,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "40",
+          "reg_num": "50",
           "depType": "U"
         },
         "1101_1127": {

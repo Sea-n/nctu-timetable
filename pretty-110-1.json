@@ -26882,6 +26882,111 @@
         }
       }
     },
+    "60A7936E-B0C0-4C0F-9DE7-33D16A367F20": {
+      "dep_id": "60A7936E-B0C0-4C0F-9DE7-33D16A367F20",
+      "dep_cname": "台中一中科學班",
+      "dep_ename": "Taichung First Senior High School",
+      "1": {
+        "1101_1447": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1447",
+          "cos_code": "DOS1009",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "藝術生活",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "黃毓婷",
+          "cos_time": "T56-SC152",
+          "memo": "限中一中科學班學生選修",
+          "cos_ename": "Arts and Life",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OUG",
+          "dep_primary": "1",
+          "dep_cname": "台中一中科學班",
+          "dep_ename": "Taichung First Senior High School",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "S"
+        },
+        "1101_1448": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1448",
+          "cos_code": "DOS1010",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "個別科學研究",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "台中一中",
+          "cos_time": "",
+          "memo": "限中一中科學班學生選修",
+          "cos_ename": "Individual Science Study",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OUG",
+          "dep_primary": "1",
+          "dep_cname": "台中一中科學班",
+          "dep_ename": "Taichung First Senior High School",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "S"
+        }
+      },
+      "costype": {
+        "1101_1447": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1448": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_1447": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1448": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_1447": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1448": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "EDC2AE3B-55E0-40CB-8DA1-BAF46ABAAA7C": {
       "dep_id": "EDC2AE3B-55E0-40CB-8DA1-BAF46ABAAA7C",
       "dep_cname": "教學發展中心",

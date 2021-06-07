@@ -886,6 +886,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1594": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1594",
+          "cos_code": "DFL1120",
+          "num_limit": "18",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "傳達技巧工作坊(一)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "https://yuwenlai.wixsite.com/home",
+          "teacher": "賴郁雯",
+          "cos_time": "T567-F207",
+          "memo": "B組,限外文系",
+          "cos_ename": "Communicative Skills Workshop (1)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "450",
+          "dep_primary": "1",
+          "dep_cname": "外國語文學系",
+          "dep_ename": "Department of Foreign Languages and Literatures",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1595": {
           "acy": "110",
           "sem": "1",
@@ -1400,6 +1428,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1594": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1595": {
           "": {
             "course_category_cname": "",
@@ -1586,6 +1623,12 @@
             "brief": ""
           }
         },
+        "1101_1594": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1595": {
           "": {
             "brief_code": "",
@@ -1701,6 +1744,9 @@
         },
         "1101_1593": {
           "授課語言代碼": "en-us"
+        },
+        "1101_1594": {
+          "授課語言代碼": "zh-tw"
         },
         "1101_1595": {
           "授課語言代碼": "zh-tw"
@@ -29422,6 +29468,34 @@
           "reg_num": "0",
           "depType": "P"
         },
+        "1101_5295": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5295",
+          "cos_code": "IDS5006",
+          "num_limit": "35",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "資料探勘(英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "胡毓志",
+          "cos_time": "M34W2-EC015",
+          "memo": "本院學生優先；博士班資格考考核科目；數據科學與工程研究所二選一； 英文授課[English Medium Course]",
+          "cos_ename": "Data Mining",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAN",
+          "dep_primary": "1",
+          "dep_cname": "電機資訊英語授課學分學程",
+          "dep_ename": "Electrical Engineering and Computer Science-International Program",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
         "1101_5296": {
           "acy": "110",
           "sem": "1",
@@ -29816,6 +29890,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5295": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5296": {
           "": {
             "course_category_cname": "",
@@ -30046,6 +30129,12 @@
             "brief": ""
           }
         },
+        "1101_5295": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5296": {
           "": {
             "brief_code": "",
@@ -30163,6 +30252,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_5284": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5295": {
           "授課語言代碼": "en-us"
         },
         "1101_5296": {
@@ -42867,6 +42959,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5261": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5261",
+          "cos_code": "IOC5159",
+          "num_limit": "25",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "生醫資料探勘",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "胡毓志",
+          "cos_time": "Rabc-ED302",
+          "memo": "本院學生優先",
+          "cos_ename": "Biomedical Data Mining",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "551",
+          "dep_primary": "1",
+          "dep_cname": "資訊科學與工程研究所",
+          "dep_ename": "Institute of Computer Science and Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5262": {
           "acy": "110",
           "sem": "1",
@@ -43044,6 +43164,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5261": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5262": {
           "": {
             "course_category_cname": "",
@@ -43124,6 +43253,12 @@
             "brief": ""
           }
         },
+        "1101_5261": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5262": {
           "": {
             "brief_code": "",
@@ -43170,6 +43305,9 @@
         },
         "1101_5259": {
           "授課語言代碼": "en-us"
+        },
+        "1101_5261": {
+          "授課語言代碼": "zh-tw"
         },
         "1101_5262": {
           "授課語言代碼": "zh-tw"
@@ -43481,6 +43619,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5295": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5295",
+          "cos_code": "IDS5006",
+          "num_limit": "35",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "資料探勘(英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "胡毓志",
+          "cos_time": "M34W2-EC015",
+          "memo": "本院學生優先；博士班資格考考核科目；數據科學與工程研究所二選一； 英文授課[English Medium Course]",
+          "cos_ename": "Data Mining",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "554",
+          "dep_primary": "1",
+          "dep_cname": "數據科學與工程研究所碩士班",
+          "dep_ename": "Institute of Data Science and Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5296": {
           "acy": "110",
           "sem": "1",
@@ -43520,6 +43686,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5295": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5296": {
           "": {
             "course_category_cname": "",
@@ -43537,6 +43712,12 @@
             "brief": ""
           }
         },
+        "1101_5295": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5296": {
           "": {
             "brief_code": "",
@@ -43547,6 +43728,9 @@
       "language": {
         "1101_5291": {
           "授課語言代碼": "zh-tw"
+        },
+        "1101_5295": {
+          "授課語言代碼": "en-us"
         },
         "1101_5296": {
           "授課語言代碼": "en-us"
@@ -52075,11 +52259,216 @@
         }
       }
     },
+    "1C171530-9400-46C9-B35A-B83955005824": {
+      "dep_id": "1C171530-9400-46C9-B35A-B83955005824",
+      "dep_cname": "智慧計算與科技研究所",
+      "dep_ename": "Institute of Computational Intelligence",
+      "1": {
+        "1101_5233": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5233",
+          "cos_code": "IOG5020",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "AI 研究模組",
+          "cos_credit": "3.00",
+          "cos_hours": "5.00",
+          "TURL": "http://www.cs.nctu.edu.tw/~yctseng",
+          "teacher": "曾煜棋、張明峰、歐陽盟、魏澤人、馬清文",
+          "cos_time": "R23456-CM218",
+          "memo": "",
+          "cos_ename": "Special Topics and Labs on Artificial Intelligence",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "831",
+          "dep_primary": "1",
+          "dep_cname": "智慧計算與科技研究所",
+          "dep_ename": "Institute of Computational Intelligence",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "1101_5233": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_5233": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_5233": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "0F6318C2-C3E1-4AAA-AC06-46763CD0565A": {
+      "dep_id": "0F6318C2-C3E1-4AAA-AC06-46763CD0565A",
+      "dep_cname": "智慧系統與應用研究所",
+      "dep_ename": "Institute of Intelligent Systems",
+      "1": {
+        "1101_5235": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5235",
+          "cos_code": "IOG5021",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "智慧軟體研究模組",
+          "cos_credit": "3.00",
+          "cos_hours": "5.00",
+          "TURL": "http://www.cs.nctu.edu.tw/~yctseng",
+          "teacher": "曾煜棋、謝君偉、張明峰、陳建志、魏澤人、林勻蔚",
+          "cos_time": "T234-CM212,R56-CM218",
+          "memo": "",
+          "cos_ename": "Special Topics and Labs on Intelligent Software",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "832",
+          "dep_primary": "1",
+          "dep_cname": "智慧系統與應用研究所",
+          "dep_ename": "Institute of Intelligent Systems",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "1101_5235": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_5235": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_5235": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "1B2F4714-6255-425C-8CA6-524DB1F06FD3": {
+      "dep_id": "1B2F4714-6255-425C-8CA6-524DB1F06FD3",
+      "dep_cname": "智慧與綠能產學研究所",
+      "dep_ename": "Institute of Industrial Intelligence and Green Energy",
+      "1": {
+        "1101_5232": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5232",
+          "cos_code": "IOG5022",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "智慧生產研究模組",
+          "cos_credit": "3.00",
+          "cos_hours": "5.00",
+          "TURL": "http://www.cs.nctu.edu.tw/~yctseng",
+          "teacher": "曾煜棋、張明峰、歐陽盟、馬清文、彭其瀚",
+          "cos_time": "R234-CM214,R56-CM218",
+          "memo": "",
+          "cos_ename": "Special Topics and Labs on Intelligent Manufacture",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "833",
+          "dep_primary": "1",
+          "dep_cname": "智慧與綠能產學研究所",
+          "dep_ename": "Institute of Industrial Intelligence and Green Energy",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "1101_5232": {
+          "博雅選修通識_博雅選修通識": {
+            "course_category_cname": "博雅選修通識_博雅選修通識",
+            "course_category_ename": "Optional Liberal Education_Optional Liberal Education",
+            "course_category_type": "37",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_5232": {
+          "A909": {
+            "brief_code": "A909",
+            "brief": "博雅選修通識 (90)"
+          }
+        }
+      },
+      "language": {
+        "1101_5232": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "0FFE1B73-E0D3-43B8-B71C-44288788B83E": {
       "dep_id": "0FFE1B73-E0D3-43B8-B71C-44288788B83E",
       "dep_cname": "智慧科學暨綠能學院",
       "dep_ename": "College of Artificial Intelligence and Green Energy",
       "1": {
+        "1101_5236": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5236",
+          "cos_code": "IOG5002",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "專題研討",
+          "cos_credit": "1.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "魏澤人、林柏宏、謝君偉、郭志義、陳建志、馬清文、林勻蔚、彭其瀚",
+          "cos_time": "F567-CM218",
+          "memo": "",
+          "cos_ename": "Seminar",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "8G1",
+          "dep_primary": "1",
+          "dep_cname": "智慧科學暨綠能學院",
+          "dep_ename": "College of Artificial Intelligence and Green Energy",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5242": {
           "acy": "110",
           "sem": "1",
@@ -52107,10 +52496,93 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1101_5245": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5245",
+          "cos_code": "IOG5041",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "論文研究",
+          "cos_credit": "1.00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "智慧綠能學院",
+          "cos_time": "",
+          "memo": "碩士班選修，該課程碩士班修讀完一學期方得選修。",
+          "cos_ename": "Thesis Research",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "8G1",
+          "dep_primary": "1",
+          "dep_cname": "智慧科學暨綠能學院",
+          "dep_ename": "College of Artificial Intelligence and Green Energy",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5246": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5246",
+          "cos_code": "IOG5042",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "論文研究",
+          "cos_credit": ".00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "智慧綠能學院",
+          "cos_time": "",
+          "memo": "博二以上在學期間各學期必選。",
+          "cos_ename": "Thesis Research",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "8G1",
+          "dep_primary": "1",
+          "dep_cname": "智慧科學暨綠能學院",
+          "dep_ename": "College of Artificial Intelligence and Green Energy",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
+        "1101_5236": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5242": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5245": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5246": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -52121,7 +52593,25 @@
         }
       },
       "brief": {
+        "1101_5236": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5242": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5245": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5246": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -52129,8 +52619,17 @@
         }
       },
       "language": {
+        "1101_5236": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_5242": {
           "授課語言代碼": "en-us"
+        },
+        "1101_5245": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5246": {
+          "授課語言代碼": "zh-tw"
         }
       }
     },
@@ -53640,6 +54139,65 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_4037": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "003BBF4E-DFFF-47E8-ADDC-894F95832F02": {
+      "dep_id": "003BBF4E-DFFF-47E8-ADDC-894F95832F02",
+      "dep_cname": "智慧科學暨綠能學院博士班",
+      "dep_ename": "Doctoral Program of College of Artificial Intelligence",
+      "1": {
+        "1101_4004": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "4004",
+          "cos_code": "IOG5000",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "專題研討",
+          "cos_credit": ".00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "魏澤人、林柏宏、謝君偉、郭志義、陳建志、馬清文、林勻蔚、彭其瀚",
+          "cos_time": "F567-CM218",
+          "memo": "博一每學期必修",
+          "cos_ename": "Seminar",
+          "brief": "",
+          "degree": "4",
+          "dep_id": "830",
+          "dep_primary": "1",
+          "dep_cname": "智慧科學暨綠能學院博士班",
+          "dep_ename": "Doctoral Program of College of Artificial Intelligence",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "D"
+        }
+      },
+      "costype": {
+        "1101_4004": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_4004": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_4004": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -55482,7 +56040,7 @@
           "cos_id": "5646",
           "cos_code": "ITT5114",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "費率定價與財務分析",
           "cos_credit": "3.00",
@@ -55510,7 +56068,7 @@
           "cos_id": "5647",
           "cos_code": "ITT5115",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "採購與作業物流",
           "cos_credit": "3.00",
@@ -55538,7 +56096,7 @@
           "cos_id": "5648",
           "cos_code": "ITT5311",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "海運業經營管理",
           "cos_credit": "3.00",
@@ -55566,7 +56124,7 @@
           "cos_id": "5649",
           "cos_code": "ITT7677",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "論文研討一",
           "cos_credit": "3.00",
@@ -58537,7 +59095,7 @@
           "cos_id": "5168",
           "cos_code": "IPT5101",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "書報討論",
           "cos_credit": "1.00",
@@ -58565,7 +59123,7 @@
           "cos_id": "5968",
           "cos_code": "IPT5103",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "個別研討",
           "cos_credit": "1.00",
@@ -58593,7 +59151,7 @@
           "cos_id": "5970",
           "cos_code": "IPT5109",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "投影顯示科技",
           "cos_credit": "3.00",

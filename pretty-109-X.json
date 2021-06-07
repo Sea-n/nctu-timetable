@@ -92,6 +92,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "109X_1014": {
+          "acy": "109",
+          "sem": "X",
+          "cos_id": "1014",
+          "cos_code": "DCP3362",
+          "num_limit": "50",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "計算機組織",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "蔡文錦",
+          "cos_time": "M234T234F234-EC115",
+          "memo": "日期:7月5日-8月9日,資工系優先.",
+          "cos_ename": "Computer Organization",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "550",
+          "dep_primary": "1",
+          "dep_cname": "資訊工程學系",
+          "dep_ename": "Department of Computer Science",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "109X_1015": {
           "acy": "109",
           "sem": "X",
@@ -131,6 +159,15 @@
             "GECIEngName": ""
           }
         },
+        "109X_1014": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "109X_1015": {
           "": {
             "course_category_cname": "",
@@ -148,6 +185,12 @@
             "brief": ""
           }
         },
+        "109X_1014": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "109X_1015": {
           "": {
             "brief_code": "",
@@ -157,6 +200,9 @@
       },
       "language": {
         "109X_1012": {
+          "授課語言代碼": "zh-tw"
+        },
+        "109X_1014": {
           "授課語言代碼": "zh-tw"
         },
         "109X_1015": {

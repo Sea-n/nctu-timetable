@@ -7089,6 +7089,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1168": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1168",
+          "cos_code": "DCP4516",
+          "num_limit": "131",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "計算機圖學概論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cs.nctu.edu.tw/~ichenlin",
+          "teacher": "林奕成",
+          "cos_time": "M34W2-EC122",
+          "memo": "外系生請於開學上網加選；學士班七大主題學程；資工系與電資學士班學生優先選課；網路與多媒體工程組的多媒體領域專業課程必修",
+          "cos_ename": "Introduction to Computer Graphics",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "550",
+          "dep_primary": "1",
+          "dep_cname": "資訊工程學系",
+          "dep_ename": "Department of Computer Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1173": {
           "acy": "110",
           "sem": "1",
@@ -7267,6 +7295,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1168": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1173": {
           "": {
             "course_category_cname": "",
@@ -7353,6 +7390,12 @@
             "brief": ""
           }
         },
+        "1101_1168": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1173": {
           "": {
             "brief_code": "",
@@ -7399,6 +7442,9 @@
         },
         "1101_1167": {
           "授課語言代碼": "en-us"
+        },
+        "1101_1168": {
+          "授課語言代碼": "zh-tw"
         },
         "1101_1173": {
           "授課語言代碼": "zh-tw"
@@ -10932,6 +10978,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1473": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1473",
+          "cos_code": "DTM3109",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "海洋運輸",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.tlm.nctu.edu.tw/zh/faculty/%E9%BB%83%E6%98%8E%E5%B1%85/",
+          "teacher": "黃明居",
+          "cos_time": "T34R7-A901",
+          "memo": "",
+          "cos_ename": "Maritime Transportation ",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "701",
+          "dep_primary": "1",
+          "dep_cname": "運輸與物流管理學系",
+          "dep_ename": "Department of Transportation and Logistics Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "47",
+          "depType": "U"
+        },
         "1101_1475": {
           "acy": "110",
           "sem": "1",
@@ -11027,6 +11101,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1473": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1475": {
           "": {
             "course_category_cname": "",
@@ -11062,6 +11145,12 @@
             "brief": ""
           }
         },
+        "1101_1473": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1475": {
           "": {
             "brief_code": "",
@@ -11084,6 +11173,9 @@
       "language": {
         "1101_1472": {
           "授課語言代碼": "en-us"
+        },
+        "1101_1473": {
+          "授課語言代碼": "zh-tw"
         },
         "1101_1475": {
           "授課語言代碼": "en-us"
@@ -17527,6 +17619,34 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1101_7114": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7114",
+          "cos_code": "DFR1105",
+          "num_limit": "30",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "大一英文（一）",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "秦毓婷",
+          "cos_time": "W34-A504",
+          "memo": "",
+          "cos_ename": "Freshman English (I)",
+          "brief": "基礎",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_7116": {
           "acy": "110",
           "sem": "1",
@@ -17779,6 +17899,34 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1101_7132": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7132",
+          "cos_code": "DFR1105",
+          "num_limit": "30",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "大一英文（一）",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "秦毓婷",
+          "cos_time": "F34-A504",
+          "memo": "重修生及大一不分系[English Medium Course]",
+          "cos_ename": "Freshman English (I)",
+          "brief": "基礎",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_7144": {
           "acy": "110",
           "sem": "1",
@@ -17975,6 +18123,34 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1101_7157": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7157",
+          "cos_code": "DFR1226",
+          "num_limit": "20",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "實用英文寫作",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "秦毓婷",
+          "cos_time": "M78-A504",
+          "memo": "",
+          "cos_ename": "Practical English Writing",
+          "brief": "進階",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_7158": {
           "acy": "110",
           "sem": "1",
@@ -18087,6 +18263,34 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1101_7164": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7164",
+          "cos_code": "DFR1203",
+          "num_limit": "25",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "新聞英語",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "秦毓婷",
+          "cos_time": "W56-A505",
+          "memo": "",
+          "cos_ename": "Newspaper English",
+          "brief": "進階",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_7166": {
           "acy": "110",
           "sem": "1",
@@ -18131,6 +18335,34 @@
           "cos_time": "F34-HC101",
           "memo": "",
           "cos_ename": "Positive psychology English class",
+          "brief": "進階",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_7170": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7170",
+          "cos_code": "DFR1311",
+          "num_limit": "25",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "高級英文討論與發表",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "秦毓婷",
+          "cos_time": "M56-A504",
+          "memo": "",
+          "cos_ename": "Advanced English Discussion and Presentation",
           "brief": "進階",
           "degree": "1",
           "dep_id": "OU6",
@@ -19011,6 +19243,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_7114": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_7116": {
           "": {
             "course_category_cname": "",
@@ -19092,6 +19333,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_7132": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_7144": {
           "": {
             "course_category_cname": "",
@@ -19155,6 +19405,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_7157": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_7158": {
           "": {
             "course_category_cname": "",
@@ -19191,6 +19450,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_7164": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_7166": {
           "": {
             "course_category_cname": "",
@@ -19201,6 +19469,15 @@
           }
         },
         "1101_7168": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_7170": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -19508,6 +19785,12 @@
             "brief": "基礎(87)"
           }
         },
+        "1101_7114": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_7116": {
           "": {
             "brief_code": "",
@@ -19562,6 +19845,12 @@
             "brief": ""
           }
         },
+        "1101_7132": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_7144": {
           "B072": {
             "brief_code": "B072",
@@ -19604,6 +19893,12 @@
             "brief": "進階(87)"
           }
         },
+        "1101_7157": {
+          "B072": {
+            "brief_code": "B072",
+            "brief": "進階(87)"
+          }
+        },
         "1101_7158": {
           "": {
             "brief_code": "",
@@ -19628,6 +19923,12 @@
             "brief": ""
           }
         },
+        "1101_7164": {
+          "B072": {
+            "brief_code": "B072",
+            "brief": "進階(87)"
+          }
+        },
         "1101_7166": {
           "B072": {
             "brief_code": "B072",
@@ -19635,6 +19936,12 @@
           }
         },
         "1101_7168": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_7170": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -19834,6 +20141,9 @@
         "1101_7112": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_7114": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_7116": {
           "授課語言代碼": "zh-tw"
         },
@@ -19861,6 +20171,9 @@
         "1101_7131": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_7132": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_7144": {
           "授課語言代碼": "zh-tw"
         },
@@ -19882,6 +20195,9 @@
         "1101_7156": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_7157": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_7158": {
           "授課語言代碼": "zh-tw"
         },
@@ -19894,10 +20210,16 @@
         "1101_7163": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_7164": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_7166": {
           "授課語言代碼": "zh-tw"
         },
         "1101_7168": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_7170": {
           "授課語言代碼": "zh-tw"
         },
         "1101_7172": {
@@ -46072,6 +46394,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1101_5445": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5445",
+          "cos_code": "IAC6617",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "固態化學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "李積琛",
+          "cos_time": "T34F3-SB203",
+          "memo": "",
+          "cos_ename": "Solid State Chemistry",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "654",
+          "dep_primary": "1",
+          "dep_cname": "應用化學系",
+          "dep_ename": "Institute of Applied Chemistry",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
@@ -46137,6 +46487,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_5445": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -46181,6 +46540,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_5445": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -46203,6 +46568,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_5444": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5445": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -47324,6 +47692,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5523": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5523",
+          "cos_code": "ITS5304",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "智慧型運輸系統",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "黃家耀",
+          "cos_time": "R567-A905",
+          "memo": "新竹校區開課；英文授課；開放社會人士選讀[English Medium Course]",
+          "cos_ename": "Intelligent Transportation Systems",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "702",
+          "dep_primary": "1",
+          "dep_cname": "運輸與物流管理學系交通運輸碩博士班",
+          "dep_ename": "Institute of Traffic and Transportation",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5525": {
           "acy": "110",
           "sem": "1",
@@ -47567,6 +47963,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5523": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5525": {
           "": {
             "course_category_cname": "",
@@ -47662,6 +48067,12 @@
             "brief": ""
           }
         },
+        "1101_5523": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5525": {
           "": {
             "brief_code": "",
@@ -47720,6 +48131,9 @@
         },
         "1101_5520": {
           "授課語言代碼": "zh-tw"
+        },
+        "1101_5523": {
+          "授課語言代碼": "en-us"
         },
         "1101_5525": {
           "授課語言代碼": "zh-tw"
@@ -53553,6 +53967,34 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1101_7902": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7902",
+          "cos_code": "DFR6004",
+          "num_limit": "20",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "研究生英文:句法與段落寫作",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "秦毓婷",
+          "cos_time": "W78-A505",
+          "memo": "僅供研究生選修，不列入畢業學分。",
+          "cos_ename": "Graduate English: Sentence Patterns and Paragraph Writing",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "OU5",
+          "dep_primary": "1",
+          "dep_cname": "寫作中心",
+          "dep_ename": "Academic Writing Center",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_7903": {
           "acy": "110",
           "sem": "1",
@@ -53648,6 +54090,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_7902": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_7903": {
           "": {
             "course_category_cname": "",
@@ -53683,6 +54134,12 @@
             "brief": ""
           }
         },
+        "1101_7902": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_7903": {
           "": {
             "brief_code": "",
@@ -53704,6 +54161,9 @@
       },
       "language": {
         "1101_7901": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_7902": {
           "授課語言代碼": "zh-tw"
         },
         "1101_7903": {

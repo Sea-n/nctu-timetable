@@ -1069,6 +1069,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1596": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1596",
+          "cos_code": "DFL1134",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "生態思想與文學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://nctu.academia.edu/DeanBrink",
+          "teacher": "包德樂",
+          "cos_time": "F234-HC402",
+          "memo": "專選[English Medium Course]",
+          "cos_ename": "Ecological Thought and Literature",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "450",
+          "dep_primary": "1",
+          "dep_cname": "外國語文學系",
+          "dep_ename": "Department of Foreign Languages and Literatures",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1597": {
           "acy": "110",
           "sem": "1",
@@ -1638,6 +1666,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1596": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1597": {
           "": {
             "course_category_cname": "",
@@ -1851,6 +1888,12 @@
             "brief": ""
           }
         },
+        "1101_1596": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1597": {
           "": {
             "brief_code": "",
@@ -1981,6 +2024,9 @@
         },
         "1101_1595": {
           "授課語言代碼": "zh-tw"
+        },
+        "1101_1596": {
+          "授課語言代碼": "en-us"
         },
         "1101_1597": {
           "授課語言代碼": "zh-tw"
@@ -3947,7 +3993,7 @@
           "cos_id": "1035",
           "cos_code": "UEE2301",
           "num_limit": "50",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "微算機原理與實驗",
           "cos_credit": "3.00",
@@ -4227,7 +4273,7 @@
           "cos_id": "1046",
           "cos_code": "UEE2703",
           "num_limit": "50",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "網路程式設計",
           "cos_credit": "3.00",
@@ -4936,7 +4982,7 @@
           "teacher": "胡樹",
           "cos_time": "T7-ED301,F34-ED201",
           "memo": "[English Medium Course]",
-          "cos_ename": "",
+          "cos_ename": "Electromagnetic Wave",
           "brief": "",
           "degree": "1",
           "dep_id": "511",
@@ -5067,7 +5113,7 @@
           "cos_id": "1089",
           "cos_code": "UEE4601",
           "num_limit": "40",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "數位訊號處理晶片實驗",
           "cos_credit": "2.00",
@@ -10347,6 +10393,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1379": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1379",
+          "cos_code": "DAM2307",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "機率論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "王國仲",
+          "cos_time": "W34F2-SA311",
+          "memo": "",
+          "cos_ename": "Probability Theory",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "652",
+          "dep_primary": "1",
+          "dep_cname": "應用數學系",
+          "dep_ename": "Department of Applied Mathematics",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1384": {
           "acy": "110",
           "sem": "1",
@@ -10497,6 +10571,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1379": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1384": {
           "": {
             "course_category_cname": "",
@@ -10559,6 +10642,12 @@
             "brief": ""
           }
         },
+        "1101_1379": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1384": {
           "": {
             "brief_code": "",
@@ -10595,6 +10684,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1377": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1379": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1384": {
@@ -13297,7 +13389,7 @@
           "TURL": "",
           "teacher": "梁瓊惠",
           "cos_time": "T78-A103",
-          "memo": "不接受修讀過「心理學」或「心理學概論」同學修讀。",
+          "memo": "不接受修讀過「心理學」或「心理學概論」同學修讀。系統預設\n核心社會,欲採計核心自然請至通識中心書面申請",
           "cos_ename": "Introduction to Psychology",
           "brief": "",
           "degree": "1",
@@ -13577,7 +13669,7 @@
           "TURL": "",
           "teacher": "王冠生",
           "cos_time": "R34-A205",
-          "memo": "",
+          "memo": "系統預設\n核心人文,欲採計核心自然請至通識中心書面申請",
           "cos_ename": "Logic and Thinking",
           "brief": "",
           "degree": "1",
@@ -13661,7 +13753,7 @@
           "TURL": "https://ics.nctu.edu.tw/professors/shihyulo",
           "teacher": "羅仕宇",
           "cos_time": "F34-F110",
-          "memo": "不接受修讀過「心理學」或「心理學概論」同學修讀。",
+          "memo": "不接受修讀過「心理學」或「心理學概論」同學修讀。系統預設\n核心社會,欲採計核心自然請至通識中心書面申請",
           "cos_ename": "Introduction to Psychology",
           "brief": "",
           "degree": "1",
@@ -30006,7 +30098,7 @@
           "teacher": "胡樹",
           "cos_time": "T7-ED301,F34-ED201",
           "memo": "[English Medium Course]",
-          "cos_ename": "",
+          "cos_ename": "Electromagnetic Wave",
           "brief": "",
           "degree": "1",
           "dep_id": "PAN",
@@ -30921,7 +31013,7 @@
           "cos_id": "5284",
           "cos_code": "ILE5043",
           "num_limit": "40",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "3D遊戲程式(英文授課)",
           "cos_credit": "3.00",
@@ -30949,7 +31041,7 @@
           "cos_id": "5289",
           "cos_code": "ILE5069",
           "num_limit": "45",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "影像編修技術與特效合成(英文授課)",
           "cos_credit": "3.00",
@@ -45204,7 +45296,7 @@
           "cos_id": "5283",
           "cos_code": "ILE5014",
           "num_limit": "40",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "計算機圖學",
           "cos_credit": "3.00",
@@ -45232,7 +45324,7 @@
           "cos_id": "5284",
           "cos_code": "ILE5043",
           "num_limit": "40",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "3D遊戲程式(英文授課)",
           "cos_credit": "3.00",
@@ -45260,7 +45352,7 @@
           "cos_id": "5288",
           "cos_code": "ILE5064",
           "num_limit": "90",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "車輛視覺系統",
           "cos_credit": "3.00",
@@ -45288,7 +45380,7 @@
           "cos_id": "5289",
           "cos_code": "ILE5069",
           "num_limit": "45",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "影像編修技術與特效合成(英文授課)",
           "cos_credit": "3.00",
@@ -45620,34 +45712,6 @@
           "reg_num": "0",
           "depType": "G"
         },
-        "1101_5225": {
-          "acy": "110",
-          "sem": "1",
-          "cos_id": "5225",
-          "cos_code": "CST5056",
-          "num_limit": "9999",
-          "dep_limit": "*",
-          "URL": null,
-          "cos_cname": "先進化合物半導體及其應用",
-          "cos_credit": "3.00",
-          "cos_hours": "3.00",
-          "TURL": "",
-          "teacher": "潘康瑞Krishna Pande",
-          "cos_time": "F567-ES601",
-          "memo": "英語授課[English Medium Course]",
-          "cos_ename": "Advanced Compound Semiconductors and Their Applications",
-          "brief": "",
-          "degree": "3",
-          "dep_id": "591",
-          "dep_primary": "1",
-          "dep_cname": "國際半導體產業學院碩士班",
-          "dep_ename": "International College of Semiconductor Technology",
-          "cos_type": "選修",
-          "cos_type_e": "Elective",
-          "crsoutline_type": "data",
-          "reg_num": "0",
-          "depType": "G"
-        },
         "1101_5226": {
           "acy": "110",
           "sem": "1",
@@ -45780,15 +45844,6 @@
             "GECIEngName": ""
           }
         },
-        "1101_5225": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        },
         "1101_5226": {
           "": {
             "course_category_cname": "",
@@ -45839,12 +45894,6 @@
             "brief": ""
           }
         },
-        "1101_5225": {
-          "": {
-            "brief_code": "",
-            "brief": ""
-          }
-        },
         "1101_5226": {
           "": {
             "brief_code": "",
@@ -45875,9 +45924,6 @@
           "授課語言代碼": "en-us"
         },
         "1101_5219": {
-          "授課語言代碼": "en-us"
-        },
-        "1101_5225": {
           "授課語言代碼": "en-us"
         },
         "1101_5226": {

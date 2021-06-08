@@ -1545,6 +1545,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1624": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1624",
+          "cos_code": "DFL4003",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "英語能力評鑑",
+          "cos_credit": "1.00",
+          "cos_hours": "1.00",
+          "TURL": "http://nctu.academia.edu/DeanBrink",
+          "teacher": "包德樂",
+          "cos_time": "Rn-",
+          "memo": "限外文系",
+          "cos_ename": "English Competence Workshop",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "450",
+          "dep_primary": "1",
+          "dep_cname": "外國語文學系",
+          "dep_ename": "Department of Foreign Languages and Literatures",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1626": {
           "acy": "110",
           "sem": "1",
@@ -1826,6 +1854,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1624": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1626": {
           "": {
             "course_category_cname": "",
@@ -1990,6 +2027,12 @@
             "brief": ""
           }
         },
+        "1101_1624": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1626": {
           "": {
             "brief_code": "",
@@ -2074,6 +2117,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1623": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1624": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1626": {
@@ -19659,6 +19705,34 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1101_7526": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7526",
+          "cos_code": "DFR1329",
+          "num_limit": "25",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "日語簡報訓練",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "上條純惠",
+          "cos_time": "Fab-A509",
+          "memo": "",
+          "cos_ename": "Presenting in Japanese",
+          "brief": "其它",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_7527": {
           "acy": "110",
           "sem": "1",
@@ -20426,6 +20500,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_7526": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_7527": {
           "": {
             "course_category_cname": "",
@@ -20851,6 +20934,12 @@
             "brief": "其它(87)"
           }
         },
+        "1101_7526": {
+          "B075": {
+            "brief_code": "B075",
+            "brief": "其它(87)"
+          }
+        },
         "1101_7527": {
           "B075": {
             "brief_code": "B075",
@@ -21076,6 +21165,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_7525": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_7526": {
           "授課語言代碼": "zh-tw"
         },
         "1101_7527": {
@@ -38847,6 +38939,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5782": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5782",
+          "cos_code": "ILC5183",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "文學研究概論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://nctu.academia.edu/DeanBrink",
+          "teacher": "包德樂",
+          "cos_time": "R567-HC401",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Introduction to Literary Studies",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "451",
+          "dep_primary": "1",
+          "dep_cname": "外國語文學系外國文學與語言學碩士班",
+          "dep_ename": "Institute of Foreign Literatures and Linguistics",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5783": {
           "acy": "110",
           "sem": "1",
@@ -39007,6 +39127,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5782": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5783": {
           "": {
             "course_category_cname": "",
@@ -39066,6 +39195,12 @@
             "brief": ""
           }
         },
+        "1101_5782": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5783": {
           "": {
             "brief_code": "",
@@ -39103,6 +39238,9 @@
         },
         "1101_5781": {
           "授課語言代碼": "zh-tw"
+        },
+        "1101_5782": {
+          "授課語言代碼": "en-us"
         },
         "1101_5783": {
           "授課語言代碼": "en-us"

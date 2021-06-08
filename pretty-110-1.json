@@ -55193,6 +55193,34 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1101_7542": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7542",
+          "cos_code": "DFR4108",
+          "num_limit": "45",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "韓文（一）",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "安宣映",
+          "cos_time": "T34-A309",
+          "memo": "",
+          "cos_ename": "Korean (I)",
+          "brief": "其它",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_7543": {
           "acy": "110",
           "sem": "1",
@@ -55209,6 +55237,34 @@
           "cos_time": "R56-A405",
           "memo": "",
           "cos_ename": "Korean (I)",
+          "brief": "其它",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_7544": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7544",
+          "cos_code": "DFR4109",
+          "num_limit": "45",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "韓文（二）",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "安宣映",
+          "cos_time": "T56-A308",
+          "memo": "",
+          "cos_ename": "Korean (II)",
           "brief": "其它",
           "degree": "1",
           "dep_id": "OU6",
@@ -55855,7 +55911,25 @@
             "GECIEngName": ""
           }
         },
+        "1101_7542": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_7543": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_7544": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -56268,10 +56342,22 @@
             "brief": "其它(87)"
           }
         },
+        "1101_7542": {
+          "B075": {
+            "brief_code": "B075",
+            "brief": "其它(87)"
+          }
+        },
         "1101_7543": {
           "": {
             "brief_code": "",
             "brief": ""
+          }
+        },
+        "1101_7544": {
+          "B075": {
+            "brief_code": "B075",
+            "brief": "其它(87)"
           }
         },
         "1101_7545": {
@@ -56480,7 +56566,13 @@
         "1101_7541": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_7542": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_7543": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_7544": {
           "授課語言代碼": "zh-tw"
         },
         "1101_7545": {
@@ -56568,6 +56660,34 @@
           "cos_time": "T56-HC104",
           "memo": "[English Medium Course]",
           "cos_ename": "Subject-related Teaching Materials & Methods(English)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU7",
+          "dep_primary": "1",
+          "dep_cname": "師資培育中心",
+          "dep_ename": "Center for Teacher Education",
+          "cos_type": "教育",
+          "cos_type_e": "Teacher Education",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_9911": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "9911",
+          "cos_code": "EDU1211",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "分科教材教法(自然領域/化學)",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "陳雅君",
+          "cos_time": "T56-HA218",
+          "memo": "",
+          "cos_ename": "Subject-related Teaching Materials & Methods(Chemistry)",
           "brief": "",
           "degree": "1",
           "dep_id": "OU7",
@@ -56693,6 +56813,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_9911": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_9912": {
           "": {
             "course_category_cname": "",
@@ -56740,6 +56869,12 @@
             "brief": "教育學程(87)"
           }
         },
+        "1101_9911": {
+          "D099": {
+            "brief_code": "D099",
+            "brief": "教育學程(87)"
+          }
+        },
         "1101_9912": {
           "D099": {
             "brief_code": "D099",
@@ -56768,6 +56903,9 @@
         },
         "1101_9910": {
           "授課語言代碼": "en-us"
+        },
+        "1101_9911": {
+          "授課語言代碼": "zh-tw"
         },
         "1101_9912": {
           "授課語言代碼": "zh-tw"
@@ -98775,7 +98913,7 @@
           "TURL": "",
           "teacher": "巫佳煌",
           "cos_time": "T567-MB413",
-          "memo": "博士班專業核心課程；開放社會人士選課",
+          "memo": "開放社會人士選課",
           "cos_ename": "Statistical Inference",
           "brief": "",
           "degree": "3",
@@ -112562,7 +112700,7 @@
           "TURL": "",
           "teacher": "巫佳煌",
           "cos_time": "T567-MB413",
-          "memo": "博士班專業核心課程；開放社會人士選課",
+          "memo": "開放社會人士選課",
           "cos_ename": "Statistical Inference",
           "brief": "",
           "degree": "4",

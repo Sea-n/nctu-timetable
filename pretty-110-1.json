@@ -17057,7 +17057,7 @@
           "cos_id": "6731",
           "cos_code": "ART0003",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "藝文賞析教育",
           "cos_credit": ".00",
@@ -19463,6 +19463,34 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1101_7518": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7518",
+          "cos_code": "DFR1233",
+          "num_limit": "45",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "日文(三)",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "上條純惠",
+          "cos_time": "W56-A307",
+          "memo": "",
+          "cos_ename": "Japanese(III)",
+          "brief": "其它",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_7519": {
           "acy": "110",
           "sem": "1",
@@ -19480,6 +19508,34 @@
           "memo": "",
           "cos_ename": "Japanese(IV)",
           "brief": "",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_7521": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7521",
+          "cos_code": "DFR1234",
+          "num_limit": "45",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "日文(四)",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "上條純惠",
+          "cos_time": "R56-A307",
+          "memo": "",
+          "cos_ename": "Japanese(IV)",
+          "brief": "其它",
           "degree": "1",
           "dep_id": "OU6",
           "dep_primary": "1",
@@ -19563,6 +19619,34 @@
           "cos_time": "T34-A403",
           "memo": "",
           "cos_ename": "Japanese(Ⅵ)",
+          "brief": "其它",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_7525": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7525",
+          "cos_code": "DFR1312",
+          "num_limit": "30",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "中級日語會話",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "上條純惠",
+          "cos_time": "F56-A307",
+          "memo": "",
+          "cos_ename": "Intermediate Japanese Conversation",
           "brief": "其它",
           "degree": "1",
           "dep_id": "OU6",
@@ -20279,7 +20363,25 @@
             "GECIEngName": ""
           }
         },
+        "1101_7518": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_7519": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_7521": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -20307,6 +20409,15 @@
           }
         },
         "1101_7524": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_7525": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -20698,7 +20809,19 @@
             "brief": "其它(87)"
           }
         },
+        "1101_7518": {
+          "B075": {
+            "brief_code": "B075",
+            "brief": "其它(87)"
+          }
+        },
         "1101_7519": {
+          "B075": {
+            "brief_code": "B075",
+            "brief": "其它(87)"
+          }
+        },
+        "1101_7521": {
           "B075": {
             "brief_code": "B075",
             "brief": "其它(87)"
@@ -20720,6 +20843,12 @@
           "": {
             "brief_code": "",
             "brief": ""
+          }
+        },
+        "1101_7525": {
+          "B075": {
+            "brief_code": "B075",
+            "brief": "其它(87)"
           }
         },
         "1101_7527": {
@@ -20928,7 +21057,13 @@
         "1101_7517": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_7518": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_7519": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_7521": {
           "授課語言代碼": "zh-tw"
         },
         "1101_7522": {
@@ -20938,6 +21073,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_7524": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_7525": {
           "授課語言代碼": "zh-tw"
         },
         "1101_7527": {
@@ -30279,6 +30417,34 @@
           "reg_num": "0",
           "depType": "P"
         },
+        "1101_1178": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1178",
+          "cos_code": "DCP1204",
+          "num_limit": "65",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "計算機概論與程式設計(英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "5.00",
+          "TURL": "http://acm.cs.nctu.edu.tw/",
+          "teacher": "黃敬群",
+          "cos_time": "M56-EC115,Tabc-EC315,R2-EC115",
+          "memo": "一年級必修僅開學才開放選課；外系生請於開學上網加選；資工系與電資學士班學生優先選課；資訊共同；Tabc上課教室:EC315、EC316；英文授課\r\n※電機.電子.光電.電物.應數.機械.「108學年起入學奈米學士班」.生科系及管理學院不同意所屬學生採計通識學分。[English Medium Course]",
+          "cos_ename": "Introduction to Computers and Programming",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAN",
+          "dep_primary": "1",
+          "dep_cname": "電機資訊英語授課學分學程",
+          "dep_ename": "Electrical Engineering and Computer Science-International Program",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
         "1101_1180": {
           "acy": "110",
           "sem": "1",
@@ -31244,6 +31410,22 @@
             "GECIEngName": ""
           }
         },
+        "1101_1178": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "工,客",
+            "GECIEngName": "COE,CHK"
+          },
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "工,客",
+            "GECIEngName": "COE,CHK"
+          }
+        },
         "1101_1180": {
           "通識跨院基本素養_通識跨院": {
             "course_category_cname": "通識跨院基本素養_通識跨院",
@@ -31586,6 +31768,12 @@
             "brief": ""
           }
         },
+        "1101_1178": {
+          "A205,A504,A505": {
+            "brief_code": "A205,A504,A505",
+            "brief": "自然/進階(96),跨院基本素養(106),校基本素養(106)"
+          }
+        },
         "1101_1180": {
           "A205,A504": {
             "brief_code": "A205,A504",
@@ -31799,6 +31987,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_1165": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_1178": {
           "授課語言代碼": "en-us"
         },
         "1101_1180": {
@@ -61665,6 +61856,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1178": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1178",
+          "cos_code": "DCP1204",
+          "num_limit": "65",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "計算機概論與程式設計(英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "5.00",
+          "TURL": "http://acm.cs.nctu.edu.tw/",
+          "teacher": "黃敬群",
+          "cos_time": "M56-EC115,Tabc-EC315,R2-EC115",
+          "memo": "一年級必修僅開學才開放選課；外系生請於開學上網加選；資工系與電資學士班學生優先選課；資訊共同；Tabc上課教室:EC315、EC316；英文授課\r\n※電機.電子.光電.電物.應數.機械.「108學年起入學奈米學士班」.生科系及管理學院不同意所屬學生採計通識學分。[English Medium Course]",
+          "cos_ename": "Introduction to Computers and Programming",
+          "brief": "",
+          "degree": "A",
+          "dep_id": "5C1",
+          "dep_primary": "1",
+          "dep_cname": "資訊學院共同課程",
+          "dep_ename": "College of Computer Science",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1180": {
           "acy": "110",
           "sem": "1",
@@ -61953,6 +62172,22 @@
             "GECIEngName": "COE,CHK"
           }
         },
+        "1101_1178": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "工,客",
+            "GECIEngName": "COE,CHK"
+          },
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "工,客",
+            "GECIEngName": "COE,CHK"
+          }
+        },
         "1101_1180": {
           "通識跨院基本素養_通識跨院": {
             "course_category_cname": "通識跨院基本素養_通識跨院",
@@ -62054,6 +62289,12 @@
             "brief": "自然/進階(96),跨院基本素養(106),校基本素養(106)"
           }
         },
+        "1101_1178": {
+          "A205,A504,A505": {
+            "brief_code": "A205,A504,A505",
+            "brief": "自然/進階(96),跨院基本素養(106),校基本素養(106)"
+          }
+        },
         "1101_1180": {
           "A205,A504": {
             "brief_code": "A205,A504",
@@ -62118,6 +62359,9 @@
         },
         "1101_1176": {
           "授課語言代碼": "zh-tw"
+        },
+        "1101_1178": {
+          "授課語言代碼": "en-us"
         },
         "1101_1180": {
           "授課語言代碼": "en-us"

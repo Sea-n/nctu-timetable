@@ -30672,8 +30672,8 @@
           "sem": "1",
           "cos_id": "5053",
           "cos_code": "GEE9020",
-          "num_limit": "9999",
-          "dep_limit": "*",
+          "num_limit": "60",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "醫學工程",
           "cos_credit": "3.00",
@@ -30701,7 +30701,7 @@
           "cos_id": "5058",
           "cos_code": "ICN5406",
           "num_limit": "25",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "自走式機器人  ",
           "cos_credit": "3.00",
@@ -30729,7 +30729,7 @@
           "cos_id": "5063",
           "cos_code": "ICN5611",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "數位訊號處理",
           "cos_credit": "3.00",
@@ -30757,7 +30757,7 @@
           "cos_id": "5078",
           "cos_code": "ECM5102",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "隨機過程",
           "cos_credit": "3.00",
@@ -30785,7 +30785,7 @@
           "cos_id": "5083",
           "cos_code": "ECM5203",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "適應性訊號處理",
           "cos_credit": "3.00",
@@ -30813,7 +30813,7 @@
           "cos_id": "5095",
           "cos_code": "ECM9021",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "量子力學",
           "cos_credit": "3.00",
@@ -30841,7 +30841,7 @@
           "cos_id": "5096",
           "cos_code": "ECM9025",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "統計力學",
           "cos_credit": "3.00",
@@ -30897,7 +30897,7 @@
           "cos_id": "5101",
           "cos_code": "ECM9042",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "深度學習",
           "cos_credit": "3.00",
@@ -31289,7 +31289,7 @@
           "cos_id": "5276",
           "cos_code": "IOE5048",
           "num_limit": "80",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "網路安全(英文授課)",
           "cos_credit": "3.00",
@@ -33847,65 +33847,6 @@
         },
         "1101_3042": {
           "授課語言代碼": "zh-tw"
-        }
-      }
-    },
-    "71EA8818-C3C2-4399-A6DC-9C6872EB4F0F": {
-      "dep_id": "71EA8818-C3C2-4399-A6DC-9C6872EB4F0F",
-      "dep_cname": "外文系:電影研究學分學程",
-      "dep_ename": "Film Studies Program",
-      "1": {
-        "1101_5785": {
-          "acy": "110",
-          "sem": "1",
-          "cos_id": "5785",
-          "cos_code": "ILC5215",
-          "num_limit": "25",
-          "dep_limit": "*",
-          "URL": null,
-          "cos_cname": "黑色電影",
-          "cos_credit": "3.00",
-          "cos_hours": "3.00",
-          "TURL": "http://www.fl.nctu.edu.tw/~limk/",
-          "teacher": "林建國",
-          "cos_time": "M234-F326",
-          "memo": "專選[English Medium Course]",
-          "cos_ename": "Film Noir",
-          "brief": "",
-          "degree": "1",
-          "dep_id": "PFJ",
-          "dep_primary": "1",
-          "dep_cname": "外文系:電影研究學分學程",
-          "dep_ename": "Film Studies Program",
-          "cos_type": "選修",
-          "cos_type_e": "Elective",
-          "crsoutline_type": "data",
-          "reg_num": "0",
-          "depType": "P"
-        }
-      },
-      "costype": {
-        "1101_5785": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        }
-      },
-      "brief": {
-        "1101_5785": {
-          "": {
-            "brief_code": "",
-            "brief": ""
-          }
-        }
-      },
-      "language": {
-        "1101_5785": {
-          "授課語言代碼": "en-us"
         }
       }
     },
@@ -39045,18 +38986,18 @@
           "acy": "110",
           "sem": "1",
           "cos_id": "5785",
-          "cos_code": "ILC5215",
+          "cos_code": "ILC5282",
           "num_limit": "25",
           "dep_limit": "*",
           "URL": null,
-          "cos_cname": "黑色電影",
+          "cos_cname": "小說理論",
           "cos_credit": "3.00",
           "cos_hours": "3.00",
           "TURL": "http://www.fl.nctu.edu.tw/~limk/",
           "teacher": "林建國",
           "cos_time": "M234-F326",
           "memo": "專選[English Medium Course]",
-          "cos_ename": "Film Noir",
+          "cos_ename": "Theory of the Novel",
           "brief": "",
           "degree": "3",
           "dep_id": "451",
@@ -40003,6 +39944,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5831": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5831",
+          "cos_code": "IAA5303",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "設計個別研究",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "謝啟民",
+          "cos_time": "",
+          "memo": "師生自行約定時間及地點",
+          "cos_ename": "Independent Study on Design",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "462",
+          "dep_primary": "1",
+          "dep_cname": "應用藝術研究所",
+          "dep_ename": "Institute of Applied Arts",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5833": {
           "acy": "110",
           "sem": "1",
@@ -40047,6 +40016,34 @@
           "cos_time": "F567-HA314",
           "memo": "限20人，不開放網路選課，於開學後加簽選課(第1堂課需出席)，應藝所優先。",
           "cos_ename": "Multimedia Web Page Design",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "462",
+          "dep_primary": "1",
+          "dep_cname": "應用藝術研究所",
+          "dep_ename": "Institute of Applied Arts",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5838": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5838",
+          "cos_code": "IAA5740",
+          "num_limit": "12",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "沉浸與虛幻引擎",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "謝啟民",
+          "cos_time": "T234-HA314",
+          "memo": "",
+          "cos_ename": "Immersive Unreal Engine",
           "brief": "",
           "degree": "3",
           "dep_id": "462",
@@ -40107,6 +40104,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5831": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5833": {
           "": {
             "course_category_cname": "",
@@ -40117,6 +40123,15 @@
           }
         },
         "1101_5836": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5838": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -40148,6 +40163,12 @@
             "brief": ""
           }
         },
+        "1101_5831": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5833": {
           "": {
             "brief_code": "",
@@ -40155,6 +40176,12 @@
           }
         },
         "1101_5836": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5838": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -40174,10 +40201,16 @@
         "1101_5830": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_5831": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_5833": {
           "授課語言代碼": "zh-tw"
         },
         "1101_5836": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5838": {
           "授課語言代碼": "zh-tw"
         },
         "1101_5842": {
@@ -41102,7 +41135,7 @@
           "cos_id": "5052",
           "cos_code": "GEE5101",
           "num_limit": "40",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "類比積體電路設計",
           "cos_credit": "3.00",
@@ -41129,8 +41162,8 @@
           "sem": "1",
           "cos_id": "5053",
           "cos_code": "GEE9020",
-          "num_limit": "9999",
-          "dep_limit": "*",
+          "num_limit": "60",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "醫學工程",
           "cos_credit": "3.00",
@@ -41235,7 +41268,7 @@
           "cos_id": "5056",
           "cos_code": "ICN5301",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "論文研討",
           "cos_credit": "1.00",
@@ -41263,7 +41296,7 @@
           "cos_id": "5057",
           "cos_code": "ICN5337",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "精密馬達設計",
           "cos_credit": "3.00",
@@ -41291,7 +41324,7 @@
           "cos_id": "5058",
           "cos_code": "ICN5406",
           "num_limit": "25",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "自走式機器人  ",
           "cos_credit": "3.00",
@@ -41319,7 +41352,7 @@
           "cos_id": "5059",
           "cos_code": "ICN5502",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "線性系統理論",
           "cos_credit": "3.00",
@@ -41347,7 +41380,7 @@
           "cos_id": "5060",
           "cos_code": "ICN5523",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "可變結構控制系統",
           "cos_credit": "3.00",
@@ -41375,7 +41408,7 @@
           "cos_id": "5061",
           "cos_code": "ICN5534",
           "num_limit": "80",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "機器人學",
           "cos_credit": "3.00",
@@ -41403,7 +41436,7 @@
           "cos_id": "5062",
           "cos_code": "ICN5560",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "電腦控制系統",
           "cos_credit": "3.00",
@@ -41431,7 +41464,7 @@
           "cos_id": "5063",
           "cos_code": "ICN5611",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "數位訊號處理",
           "cos_credit": "3.00",
@@ -41459,7 +41492,7 @@
           "cos_id": "5064",
           "cos_code": "ICN5624",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "智慧型控制",
           "cos_credit": "3.00",
@@ -41487,7 +41520,7 @@
           "cos_id": "5065",
           "cos_code": "ICN5801",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "影像處理",
           "cos_credit": "3.00",
@@ -41514,8 +41547,8 @@
           "sem": "1",
           "cos_id": "5066",
           "cos_code": "ICN6510",
-          "num_limit": "9999",
-          "dep_limit": "*",
+          "num_limit": "60",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "適應控制系統",
           "cos_credit": "3.00",
@@ -41542,8 +41575,8 @@
           "sem": "1",
           "cos_id": "5067",
           "cos_code": "ICN6553",
-          "num_limit": "9999",
-          "dep_limit": "*",
+          "num_limit": "40",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "微機電系統技術導論",
           "cos_credit": "3.00",
@@ -41570,8 +41603,8 @@
           "sem": "1",
           "cos_id": "5068",
           "cos_code": "ICN6568",
-          "num_limit": "9999",
-          "dep_limit": "*",
+          "num_limit": "40",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "模糊系統",
           "cos_credit": "3.00",
@@ -41598,8 +41631,8 @@
           "sem": "1",
           "cos_id": "5069",
           "cos_code": "ICN6592",
-          "num_limit": "9999",
-          "dep_limit": "*",
+          "num_limit": "60",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "超大型積體電路系統設計",
           "cos_credit": "3.00",
@@ -41627,7 +41660,7 @@
           "cos_id": "5070",
           "cos_code": "ICN6592",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "超大型積體電路系統設計",
           "cos_credit": "3.00",
@@ -41655,7 +41688,7 @@
           "cos_id": "5071",
           "cos_code": "ICN9004",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "檢測與估計理論",
           "cos_credit": "3.00",
@@ -41683,7 +41716,7 @@
           "cos_id": "5073",
           "cos_code": "ICN9007",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "自主駕駛車技術",
           "cos_credit": "3.00",
@@ -42104,7 +42137,7 @@
           "cos_id": "5077",
           "cos_code": "ECM5101",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "數位通訊",
           "cos_credit": "3.00",
@@ -42132,7 +42165,7 @@
           "cos_id": "5078",
           "cos_code": "ECM5102",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "隨機過程",
           "cos_credit": "3.00",
@@ -42160,7 +42193,7 @@
           "cos_id": "5079",
           "cos_code": "ECM5103",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "編碼理論",
           "cos_credit": "3.00",
@@ -42188,7 +42221,7 @@
           "cos_id": "5080",
           "cos_code": "ECM5104",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "消息理論",
           "cos_credit": "3.00",
@@ -42216,7 +42249,7 @@
           "cos_id": "5081",
           "cos_code": "ECM5114",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "量子訊息與計算",
           "cos_credit": "3.00",
@@ -42244,7 +42277,7 @@
           "cos_id": "5082",
           "cos_code": "ECM5202",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "檢測與估計理論",
           "cos_credit": "3.00",
@@ -42272,7 +42305,7 @@
           "cos_id": "5083",
           "cos_code": "ECM5203",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "適應性訊號處理",
           "cos_credit": "3.00",
@@ -42300,7 +42333,7 @@
           "cos_id": "5084",
           "cos_code": "ECM5213",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "聽語資訊處理",
           "cos_credit": "3.00",
@@ -42328,7 +42361,7 @@
           "cos_id": "5085",
           "cos_code": "ECM5214",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "數位訊號處理",
           "cos_credit": "3.00",
@@ -42356,7 +42389,7 @@
           "cos_id": "5086",
           "cos_code": "ECM5301",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "排隊理論",
           "cos_credit": "3.00",
@@ -42384,7 +42417,7 @@
           "cos_id": "5087",
           "cos_code": "ECM5307",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "手機行動通訊系統  ",
           "cos_credit": "3.00",
@@ -42412,7 +42445,7 @@
           "cos_id": "5088",
           "cos_code": "ECM5401",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "高等電磁學(一)",
           "cos_credit": "3.00",
@@ -42440,7 +42473,7 @@
           "cos_id": "5089",
           "cos_code": "ECM5407",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "電波傳播與散射",
           "cos_credit": "3.00",
@@ -42468,7 +42501,7 @@
           "cos_id": "5090",
           "cos_code": "ECM5410",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "數值半導體元件模式",
           "cos_credit": "3.00",
@@ -42496,7 +42529,7 @@
           "cos_id": "5091",
           "cos_code": "ECM5501",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "微波工程(一)",
           "cos_credit": "3.00",
@@ -42524,7 +42557,7 @@
           "cos_id": "5093",
           "cos_code": "ECM5704",
           "num_limit": "30",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "鎖相迴路與頻率合成",
           "cos_credit": "3.00",
@@ -42552,7 +42585,7 @@
           "cos_id": "5094",
           "cos_code": "ECM5705",
           "num_limit": "30",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "射頻積體電路設計",
           "cos_credit": "3.00",
@@ -42580,7 +42613,7 @@
           "cos_id": "5095",
           "cos_code": "ECM9021",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "量子力學",
           "cos_credit": "3.00",
@@ -42608,7 +42641,7 @@
           "cos_id": "5096",
           "cos_code": "ECM9025",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "統計力學",
           "cos_credit": "3.00",
@@ -42636,7 +42669,7 @@
           "cos_id": "5097",
           "cos_code": "ECM9026",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "無線通訊之矩陣理論",
           "cos_credit": "3.00",
@@ -42664,7 +42697,7 @@
           "cos_id": "5098",
           "cos_code": "ECM9032",
           "num_limit": "100",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "機器學習",
           "cos_credit": "3.00",
@@ -42692,7 +42725,7 @@
           "cos_id": "5099",
           "cos_code": "ECM9034",
           "num_limit": "25",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "無線隨意網路",
           "cos_credit": "3.00",
@@ -42748,7 +42781,7 @@
           "cos_id": "5101",
           "cos_code": "ECM9042",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "深度學習",
           "cos_credit": "3.00",
@@ -44994,7 +45027,7 @@
           "cos_id": "5250",
           "cos_code": "IOC5010",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "個別研究",
           "cos_credit": "1.00",
@@ -45559,7 +45592,7 @@
           "cos_id": "5276",
           "cos_code": "IOE5048",
           "num_limit": "80",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "網路安全(英文授課)",
           "cos_credit": "3.00",
@@ -45569,6 +45602,34 @@
           "cos_time": "T34n-EC115",
           "memo": "本院學生優先；博士班資格考考核科目；資安學程必選修課程；英文授課[English Medium Course]",
           "cos_ename": "Network Security",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "552",
+          "dep_primary": "1",
+          "dep_cname": "網路工程研究所",
+          "dep_ename": "Institute of Network Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5279": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5279",
+          "cos_code": "IOE5114",
+          "num_limit": "36",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "物聯網裝置與平台",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cs.nctu.edu.tw/~yctseng",
+          "teacher": "曾煜棋、吳郁夫",
+          "cos_time": "Fn56-EC315",
+          "memo": "本院學生優先",
+          "cos_ename": "IoT Devices and Platforms",
           "brief": "",
           "degree": "3",
           "dep_id": "552",
@@ -45607,6 +45668,15 @@
             "GECIName": "工,理,管,生,人",
             "GECIEngName": "COE,COS,COM,CBT,CHS"
           }
+        },
+        "1101_5279": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -45621,6 +45691,12 @@
             "brief_code": "A205,A504,A909",
             "brief": "自然/進階(96),跨院基本素養(106),博雅選修通識 (90)"
           }
+        },
+        "1101_5279": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -45629,6 +45705,9 @@
         },
         "1101_5276": {
           "授課語言代碼": "en-us"
+        },
+        "1101_5279": {
+          "授課語言代碼": "zh-tw"
         }
       }
     },
@@ -54765,6 +54844,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5152": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5152",
+          "cos_code": "IIB5103",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "生醫光電檢測技術",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "胡博琛",
+          "cos_time": "T567-CM212",
+          "memo": "上課地點：台南校區[English Medium Course]",
+          "cos_ename": "Biophotonics Technology\t\t\t ",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "806",
+          "dep_primary": "1",
+          "dep_cname": "影像與生醫光電研究所",
+          "dep_ename": "Institute of Imaging and Biomedical Photonics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5153": {
           "acy": "110",
           "sem": "1",
@@ -54860,6 +54967,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5152": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5153": {
           "": {
             "course_category_cname": "",
@@ -54895,6 +55011,12 @@
             "brief": ""
           }
         },
+        "1101_5152": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5153": {
           "": {
             "brief_code": "",
@@ -54917,6 +55039,9 @@
       "language": {
         "1101_5151": {
           "授課語言代碼": "zh-tw"
+        },
+        "1101_5152": {
+          "授課語言代碼": "en-us"
         },
         "1101_5153": {
           "授課語言代碼": "zh-tw"

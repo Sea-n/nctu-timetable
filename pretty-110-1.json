@@ -72086,6 +72086,34 @@
           "reg_num": "0",
           "depType": "Q"
         },
+        "1101_5796": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5796",
+          "cos_code": "IED5046",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "建構主義在科學教育上的應用",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "陳雅君",
+          "cos_time": "R34-HA217",
+          "memo": "[English Medium Course]",
+          "cos_ename": "The Practice of Constructivism in Science Education ",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QKT",
+          "dep_primary": "1",
+          "dep_cname": "教育研究所學習科學跨域學程",
+          "dep_ename": "Institute of Education for Learning Science Cross-Disciplinary Prog",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
         "1101_5815": {
           "acy": "110",
           "sem": "1",
@@ -72125,6 +72153,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5796": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5815": {
           "": {
             "course_category_cname": "",
@@ -72142,6 +72179,12 @@
             "brief": ""
           }
         },
+        "1101_5796": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5815": {
           "": {
             "brief_code": "",
@@ -72152,6 +72195,9 @@
       "language": {
         "1101_5794": {
           "授課語言代碼": "zh-tw"
+        },
+        "1101_5796": {
+          "授課語言代碼": "en-us"
         },
         "1101_5815": {
           "授課語言代碼": "zh-tw"
@@ -77156,6 +77202,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5796": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5796",
+          "cos_code": "IED5046",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "建構主義在科學教育上的應用",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "陳雅君",
+          "cos_time": "R34-HA217",
+          "memo": "[English Medium Course]",
+          "cos_ename": "The Practice of Constructivism in Science Education ",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "460",
+          "dep_primary": "1",
+          "dep_cname": "教育研究所",
+          "dep_ename": "Institute of Education",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5800": {
           "acy": "110",
           "sem": "1",
@@ -77251,6 +77325,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5796": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5800": {
           "": {
             "course_category_cname": "",
@@ -77286,6 +77369,12 @@
             "brief": ""
           }
         },
+        "1101_5796": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5800": {
           "": {
             "brief_code": "",
@@ -77308,6 +77397,9 @@
       "language": {
         "1101_5794": {
           "授課語言代碼": "zh-tw"
+        },
+        "1101_5796": {
+          "授課語言代碼": "en-us"
         },
         "1101_5800": {
           "授課語言代碼": "zh-tw"

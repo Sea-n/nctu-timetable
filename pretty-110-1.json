@@ -73777,6 +73777,34 @@
           "crsoutline_type": "data",
           "reg_num": "56",
           "depType": "Q"
+        },
+        "1101_5468": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5468",
+          "cos_code": "IOP5409",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "量子場論（一）",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cc.nctu.edu.tw/~cjdlin/",
+          "teacher": "林及仁",
+          "cos_time": "R789-SC157",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Quantum Field Theory (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QJM",
+          "dep_primary": "1",
+          "dep_cname": "物理研究所跨域學程(B)外系學生",
+          "dep_ename": "Institute of Physics for Cross-Disciplinary Program",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
         }
       },
       "costype": {
@@ -73788,6 +73816,15 @@
             "GECIName": "工",
             "GECIEngName": "COE"
           }
+        },
+        "1101_5468": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -73796,11 +73833,20 @@
             "brief_code": "A205,A504",
             "brief": "自然/進階(96),跨院基本素養(106)"
           }
+        },
+        "1101_5468": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
         "1101_1355": {
           "授課語言代碼": "zh-tw"
+        },
+        "1101_5468": {
+          "授課語言代碼": "en-us"
         }
       }
     },
@@ -101768,7 +101814,43 @@
             "GECIEngName": ""
           }
         },
+        "1101_5467": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5468": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5470": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5471": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5472": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -101803,7 +101885,31 @@
             "brief": ""
           }
         },
+        "1101_5467": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5468": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5470": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5471": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5472": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -101826,8 +101932,20 @@
         "1101_5413": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_5467": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5468": {
+          "授課語言代碼": "en-us"
+        },
         "1101_5470": {
           "授課語言代碼": "zh-tw"
+        },
+        "1101_5471": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5472": {
+          "授課語言代碼": "en-us"
         },
         "1101_5473": {
           "授課語言代碼": "zh-tw"
@@ -101837,6 +101955,62 @@
         }
       },
       "1": {
+        "1101_5467": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5467",
+          "cos_code": "IOP5351",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "書報討論",
+          "cos_credit": "1.00",
+          "cos_hours": "2.00",
+          "TURL": "http://www.cc.nctu.edu.tw/~cjdlin/",
+          "teacher": "林及仁",
+          "cos_time": "R56-SC157",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Seminar",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "658",
+          "dep_primary": "1",
+          "dep_cname": "物理研究所",
+          "dep_ename": "Institute of Physics",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5468": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5468",
+          "cos_code": "IOP5409",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "量子場論（一）",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cc.nctu.edu.tw/~cjdlin/",
+          "teacher": "林及仁",
+          "cos_time": "R789-SC157",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Quantum Field Theory (I)",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "658",
+          "dep_primary": "1",
+          "dep_cname": "物理研究所",
+          "dep_ename": "Institute of Physics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5470": {
           "acy": "110",
           "sem": "1",
@@ -101853,6 +102027,62 @@
           "cos_time": "F89a-SC064",
           "memo": "",
           "cos_ename": "Low Temperature and Mesoscopic Physics(II)",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "658",
+          "dep_primary": "1",
+          "dep_cname": "物理研究所",
+          "dep_ename": "Institute of Physics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5471": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5471",
+          "cos_code": "IOP5462",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "高能物理專題演講",
+          "cos_credit": "1.00",
+          "cos_hours": "1.00",
+          "TURL": "http://www.cc.nctu.edu.tw/~cjdlin/",
+          "teacher": "林及仁",
+          "cos_time": "T6-SC427",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Seminar in High Energy Physics",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "658",
+          "dep_primary": "1",
+          "dep_cname": "物理研究所",
+          "dep_ename": "Institute of Physics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5472": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5472",
+          "cos_code": "IOP5463",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "晶格規範場論專題",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cc.nctu.edu.tw/~cjdlin/",
+          "teacher": "林及仁",
+          "cos_time": "Wabc-SC157",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Topics in Lattice Gauge Theory",
           "brief": "",
           "degree": "3",
           "dep_id": "658",

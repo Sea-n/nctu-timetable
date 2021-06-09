@@ -297,6 +297,65 @@
         }
       }
     },
+    "DF8662D9-F214-4BA7-AD19-6013ADDEBFE1": {
+      "dep_id": "DF8662D9-F214-4BA7-AD19-6013ADDEBFE1",
+      "dep_cname": "護理學系",
+      "dep_ename": "Department of Nursing",
+      "1": {
+        "1101_A319": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "A319",
+          "cos_code": "B2444  ",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "成人護理學Ⅰ",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "侯宜菁、吳筱盈、邱愛富、廖媛美、童恒新、陳俞琪、胡慧蘭、黃淑鶴、楊曼華",
+          "cos_time": "M12345678T12345678W12345678-YN416",
+          "memo": null,
+          "cos_ename": "Adult Nursing Ⅰ",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "201",
+          "dep_primary": "1",
+          "dep_cname": "護理學系",
+          "dep_ename": "Department of Nursing",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "49",
+          "depType": "U"
+        }
+      },
+      "costype": {
+        "1101_A319": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_A319": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_A319": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "6364089A-4693-4A80-B2D0-3F341DF5EBFF": {
       "dep_id": "6364089A-4693-4A80-B2D0-3F341DF5EBFF",
       "dep_cname": "生物科技學系",
@@ -1385,9 +1444,9 @@
           }
         },
         "1101_7116": {
-          "": {
-            "brief_code": "",
-            "brief": ""
+          "B071": {
+            "brief_code": "B071",
+            "brief": "基礎(87)"
           }
         },
         "1101_8122": {
@@ -5652,9 +5711,9 @@
           }
         },
         "1101_7130": {
-          "": {
-            "brief_code": "",
-            "brief": ""
+          "B071": {
+            "brief_code": "B071",
+            "brief": "基礎(87)"
           }
         },
         "1101_8129": {
@@ -7771,9 +7830,9 @@
           }
         },
         "1101_7121": {
-          "": {
-            "brief_code": "",
-            "brief": ""
+          "B071": {
+            "brief_code": "B071",
+            "brief": "基礎(87)"
           }
         },
         "1101_8130": {
@@ -8392,6 +8451,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1641": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1641",
+          "cos_code": "DOH1038",
+          "num_limit": "15",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "基礎模型製作",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "郭明浩",
+          "cos_time": "M567-EEB31",
+          "memo": "",
+          "cos_ename": "Fundamentals of Model Making",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "4A1",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學院院本部",
+          "dep_ename": "College of Humanities and Social Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1642": {
           "acy": "110",
           "sem": "1",
@@ -8603,6 +8690,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1641": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1642": {
           "": {
             "course_category_cname": "",
@@ -8677,6 +8773,12 @@
             "brief": ""
           }
         },
+        "1101_1641": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1642": {
           "": {
             "brief_code": "",
@@ -8722,6 +8824,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1638": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1641": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1642": {
@@ -14580,9 +14685,9 @@
           }
         },
         "1101_7127": {
-          "": {
-            "brief_code": "",
-            "brief": ""
+          "B071": {
+            "brief_code": "B071",
+            "brief": "基礎(87)"
           }
         },
         "1101_7128": {
@@ -14592,9 +14697,9 @@
           }
         },
         "1101_7129": {
-          "": {
-            "brief_code": "",
-            "brief": ""
+          "B071": {
+            "brief_code": "B071",
+            "brief": "基礎(87)"
           }
         },
         "1101_8101": {
@@ -21805,9 +21910,9 @@
           }
         },
         "1101_7119": {
-          "": {
-            "brief_code": "",
-            "brief": ""
+          "B071": {
+            "brief_code": "B071",
+            "brief": "基礎(87)"
           }
         },
         "1101_8132": {
@@ -23845,9 +23950,9 @@
           }
         },
         "1101_7127": {
-          "": {
-            "brief_code": "",
-            "brief": ""
+          "B071": {
+            "brief_code": "B071",
+            "brief": "基礎(87)"
           }
         },
         "1101_7128": {
@@ -23857,9 +23962,9 @@
           }
         },
         "1101_7129": {
-          "": {
-            "brief_code": "",
-            "brief": ""
+          "B071": {
+            "brief_code": "B071",
+            "brief": "基礎(87)"
           }
         },
         "1101_8107": {
@@ -28446,9 +28551,9 @@
           }
         },
         "1101_7130": {
-          "": {
-            "brief_code": "",
-            "brief": ""
+          "B071": {
+            "brief_code": "B071",
+            "brief": "基礎(87)"
           }
         },
         "1101_8117": {
@@ -31370,9 +31475,9 @@
           }
         },
         "1101_7116": {
-          "": {
-            "brief_code": "",
-            "brief": ""
+          "B071": {
+            "brief_code": "B071",
+            "brief": "基礎(87)"
           }
         },
         "1101_8112": {
@@ -33581,9 +33686,9 @@
           }
         },
         "1101_7116": {
-          "": {
-            "brief_code": "",
-            "brief": ""
+          "B071": {
+            "brief_code": "B071",
+            "brief": "基礎(87)"
           }
         },
         "1101_8115": {
@@ -34692,9 +34797,9 @@
           }
         },
         "1101_7121": {
-          "": {
-            "brief_code": "",
-            "brief": ""
+          "B071": {
+            "brief_code": "B071",
+            "brief": "基礎(87)"
           }
         },
         "1101_8114": {
@@ -37328,9 +37433,9 @@
           }
         },
         "1101_7121": {
-          "": {
-            "brief_code": "",
-            "brief": ""
+          "B071": {
+            "brief_code": "B071",
+            "brief": "基礎(87)"
           }
         },
         "1101_8118": {
@@ -38435,9 +38540,9 @@
           }
         },
         "1101_7119": {
-          "": {
-            "brief_code": "",
-            "brief": ""
+          "B071": {
+            "brief_code": "B071",
+            "brief": "基礎(87)"
           }
         },
         "1101_8120": {
@@ -59280,9 +59385,9 @@
           }
         },
         "1101_7116": {
-          "": {
-            "brief_code": "",
-            "brief": ""
+          "B071": {
+            "brief_code": "B071",
+            "brief": "基礎(87)"
           }
         },
         "1101_7117": {
@@ -59298,9 +59403,9 @@
           }
         },
         "1101_7119": {
-          "": {
-            "brief_code": "",
-            "brief": ""
+          "B071": {
+            "brief_code": "B071",
+            "brief": "基礎(87)"
           }
         },
         "1101_7120": {
@@ -59310,9 +59415,9 @@
           }
         },
         "1101_7121": {
-          "": {
-            "brief_code": "",
-            "brief": ""
+          "B071": {
+            "brief_code": "B071",
+            "brief": "基礎(87)"
           }
         },
         "1101_7124": {
@@ -59322,9 +59427,9 @@
           }
         },
         "1101_7127": {
-          "": {
-            "brief_code": "",
-            "brief": ""
+          "B071": {
+            "brief_code": "B071",
+            "brief": "基礎(87)"
           }
         },
         "1101_7128": {
@@ -59334,27 +59439,27 @@
           }
         },
         "1101_7129": {
-          "": {
-            "brief_code": "",
-            "brief": ""
+          "B071": {
+            "brief_code": "B071",
+            "brief": "基礎(87)"
           }
         },
         "1101_7130": {
-          "": {
-            "brief_code": "",
-            "brief": ""
+          "B071": {
+            "brief_code": "B071",
+            "brief": "基礎(87)"
           }
         },
         "1101_7131": {
-          "": {
-            "brief_code": "",
-            "brief": ""
+          "B071": {
+            "brief_code": "B071",
+            "brief": "基礎(87)"
           }
         },
         "1101_7132": {
-          "": {
-            "brief_code": "",
-            "brief": ""
+          "B071": {
+            "brief_code": "B071",
+            "brief": "基礎(87)"
           }
         },
         "1101_7141": {
@@ -59376,27 +59481,27 @@
           }
         },
         "1101_7149": {
-          "": {
-            "brief_code": "",
-            "brief": ""
+          "B072": {
+            "brief_code": "B072",
+            "brief": "進階(87)"
           }
         },
         "1101_7150": {
-          "": {
-            "brief_code": "",
-            "brief": ""
+          "B072": {
+            "brief_code": "B072",
+            "brief": "進階(87)"
           }
         },
         "1101_7152": {
-          "": {
-            "brief_code": "",
-            "brief": ""
+          "B072": {
+            "brief_code": "B072",
+            "brief": "進階(87)"
           }
         },
         "1101_7154": {
-          "": {
-            "brief_code": "",
-            "brief": ""
+          "B072": {
+            "brief_code": "B072",
+            "brief": "進階(87)"
           }
         },
         "1101_7155": {
@@ -59418,15 +59523,15 @@
           }
         },
         "1101_7158": {
-          "": {
-            "brief_code": "",
-            "brief": ""
+          "B072": {
+            "brief_code": "B072",
+            "brief": "進階(87)"
           }
         },
         "1101_7159": {
-          "": {
-            "brief_code": "",
-            "brief": ""
+          "B072": {
+            "brief_code": "B072",
+            "brief": "進階(87)"
           }
         },
         "1101_7160": {
@@ -59442,15 +59547,15 @@
           }
         },
         "1101_7162": {
-          "": {
-            "brief_code": "",
-            "brief": ""
+          "B072": {
+            "brief_code": "B072",
+            "brief": "進階(87)"
           }
         },
         "1101_7163": {
-          "": {
-            "brief_code": "",
-            "brief": ""
+          "B072": {
+            "brief_code": "B072",
+            "brief": "進階(87)"
           }
         },
         "1101_7164": {
@@ -59466,9 +59571,9 @@
           }
         },
         "1101_7168": {
-          "": {
-            "brief_code": "",
-            "brief": ""
+          "B072": {
+            "brief_code": "B072",
+            "brief": "進階(87)"
           }
         },
         "1101_7169": {
@@ -59478,15 +59583,15 @@
           }
         },
         "1101_7170": {
-          "": {
-            "brief_code": "",
-            "brief": ""
+          "B072": {
+            "brief_code": "B072",
+            "brief": "進階(87)"
           }
         },
         "1101_7172": {
-          "": {
-            "brief_code": "",
-            "brief": ""
+          "B072": {
+            "brief_code": "B072",
+            "brief": "進階(87)"
           }
         },
         "1101_7501": {
@@ -59532,15 +59637,15 @@
           }
         },
         "1101_7509": {
-          "": {
-            "brief_code": "",
-            "brief": ""
+          "B075": {
+            "brief_code": "B075",
+            "brief": "其它(87)"
           }
         },
         "1101_7510": {
-          "": {
-            "brief_code": "",
-            "brief": ""
+          "B075": {
+            "brief_code": "B075",
+            "brief": "其它(87)"
           }
         },
         "1101_7511": {
@@ -59610,9 +59715,9 @@
           }
         },
         "1101_7524": {
-          "": {
-            "brief_code": "",
-            "brief": ""
+          "B075": {
+            "brief_code": "B075",
+            "brief": "其它(87)"
           }
         },
         "1101_7525": {
@@ -59670,9 +59775,9 @@
           }
         },
         "1101_7543": {
-          "": {
-            "brief_code": "",
-            "brief": ""
+          "B075": {
+            "brief_code": "B075",
+            "brief": "其它(87)"
           }
         },
         "1101_7544": {
@@ -65322,9 +65427,9 @@
           }
         },
         "1101_8553": {
-          "": {
-            "brief_code": "",
-            "brief": ""
+          "C081": {
+            "brief_code": "C081",
+            "brief": "體育必修(87)"
           }
         },
         "1101_8555": {
@@ -71886,6 +71991,34 @@
           "reg_num": "0",
           "depType": "P"
         },
+        "1101_1641": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1641",
+          "cos_code": "DOH1038",
+          "num_limit": "15",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "基礎模型製作",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "郭明浩",
+          "cos_time": "M567-EEB31",
+          "memo": "",
+          "cos_ename": "Fundamentals of Model Making",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PCD",
+          "dep_primary": "1",
+          "dep_cname": "創新科技藝術學分學程",
+          "dep_ename": "Innovative Technology and Art Program",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
         "1101_1642": {
           "acy": "110",
           "sem": "1",
@@ -71957,6 +72090,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1641": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1642": {
           "": {
             "course_category_cname": "",
@@ -71986,6 +72128,12 @@
             "brief": ""
           }
         },
+        "1101_1641": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1642": {
           "": {
             "brief_code": "",
@@ -72001,6 +72149,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1638": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1641": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1642": {
@@ -74362,6 +74513,34 @@
           "reg_num": "0",
           "depType": "Q"
         },
+        "1101_1641": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1641",
+          "cos_code": "DOH1038",
+          "num_limit": "15",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "基礎模型製作",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "郭明浩",
+          "cos_time": "M567-EEB31",
+          "memo": "",
+          "cos_ename": "Fundamentals of Model Making",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QJZ",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學院跨領域設計與創新科技跨域學程",
+          "dep_ename": "College of Humanities and Social Sciences for Transdisciplinary Inn",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
         "1101_1642": {
           "acy": "110",
           "sem": "1",
@@ -74489,6 +74668,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1641": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1642": {
           "": {
             "course_category_cname": "",
@@ -74536,6 +74724,12 @@
             "brief": ""
           }
         },
+        "1101_1641": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1642": {
           "": {
             "brief_code": "",
@@ -74563,6 +74757,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1638": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1641": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1642": {

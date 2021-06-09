@@ -329,10 +329,47 @@
           "crsoutline_type": "data",
           "reg_num": "49",
           "depType": "U"
+        },
+        "1101_A322": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "A322",
+          "cos_code": "B2445  ",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "成人護理學Ⅱ",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "侯宜菁、吳筱盈、邱愛富、廖媛美、童恒新、陳俞琪、胡慧蘭、黃淑鶴、楊曼華、童惠芳",
+          "cos_time": "M12345678T12345678W12345678-YN416",
+          "memo": null,
+          "cos_ename": "Adult Nursing Ⅱ",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "201",
+          "dep_primary": "1",
+          "dep_cname": "護理學系",
+          "dep_ename": "Department of Nursing",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "49",
+          "depType": "U"
         }
       },
       "costype": {
         "1101_A319": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_A322": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -348,10 +385,19 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_A322": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
         "1101_A319": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_A322": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -8507,6 +8553,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1643": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1643",
+          "cos_code": "DOH1052",
+          "num_limit": "60",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "通用設計與實作",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "郭明浩",
+          "cos_time": "T34-HC103",
+          "memo": "",
+          "cos_ename": "Universal Design",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "4A1",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學院院本部",
+          "dep_ename": "College of Humanities and Social Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1649": {
           "acy": "110",
           "sem": "1",
@@ -8708,6 +8782,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1643": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1649": {
           "": {
             "course_category_cname": "",
@@ -8785,6 +8868,12 @@
             "brief": ""
           }
         },
+        "1101_1643": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1649": {
           "": {
             "brief_code": "",
@@ -8830,6 +8919,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1642": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1643": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1649": {
@@ -72046,6 +72138,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "P"
+        },
+        "1101_1643": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1643",
+          "cos_code": "DOH1052",
+          "num_limit": "60",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "通用設計與實作",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "郭明浩",
+          "cos_time": "T34-HC103",
+          "memo": "",
+          "cos_ename": "Universal Design",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PCD",
+          "dep_primary": "1",
+          "dep_cname": "創新科技藝術學分學程",
+          "dep_ename": "Innovative Technology and Art Program",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
         }
       },
       "costype": {
@@ -72107,6 +72227,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_1643": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -72139,6 +72268,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_1643": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -72155,6 +72290,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1642": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1643": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -74569,6 +74707,34 @@
           "reg_num": "0",
           "depType": "Q"
         },
+        "1101_1643": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1643",
+          "cos_code": "DOH1052",
+          "num_limit": "60",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "通用設計與實作",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "郭明浩",
+          "cos_time": "T34-HC103",
+          "memo": "",
+          "cos_ename": "Universal Design",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QJZ",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學院跨領域設計與創新科技跨域學程",
+          "dep_ename": "College of Humanities and Social Sciences for Transdisciplinary Inn",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
         "1101_1654": {
           "acy": "110",
           "sem": "1",
@@ -74686,6 +74852,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1643": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1654": {
           "": {
             "course_category_cname": "",
@@ -74736,6 +74911,12 @@
             "brief": ""
           }
         },
+        "1101_1643": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1654": {
           "": {
             "brief_code": "",
@@ -74763,6 +74944,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1642": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1643": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1654": {
@@ -75618,6 +75802,34 @@
       "dep_cname": "人文社會學院藝術與音樂跨域學程",
       "dep_ename": "College of Humanities and Social Sciences for Transdisciplinary Inn",
       "1": {
+        "1101_1643": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1643",
+          "cos_code": "DOH1052",
+          "num_limit": "60",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "通用設計與實作",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "郭明浩",
+          "cos_time": "T34-HC103",
+          "memo": "",
+          "cos_ename": "Universal Design",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QKS",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學院藝術與音樂跨域學程",
+          "dep_ename": "College of Humanities and Social Sciences for Transdisciplinary Inn",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
         "1101_1649": {
           "acy": "110",
           "sem": "1",
@@ -75788,6 +76000,15 @@
         }
       },
       "costype": {
+        "1101_1643": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1649": {
           "": {
             "course_category_cname": "",
@@ -75851,6 +76072,12 @@
         }
       },
       "brief": {
+        "1101_1643": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1649": {
           "": {
             "brief_code": "",
@@ -75889,6 +76116,9 @@
         }
       },
       "language": {
+        "1101_1643": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1649": {
           "授課語言代碼": "zh-tw"
         },

@@ -727,6 +727,34 @@
       "dep_cname": "物理教學小組",
       "dep_ename": "Physical section",
       "1": {
+        "109X_1003": {
+          "acy": "109",
+          "sem": "X",
+          "cos_id": "1003",
+          "cos_code": "DEP1111",
+          "num_limit": "70",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "物理(一)",
+          "cos_credit": "4.00",
+          "cos_hours": "4.00",
+          "TURL": "http://pre.tir.tw/077/",
+          "teacher": "劉宗哲",
+          "cos_time": "M3467T3467-SA320",
+          "memo": "日期:7月5日-8月30日",
+          "cos_ename": "Physics (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OUD",
+          "dep_primary": "1",
+          "dep_cname": "物理教學小組",
+          "dep_ename": "Physical section",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "109X_1004": {
           "acy": "109",
           "sem": "X",
@@ -757,6 +785,15 @@
         }
       },
       "costype": {
+        "109X_1003": {
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "客",
+            "GECIEngName": "CHK"
+          }
+        },
         "109X_1004": {
           "通識跨院基本素養_通識跨院": {
             "course_category_cname": "通識跨院基本素養_通識跨院",
@@ -768,6 +805,12 @@
         }
       },
       "brief": {
+        "109X_1003": {
+          "A105,A504": {
+            "brief_code": "A105,A504",
+            "brief": "自然/基礎(96),跨院基本素養(106)"
+          }
+        },
         "109X_1004": {
           "A105,A504": {
             "brief_code": "A105,A504",
@@ -776,6 +819,9 @@
         }
       },
       "language": {
+        "109X_1003": {
+          "授課語言代碼": "zh-tw"
+        },
         "109X_1004": {
           "授課語言代碼": "en-us"
         }

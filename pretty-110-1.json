@@ -20338,6 +20338,24 @@
             "GECIEngName": ""
           }
         },
+        "1101_1108": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1109": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1110": {
           "": {
             "course_category_cname": "",
@@ -20888,6 +20906,18 @@
             "brief": ""
           }
         },
+        "1101_1108": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1109": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1110": {
           "": {
             "brief_code": "",
@@ -21215,6 +21245,12 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1107": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1108": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1109": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1110": {
@@ -21722,6 +21758,62 @@
           "cos_type_e": "Required",
           "crsoutline_type": "data",
           "reg_num": "38",
+          "depType": "U"
+        },
+        "1101_1108": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1108",
+          "cos_code": "DEO1025",
+          "num_limit": "18",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "光子學實驗 (二)",
+          "cos_credit": "2.00",
+          "cos_hours": "4.00",
+          "TURL": "",
+          "teacher": "高宗聖",
+          "cos_time": "Rabcd-EO115",
+          "memo": "",
+          "cos_ename": "Photonics Lab.(II) ",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "514",
+          "dep_primary": "1",
+          "dep_cname": "光電工程學系",
+          "dep_ename": "Department  of Photonics",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "19",
+          "depType": "U"
+        },
+        "1101_1109": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1109",
+          "cos_code": "DEO1025",
+          "num_limit": "18",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "光子學實驗 (二)",
+          "cos_credit": "2.00",
+          "cos_hours": "4.00",
+          "TURL": "",
+          "teacher": "高宗聖",
+          "cos_time": "Tabcd-EO115",
+          "memo": "",
+          "cos_ename": "Photonics Lab.(II) ",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "514",
+          "dep_primary": "1",
+          "dep_cname": "光電工程學系",
+          "dep_ename": "Department  of Photonics",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "18",
           "depType": "U"
         },
         "1101_1110": {
@@ -91676,6 +91768,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5223": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5223",
+          "cos_code": "CST5052",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "量子流體與低溫技術",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "河野公俊",
+          "cos_time": "M56-SC162",
+          "memo": "英語授課[English Medium Course]",
+          "cos_ename": "Quantum Fluids and Cryogenics",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "591",
+          "dep_primary": "1",
+          "dep_cname": "國際半導體產業學院碩士班",
+          "dep_ename": "International College of Semiconductor Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5226": {
           "acy": "110",
           "sem": "1",
@@ -91808,6 +91928,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5223": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5226": {
           "": {
             "course_category_cname": "",
@@ -91858,6 +91987,12 @@
             "brief": ""
           }
         },
+        "1101_5223": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5226": {
           "": {
             "brief_code": "",
@@ -91888,6 +92023,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_5219": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5223": {
           "授課語言代碼": "en-us"
         },
         "1101_5226": {
@@ -95431,6 +95569,150 @@
       "dep_id": "41BD6B9E-1F68-4F9C-9762-12776BE7A147",
       "dep_cname": "電子物理學系",
       "dep_ename": "Institute of Electro-Physics",
+      "2": {
+        "1101_5223": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5223",
+          "cos_code": "CST5052",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "量子流體與低溫技術",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "河野公俊",
+          "cos_time": "M56-SC162",
+          "memo": "英語授課[English Medium Course]",
+          "cos_ename": "Quantum Fluids and Cryogenics",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "651",
+          "dep_primary": "2",
+          "dep_cname": "電子物理學系",
+          "dep_ename": "Institute of Electro-Physics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "1101_5223": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5403": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5404": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5409": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5410": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5413": {
+          "網路課程_網路": {
+            "course_category_cname": "網路課程_網路",
+            "course_category_ename": "Network Courses_NET",
+            "course_category_type": "5",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_5223": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5403": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5404": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5409": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5410": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5413": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_5223": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5403": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5404": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5409": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5410": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5413": {
+          "授課語言代碼": "zh-tw"
+        }
+      },
       "1": {
         "1101_5403": {
           "acy": "110",
@@ -95571,102 +95853,6 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
-        }
-      },
-      "costype": {
-        "1101_5403": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        },
-        "1101_5404": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        },
-        "1101_5409": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        },
-        "1101_5410": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        },
-        "1101_5413": {
-          "網路課程_網路": {
-            "course_category_cname": "網路課程_網路",
-            "course_category_ename": "Network Courses_NET",
-            "course_category_type": "5",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        }
-      },
-      "brief": {
-        "1101_5403": {
-          "": {
-            "brief_code": "",
-            "brief": ""
-          }
-        },
-        "1101_5404": {
-          "": {
-            "brief_code": "",
-            "brief": ""
-          }
-        },
-        "1101_5409": {
-          "": {
-            "brief_code": "",
-            "brief": ""
-          }
-        },
-        "1101_5410": {
-          "": {
-            "brief_code": "",
-            "brief": ""
-          }
-        },
-        "1101_5413": {
-          "": {
-            "brief_code": "",
-            "brief": ""
-          }
-        }
-      },
-      "language": {
-        "1101_5403": {
-          "授課語言代碼": "zh-tw"
-        },
-        "1101_5404": {
-          "授課語言代碼": "en-us"
-        },
-        "1101_5409": {
-          "授課語言代碼": "zh-tw"
-        },
-        "1101_5410": {
-          "授課語言代碼": "zh-tw"
-        },
-        "1101_5413": {
-          "授課語言代碼": "zh-tw"
         }
       }
     },

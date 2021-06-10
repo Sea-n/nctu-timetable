@@ -38517,6 +38517,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1380": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1380",
+          "cos_code": "DAM2320",
+          "num_limit": "60",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "向量微積分",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "賴明治",
+          "cos_time": "M56-SA214",
+          "memo": "",
+          "cos_ename": "Vector Calculus",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "652",
+          "dep_primary": "1",
+          "dep_cname": "應用數學系",
+          "dep_ename": "Department of Applied Mathematics",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1381": {
           "acy": "110",
           "sem": "1",
@@ -38724,6 +38752,15 @@
           }
         },
         "1101_1379": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1380": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -38980,6 +39017,12 @@
             "brief": ""
           }
         },
+        "1101_1380": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1381": {
           "": {
             "brief_code": "",
@@ -39141,6 +39184,9 @@
         "1101_1379": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_1380": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1381": {
           "授課語言代碼": "zh-tw"
         },
@@ -39259,6 +39305,34 @@
           "cos_time": "W34F2-SA311",
           "memo": "",
           "cos_ename": "Probability Theory",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "652",
+          "dep_primary": "2",
+          "dep_cname": "應用數學系",
+          "dep_ename": "Department of Applied Mathematics",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1101_1380": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1380",
+          "cos_code": "DAM2320",
+          "num_limit": "60",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "向量微積分",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "賴明治",
+          "cos_time": "M56-SA214",
+          "memo": "",
+          "cos_ename": "Vector Calculus",
           "brief": "",
           "degree": "1",
           "dep_id": "652",
@@ -51582,6 +51656,174 @@
           "reg_num": "0",
           "depType": "T"
         },
+        "1101_2650": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "2650",
+          "cos_code": "SET1006",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "普通物理(2)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "鄭根發",
+          "cos_time": "Rabc-",
+          "memo": "上課地點：國防大學理工學院     重補修班",
+          "cos_ename": "General Physics(2)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "951",
+          "dep_primary": "2",
+          "dep_cname": "系統工程與科技學士學位學程",
+          "dep_ename": "Undergraduate Degree Program of System Engineering and Technology",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "T"
+        },
+        "1101_2651": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "2651",
+          "cos_code": "SET0003",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "英文(1)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "系統工程與科技學程",
+          "cos_time": "Wabc-",
+          "memo": "上課地點：國防大學理工學院     重補修班",
+          "cos_ename": "English(1)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "951",
+          "dep_primary": "2",
+          "dep_cname": "系統工程與科技學士學位學程",
+          "dep_ename": "Undergraduate Degree Program of System Engineering and Technology",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "T"
+        },
+        "1101_2653": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "2653",
+          "cos_code": "SET1078",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "電子學(1)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "談光雄",
+          "cos_time": "W234-",
+          "memo": "上課地點：國防大學理工學院     重補修班",
+          "cos_ename": "Electronics Circuits (1)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "951",
+          "dep_primary": "2",
+          "dep_cname": "系統工程與科技學士學位學程",
+          "dep_ename": "Undergraduate Degree Program of System Engineering and Technology",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "T"
+        },
+        "1101_2654": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "2654",
+          "cos_code": "SET1055",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "工程數學(1)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "系統工程與科技學程",
+          "cos_time": "Tabc-",
+          "memo": "上課地點：國防大學理工學院     重補修班",
+          "cos_ename": "Engineering Mathematics(1)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "951",
+          "dep_primary": "2",
+          "dep_cname": "系統工程與科技學士學位學程",
+          "dep_ename": "Undergraduate Degree Program of System Engineering and Technology",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "T"
+        },
+        "1101_2655": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "2655",
+          "cos_code": "SET1082",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "應用力學－靜力學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "系統工程與科技學程",
+          "cos_time": "Mabc-",
+          "memo": "上課地點：國防大學理工學院     重補修班",
+          "cos_ename": "Engineering Mechanics - Statics",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "951",
+          "dep_primary": "2",
+          "dep_cname": "系統工程與科技學士學位學程",
+          "dep_ename": "Undergraduate Degree Program of System Engineering and Technology",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "T"
+        },
+        "1101_2656": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "2656",
+          "cos_code": "SET1096",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "熱力學(1)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "系統工程與科技學程",
+          "cos_time": "Rabc-",
+          "memo": "上課地點：國防大學理工學院     重補修班",
+          "cos_ename": "Thermodynamics(1)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "951",
+          "dep_primary": "2",
+          "dep_cname": "系統工程與科技學士學位學程",
+          "dep_ename": "Undergraduate Degree Program of System Engineering and Technology",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "T"
+        },
         "1101_2657": {
           "acy": "110",
           "sem": "1",
@@ -52078,6 +52320,60 @@
           }
         },
         "1101_2649": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_2650": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_2651": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_2653": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_2654": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_2655": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_2656": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -52700,6 +52996,42 @@
             "brief": ""
           }
         },
+        "1101_2650": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_2651": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_2653": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_2654": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_2655": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_2656": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_2657": {
           "": {
             "brief_code": "",
@@ -53104,6 +53436,24 @@
         "1101_2649": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_2650": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_2651": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_2653": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_2654": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_2655": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_2656": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_2657": {
           "授課語言代碼": "zh-tw"
         },
@@ -53342,6 +53692,174 @@
           "cos_time": "Wabc-",
           "memo": "重補修班",
           "cos_ename": "English(1)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "951",
+          "dep_primary": "1",
+          "dep_cname": "系統工程與科技學士學位學程",
+          "dep_ename": "Undergraduate Degree Program of System Engineering and Technology",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "T"
+        },
+        "1101_2650": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "2650",
+          "cos_code": "SET1006",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "普通物理(2)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "鄭根發",
+          "cos_time": "Rabc-",
+          "memo": "上課地點：國防大學理工學院     重補修班",
+          "cos_ename": "General Physics(2)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "951",
+          "dep_primary": "1",
+          "dep_cname": "系統工程與科技學士學位學程",
+          "dep_ename": "Undergraduate Degree Program of System Engineering and Technology",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "T"
+        },
+        "1101_2651": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "2651",
+          "cos_code": "SET0003",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "英文(1)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "系統工程與科技學程",
+          "cos_time": "Wabc-",
+          "memo": "上課地點：國防大學理工學院     重補修班",
+          "cos_ename": "English(1)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "951",
+          "dep_primary": "1",
+          "dep_cname": "系統工程與科技學士學位學程",
+          "dep_ename": "Undergraduate Degree Program of System Engineering and Technology",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "T"
+        },
+        "1101_2653": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "2653",
+          "cos_code": "SET1078",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "電子學(1)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "談光雄",
+          "cos_time": "W234-",
+          "memo": "上課地點：國防大學理工學院     重補修班",
+          "cos_ename": "Electronics Circuits (1)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "951",
+          "dep_primary": "1",
+          "dep_cname": "系統工程與科技學士學位學程",
+          "dep_ename": "Undergraduate Degree Program of System Engineering and Technology",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "T"
+        },
+        "1101_2654": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "2654",
+          "cos_code": "SET1055",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "工程數學(1)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "系統工程與科技學程",
+          "cos_time": "Tabc-",
+          "memo": "上課地點：國防大學理工學院     重補修班",
+          "cos_ename": "Engineering Mathematics(1)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "951",
+          "dep_primary": "1",
+          "dep_cname": "系統工程與科技學士學位學程",
+          "dep_ename": "Undergraduate Degree Program of System Engineering and Technology",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "T"
+        },
+        "1101_2655": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "2655",
+          "cos_code": "SET1082",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "應用力學－靜力學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "系統工程與科技學程",
+          "cos_time": "Mabc-",
+          "memo": "上課地點：國防大學理工學院     重補修班",
+          "cos_ename": "Engineering Mechanics - Statics",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "951",
+          "dep_primary": "1",
+          "dep_cname": "系統工程與科技學士學位學程",
+          "dep_ename": "Undergraduate Degree Program of System Engineering and Technology",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "T"
+        },
+        "1101_2656": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "2656",
+          "cos_code": "SET1096",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "熱力學(1)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "系統工程與科技學程",
+          "cos_time": "Rabc-",
+          "memo": "上課地點：國防大學理工學院     重補修班",
+          "cos_ename": "Thermodynamics(1)",
           "brief": "",
           "degree": "1",
           "dep_id": "951",
@@ -106577,6 +107095,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1101_5423": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5423",
+          "cos_code": "IAM5823",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "計算流體力學專題",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "賴明治",
+          "cos_time": "F567-SA307",
+          "memo": "",
+          "cos_ename": "Special topics on CFD",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "652",
+          "dep_primary": "1",
+          "dep_cname": "應用數學系",
+          "dep_ename": "Institute of Applied Mathematics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
@@ -106590,6 +107136,15 @@
           }
         },
         "1101_5420": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5423": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -106611,6 +107166,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_5423": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -106619,6 +107180,9 @@
         },
         "1101_5420": {
           "授課語言代碼": "en-us"
+        },
+        "1101_5423": {
+          "授課語言代碼": "zh-tw"
         }
       }
     },
@@ -125209,6 +125773,65 @@
         }
       }
     },
+    "666261DF-7861-4380-BB7E-7958539CDC12": {
+      "dep_id": "666261DF-7861-4380-BB7E-7958539CDC12",
+      "dep_cname": "生技醫療經營管理碩士在職學位學程",
+      "dep_ename": "Executive Master of Business Administration Program",
+      "2": {
+        "1101_5630": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5630",
+          "cos_code": "IBA2002",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "高科技產業投資與創業分析",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "鍾惠民、黃仕斌、林鴻明、曾國棟",
+          "cos_time": "U234567-",
+          "memo": "兩週上一次課，每次6小時；限EMBA學生選修；全球運籌管理及高科技產業投資與創業分析兩門課程中，至少必選一門修習。",
+          "cos_ename": "Investment and Venture Analysis of High Tech Industry",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "308",
+          "dep_primary": "2",
+          "dep_cname": "生技醫療經營管理碩士在職學位學程",
+          "dep_ename": "Executive Master of Business Administration Program",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        }
+      },
+      "costype": {
+        "1101_5630": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_5630": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_5630": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "30B55C0F-1EF3-4B53-8EF8-3D26A8DDDC87": {
       "dep_id": "30B55C0F-1EF3-4B53-8EF8-3D26A8DDDC87",
       "dep_cname": "客家社會與文化碩士在職專班",
@@ -127554,6 +128177,62 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "E"
+        },
+        "1101_5630": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5630",
+          "cos_code": "IBA2002",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "高科技產業投資與創業分析",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "鍾惠民、黃仕斌、林鴻明、曾國棟",
+          "cos_time": "U234567-",
+          "memo": "兩週上一次課，每次6小時；限EMBA學生選修；全球運籌管理及高科技產業投資與創業分析兩門課程中，至少必選一門修習。",
+          "cos_ename": "Investment and Venture Analysis of High Tech Industry",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "711",
+          "dep_primary": "1",
+          "dep_cname": "高階主管管理碩士學程",
+          "dep_ename": "Degree Program of Management for Executives",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "E"
+        },
+        "1101_5631": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5631",
+          "cos_code": "IBA2003",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "習慣領域與創新決策",
+          "cos_credit": "1.00",
+          "cos_hours": "1.00",
+          "TURL": "https://ken.hdu.tw",
+          "teacher": "黃鴻順",
+          "cos_time": "U89a-",
+          "memo": "",
+          "cos_ename": "Habitual Domains and Innovative Decision Making",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "711",
+          "dep_primary": "1",
+          "dep_cname": "高階主管管理碩士學程",
+          "dep_ename": "Degree Program of Management for Executives",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "E"
         }
       },
       "costype": {
@@ -127610,6 +128289,24 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_5630": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5631": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -127648,6 +128345,18 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_5630": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5631": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -127667,6 +128376,12 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_5629": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5630": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5631": {
           "授課語言代碼": "zh-tw"
         }
       }

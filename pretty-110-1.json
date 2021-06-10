@@ -38404,6 +38404,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1381": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1381",
+          "cos_code": "DAM2405",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "微分方程",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "石至文",
+          "cos_time": "M34W2-SA311",
+          "memo": "",
+          "cos_ename": "Differential Equations",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "652",
+          "dep_primary": "1",
+          "dep_cname": "應用數學系",
+          "dep_ename": "Department of Applied Mathematics",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1384": {
           "acy": "110",
           "sem": "1",
@@ -38428,6 +38456,34 @@
           "dep_ename": "Department of Applied Mathematics",
           "cos_type": "必修",
           "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1101_1385": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1385",
+          "cos_code": "DAM2308",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "動態系統導論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "石至文",
+          "cos_time": "T78W4-SA307",
+          "memo": "",
+          "cos_ename": "An Introduction to Dynamical System",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "652",
+          "dep_primary": "1",
+          "dep_cname": "應用數學系",
+          "dep_ename": "Department of Applied Mathematics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "U"
@@ -38563,7 +38619,25 @@
             "GECIEngName": ""
           }
         },
+        "1101_1381": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1384": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1385": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -38793,7 +38867,19 @@
             "brief": ""
           }
         },
+        "1101_1381": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1384": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1385": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -38942,7 +39028,13 @@
         "1101_1379": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_1381": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1384": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1385": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1387": {
@@ -39062,6 +39154,62 @@
           "dep_ename": "Department of Applied Mathematics",
           "cos_type": "必修",
           "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1101_1381": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1381",
+          "cos_code": "DAM2405",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "微分方程",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "石至文",
+          "cos_time": "M34W2-SA311",
+          "memo": "",
+          "cos_ename": "Differential Equations",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "652",
+          "dep_primary": "2",
+          "dep_cname": "應用數學系",
+          "dep_ename": "Department of Applied Mathematics",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1101_1385": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1385",
+          "cos_code": "DAM2308",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "動態系統導論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "石至文",
+          "cos_time": "T78W4-SA307",
+          "memo": "",
+          "cos_ename": "An Introduction to Dynamical System",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "652",
+          "dep_primary": "2",
+          "dep_cname": "應用數學系",
+          "dep_ename": "Department of Applied Mathematics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "U"
@@ -64306,6 +64454,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "O"
+        },
+        "1101_A621": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "A621",
+          "cos_code": "A8986  ",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "匹克球",
+          "cos_credit": ".00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "藍于青",
+          "cos_time": "F56-",
+          "memo": "為維護教學品質，限制修課人數，初選階段限牙醫二選修，加退選階段開放選修。",
+          "cos_ename": "Pickleball",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU9",
+          "dep_primary": "1",
+          "dep_cname": "體育室",
+          "dep_ename": "Physical Education Office",
+          "cos_type": "體育",
+          "cos_type_e": "Physical Education",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
         }
       },
       "costype": {
@@ -65415,6 +65591,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_A621": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -66155,6 +66340,12 @@
             "brief_code": "C181",
             "brief": "體育(大二大三必選)(90)"
           }
+        },
+        "1101_A621": {
+          "C181": {
+            "brief_code": "C181",
+            "brief": "體育(大二大三必選)(90)"
+          }
         }
       },
       "language": {
@@ -66525,6 +66716,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_A618": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_A621": {
           "授課語言代碼": "zh-tw"
         }
       }

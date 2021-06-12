@@ -26809,6 +26809,34 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1101_7171": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7171",
+          "cos_code": "DFR1308",
+          "num_limit": "25",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "進階英文聽力與討論",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "鄺粵敏",
+          "cos_time": "F5-A505[TP],F5-A505[KF],F6-A505[TP],F6-A505[KF]",
+          "memo": "",
+          "cos_ename": "Advanced English Listening and Discussion",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_7172": {
           "acy": "110",
           "sem": "1",
@@ -28297,6 +28325,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_7171": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_7172": {
           "": {
             "course_category_cname": "",
@@ -28932,6 +28969,12 @@
             "brief": "進階(87)"
           }
         },
+        "1101_7171": {
+          "B072": {
+            "brief_code": "B072",
+            "brief": "進階(87)"
+          }
+        },
         "1101_7172": {
           "B072": {
             "brief_code": "B072",
@@ -29304,6 +29347,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_7170": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_7171": {
           "授課語言代碼": "zh-tw"
         },
         "1101_7172": {
@@ -52774,6 +52820,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "Q"
+        },
+        "1101_7171": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7171",
+          "cos_code": "DFR1308",
+          "num_limit": "25",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "進階英文聽力與討論",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "鄺粵敏",
+          "cos_time": "F5-A505[TP],F5-A505[KF],F6-A505[TP],F6-A505[KF]",
+          "memo": "",
+          "cos_ename": "Advanced English Listening and Discussion",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QLN",
+          "dep_primary": "1",
+          "dep_cname": "全球工程領袖跨域學程",
+          "dep_ename": "Global Engineering Leadership Program",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
         }
       },
       "costype": {
@@ -52973,6 +53047,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_7171": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -53083,6 +53166,12 @@
             "brief_code": "B072",
             "brief": "進階(87)"
           }
+        },
+        "1101_7171": {
+          "B072": {
+            "brief_code": "B072",
+            "brief": "進階(87)"
+          }
         }
       },
       "language": {
@@ -53138,6 +53227,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_7170": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_7171": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -82282,7 +82374,7 @@
           "cos_cname": "電子學(一)",
           "cos_credit": "3.00",
           "cos_hours": "4.00",
-          "TURL": "https://amsdft.cn.nctu.edu.tw",
+          "TURL": "http://amsdft.cn.nctu.edu.tw",
           "teacher": "洪浩喬",
           "cos_time": "M78R34-EE113[KF]",
           "memo": "A~F班、醫師工程師組\r\n",

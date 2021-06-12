@@ -14781,6 +14781,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1477": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1477",
+          "cos_code": "DTM3340",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "採購與作業物流",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "姚銘忠",
+          "cos_time": "M8R34-A905[KF]",
+          "memo": "",
+          "cos_ename": "Procurement and Operations Logistics",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "701",
+          "dep_primary": "1",
+          "dep_cname": "運輸與物流管理學系",
+          "dep_ename": "Department of Transportation and Logistics Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1479": {
           "acy": "110",
           "sem": "1",
@@ -14884,6 +14912,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1477": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1479": {
           "": {
             "course_category_cname": "",
@@ -14934,6 +14971,12 @@
             "brief": ""
           }
         },
+        "1101_1477": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1479": {
           "": {
             "brief_code": "",
@@ -14961,6 +15004,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_1476": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1477": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1479": {
@@ -54338,6 +54384,65 @@
         }
       }
     },
+    "B2A0F4E6-E13E-4A17-BDD2-9127BB81E9DD": {
+      "dep_id": "B2A0F4E6-E13E-4A17-BDD2-9127BB81E9DD",
+      "dep_cname": "物理治療暨輔助科技學系",
+      "dep_ename": " Department of Physical Therapy and Assistive Technology",
+      "1": {
+        "1101_B023": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "B023",
+          "cos_code": "B1274  ",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "高齡健康促進",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "楊雅如、李淑貞、李雪楨、蔡美文、陳喬男、劉力幗、羅靜慧、胡曼文",
+          "cos_time": "R34-",
+          "memo": null,
+          "cos_ename": "Health Promotion in Elderly",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "262",
+          "dep_primary": "1",
+          "dep_cname": "物理治療暨輔助科技學系",
+          "dep_ename": " Department of Physical Therapy and Assistive Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "1101_B023": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_B023": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_B023": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "405FD752-3C2D-48A3-9906-EE2F76CCA1D5": {
       "dep_id": "405FD752-3C2D-48A3-9906-EE2F76CCA1D5",
       "dep_cname": "生物醫學影像暨放射科學系",
@@ -63852,6 +63957,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5272": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5272",
+          "cos_code": "IOE5013",
+          "num_limit": "45",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "計算機網路",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "趙禧綠",
+          "cos_time": "M34W2-ED302[KF]",
+          "memo": "本院學生優先",
+          "cos_ename": "Computer Networks",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "552",
+          "dep_primary": "1",
+          "dep_cname": "網路工程研究所",
+          "dep_ename": "Institute of Network Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5273": {
           "acy": "110",
           "sem": "1",
@@ -63868,6 +64001,34 @@
           "cos_time": "R234-ED117[KF]",
           "memo": "本院學生優先；博士班資格考考核科目；請依各所入學年度之修業要點選課；資安學程必選修課程",
           "cos_ename": "Network Programming",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "552",
+          "dep_primary": "1",
+          "dep_cname": "網路工程研究所",
+          "dep_ename": "Institute of Network Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5274": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5274",
+          "cos_code": "IOE5020",
+          "num_limit": "30",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "無線多媒體網路",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "趙禧綠",
+          "cos_time": "T567-ED305[KF]",
+          "memo": "本院學生優先",
+          "cos_ename": "Wireless Multimedia Networks",
           "brief": "",
           "degree": "3",
           "dep_id": "552",
@@ -63947,7 +64108,25 @@
             "GECIEngName": ""
           }
         },
+        "1101_5272": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5273": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5274": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -63989,7 +64168,19 @@
             "brief": ""
           }
         },
+        "1101_5272": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5273": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5274": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -64012,7 +64203,13 @@
         "1101_5271": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_5272": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_5273": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5274": {
           "授課語言代碼": "zh-tw"
         },
         "1101_5276": {
@@ -68689,6 +68886,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5522": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5522",
+          "cos_code": "ITS5271",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "啟發式解法",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "姚銘忠",
+          "cos_time": "T234-A905[KF]",
+          "memo": "新竹校區開課；英文授課[English Medium Course]",
+          "cos_ename": "Heuristics",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "702",
+          "dep_primary": "1",
+          "dep_cname": "運輸與物流管理學系交通運輸碩博士班",
+          "dep_ename": "Institute of Traffic and Transportation",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5523": {
           "acy": "110",
           "sem": "1",
@@ -68969,6 +69194,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5522": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5523": {
           "": {
             "course_category_cname": "",
@@ -69079,6 +69313,12 @@
             "brief": ""
           }
         },
+        "1101_5522": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5523": {
           "": {
             "brief_code": "",
@@ -69145,6 +69385,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_5521": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5522": {
           "授課語言代碼": "en-us"
         },
         "1101_5523": {
@@ -77529,10 +77772,47 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "J"
+        },
+        "1101_5300": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5300",
+          "cos_code": "PCM5013",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "無線多媒體網路",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "趙禧綠",
+          "cos_time": "Mabc-TD",
+          "memo": "限資訊學院國防資安管理碩士在職專班學生選修；上課地點：陽明校區教學大樓104教室",
+          "cos_ename": "Wireless Multimedia Networks",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "558",
+          "dep_primary": "1",
+          "dep_cname": "國防資安管理碩士在職專班",
+          "dep_ename": "Degree Program of Cybersecurity Management\r\n",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
         }
       },
       "costype": {
         "1101_5298": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5300": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -77548,10 +77828,19 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_5300": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
         "1101_5298": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5300": {
           "授課語言代碼": "zh-tw"
         }
       }

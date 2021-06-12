@@ -15283,6 +15283,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "U"
+        },
+        "1101_1499": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1499",
+          "cos_code": "DEM3557",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "認知與組織人因工程",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "賴學儀",
+          "cos_time": "M56R2-MB506[KF]",
+          "memo": "",
+          "cos_ename": "Cognitive  and Organizational Ergonomics ",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "704",
+          "dep_primary": "1",
+          "dep_cname": "工業工程與管理學系",
+          "dep_ename": "Department of Industrial Engineering and Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
         }
       },
       "costype": {
@@ -15384,6 +15412,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_1499": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -15452,6 +15489,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_1499": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -15486,6 +15529,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1498": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1499": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -43576,6 +43622,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "P"
+        },
+        "1101_5950": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5950",
+          "cos_code": "INA5213",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "農漁人類學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "蔡晏霖",
+          "cos_time": "T567-HK207[LJ]",
+          "memo": "",
+          "cos_ename": "Anthropology of Agriculture and Aquaculture",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PFN",
+          "dep_primary": "1",
+          "dep_cname": "人社系:社會學與人類學學分學程",
+          "dep_ename": "Program of  Sociology  and Anthropology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": null,
+          "reg_num": "0",
+          "depType": "P"
         }
       },
       "costype": {
@@ -43601,6 +43675,15 @@
             "GECIName": "管",
             "GECIEngName": "COM"
           }
+        },
+        "1101_5950": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -43609,10 +43692,19 @@
             "brief_code": "A204,A504,A505,A905",
             "brief": "群己/進階(96),跨院基本素養(106),校基本素養(106),核心通識-社會與經濟(90)"
           }
+        },
+        "1101_5950": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
         "1101_1673": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5950": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -57774,6 +57866,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5950": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5950",
+          "cos_code": "INA5213",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "農漁人類學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "蔡晏霖",
+          "cos_time": "T567-HK207[LJ]",
+          "memo": "",
+          "cos_ename": "Anthropology of Agriculture and Aquaculture",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "482",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學系族群與文化碩士班",
+          "dep_ename": "Graduate Program of Ethnicity and Culture",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": null,
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5951": {
           "acy": "110",
           "sem": "1",
@@ -57813,6 +57933,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5950": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5951": {
           "": {
             "course_category_cname": "",
@@ -57830,6 +57959,12 @@
             "brief": "文化/進階(96),校基本素養(106)"
           }
         },
+        "1101_5950": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5951": {
           "": {
             "brief_code": "",
@@ -57839,6 +57974,9 @@
       },
       "language": {
         "1101_5945": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5950": {
           "授課語言代碼": "zh-tw"
         },
         "1101_5951": {
@@ -69358,6 +69496,62 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1101_5976": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5976",
+          "cos_code": "IEM5294",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "使用者研究",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "賴學儀",
+          "cos_time": "T567-MB414[KF]",
+          "memo": "英文授課[English Medium Course]",
+          "cos_ename": "User Research",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "704",
+          "dep_primary": "1",
+          "dep_cname": "工業工程與管理學系",
+          "dep_ename": "Department of Industrial Engineering and Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5977": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5977",
+          "cos_code": "IEM5293",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "半導體智慧製造管理",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "林建憲",
+          "cos_time": "Rab-MB405[KF]",
+          "memo": "",
+          "cos_ename": "Semiconductor Smart Manufacturing",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "704",
+          "dep_primary": "1",
+          "dep_cname": "工業工程與管理學系",
+          "dep_ename": "Department of Industrial Engineering and Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
@@ -69414,6 +69608,24 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_5976": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5977": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -69452,6 +69664,18 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_5976": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5977": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -69472,6 +69696,12 @@
         },
         "1101_5542": {
           "授課語言代碼": "en-us"
+        },
+        "1101_5976": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5977": {
+          "授課語言代碼": "zh-tw"
         }
       }
     },

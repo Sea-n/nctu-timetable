@@ -585,6 +585,124 @@
         }
       }
     },
+    "5BA684B8-A5F5-4A81-BC5D-7EB434ACC91B": {
+      "dep_id": "5BA684B8-A5F5-4A81-BC5D-7EB434ACC91B",
+      "dep_cname": "醫學生物技術暨檢驗學系",
+      "dep_ename": "Department of Biotechnology and Laboratory Science in Medicine",
+      "1": {
+        "1101_A227": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "A227",
+          "cos_code": "A7404  ",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "體育",
+          "cos_credit": ".00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "黃中興",
+          "cos_time": "T56-",
+          "memo": "限醫技一，課程內容為第1~5週羽球，第8~12週田徑，第6~7、13~15週排球。",
+          "cos_ename": "Physical Education",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "260",
+          "dep_primary": "1",
+          "dep_cname": "醫學生物技術暨檢驗學系",
+          "dep_ename": "Department of Biotechnology and Laboratory Science in Medicine",
+          "cos_type": "體育",
+          "cos_type_e": "Physical Education",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        }
+      },
+      "costype": {
+        "1101_A227": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_A227": {
+          "C184": {
+            "brief_code": "C184",
+            "brief": "體育選修(90)"
+          }
+        }
+      },
+      "language": {
+        "1101_A227": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "571E904D-E87A-436F-8CA6-4457B76519FF": {
+      "dep_id": "571E904D-E87A-436F-8CA6-4457B76519FF",
+      "dep_cname": "生物醫學工程學系",
+      "dep_ename": "Department of Biomedical Imaging and Radiological Sciences ",
+      "1": {
+        "1101_A442": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "A442",
+          "cos_code": "A7404  ",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "體育",
+          "cos_credit": ".00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "黃中興",
+          "cos_time": "T12-",
+          "memo": "限醫工一，課程內容為第1~5週桌球，第8~12週田徑，第6~7、13~15週網球。",
+          "cos_ename": "Physical Education",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "261",
+          "dep_primary": "1",
+          "dep_cname": "生物醫學工程學系",
+          "dep_ename": "Department of Biomedical Imaging and Radiological Sciences ",
+          "cos_type": "體育",
+          "cos_type_e": "Physical Education",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        }
+      },
+      "costype": {
+        "1101_A442": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_A442": {
+          "C184": {
+            "brief_code": "C184",
+            "brief": "體育選修(90)"
+          }
+        }
+      },
+      "language": {
+        "1101_A442": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "19B1B733-DE95-4EC9-9737-44CCFF143365": {
       "dep_id": "19B1B733-DE95-4EC9-9737-44CCFF143365",
       "dep_cname": "生物醫學影像暨放射科學系",
@@ -33100,6 +33218,34 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1101_A601": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "A601",
+          "cos_code": "A3151  ",
+          "num_limit": "30",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "桌球",
+          "cos_credit": ".00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "黃中興",
+          "cos_time": "M78-",
+          "memo": "為維護教學品質，限制修課人數，初選階段限醫學三選修，加退選階段開放選修。",
+          "cos_ename": "Table Tennis",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU9",
+          "dep_primary": "1",
+          "dep_cname": "體育室",
+          "dep_ename": "Physical Education Office",
+          "cos_type": "體育",
+          "cos_type_e": "Physical Education",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_A604": {
           "acy": "110",
           "sem": "1",
@@ -33116,6 +33262,118 @@
           "cos_time": "T12-",
           "memo": "為維護教學品質，限制修課人數。",
           "cos_ename": "Power Extension and Relax",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU9",
+          "dep_primary": "1",
+          "dep_cname": "體育室",
+          "dep_ename": "Physical Education Office",
+          "cos_type": "體育",
+          "cos_type_e": "Physical Education",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_A605": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "A605",
+          "cos_code": "A1831  ",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "羽球",
+          "cos_credit": ".00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "黃中興",
+          "cos_time": "T34-",
+          "memo": "為維護教學品質，限制修課人數。",
+          "cos_ename": "Badminton",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU9",
+          "dep_primary": "1",
+          "dep_cname": "體育室",
+          "dep_ename": "Physical Education Office",
+          "cos_type": "體育",
+          "cos_type_e": "Physical Education",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_A607": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "A607",
+          "cos_code": "A8986  ",
+          "num_limit": "25",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "匹克球",
+          "cos_credit": ".00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "黃中興",
+          "cos_time": "W12-",
+          "memo": "與選修體育合班上課，為維護教學品質，限制修課人數。",
+          "cos_ename": "Pickleball",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU9",
+          "dep_primary": "1",
+          "dep_cname": "體育室",
+          "dep_ename": "Physical Education Office",
+          "cos_type": "體育",
+          "cos_type_e": "Physical Education",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_A609": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "A609",
+          "cos_code": "A3151  ",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "桌球",
+          "cos_credit": ".00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "黃中興",
+          "cos_time": "W56-",
+          "memo": "為維護教學品質，限制修課人數。",
+          "cos_ename": "Table Tennis",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU9",
+          "dep_primary": "1",
+          "dep_cname": "體育室",
+          "dep_ename": "Physical Education Office",
+          "cos_type": "體育",
+          "cos_type_e": "Physical Education",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_A611": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "A611",
+          "cos_code": "A3151  ",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "桌球",
+          "cos_credit": ".00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "黃中興",
+          "cos_time": "W78-",
+          "memo": "為維護教學品質，限制修課人數。",
+          "cos_ename": "Table Tennis",
           "brief": "",
           "degree": "1",
           "dep_id": "OU9",
@@ -34322,7 +34580,52 @@
             "GECIEngName": ""
           }
         },
+        "1101_A601": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_A604": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_A605": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_A607": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_A609": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_A611": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -35089,7 +35392,37 @@
             "brief": "體育(大二大三必選)(90)"
           }
         },
+        "1101_A601": {
+          "C181": {
+            "brief_code": "C181",
+            "brief": "體育(大二大三必選)(90)"
+          }
+        },
         "1101_A604": {
+          "C181": {
+            "brief_code": "C181",
+            "brief": "體育(大二大三必選)(90)"
+          }
+        },
+        "1101_A605": {
+          "C181": {
+            "brief_code": "C181",
+            "brief": "體育(大二大三必選)(90)"
+          }
+        },
+        "1101_A607": {
+          "C181": {
+            "brief_code": "C181",
+            "brief": "體育(大二大三必選)(90)"
+          }
+        },
+        "1101_A609": {
+          "C181": {
+            "brief_code": "C181",
+            "brief": "體育(大二大三必選)(90)"
+          }
+        },
+        "1101_A611": {
           "C181": {
             "brief_code": "C181",
             "brief": "體育(大二大三必選)(90)"
@@ -35481,7 +35814,22 @@
         "1101_A599": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_A601": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_A604": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_A605": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_A607": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_A609": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_A611": {
           "授課語言代碼": "zh-tw"
         },
         "1101_A616": {
@@ -50921,8 +51269,8 @@
           "cos_credit": "3.00",
           "cos_hours": "3.00",
           "TURL": "",
-          "teacher": "陳俊勳、金大仁",
-          "cos_time": "Wabc-EE324[KF]",
+          "teacher": "陳俊勳、金大仁、劉助、鍾惠民、張家齊、黃仕斌",
+          "cos_time": "Wabc-EE324[KF],S67U34-",
           "memo": "限交大在職專班學生選修",
           "cos_ename": "Probability Statistics and Reliability",
           "brief": "",
@@ -75565,6 +75913,65 @@
         }
       }
     },
+    "666261DF-7861-4380-BB7E-7958539CDC12": {
+      "dep_id": "666261DF-7861-4380-BB7E-7958539CDC12",
+      "dep_cname": "生技醫療經營管理碩士在職學位學程",
+      "dep_ename": "Executive Master of Business Administration Program",
+      "1": {
+        "1101_5308": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5308",
+          "cos_code": "ISR5315",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "機率、統計與可靠度",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳俊勳、金大仁、劉助、鍾惠民、張家齊、黃仕斌",
+          "cos_time": "Wabc-EE324[KF],S67U34-",
+          "memo": "限交大在職專班學生選修",
+          "cos_ename": "Probability Statistics and Reliability",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "308",
+          "dep_primary": "1",
+          "dep_cname": "生技醫療經營管理碩士在職學位學程",
+          "dep_ename": "Executive Master of Business Administration Program",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        }
+      },
+      "costype": {
+        "1101_5308": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_5308": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_5308": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "30B55C0F-1EF3-4B53-8EF8-3D26A8DDDC87": {
       "dep_id": "30B55C0F-1EF3-4B53-8EF8-3D26A8DDDC87",
       "dep_cname": "客家社會與文化碩士在職專班",
@@ -76175,8 +76582,8 @@
           "cos_credit": "3.00",
           "cos_hours": "3.00",
           "TURL": "",
-          "teacher": "陳俊勳、金大仁",
-          "cos_time": "Wabc-EE324[KF]",
+          "teacher": "陳俊勳、金大仁、劉助、鍾惠民、張家齊、黃仕斌",
+          "cos_time": "Wabc-EE324[KF],S67U34-",
           "memo": "限交大在職專班學生選修",
           "cos_ename": "Probability Statistics and Reliability",
           "brief": "",

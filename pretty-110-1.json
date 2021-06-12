@@ -2078,6 +2078,34 @@
           "reg_num": "14",
           "depType": "U"
         },
+        "1101_1603": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1603",
+          "cos_code": "DFL1122",
+          "num_limit": "18",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "傳達技巧工作坊(三)",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "鄺粵敏",
+          "cos_time": "W56-HC402[KF]",
+          "memo": "C組,限外文系[English Medium Course]",
+          "cos_ename": "Communicative Skills Workshop(3)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "450",
+          "dep_primary": "1",
+          "dep_cname": "外國語文學系",
+          "dep_ename": "Department of Foreign Languages and Literatures",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "16",
+          "depType": "U"
+        },
         "1101_1605": {
           "acy": "110",
           "sem": "1",
@@ -2664,6 +2692,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1603": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1605": {
           "": {
             "course_category_cname": "",
@@ -2898,6 +2935,12 @@
             "brief": ""
           }
         },
+        "1101_1603": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1605": {
           "": {
             "brief_code": "",
@@ -3036,6 +3079,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_1602": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_1603": {
           "授課語言代碼": "en-us"
         },
         "1101_1605": {
@@ -25689,6 +25735,34 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1101_7113": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7113",
+          "cos_code": "DFR1105",
+          "num_limit": "30",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "大一英文（一）",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "鄺粵敏",
+          "cos_time": "W34-A501[KF]",
+          "memo": "",
+          "cos_ename": "Freshman English (I)",
+          "brief": "基礎",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_7114": {
           "acy": "110",
           "sem": "1",
@@ -25927,6 +26001,34 @@
           "TURL": "",
           "teacher": "吳舜華",
           "cos_time": "R56-A309[KF]",
+          "memo": "",
+          "cos_ename": "Freshman English (I)",
+          "brief": "基礎",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_7125": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7125",
+          "cos_code": "DFR1105",
+          "num_limit": "30",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "大一英文（一）",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "鄺粵敏",
+          "cos_time": "R56-A507[KF]",
           "memo": "",
           "cos_ename": "Freshman English (I)",
           "brief": "基礎",
@@ -27965,6 +28067,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_7113": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_7114": {
           "": {
             "course_category_cname": "",
@@ -28038,6 +28149,15 @@
           }
         },
         "1101_7124": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_7125": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -28729,6 +28849,12 @@
             "brief": "基礎(87)"
           }
         },
+        "1101_7113": {
+          "B071": {
+            "brief_code": "B071",
+            "brief": "基礎(87)"
+          }
+        },
         "1101_7114": {
           "B071": {
             "brief_code": "B071",
@@ -28778,6 +28904,12 @@
           }
         },
         "1101_7124": {
+          "B071": {
+            "brief_code": "B071",
+            "brief": "基礎(87)"
+          }
+        },
+        "1101_7125": {
           "B071": {
             "brief_code": "B071",
             "brief": "基礎(87)"
@@ -29229,6 +29361,9 @@
         "1101_7112": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_7113": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_7114": {
           "授課語言代碼": "zh-tw"
         },
@@ -29254,6 +29389,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_7124": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_7125": {
           "授課語言代碼": "zh-tw"
         },
         "1101_7127": {
@@ -73422,6 +73560,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5145": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5145",
+          "cos_code": "ILP5118",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "光電低維度奈米結構",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "謝建文",
+          "cos_time": "R234-CM216[TN]",
+          "memo": "上課地點：台南校區[English Medium Course]",
+          "cos_ename": "Low-dimensional nanostructures for Optoelectronics ",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "805",
+          "dep_primary": "1",
+          "dep_cname": "照明與能源光電研究所",
+          "dep_ename": "Institute of Lighting and Energy Photonics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5147": {
           "acy": "110",
           "sem": "1",
@@ -73535,6 +73701,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5145": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5147": {
           "": {
             "course_category_cname": "",
@@ -73582,6 +73757,12 @@
             "brief": ""
           }
         },
+        "1101_5145": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5147": {
           "": {
             "brief_code": "",
@@ -73610,6 +73791,9 @@
         },
         "1101_5144": {
           "授課語言代碼": "zh-tw"
+        },
+        "1101_5145": {
+          "授課語言代碼": "en-us"
         },
         "1101_5147": {
           "授課語言代碼": "zh-tw"
@@ -74336,6 +74520,34 @@
       "dep_cname": "光電學院",
       "dep_ename": "College of Photonics",
       "1": {
+        "1101_5160": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5160",
+          "cos_code": "IPO5004",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "學術英語簡報",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "謝建文",
+          "cos_time": "F234-CM216[TN]",
+          "memo": "此課程計入畢業學分，上課地點：台南校區[English Medium Course]",
+          "cos_ename": "Academic Presentation in English",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "8O1",
+          "dep_primary": "1",
+          "dep_cname": "光電學院",
+          "dep_ename": "College of Photonics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5161": {
           "acy": "110",
           "sem": "1",
@@ -74506,6 +74718,15 @@
         }
       },
       "costype": {
+        "1101_5160": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5161": {
           "": {
             "course_category_cname": "",
@@ -74562,6 +74783,12 @@
         }
       },
       "brief": {
+        "1101_5160": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5161": {
           "": {
             "brief_code": "",
@@ -74600,6 +74827,9 @@
         }
       },
       "language": {
+        "1101_5160": {
+          "授課語言代碼": "en-us"
+        },
         "1101_5161": {
           "授課語言代碼": "zh-tw"
         },
@@ -76001,6 +76231,65 @@
       },
       "language": {
         "1101_4004": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "EA4D5932-76F8-4C11-BF93-4E1793488B3A": {
+      "dep_id": "EA4D5932-76F8-4C11-BF93-4E1793488B3A",
+      "dep_cname": "醫務管理研究所",
+      "dep_ename": "Institute of Hospital and Health Care Administration",
+      "1": {
+        "1101_B309": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "B309",
+          "cos_code": "B2509  ",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "管理流行病學",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "藍祚運",
+          "cos_time": "S23-YN613[YM]",
+          "memo": "非本所在職專班請勿選，前12周上課，上課時間為9:10-12:00",
+          "cos_ename": "Managerial epidemiology",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "107",
+          "dep_primary": "1",
+          "dep_cname": "醫務管理研究所",
+          "dep_ename": "Institute of Hospital and Health Care Administration",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        }
+      },
+      "costype": {
+        "1101_B309": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_B309": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_B309": {
           "授課語言代碼": "zh-tw"
         }
       }

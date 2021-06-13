@@ -49749,6 +49749,34 @@
           "reg_num": "70",
           "depType": "Q"
         },
+        "1101_5038": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5038",
+          "cos_code": "IEE5707",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "類比積體電路",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳巍仁",
+          "cos_time": "M34-EDB27[KF],R7-ED116[KF]",
+          "memo": "",
+          "cos_ename": "Analog Integrated Circuits",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QLK",
+          "dep_primary": "1",
+          "dep_cname": "人工智慧跨域學程-工程與科學組",
+          "dep_ename": "Artificial Intelligence-Engineering and Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
         "1101_5073": {
           "acy": "110",
           "sem": "1",
@@ -50173,6 +50201,15 @@
             "GECIEngName": "COE,COS,CBT"
           }
         },
+        "1101_5038": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5073": {
           "": {
             "course_category_cname": "",
@@ -50360,6 +50397,12 @@
             "brief": "自然/進階(96),跨院基本素養(106)"
           }
         },
+        "1101_5038": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5073": {
           "": {
             "brief_code": "",
@@ -50459,6 +50502,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1188": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5038": {
           "授課語言代碼": "zh-tw"
         },
         "1101_5073": {
@@ -58835,6 +58881,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5038": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5038",
+          "cos_code": "IEE5707",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "類比積體電路",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳巍仁",
+          "cos_time": "M34-EDB27[KF],R7-ED116[KF]",
+          "memo": "",
+          "cos_ename": "Analog Integrated Circuits",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "510",
+          "dep_primary": "1",
+          "dep_cname": "電子研究所",
+          "dep_ename": "Institute of Electronics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5042": {
           "acy": "110",
           "sem": "1",
@@ -59187,6 +59261,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5038": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5042": {
           "": {
             "course_category_cname": "",
@@ -59345,6 +59428,12 @@
             "brief": ""
           }
         },
+        "1101_5038": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5042": {
           "": {
             "brief_code": "",
@@ -59436,6 +59525,9 @@
         },
         "1101_5036": {
           "授課語言代碼": "en-us"
+        },
+        "1101_5038": {
+          "授課語言代碼": "zh-tw"
         },
         "1101_5042": {
           "授課語言代碼": "zh-tw"

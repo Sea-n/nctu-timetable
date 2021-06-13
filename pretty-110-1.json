@@ -4017,6 +4017,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "U"
+        },
+        "1101_1712": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1712",
+          "cos_code": "DCT4025",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "畢業專題(下)",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "戴瑜慧、李美華、黃靜蓉、黃淑鈴、俞蘋、陳維平、張宏宇",
+          "cos_time": "F56-HK104[LJ]",
+          "memo": "限修過畢業專題(上)",
+          "cos_ename": "Thesis(II)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "483",
+          "dep_primary": "1",
+          "dep_cname": "傳播與科技學系",
+          "dep_ename": "Department of Communication and Technology",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "36",
+          "depType": "U"
         }
       },
       "costype": {
@@ -4139,6 +4167,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_1712": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -4207,6 +4244,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_1712": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -4241,6 +4284,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1710": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1712": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -24208,6 +24254,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "O"
+        },
+        "1101_6605": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "6605",
+          "cos_code": "CGE1031",
+          "num_limit": "20",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "媒體、科技與社會-服務學習二",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "戴瑜慧",
+          "cos_time": "F34-A205[KF]",
+          "memo": "不接受傳科系，及已修過媒體、科技與社會的同學修讀。由客家文化學院規劃設計的知識領域導論通識課程。",
+          "cos_ename": "Media, Technology and Society-Service Learning II",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU2",
+          "dep_primary": "1",
+          "dep_cname": "共同教育委員會",
+          "dep_ename": "",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
         }
       },
       "costype": {
@@ -24233,6 +24307,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_6605": {
+          "服務學習_服務學習": {
+            "course_category_cname": "服務學習_服務學習",
+            "course_category_ename": "Service Learning_SL",
+            "course_category_type": "7",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -24241,10 +24324,19 @@
             "brief_code": "A201,A505,A909",
             "brief": "文化/進階(96),校基本素養(106),博雅選修通識 (90)"
           }
+        },
+        "1101_6605": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
         "1101_6603": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_6605": {
           "授課語言代碼": "zh-tw"
         }
       }

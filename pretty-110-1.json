@@ -26438,6 +26438,34 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1101_7110": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7110",
+          "cos_code": "DFR1105",
+          "num_limit": "30",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "大一英文（一）",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "鄭維容",
+          "cos_time": "T1-A505[TP],T1-A505[KF],T2-A505[TP],T2-A505[KF]",
+          "memo": "",
+          "cos_ename": "Freshman English (I)",
+          "brief": "基礎",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_7111": {
           "acy": "110",
           "sem": "1",
@@ -26732,6 +26760,34 @@
           "TURL": "",
           "teacher": "吳宇晴",
           "cos_time": "R34-A507[KF]",
+          "memo": "",
+          "cos_ename": "Freshman English (I)",
+          "brief": "基礎",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_7123": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7123",
+          "cos_code": "DFR1105",
+          "num_limit": "30",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "大一英文（一）",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "鄭維容",
+          "cos_time": "R3-A505[TP],R3-A505[KF],R4-A505[TP],R4-A505[KF]",
           "memo": "",
           "cos_ename": "Freshman English (I)",
           "brief": "基礎",
@@ -27071,6 +27127,34 @@
           "memo": "",
           "cos_ename": "Advanced English Listening and Discussion",
           "brief": "進階",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_7145": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7145",
+          "cos_code": "DFR1308",
+          "num_limit": "25",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "進階英文聽力與討論",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "鄭維容",
+          "cos_time": "R1-A505[TP],R1-A505[KF],R2-A505[TP],R2-A505[KF]",
+          "memo": "",
+          "cos_ename": "Advanced English Listening and Discussion",
+          "brief": "",
           "degree": "1",
           "dep_id": "OU6",
           "dep_primary": "1",
@@ -28808,6 +28892,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_7110": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_7111": {
           "": {
             "course_category_cname": "",
@@ -28899,6 +28992,15 @@
           }
         },
         "1101_7121": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_7123": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -29007,6 +29109,15 @@
           }
         },
         "1101_7144": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_7145": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -29596,6 +29707,12 @@
             "brief": "基礎(87)"
           }
         },
+        "1101_7110": {
+          "B071": {
+            "brief_code": "B071",
+            "brief": "基礎(87)"
+          }
+        },
         "1101_7111": {
           "B071": {
             "brief_code": "B071",
@@ -29657,6 +29774,12 @@
           }
         },
         "1101_7121": {
+          "B071": {
+            "brief_code": "B071",
+            "brief": "基礎(87)"
+          }
+        },
+        "1101_7123": {
           "B071": {
             "brief_code": "B071",
             "brief": "基礎(87)"
@@ -29729,6 +29852,12 @@
           }
         },
         "1101_7144": {
+          "B072": {
+            "brief_code": "B072",
+            "brief": "進階(87)"
+          }
+        },
+        "1101_7145": {
           "B072": {
             "brief_code": "B072",
             "brief": "進階(87)"
@@ -30114,6 +30243,9 @@
         "1101_7109": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_7110": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_7111": {
           "授課語言代碼": "zh-tw"
         },
@@ -30145,6 +30277,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_7121": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_7123": {
           "授課語言代碼": "zh-tw"
         },
         "1101_7124": {
@@ -30181,6 +30316,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_7144": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_7145": {
           "授課語言代碼": "zh-tw"
         },
         "1101_7147": {
@@ -37111,6 +37249,34 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1101_3002": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "3002",
+          "cos_code": "CCP1049",
+          "num_limit": "40",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "JavaScript網頁程式設計",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://",
+          "teacher": "廖文宏",
+          "cos_time": "T234-CS",
+          "memo": "",
+          "cos_ename": "JavaScript Web Programming",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OUB",
+          "dep_primary": "1",
+          "dep_cname": "資訊技術服務中心",
+          "dep_ename": "Information Technology Service Center",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_3003": {
           "acy": "110",
           "sem": "1",
@@ -37167,6 +37333,34 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1101_3005": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "3005",
+          "cos_code": "CCP1061",
+          "num_limit": "40",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "Python與物聯網資料分析",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://",
+          "teacher": "廖文宏",
+          "cos_time": "R234-CS",
+          "memo": "",
+          "cos_ename": "Python and IoT Data Analysis",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OUB",
+          "dep_primary": "1",
+          "dep_cname": "資訊技術服務中心",
+          "dep_ename": "Information Technology Service Center",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_3006": {
           "acy": "110",
           "sem": "1",
@@ -37206,6 +37400,22 @@
             "GECIEngName": ""
           }
         },
+        "1101_3002": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          },
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_3003": {
           "通識校基本素養_通識校基本": {
             "course_category_cname": "通識校基本素養_通識校基本",
@@ -37236,6 +37446,15 @@
             "course_category_type": "17",
             "GECIName": "",
             "GECIEngName": ""
+          }
+        },
+        "1101_3005": {
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "工,理,管,生,人,客",
+            "GECIEngName": "COE,COS,COM,CBT,CHS,CHK"
           }
         },
         "1101_3006": {
@@ -37255,6 +37474,12 @@
             "brief": ""
           }
         },
+        "1101_3002": {
+          "A205,A503,A505": {
+            "brief_code": "A205,A503,A505",
+            "brief": "自然/進階(96),核心-自然(106),校基本素養(106)"
+          }
+        },
         "1101_3003": {
           "A205,A503,A505": {
             "brief_code": "A205,A503,A505",
@@ -37265,6 +37490,12 @@
           "A205,A503,A505": {
             "brief_code": "A205,A503,A505",
             "brief": "自然/進階(96),核心-自然(106),校基本素養(106)"
+          }
+        },
+        "1101_3005": {
+          "A205,A504": {
+            "brief_code": "A205,A504",
+            "brief": "自然/進階(96),跨院基本素養(106)"
           }
         },
         "1101_3006": {
@@ -37278,10 +37509,16 @@
         "1101_3001": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_3002": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_3003": {
           "授課語言代碼": "zh-tw"
         },
         "1101_3004": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_3005": {
           "授課語言代碼": "zh-tw"
         },
         "1101_3006": {
@@ -53919,6 +54156,34 @@
           "reg_num": "0",
           "depType": "Q"
         },
+        "1101_7145": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7145",
+          "cos_code": "DFR1308",
+          "num_limit": "25",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "進階英文聽力與討論",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "鄭維容",
+          "cos_time": "R1-A505[TP],R1-A505[KF],R2-A505[TP],R2-A505[KF]",
+          "memo": "",
+          "cos_ename": "Advanced English Listening and Discussion",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QLN",
+          "dep_primary": "1",
+          "dep_cname": "全球工程領袖跨域學程",
+          "dep_ename": "Global Engineering Leadership Program",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
         "1101_7155": {
           "acy": "110",
           "sem": "1",
@@ -54336,6 +54601,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_7145": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_7155": {
           "": {
             "course_category_cname": "",
@@ -54485,6 +54759,12 @@
             "brief": "進階(87)"
           }
         },
+        "1101_7145": {
+          "B072": {
+            "brief_code": "B072",
+            "brief": "進階(87)"
+          }
+        },
         "1101_7155": {
           "B072": {
             "brief_code": "B072",
@@ -54575,6 +54855,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_7144": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_7145": {
           "授課語言代碼": "zh-tw"
         },
         "1101_7155": {
@@ -57478,6 +57761,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5791": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5791",
+          "cos_code": "ITE5011",
+          "num_limit": "15",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "語用學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "鄭維容",
+          "cos_time": "W234-HC301",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Pragmatics",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "452",
+          "dep_primary": "1",
+          "dep_cname": "英語教學研究所",
+          "dep_ename": "Institute of Teaching English to Speakers of Other Languages",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5792": {
           "acy": "110",
           "sem": "1",
@@ -57554,6 +57865,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5791": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5792": {
           "": {
             "course_category_cname": "",
@@ -57586,6 +57906,12 @@
             "brief": ""
           }
         },
+        "1101_5791": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5792": {
           "": {
             "brief_code": "",
@@ -57604,6 +57930,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_5790": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5791": {
           "授課語言代碼": "en-us"
         },
         "1101_5792": {
@@ -83938,6 +84267,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "J"
+        },
+        "1101_5972": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5972",
+          "cos_code": "IPT5115",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "微電子構裝技術",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "楊挺立",
+          "cos_time": "Mabc-CM215[TN]",
+          "memo": "限交大在職專班選修  上課地點：台南校區",
+          "cos_ename": "Microelectronic Packaging Technology",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "803",
+          "dep_primary": "1",
+          "dep_cname": "光電科技碩士在職專班",
+          "dep_ename": "Degree Program of Photonic Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
         }
       },
       "costype": {
@@ -83976,6 +84333,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_5972": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -84002,6 +84368,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_5972": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -84015,6 +84387,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_5970": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5972": {
           "授課語言代碼": "zh-tw"
         }
       }

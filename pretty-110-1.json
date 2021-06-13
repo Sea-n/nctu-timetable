@@ -76838,6 +76838,34 @@
       "dep_cname": "光電學院",
       "dep_ename": "College of Photonics",
       "1": {
+        "1101_5159": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5159",
+          "cos_code": "IPO5002",
+          "num_limit": "60",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "光電工程",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "楊挺立",
+          "cos_time": "W234-CM218[TN]",
+          "memo": "為光電系統研究所、照明與能源光電研究所、影像與生醫光電研究所核心必修課程；上課地點：台南校區",
+          "cos_ename": "Electro-Optics",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "8O1",
+          "dep_primary": "1",
+          "dep_cname": "光電學院",
+          "dep_ename": "College of Photonics",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5160": {
           "acy": "110",
           "sem": "1",
@@ -77036,6 +77064,15 @@
         }
       },
       "costype": {
+        "1101_5159": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5160": {
           "": {
             "course_category_cname": "",
@@ -77101,6 +77138,12 @@
         }
       },
       "brief": {
+        "1101_5159": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5160": {
           "": {
             "brief_code": "",
@@ -77145,6 +77188,9 @@
         }
       },
       "language": {
+        "1101_5159": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_5160": {
           "授課語言代碼": "en-us"
         },

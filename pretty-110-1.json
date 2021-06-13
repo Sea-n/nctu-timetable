@@ -20128,7 +20128,7 @@
             "course_category_ename": "Ethics and Moral thinking_Ethics and Moral thinking",
             "course_category_type": "34",
             "GECIName": "電,資,理,生,人,客",
-            "GECIEngName": "ECE,CCS,COS,CBT,CHS,CHK"
+            "GECIEngName": ""
           },
           "通識跨院基本素養_通識跨院": {
             "course_category_cname": "通識跨院基本素養_通識跨院",
@@ -47694,7 +47694,7 @@
             "course_category_ename": "Ethics and Moral thinking_Ethics and Moral thinking",
             "course_category_type": "34",
             "GECIName": "電,資,理,生,人,客",
-            "GECIEngName": "ECE,CCS,COS,CBT,CHS,CHK"
+            "GECIEngName": ""
           },
           "通識跨院基本素養_通識跨院": {
             "course_category_cname": "通識跨院基本素養_通識跨院",
@@ -55198,6 +55198,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1101_5718": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5718",
+          "cos_code": "IBT5660",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "免疫藥物基因體學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "柯泰名",
+          "cos_time": "T89a-BI303[PA]",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Immunopharmacogenomics",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "350",
+          "dep_primary": "1",
+          "dep_cname": "生物科技學系",
+          "dep_ename": "Institute of Biological Science and Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
@@ -55358,6 +55386,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_5718": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -55456,6 +55493,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_5718": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -55506,6 +55549,9 @@
         },
         "1101_5715": {
           "授課語言代碼": "zh-tw"
+        },
+        "1101_5718": {
+          "授課語言代碼": "en-us"
         }
       }
     },

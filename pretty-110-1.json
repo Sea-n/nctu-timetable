@@ -257,6 +257,90 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_A060": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "A060",
+          "cos_code": "A4819  ",
+          "num_limit": "80",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "普通物理學實驗",
+          "cos_credit": "1.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "羅俊民",
+          "cos_time": "M567-YE003[YM]",
+          "memo": null,
+          "cos_ename": "General Physics Lab.",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "101",
+          "dep_primary": "1",
+          "dep_cname": "醫學系",
+          "dep_ename": "Department of Medicine",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "57",
+          "depType": "U"
+        },
+        "1101_A061": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "A061",
+          "cos_code": "A4814  ",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "普通物理學",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "羅俊民、江明彰",
+          "cos_time": "T34-YX216[YM]",
+          "memo": null,
+          "cos_ename": "General Physics",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "101",
+          "dep_primary": "1",
+          "dep_cname": "醫學系",
+          "dep_ename": "Department of Medicine",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "125",
+          "depType": "U"
+        },
+        "1101_A068": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "A068",
+          "cos_code": "A4819  ",
+          "num_limit": "80",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "普通物理學實驗",
+          "cos_credit": "1.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "羅俊民",
+          "cos_time": "F567-YE003[YM]",
+          "memo": null,
+          "cos_ename": "General Physics Lab.",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "101",
+          "dep_primary": "1",
+          "dep_cname": "醫學系",
+          "dep_ename": "Department of Medicine",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "68",
+          "depType": "U"
+        },
         "1101_A082": {
           "acy": "110",
           "sem": "1",
@@ -403,6 +487,33 @@
             "GECIEngName": ""
           }
         },
+        "1101_A060": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_A061": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_A068": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_A082": {
           "": {
             "course_category_cname": "",
@@ -477,6 +588,24 @@
             "brief": "校基本素養(106)"
           }
         },
+        "1101_A060": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_A061": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_A068": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_A082": {
           "": {
             "brief_code": "",
@@ -517,6 +646,15 @@
         },
         "1101_A054": {
           "授課語言代碼": "en-us"
+        },
+        "1101_A060": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_A061": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_A068": {
+          "授課語言代碼": "zh-tw"
         },
         "1101_A082": {
           "授課語言代碼": "zh-tw"
@@ -56472,6 +56610,65 @@
         }
       }
     },
+    "709EE674-0D8C-48B5-9998-D7D6F89E373F": {
+      "dep_id": "709EE674-0D8C-48B5-9998-D7D6F89E373F",
+      "dep_cname": "生物醫學工程學系",
+      "dep_ename": "Institute of Biomedical Engineering",
+      "1": {
+        "1101_A716": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "A716",
+          "cos_code": "A5054  ",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "量測及儀表",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "羅俊民",
+          "cos_time": "R34n-YT103[YM]",
+          "memo": null,
+          "cos_ename": "Measurements and Instrumentation",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "261",
+          "dep_primary": "1",
+          "dep_cname": "生物醫學工程學系",
+          "dep_ename": "Institute of Biomedical Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "1101_A716": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_A716": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_A716": {
+          "授課語言代碼": "en-us"
+        }
+      }
+    },
     "B2A0F4E6-E13E-4A17-BDD2-9127BB81E9DD": {
       "dep_id": "B2A0F4E6-E13E-4A17-BDD2-9127BB81E9DD",
       "dep_cname": "物理治療暨輔助科技學系",
@@ -56529,6 +56726,62 @@
           "dep_ename": " Department of Physical Therapy and Assistive Technology",
           "cos_type": "必修",
           "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_B028": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "B028",
+          "cos_code": "A9895  ",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "工程科技於復健醫療之應用",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "宋文旭",
+          "cos_time": "R567-YB424[YM]",
+          "memo": "開放本系大學部二年級以上同學選修",
+          "cos_ename": "Engineering Techniques Application in Rehabilitation Therapy",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "262",
+          "dep_primary": "1",
+          "dep_cname": "物理治療暨輔助科技學系",
+          "dep_ename": " Department of Physical Therapy and Assistive Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_B042": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "B042",
+          "cos_code": "B0770  ",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "虛擬實境理論與實務",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "宋文旭",
+          "cos_time": "F56-",
+          "memo": null,
+          "cos_ename": "Virtual Reality:Theorems & Applications",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "262",
+          "dep_primary": "1",
+          "dep_cname": "物理治療暨輔助科技學系",
+          "dep_ename": " Department of Physical Therapy and Assistive Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
@@ -56609,6 +56862,24 @@
             "GECIEngName": ""
           }
         },
+        "1101_B028": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_B042": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_B045": {
           "": {
             "course_category_cname": "",
@@ -56641,6 +56912,18 @@
             "brief": ""
           }
         },
+        "1101_B028": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_B042": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_B045": {
           "": {
             "brief_code": "",
@@ -56659,6 +56942,12 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_B025": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_B028": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_B042": {
           "授課語言代碼": "zh-tw"
         },
         "1101_B045": {
@@ -80431,6 +80720,34 @@
       "dep_cname": "電機學院碩士在職專班",
       "dep_ename": "Degree Program of Electrical and Computer Science",
       "1": {
+        "1101_5002": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5002",
+          "cos_code": "IEC5003",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "類比積體電路",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://140.113.149.146",
+          "teacher": "陳科宏",
+          "cos_time": "Tabc-EE207[KF]",
+          "memo": "電控組；限交大在職專班學生選修",
+          "cos_ename": "Analog Integrated Circuits",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "506",
+          "dep_primary": "1",
+          "dep_cname": "電機學院碩士在職專班",
+          "dep_ename": "Degree Program of Electrical and Computer Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
         "1101_5003": {
           "acy": "110",
           "sem": "1",
@@ -80629,6 +80946,15 @@
         }
       },
       "costype": {
+        "1101_5002": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5003": {
           "": {
             "course_category_cname": "",
@@ -80694,6 +81020,12 @@
         }
       },
       "brief": {
+        "1101_5002": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5003": {
           "": {
             "brief_code": "",
@@ -80738,6 +81070,9 @@
         }
       },
       "language": {
+        "1101_5002": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_5003": {
           "授課語言代碼": "zh-tw"
         },

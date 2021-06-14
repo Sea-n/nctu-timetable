@@ -42898,6 +42898,34 @@
           "reg_num": "0",
           "depType": "P"
         },
+        "1101_5260": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5260",
+          "cos_code": "IOC5158",
+          "num_limit": "105",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "論文研討(英文授課)",
+          "cos_credit": ".00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "莊仁輝",
+          "cos_time": "W78-ED117[KF]",
+          "memo": "限資科工所同學(不限年級)、資訊學院博士班及多媒體所/網工所(限碩二以上)同學選課；依各所入學年度之修業要點選課； 英文授課[English Medium Course]",
+          "cos_ename": "Seminars",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAN",
+          "dep_primary": "1",
+          "dep_cname": "電機資訊英語授課學分學程",
+          "dep_ename": "Electrical Engineering and Computer Science-International Program",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
         "1101_5268": {
           "acy": "110",
           "sem": "1",
@@ -43484,6 +43512,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5260": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5268": {
           "": {
             "course_category_cname": "",
@@ -43805,6 +43842,12 @@
             "brief": ""
           }
         },
+        "1101_5260": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5268": {
           "": {
             "brief_code": "",
@@ -43973,6 +44016,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_5259": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5260": {
           "授課語言代碼": "en-us"
         },
         "1101_5268": {
@@ -67349,6 +67395,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5260": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5260",
+          "cos_code": "IOC5158",
+          "num_limit": "105",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "論文研討(英文授課)",
+          "cos_credit": ".00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "莊仁輝",
+          "cos_time": "W78-ED117[KF]",
+          "memo": "限資科工所同學(不限年級)、資訊學院博士班及多媒體所/網工所(限碩二以上)同學選課；依各所入學年度之修業要點選課； 英文授課[English Medium Course]",
+          "cos_ename": "Seminars",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "551",
+          "dep_primary": "1",
+          "dep_cname": "資訊科學與工程研究所",
+          "dep_ename": "Institute of Computer Science and Engineering",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5261": {
           "acy": "110",
           "sem": "1",
@@ -67572,6 +67646,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5260": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5261": {
           "": {
             "course_category_cname": "",
@@ -67673,6 +67756,12 @@
             "brief": ""
           }
         },
+        "1101_5260": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5261": {
           "": {
             "brief_code": "",
@@ -67730,6 +67819,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_5259": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5260": {
           "授課語言代碼": "en-us"
         },
         "1101_5261": {

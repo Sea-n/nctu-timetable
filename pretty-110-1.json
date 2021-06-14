@@ -56932,6 +56932,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_B083": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "B083",
+          "cos_code": "A4895  ",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "程式設計",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "陳卓逸",
+          "cos_time": "M34-YL401[YM]",
+          "memo": null,
+          "cos_ename": "Programming Design",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "112",
+          "dep_primary": "1",
+          "dep_cname": "生物醫學資訊研究所",
+          "dep_ename": "Institute of Biomedical Informatics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_B092": {
           "acy": "110",
           "sem": "1",
@@ -56989,6 +57017,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_B083": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_B092": {
           "": {
             "course_category_cname": "",
@@ -57018,6 +57055,12 @@
             "brief": ""
           }
         },
+        "1101_B083": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_B092": {
           "": {
             "brief_code": "",
@@ -57033,6 +57076,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_B082": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_B083": {
           "授課語言代碼": "zh-tw"
         },
         "1101_B092": {

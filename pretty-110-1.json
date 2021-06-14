@@ -4536,6 +4536,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1635": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1635",
+          "cos_code": "DOH1012",
+          "num_limit": "12",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "基本設計進階",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.linglitseng.com",
+          "teacher": "曾令理、王嘉澍",
+          "cos_time": "Tabc-HC103[KF]",
+          "memo": "",
+          "cos_ename": "Fundamentals of Design (II)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "4A1",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學院院本部",
+          "dep_ename": "College of Humanities and Social Science",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1638": {
           "acy": "110",
           "sem": "1",
@@ -4636,6 +4664,34 @@
           "cos_time": "T34-HC103[KF]",
           "memo": "",
           "cos_ename": "Universal Design",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "4A1",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學院院本部",
+          "dep_ename": "College of Humanities and Social Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1101_1644": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1644",
+          "cos_code": "DOH1053",
+          "num_limit": "12",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "金工概論與美學設計",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "王佳恩",
+          "cos_time": "Wabc-HC103[KF]",
+          "memo": "",
+          "cos_ename": "Introduction to Metalwork and Esthetic Design",
           "brief": "",
           "degree": "1",
           "dep_id": "4A1",
@@ -4850,6 +4906,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1635": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1638": {
           "": {
             "course_category_cname": "",
@@ -4878,6 +4943,15 @@
           }
         },
         "1101_1643": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1644": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -4954,6 +5028,12 @@
             "brief": "文化/進階(96),校基本素養(106),博雅選修通識 (90)"
           }
         },
+        "1101_1635": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1638": {
           "": {
             "brief_code": "",
@@ -4973,6 +5053,12 @@
           }
         },
         "1101_1643": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1644": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -5022,6 +5108,9 @@
         "1101_1633": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_1635": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1638": {
           "授課語言代碼": "zh-tw"
         },
@@ -5032,6 +5121,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1643": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1644": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1647": {
@@ -43318,6 +43410,34 @@
           "reg_num": "0",
           "depType": "P"
         },
+        "1101_1635": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1635",
+          "cos_code": "DOH1012",
+          "num_limit": "12",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "基本設計進階",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.linglitseng.com",
+          "teacher": "曾令理、王嘉澍",
+          "cos_time": "Tabc-HC103[KF]",
+          "memo": "",
+          "cos_ename": "Fundamentals of Design (II)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PCD",
+          "dep_primary": "1",
+          "dep_cname": "創新科技藝術學分學程",
+          "dep_ename": "Innovative Technology and Art Program",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
         "1101_1638": {
           "acy": "110",
           "sem": "1",
@@ -43430,6 +43550,34 @@
           "reg_num": "0",
           "depType": "P"
         },
+        "1101_1644": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1644",
+          "cos_code": "DOH1053",
+          "num_limit": "12",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "金工概論與美學設計",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "王佳恩",
+          "cos_time": "Wabc-HC103[KF]",
+          "memo": "",
+          "cos_ename": "Introduction to Metalwork and Esthetic Design",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PCD",
+          "dep_primary": "1",
+          "dep_cname": "創新科技藝術學分學程",
+          "dep_ename": "Innovative Technology and Art Program",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
         "1101_1647": {
           "acy": "110",
           "sem": "1",
@@ -43492,6 +43640,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1635": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1638": {
           "": {
             "course_category_cname": "",
@@ -43520,6 +43677,15 @@
           }
         },
         "1101_1643": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1644": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -43551,6 +43717,12 @@
             "brief": "文化/進階(96),校基本素養(106),博雅選修通識 (90)"
           }
         },
+        "1101_1635": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1638": {
           "": {
             "brief_code": "",
@@ -43570,6 +43742,12 @@
           }
         },
         "1101_1643": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1644": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -43589,6 +43767,9 @@
         "1101_1633": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_1635": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1638": {
           "授課語言代碼": "zh-tw"
         },
@@ -43599,6 +43780,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1643": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1644": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1647": {
@@ -46031,6 +46215,34 @@
           "reg_num": "0",
           "depType": "Q"
         },
+        "1101_1635": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1635",
+          "cos_code": "DOH1012",
+          "num_limit": "12",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "基本設計進階",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.linglitseng.com",
+          "teacher": "曾令理、王嘉澍",
+          "cos_time": "Tabc-HC103[KF]",
+          "memo": "",
+          "cos_ename": "Fundamentals of Design (II)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QJZ",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學院跨領域設計與創新科技跨域學程",
+          "dep_ename": "College of Humanities and Social Sciences for Transdisciplinary Inn",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
         "1101_1638": {
           "acy": "110",
           "sem": "1",
@@ -46131,6 +46343,34 @@
           "cos_time": "T34-HC103[KF]",
           "memo": "",
           "cos_ename": "Universal Design",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QJZ",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學院跨領域設計與創新科技跨域學程",
+          "dep_ename": "College of Humanities and Social Sciences for Transdisciplinary Inn",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
+        "1101_1644": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1644",
+          "cos_code": "DOH1053",
+          "num_limit": "12",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "金工概論與美學設計",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "王佳恩",
+          "cos_time": "Wabc-HC103[KF]",
+          "memo": "",
+          "cos_ename": "Introduction to Metalwork and Esthetic Design",
           "brief": "",
           "degree": "1",
           "dep_id": "QJZ",
@@ -46261,6 +46501,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1635": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1638": {
           "": {
             "course_category_cname": "",
@@ -46289,6 +46538,15 @@
           }
         },
         "1101_1643": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1644": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -46338,6 +46596,12 @@
             "brief": "文化/進階(96),校基本素養(106),博雅選修通識 (90)"
           }
         },
+        "1101_1635": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1638": {
           "": {
             "brief_code": "",
@@ -46357,6 +46621,12 @@
           }
         },
         "1101_1643": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1644": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -46388,6 +46658,9 @@
         "1101_1633": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_1635": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1638": {
           "授課語言代碼": "zh-tw"
         },
@@ -46398,6 +46671,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1643": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1644": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1647": {
@@ -59667,6 +59943,62 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1101_5890": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5890",
+          "cos_code": "IAR5239",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "獨立研究",
+          "cos_credit": "1.00",
+          "cos_hours": "1.00",
+          "TURL": "http://www.linglitseng.com",
+          "teacher": "曾令理",
+          "cos_time": "S23-HA322[KF]",
+          "memo": "",
+          "cos_ename": "Independent Study",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "465",
+          "dep_primary": "1",
+          "dep_cname": "建築研究所",
+          "dep_ename": "Institute of Architecture",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1101_5897": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5897",
+          "cos_code": "IAR5264",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "建築表現",
+          "cos_credit": "4.00",
+          "cos_hours": "4.00",
+          "TURL": "http://www.linglitseng.com",
+          "teacher": "曾令理、李舲",
+          "cos_time": "T5678-HA105[KF]",
+          "memo": "",
+          "cos_ename": "Architectural Presentation and Phototyping",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "465",
+          "dep_primary": "1",
+          "dep_cname": "建築研究所",
+          "dep_ename": "Institute of Architecture",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
@@ -59696,6 +60028,24 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_5890": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5897": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -59716,6 +60066,18 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_5890": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5897": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -59726,6 +60088,12 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_5889": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5890": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5897": {
           "授課語言代碼": "zh-tw"
         }
       }

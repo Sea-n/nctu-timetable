@@ -37698,6 +37698,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "O"
+        },
+        "1101_0555": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "0555",
+          "cos_code": "DEP1115",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "物理一作業演算",
+          "cos_credit": ".00",
+          "cos_hours": "2.00",
+          "TURL": "http://gate.ep.nctu.edu.tw/~chenyc",
+          "teacher": "陳煜璋",
+          "cos_time": "Fbc-SC162[KF]",
+          "memo": "",
+          "cos_ename": "Physics Recitation (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OUD",
+          "dep_primary": "1",
+          "dep_cname": "物理教學小組",
+          "dep_ename": "Physical section",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
         }
       },
       "costype": {
@@ -37754,6 +37782,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_0555": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -37792,6 +37829,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_0555": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -37811,6 +37854,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_0554": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_0555": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -45193,7 +45239,7 @@
           "cos_id": "5576",
           "cos_code": "ITM5177",
           "num_limit": "40",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "智慧財產權管理",
           "cos_credit": "3.00",
@@ -45276,8 +45322,8 @@
           "sem": "1",
           "cos_id": "5583",
           "cos_code": "ITM5234",
-          "num_limit": "15",
-          "dep_limit": "*",
+          "num_limit": "20",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "智慧財產權管理個案與實務",
           "cos_credit": "3.00",
@@ -45304,8 +45350,8 @@
           "sem": "1",
           "cos_id": "5584",
           "cos_code": "ITM5235",
-          "num_limit": "9999",
-          "dep_limit": "*",
+          "num_limit": "12",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "創新研發管理與創業實務",
           "cos_credit": "3.00",
@@ -46800,7 +46846,7 @@
           "cos_id": "5576",
           "cos_code": "ITM5177",
           "num_limit": "40",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "智慧財產權管理",
           "cos_credit": "3.00",
@@ -46827,8 +46873,8 @@
           "sem": "1",
           "cos_id": "5583",
           "cos_code": "ITM5234",
-          "num_limit": "15",
-          "dep_limit": "*",
+          "num_limit": "20",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "智慧財產權管理個案與實務",
           "cos_credit": "3.00",
@@ -46855,8 +46901,8 @@
           "sem": "1",
           "cos_id": "5584",
           "cos_code": "ITM5235",
-          "num_limit": "9999",
-          "dep_limit": "*",
+          "num_limit": "12",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "創新研發管理與創業實務",
           "cos_credit": "3.00",
@@ -68260,6 +68306,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5408": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5408",
+          "cos_code": "IEP5585",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "高等固態物理（一）",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://gate.ep.nctu.edu.tw/~chenyc",
+          "teacher": "陳煜璋",
+          "cos_time": "T2W56-SC160[KF]",
+          "memo": "",
+          "cos_ename": "Advanced Solid State Physics (I)",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "651",
+          "dep_primary": "1",
+          "dep_cname": "電子物理學系",
+          "dep_ename": "Institute of Electro-Physics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5409": {
           "acy": "110",
           "sem": "1",
@@ -68364,6 +68438,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5408": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5409": {
           "": {
             "course_category_cname": "",
@@ -68405,6 +68488,12 @@
             "brief": ""
           }
         },
+        "1101_5408": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5409": {
           "": {
             "brief_code": "",
@@ -68430,6 +68519,9 @@
         },
         "1101_5404": {
           "授課語言代碼": "en-us"
+        },
+        "1101_5408": {
+          "授課語言代碼": "zh-tw"
         },
         "1101_5409": {
           "授課語言代碼": "zh-tw"
@@ -72596,7 +72688,7 @@
           "cos_id": "5576",
           "cos_code": "ITM5177",
           "num_limit": "40",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "智慧財產權管理",
           "cos_credit": "3.00",
@@ -72791,8 +72883,8 @@
           "sem": "1",
           "cos_id": "5583",
           "cos_code": "ITM5234",
-          "num_limit": "15",
-          "dep_limit": "*",
+          "num_limit": "20",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "智慧財產權管理個案與實務",
           "cos_credit": "3.00",
@@ -72819,8 +72911,8 @@
           "sem": "1",
           "cos_id": "5584",
           "cos_code": "ITM5235",
-          "num_limit": "9999",
-          "dep_limit": "*",
+          "num_limit": "12",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "創新研發管理與創業實務",
           "cos_credit": "3.00",

@@ -37615,6 +37615,34 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1101_0525": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "0525",
+          "cos_code": "DEP1111",
+          "num_limit": "65",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "物理(一)",
+          "cos_credit": "4.00",
+          "cos_hours": "4.00",
+          "TURL": "http://gate.ep.nctu.edu.tw/~chenyc",
+          "teacher": "陳煜璋",
+          "cos_time": "T78F34-SC151[KF]",
+          "memo": "",
+          "cos_ename": "Physics (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OUD",
+          "dep_primary": "1",
+          "dep_cname": "物理教學小組",
+          "dep_ename": "Physical section",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_0544": {
           "acy": "110",
           "sem": "1",
@@ -37756,6 +37784,15 @@
             "GECIEngName": "CHK"
           }
         },
+        "1101_0525": {
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "客",
+            "GECIEngName": "CHK"
+          }
+        },
         "1101_0544": {
           "": {
             "course_category_cname": "",
@@ -37812,6 +37849,12 @@
             "brief": "自然/基礎(96),跨院基本素養(106)"
           }
         },
+        "1101_0525": {
+          "A105,A504": {
+            "brief_code": "A105,A504",
+            "brief": "自然/基礎(96),跨院基本素養(106)"
+          }
+        },
         "1101_0544": {
           "": {
             "brief_code": "",
@@ -37845,6 +37888,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_0524": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_0525": {
           "授課語言代碼": "zh-tw"
         },
         "1101_0544": {
@@ -57361,6 +57407,65 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_B381": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "2EFB40C8-47BA-475D-BE91-337B779F1A30": {
+      "dep_id": "2EFB40C8-47BA-475D-BE91-337B779F1A30",
+      "dep_cname": "科技與社會研究所",
+      "dep_ename": "Institute of Science Technology and Society",
+      "1": {
+        "1101_B163": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "B163",
+          "cos_code": "B2534  ",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "防疫的科技治理",
+          "cos_credit": "1.00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "范玫芳",
+          "cos_time": "T3-YX207[YM]",
+          "memo": "1.實際上課週次及時間會在第一次上課時，由師生共同決定。2.開放5人以下隨班附讀。",
+          "cos_ename": "Science and Technology Governance of the COVID-19 Pandemic",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "402",
+          "dep_primary": "1",
+          "dep_cname": "科技與社會研究所",
+          "dep_ename": "Institute of Science Technology and Society",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "1101_B163": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_B163": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_B163": {
           "授課語言代碼": "zh-tw"
         }
       }

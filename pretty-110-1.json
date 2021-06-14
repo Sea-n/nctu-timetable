@@ -2180,6 +2180,34 @@
           "reg_num": "16",
           "depType": "U"
         },
+        "1101_1604": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1604",
+          "cos_code": "DFL2105",
+          "num_limit": "65",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "英國文學（一）",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "胡心瑜",
+          "cos_time": "T567-F210[KF]",
+          "memo": "[English Medium Course]",
+          "cos_ename": "English Literature (1)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "450",
+          "dep_primary": "1",
+          "dep_cname": "外國語文學系",
+          "dep_ename": "Department of Foreign Languages and Literatures",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "46",
+          "depType": "U"
+        },
         "1101_1605": {
           "acy": "110",
           "sem": "1",
@@ -2812,6 +2840,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1604": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1605": {
           "": {
             "course_category_cname": "",
@@ -3067,6 +3104,12 @@
             "brief": ""
           }
         },
+        "1101_1604": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1605": {
           "": {
             "brief_code": "",
@@ -3217,6 +3260,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_1603": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_1604": {
           "授課語言代碼": "en-us"
         },
         "1101_1605": {

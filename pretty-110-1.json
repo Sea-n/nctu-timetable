@@ -4259,6 +4259,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1703": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1703",
+          "cos_code": "DCT3054",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "多元文化與傳播",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "https://dcat.nctu.edu.tw/members/%e6%9d%8e%e7%be%8e%e8%8f%af/#content",
+          "teacher": "李美華",
+          "cos_time": "M567-A310[KF]",
+          "memo": "",
+          "cos_ename": "Multi-cultures and Communication",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "483",
+          "dep_primary": "1",
+          "dep_cname": "傳播與科技學系",
+          "dep_ename": "Department of Communication and Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1705": {
           "acy": "110",
           "sem": "1",
@@ -4497,6 +4525,29 @@
             "GECIEngName": ""
           }
         },
+        "1101_1703": {
+          "核心通識-社會與經濟_核心通識-社會與經濟": {
+            "course_category_cname": "核心通識-社會與經濟_核心通識-社會與經濟",
+            "course_category_ename": "Society and Economy_Society and Economy",
+            "course_category_type": "33",
+            "GECIName": "管,生",
+            "GECIEngName": "COM,CBT"
+          },
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "管,生",
+            "GECIEngName": "COM,CBT"
+          },
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "管,生",
+            "GECIEngName": "COM,CBT"
+          }
+        },
         "1101_1705": {
           "": {
             "course_category_cname": "",
@@ -4596,6 +4647,12 @@
             "brief": "校基本素養(106),博雅選修通識 (90)"
           }
         },
+        "1101_1703": {
+          "A204,A504,A505,A905": {
+            "brief_code": "A204,A504,A505,A905",
+            "brief": "群己/進階(96),跨院基本素養(106),校基本素養(106),核心通識-社會與經濟(90)"
+          }
+        },
         "1101_1705": {
           "": {
             "brief_code": "",
@@ -4650,6 +4707,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1702": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1703": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1705": {
@@ -10009,7 +10069,7 @@
           "sem": "1",
           "cos_id": "1173",
           "cos_code": "DCP4301",
-          "num_limit": "100",
+          "num_limit": "131",
           "dep_limit": "N",
           "URL": null,
           "cos_cname": "計算機系統管理",
@@ -31446,6 +31506,34 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1101_9915": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "9915",
+          "cos_code": "EDU1216",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "分科教材教法(科技領域/資訊科技)",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "楊子奇",
+          "cos_time": "F34-HA220",
+          "memo": "",
+          "cos_ename": "Subject-related Teaching Materials & Methods(Information Technology)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU7",
+          "dep_primary": "1",
+          "dep_cname": "師資培育中心",
+          "dep_ename": "Center for Teacher Education",
+          "cos_type": "教育",
+          "cos_type_e": "Teacher Education",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_9916": {
           "acy": "110",
           "sem": "1",
@@ -31555,6 +31643,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_9915": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_9916": {
           "": {
             "course_category_cname": "",
@@ -31614,6 +31711,12 @@
             "brief": "教育學程(87)"
           }
         },
+        "1101_9915": {
+          "D099": {
+            "brief_code": "D099",
+            "brief": "教育學程(87)"
+          }
+        },
         "1101_9916": {
           "D099": {
             "brief_code": "D099",
@@ -31644,6 +31747,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_9914": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_9915": {
           "授課語言代碼": "zh-tw"
         },
         "1101_9916": {
@@ -35050,7 +35156,7 @@
           "cos_id": "A604",
           "cos_code": "A4022  ",
           "num_limit": "30",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "動力伸展與紓壓",
           "cos_credit": ".00",
@@ -35078,7 +35184,7 @@
           "cos_id": "A605",
           "cos_code": "A1831  ",
           "num_limit": "30",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "羽球",
           "cos_credit": ".00",
@@ -35106,7 +35212,7 @@
           "cos_id": "A607",
           "cos_code": "A8986  ",
           "num_limit": "25",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "匹克球",
           "cos_credit": ".00",
@@ -35134,7 +35240,7 @@
           "cos_id": "A609",
           "cos_code": "A3151  ",
           "num_limit": "30",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "桌球",
           "cos_credit": ".00",
@@ -35162,7 +35268,7 @@
           "cos_id": "A611",
           "cos_code": "A3151  ",
           "num_limit": "30",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "桌球",
           "cos_credit": ".00",
@@ -35190,7 +35296,7 @@
           "cos_id": "A616",
           "cos_code": "A6001  ",
           "num_limit": "30",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "熱力有氧",
           "cos_credit": ".00",
@@ -35218,7 +35324,7 @@
           "cos_id": "A618",
           "cos_code": "A4022  ",
           "num_limit": "30",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "動力伸展與紓壓",
           "cos_credit": ".00",
@@ -35246,7 +35352,7 @@
           "cos_id": "A621",
           "cos_code": "A8986  ",
           "num_limit": "30",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "匹克球",
           "cos_credit": ".00",
@@ -35274,7 +35380,7 @@
           "cos_id": "A622",
           "cos_code": "B0398  ",
           "num_limit": "30",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "太極拳",
           "cos_credit": ".00",
@@ -42516,6 +42622,34 @@
           "reg_num": "0",
           "depType": "P"
         },
+        "1101_5281": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5281",
+          "cos_code": "IOE5117",
+          "num_limit": "40",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "賽局理論及應用(英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cs.nctu.edu.tw/~lhyen",
+          "teacher": "嚴力行",
+          "cos_time": "T567-ED202[KF]",
+          "memo": "本院學生優先；英文授課[English Medium Course]",
+          "cos_ename": "Game Theory and Its Applications",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAN",
+          "dep_primary": "1",
+          "dep_cname": "電機資訊英語授課學分學程",
+          "dep_ename": "Electrical Engineering and Computer Science-International Program",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
         "1101_5284": {
           "acy": "110",
           "sem": "1",
@@ -43034,6 +43168,15 @@
             "GECIEngName": "COE,COS,COM,CBT,CHS"
           }
         },
+        "1101_5281": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5284": {
           "": {
             "course_category_cname": "",
@@ -43327,6 +43470,12 @@
             "brief": "自然/進階(96),跨院基本素養(106),博雅選修通識 (90)"
           }
         },
+        "1101_5281": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5284": {
           "": {
             "brief_code": "",
@@ -43480,6 +43629,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_5276": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5281": {
           "授課語言代碼": "en-us"
         },
         "1101_5284": {
@@ -56841,6 +56993,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1101_B059": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "B059",
+          "cos_code": "B2463  ",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "營養學",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "蔡美文",
+          "cos_time": "T67-",
+          "memo": null,
+          "cos_ename": " Nutrition（and Physical Therapy）",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "262",
+          "dep_primary": "1",
+          "dep_cname": "物理治療暨輔助科技學系",
+          "dep_ename": " Department of Physical Therapy and Assistive Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
@@ -56897,6 +57077,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_B059": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -56935,6 +57124,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_B059": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -56954,6 +57149,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_B050": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_B059": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -61037,6 +61235,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1101_5957": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5957",
+          "cos_code": "ICH5123",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "健康風險傳播:新興媒體科技的應用",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "https://dcat.nctu.edu.tw/members/%e6%9d%8e%e7%be%8e%e8%8f%af/#content",
+          "teacher": "李美華",
+          "cos_time": "W234-HK206[LJ]",
+          "memo": "",
+          "cos_ename": "",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "483",
+          "dep_primary": "1",
+          "dep_cname": "傳播與科技學系",
+          "dep_ename": "Department of Communication and Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
@@ -61084,6 +61310,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_5957": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -61116,6 +61351,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_5957": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -61132,6 +61373,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_5956": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5957": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -67084,6 +67328,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1101_5281": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5281",
+          "cos_code": "IOE5117",
+          "num_limit": "40",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "賽局理論及應用(英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cs.nctu.edu.tw/~lhyen",
+          "teacher": "嚴力行",
+          "cos_time": "T567-ED202[KF]",
+          "memo": "本院學生優先；英文授課[English Medium Course]",
+          "cos_ename": "Game Theory and Its Applications",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "552",
+          "dep_primary": "1",
+          "dep_cname": "網路工程研究所",
+          "dep_ename": "Institute of Network Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
@@ -67147,6 +67419,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_5281": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -67185,6 +67466,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_5281": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -67205,6 +67492,9 @@
         },
         "1101_5279": {
           "授課語言代碼": "zh-tw"
+        },
+        "1101_5281": {
+          "授課語言代碼": "en-us"
         }
       }
     },

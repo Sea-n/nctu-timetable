@@ -61,6 +61,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_A021": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "A021",
+          "cos_code": "B2530  ",
+          "num_limit": "25",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "醫學與哲學",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "林雅萍",
+          "cos_time": "T56-YT104[YM]",
+          "memo": "醫學人文與倫理領域-醫學倫理類，限醫學系，為使課程品質提升修課人數有限",
+          "cos_ename": "Medicine and Philosophy",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "101",
+          "dep_primary": "1",
+          "dep_cname": "醫學系",
+          "dep_ename": "Department of Medicine",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_A022": {
           "acy": "110",
           "sem": "1",
@@ -312,6 +340,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_A021": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_A022": {
           "": {
             "course_category_cname": "",
@@ -398,6 +435,12 @@
             "brief": ""
           }
         },
+        "1101_A021": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_A022": {
           "": {
             "brief_code": "",
@@ -452,6 +495,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_A017": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_A021": {
           "授課語言代碼": "zh-tw"
         },
         "1101_A022": {
@@ -41613,6 +41659,34 @@
           "reg_num": "0",
           "depType": "P"
         },
+        "1101_5249": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5249",
+          "cos_code": "IOC5009",
+          "num_limit": "45",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "機器學習晶片架構設計(英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "葉宗泰",
+          "cos_time": "T7F34-ED302[KF]",
+          "memo": "本院學生優先； 英文授課[English Medium Course]",
+          "cos_ename": "Accelerator Architectures for Machine Learning ",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAN",
+          "dep_primary": "1",
+          "dep_cname": "電機資訊英語授課學分學程",
+          "dep_ename": "Electrical Engineering and Computer Science-International Program",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
         "1101_5257": {
           "acy": "110",
           "sem": "1",
@@ -42191,6 +42265,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5249": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5257": {
           "": {
             "course_category_cname": "",
@@ -42497,6 +42580,12 @@
             "brief": ""
           }
         },
+        "1101_5249": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5257": {
           "": {
             "brief_code": "",
@@ -42659,6 +42748,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_5248": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5249": {
           "授課語言代碼": "en-us"
         },
         "1101_5257": {
@@ -55078,10 +55170,47 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1101_A791": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "A791",
+          "cos_code": "B2518  ",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "健康照護 、 倫理與政治",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "林雅萍",
+          "cos_time": "F56-YS103[YM]",
+          "memo": null,
+          "cos_ename": "Healthcare, Ethics and Politics",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "104",
+          "dep_primary": "1",
+          "dep_cname": "公共衛生研究所",
+          "dep_ename": "Institute of Public Health",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
         "1101_A783": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_A791": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -55097,10 +55226,19 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_A791": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
         "1101_A783": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_A791": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -57443,10 +57581,47 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1101_B165": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "B165",
+          "cos_code": "B2536  ",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "科技與國家",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "嚴曉珮",
+          "cos_time": "W567-YX207[YM]",
+          "memo": "1.開放5人以下隨班附讀。2.開放3人以下大學部學生選修，學生須經授課教師同意後，始能以紙本申請方式加選本課程。",
+          "cos_ename": "Science, Technology, and Nation-States",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "402",
+          "dep_primary": "1",
+          "dep_cname": "科技與社會研究所",
+          "dep_ename": "Institute of Science Technology and Society",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
         "1101_B163": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_B165": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -57462,10 +57637,19 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_B165": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
         "1101_B163": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_B165": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -64960,6 +65144,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5249": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5249",
+          "cos_code": "IOC5009",
+          "num_limit": "45",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "機器學習晶片架構設計(英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "葉宗泰",
+          "cos_time": "T7F34-ED302[KF]",
+          "memo": "本院學生優先； 英文授課[English Medium Course]",
+          "cos_ename": "Accelerator Architectures for Machine Learning ",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "551",
+          "dep_primary": "1",
+          "dep_cname": "資訊科學與工程研究所",
+          "dep_ename": "Institute of Computer Science and Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5250": {
           "acy": "110",
           "sem": "1",
@@ -65307,6 +65519,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5249": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5250": {
           "": {
             "course_category_cname": "",
@@ -65423,6 +65644,12 @@
             "brief": ""
           }
         },
+        "1101_5249": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5250": {
           "": {
             "brief_code": "",
@@ -65498,6 +65725,9 @@
       },
       "language": {
         "1101_5248": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5249": {
           "授課語言代碼": "en-us"
         },
         "1101_5250": {

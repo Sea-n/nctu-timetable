@@ -76743,6 +76743,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5244": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5244",
+          "cos_code": "IOG5034",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "三維電腦視覺",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "彭其瀚",
+          "cos_time": "M567-CM216[TN]",
+          "memo": "[English Medium Course]",
+          "cos_ename": "3D Computer Vision",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "8G1",
+          "dep_primary": "1",
+          "dep_cname": "智慧科學暨綠能學院",
+          "dep_ename": "College of Artificial Intelligence and Green Energy",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5245": {
           "acy": "110",
           "sem": "1",
@@ -76819,6 +76847,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5244": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5245": {
           "": {
             "course_category_cname": "",
@@ -76851,6 +76888,12 @@
             "brief": ""
           }
         },
+        "1101_5244": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5245": {
           "": {
             "brief_code": "",
@@ -76869,6 +76912,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_5242": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5244": {
           "授課語言代碼": "en-us"
         },
         "1101_5245": {

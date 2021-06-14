@@ -1844,6 +1844,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1589": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1589",
+          "cos_code": "DFL1103",
+          "num_limit": "18",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "英文作文（一）",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "胡心瑜",
+          "cos_time": "M34-HC402[KF]",
+          "memo": "B組,限外文系[English Medium Course]",
+          "cos_ename": "English Composition (1)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "450",
+          "dep_primary": "1",
+          "dep_cname": "外國語文學系",
+          "dep_ename": "Department of Foreign Languages and Literatures",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1591": {
           "acy": "110",
           "sem": "1",
@@ -2234,6 +2262,34 @@
           "cos_type_e": "Required",
           "crsoutline_type": "data",
           "reg_num": "26",
+          "depType": "U"
+        },
+        "1101_1609": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1609",
+          "cos_code": "DFL2136",
+          "num_limit": "27",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "高級翻譯",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "劉啟明",
+          "cos_time": "T34-F207[KF]",
+          "memo": "B組,限外文系",
+          "cos_ename": "Advanced Translation",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "450",
+          "dep_primary": "1",
+          "dep_cname": "外國語文學系",
+          "dep_ename": "Department of Foreign Languages and Literatures",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "20",
           "depType": "U"
         },
         "1101_1610": {
@@ -2648,6 +2704,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1589": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1591": {
           "": {
             "course_category_cname": "",
@@ -2766,6 +2831,15 @@
           }
         },
         "1101_1608": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1609": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -2921,6 +2995,12 @@
             "brief": ""
           }
         },
+        "1101_1589": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1591": {
           "": {
             "brief_code": "",
@@ -3000,6 +3080,12 @@
           }
         },
         "1101_1608": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1609": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -3097,6 +3183,9 @@
         "1101_1588": {
           "授課語言代碼": "en-us"
         },
+        "1101_1589": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1591": {
           "授課語言代碼": "en-us"
         },
@@ -3137,6 +3226,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1608": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1609": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1610": {
@@ -77195,6 +77287,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5238": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5238",
+          "cos_code": "IOG5007",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "物聯網應用設計與實作",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "林勻蔚",
+          "cos_time": "W567-CM214",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Design and Implementation of IoT applications  ",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "8G1",
+          "dep_primary": "1",
+          "dep_cname": "智慧科學暨綠能學院",
+          "dep_ename": "College of Artificial Intelligence and Green Energy",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5240": {
           "acy": "110",
           "sem": "1",
@@ -77346,6 +77466,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5238": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5240": {
           "": {
             "course_category_cname": "",
@@ -77399,6 +77528,12 @@
             "brief": ""
           }
         },
+        "1101_5238": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5240": {
           "": {
             "brief_code": "",
@@ -77433,6 +77568,9 @@
       "language": {
         "1101_5236": {
           "授課語言代碼": "zh-tw"
+        },
+        "1101_5238": {
+          "授課語言代碼": "en-us"
         },
         "1101_5240": {
           "授課語言代碼": "zh-tw"

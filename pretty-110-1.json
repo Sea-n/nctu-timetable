@@ -13985,6 +13985,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1378": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1378",
+          "cos_code": "DAM2108",
+          "num_limit": "20",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "量子計算",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "https://sites.google.com/view/chengfangsu/teachging?authuser=0",
+          "teacher": "蘇承芳",
+          "cos_time": "Rab-SC204[KF]",
+          "memo": "",
+          "cos_ename": "Quantum Computing",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "652",
+          "dep_primary": "1",
+          "dep_cname": "應用數學系",
+          "dep_ename": "Department of Applied Mathematics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1379": {
           "acy": "110",
           "sem": "1",
@@ -14181,6 +14209,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1392": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1392",
+          "cos_code": "DAM3416",
+          "num_limit": "60",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "基礎圖論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳秋媛",
+          "cos_time": "T78F34-SC206[KF]",
+          "memo": "",
+          "cos_ename": "Fundamental Graph Theory",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "652",
+          "dep_primary": "1",
+          "dep_cname": "應用數學系",
+          "dep_ename": "Department of Applied Mathematics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1393": {
           "acy": "110",
           "sem": "1",
@@ -14247,6 +14303,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1378": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1379": {
           "": {
             "course_category_cname": "",
@@ -14302,6 +14367,15 @@
           }
         },
         "1101_1388": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1392": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -14345,6 +14419,12 @@
             "brief": ""
           }
         },
+        "1101_1378": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1379": {
           "": {
             "brief_code": "",
@@ -14382,6 +14462,12 @@
           }
         },
         "1101_1388": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1392": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -14407,6 +14493,9 @@
         "1101_1377": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_1378": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1379": {
           "授課語言代碼": "zh-tw"
         },
@@ -14426,6 +14515,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1388": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1392": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1393": {
@@ -69590,6 +69682,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1101_5426": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5426",
+          "cos_code": "IAM7677",
+          "num_limit": "10",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "圖論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳秋媛",
+          "cos_time": "M34R56-SC206[KF]",
+          "memo": "",
+          "cos_ename": "Graph Theory",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "652",
+          "dep_primary": "1",
+          "dep_cname": "應用數學系",
+          "dep_ename": "Institute of Applied Mathematics",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
@@ -69628,6 +69748,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_5426": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -69654,6 +69783,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_5426": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -69667,6 +69802,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_5423": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5426": {
           "授課語言代碼": "zh-tw"
         }
       }

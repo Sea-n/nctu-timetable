@@ -20514,6 +20514,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_A533": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "A533",
+          "cos_code": "A1962  ",
+          "num_limit": "25",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "西洋藝術史",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "黃桂瑩",
+          "cos_time": "R34-YX501[YM]",
+          "memo": "藝術與文化領域，為維持教學品質，限制修課人數。初選、新生選課限：牙醫一、物輔一、物輔二、醫學二、醫工一、醫技一、醫技二、醫放一、護理二、光電奈米學程學生選修。",
+          "cos_ename": "Western Art History",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "O02",
+          "dep_primary": "1",
+          "dep_cname": "人文與社會中心",
+          "dep_ename": "Department of Anatomy and Cell Biology",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_A535": {
           "acy": "110",
           "sem": "1",
@@ -21292,6 +21320,22 @@
             "GECIEngName": ""
           }
         },
+        "1101_A533": {
+          "核心通識-藝術與文化_核心通識-藝術與文化": {
+            "course_category_cname": "核心通識-藝術與文化_核心通識-藝術與文化",
+            "course_category_ename": "Art and Cultures_Art and Cultures",
+            "course_category_type": "36",
+            "GECIName": "",
+            "GECIEngName": ""
+          },
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_A535": {
           "核心通識-藝術與文化_核心通識-藝術與文化": {
             "course_category_cname": "核心通識-藝術與文化_核心通識-藝術與文化",
@@ -21594,6 +21638,12 @@
             "brief": "校基本素養(106),核心通識-倫理與道德思考(90)"
           }
         },
+        "1101_A533": {
+          "A501,A908": {
+            "brief_code": "A501,A908",
+            "brief": "核心-人文(106),核心通識-藝術與文化(90)"
+          }
+        },
         "1101_A535": {
           "A501,A908": {
             "brief_code": "A501,A908",
@@ -21756,6 +21806,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_A529": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_A533": {
           "授課語言代碼": "zh-tw"
         },
         "1101_A535": {
@@ -31478,6 +31531,34 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1101_9913": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "9913",
+          "cos_code": "EDU1213",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "分科教材教法(資料處理科)",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "楊子奇",
+          "cos_time": "F12-HA220",
+          "memo": "",
+          "cos_ename": "Subject-related Teaching Materials & Methods(Data Processing)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU7",
+          "dep_primary": "1",
+          "dep_cname": "師資培育中心",
+          "dep_ename": "Center for Teacher Education",
+          "cos_type": "教育",
+          "cos_type_e": "Teacher Education",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_9914": {
           "acy": "110",
           "sem": "1",
@@ -31634,6 +31715,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_9913": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_9914": {
           "": {
             "course_category_cname": "",
@@ -31705,6 +31795,12 @@
             "brief": "教育學程(87)"
           }
         },
+        "1101_9913": {
+          "D099": {
+            "brief_code": "D099",
+            "brief": "教育學程(87)"
+          }
+        },
         "1101_9914": {
           "D099": {
             "brief_code": "D099",
@@ -31744,6 +31840,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_9912": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_9913": {
           "授課語言代碼": "zh-tw"
         },
         "1101_9914": {
@@ -35108,7 +35207,7 @@
           "TURL": "",
           "teacher": "藍于青",
           "cos_time": "M78-",
-          "memo": "為維護教學品質，限制修課人數，初選階段限牙醫三選修，加退選階段開放選修。",
+          "memo": "為維護教學品質，限制修課人數，初選階段限醫學三選修，加退選階段開放選修。",
           "cos_ename": "Basketball",
           "brief": "",
           "degree": "1",
@@ -35211,7 +35310,7 @@
           "sem": "1",
           "cos_id": "A607",
           "cos_code": "A8986  ",
-          "num_limit": "25",
+          "num_limit": "30",
           "dep_limit": "N",
           "URL": null,
           "cos_cname": "匹克球",
@@ -35220,7 +35319,7 @@
           "TURL": "",
           "teacher": "黃中興",
           "cos_time": "W12-",
-          "memo": "與選修體育合班上課，為維護教學品質，限制修課人數。",
+          "memo": "為維護教學品質，限制修課人數。",
           "cos_ename": "Pickleball",
           "brief": "",
           "degree": "1",
@@ -35360,7 +35459,7 @@
           "TURL": "",
           "teacher": "藍于青",
           "cos_time": "F56-",
-          "memo": "為維護教學品質，限制修課人數，初選階段限牙醫二選修，加退選階段開放選修。",
+          "memo": "為維護教學品質，限制修課人數。",
           "cos_ename": "Pickleball",
           "brief": "",
           "degree": "1",
@@ -35388,7 +35487,7 @@
           "TURL": "",
           "teacher": "張耀庭",
           "cos_time": "F78-",
-          "memo": "為維護教學品質，限制修課人數，初選階段限牙醫二選修，加退選階段開放選修。",
+          "memo": "為維護教學品質，限制修課人數。",
           "cos_ename": "Tai Chi",
           "brief": "",
           "degree": "1",
@@ -45770,7 +45869,7 @@
           "dep_ename": "Program of  Sociology  and Anthropology",
           "cos_type": "選修",
           "cos_type_e": "Elective",
-          "crsoutline_type": null,
+          "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "P"
         }
@@ -56329,6 +56428,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_A833": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "A833",
+          "cos_code": "B1969  ",
+          "num_limit": "15",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "基礎次級資料分析與應用 ",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "譚家惠、陳?宜",
+          "cos_time": "M34n-YN511[YM]",
+          "memo": null,
+          "cos_ename": "The Implication of Statistical Model ",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "107",
+          "dep_primary": "1",
+          "dep_cname": "醫務管理研究所",
+          "dep_ename": "Institute of Hospital and Health Care Administration",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_A835": {
           "acy": "110",
           "sem": "1",
@@ -56368,6 +56495,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_A833": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_A835": {
           "": {
             "course_category_cname": "",
@@ -56385,6 +56521,12 @@
             "brief": ""
           }
         },
+        "1101_A833": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_A835": {
           "": {
             "brief_code": "",
@@ -56394,6 +56536,9 @@
       },
       "language": {
         "1101_A832": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_A833": {
           "授課語言代碼": "zh-tw"
         },
         "1101_A835": {
@@ -60538,6 +60683,34 @@
       "dep_cname": "社會與文化研究所",
       "dep_ename": "Institute for Social Research and Cultural Studies",
       "1": {
+        "1101_5847": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5847",
+          "cos_code": "ICS5007",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "個別研究",
+          "cos_credit": "1.00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "蔡晏霖",
+          "cos_time": "",
+          "memo": "",
+          "cos_ename": "Independent Study",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "463",
+          "dep_primary": "1",
+          "dep_cname": "社會與文化研究所",
+          "dep_ename": "Institute for Social Research and Cultural Studies",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5859": {
           "acy": "110",
           "sem": "1",
@@ -60568,6 +60741,15 @@
         }
       },
       "costype": {
+        "1101_5847": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5859": {
           "": {
             "course_category_cname": "",
@@ -60579,6 +60761,12 @@
         }
       },
       "brief": {
+        "1101_5847": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5859": {
           "": {
             "brief_code": "",
@@ -60587,6 +60775,9 @@
         }
       },
       "language": {
+        "1101_5847": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_5859": {
           "授課語言代碼": "zh-tw"
         }
@@ -60997,7 +61188,7 @@
           "dep_ename": "Graduate Program of Ethnicity and Culture",
           "cos_type": "選修",
           "cos_type_e": "Elective",
-          "crsoutline_type": null,
+          "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
         },

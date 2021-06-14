@@ -37625,6 +37625,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "O"
+        },
+        "1101_3007": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "3007",
+          "cos_code": "CCP1065",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "雲端技術及網路服務實務",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cc.nctu.edu.tw/~cschen",
+          "teacher": "陳昌盛",
+          "cos_time": "R567-CS",
+          "memo": "",
+          "cos_ename": "Cloud Technologies and Services",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OUB",
+          "dep_primary": "1",
+          "dep_cname": "資訊技術服務中心",
+          "dep_ename": "Information Technology Service Center",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
         }
       },
       "costype": {
@@ -37702,6 +37730,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_3007": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -37740,6 +37777,12 @@
             "brief_code": "A505",
             "brief": "校基本素養(106)"
           }
+        },
+        "1101_3007": {
+          "A505": {
+            "brief_code": "A505",
+            "brief": "校基本素養(106)"
+          }
         }
       },
       "language": {
@@ -37759,6 +37802,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_3006": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_3007": {
           "授課語言代碼": "zh-tw"
         }
       }

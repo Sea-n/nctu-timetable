@@ -14499,6 +14499,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1382": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1382",
+          "cos_code": "DAM3301",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "代數學（一）",
+          "cos_credit": "3.00",
+          "cos_hours": "4.00",
+          "TURL": "",
+          "teacher": "康明軒",
+          "cos_time": "M78R34-SA311[KF]",
+          "memo": "",
+          "cos_ename": "Algebra (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "652",
+          "dep_primary": "1",
+          "dep_cname": "應用數學系",
+          "dep_ename": "Department of Applied Mathematics",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1384": {
           "acy": "110",
           "sem": "1",
@@ -14741,6 +14769,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1382": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1384": {
           "": {
             "course_category_cname": "",
@@ -14845,6 +14882,12 @@
             "brief": ""
           }
         },
+        "1101_1382": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1384": {
           "": {
             "brief_code": "",
@@ -14905,6 +14948,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1381": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1382": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1384": {
@@ -42061,7 +42107,7 @@
           "cos_hours": "3.00",
           "TURL": "http://people.cs.nctu.edu.tw/~katelin/",
           "teacher": "林靖茹",
-          "cos_time": "T567-EC122[KF]",
+          "cos_time": "T56F2-EC122[KF]",
           "memo": "外系生請於開學上網加選；學士班七大主題學程；資訊工程組必修；網路與多媒體工程組的網路領域專業課程必修；資工系與電資學士班學生優先選課； 英文授課[English Medium Course]",
           "cos_ename": "Intro. to Computer Networks",
           "brief": "",
@@ -83057,6 +83103,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "J"
+        },
+        "1101_5324": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5324",
+          "cos_code": "ISE5301",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "專題討論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "半導體專班、精密專班",
+          "cos_time": "S234-EF207[KF]",
+          "memo": "",
+          "cos_ename": "Seminar",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "609",
+          "dep_primary": "1",
+          "dep_cname": "工學院碩士在職專班-半導體組",
+          "dep_ename": "Degree Program of Semiconductor Material and Processing Equipment",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
         }
       },
       "costype": {
@@ -83070,6 +83144,15 @@
           }
         },
         "1101_5322": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5324": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -83091,6 +83174,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_5324": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -83098,6 +83187,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_5322": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5324": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -87418,7 +87510,7 @@
           "cos_hours": "3.00",
           "TURL": "http://people.cs.nctu.edu.tw/~katelin/",
           "teacher": "林靖茹",
-          "cos_time": "T567-EC122[KF]",
+          "cos_time": "T56F2-EC122[KF]",
           "memo": "外系生請於開學上網加選；學士班七大主題學程；資訊工程組必修；網路與多媒體工程組的網路領域專業課程必修；資工系與電資學士班學生優先選課； 英文授課[English Medium Course]",
           "cos_ename": "Intro. to Computer Networks",
           "brief": "",
@@ -87474,7 +87566,7 @@
           "cos_hours": "3.00",
           "TURL": "http://people.cs.nctu.edu.tw/~shieyuan/",
           "teacher": "王協源",
-          "cos_time": "T567-EC015[KF]",
+          "cos_time": "T56F2-EC015[KF]",
           "memo": "外系生請於開學上網加選；學士班七大主題學程；資訊工程組必修；網路與多媒體工程組的網路領域專業課程必修；資工系與電資學士班學生優先選課",
           "cos_ename": "Intro. to Computer Networks",
           "brief": "",

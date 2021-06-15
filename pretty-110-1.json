@@ -215,7 +215,7 @@
           "TURL": "",
           "teacher": "張耀庭",
           "cos_time": "F56-",
-          "memo": "(醫一丙)限醫一B選修，課程內容為第1~5週桌球，第8~12週田徑，第6~7、13~15週排球(山下)。",
+          "memo": "(醫一丙)限醫一B選修，課程內容為第1~5週籃球(山下)，第7~11週田徑，第6、12~15週太極拳。",
           "cos_ename": "Physical Education",
           "brief": "",
           "degree": "1",
@@ -900,7 +900,7 @@
           "TURL": "",
           "teacher": "黃中興",
           "cos_time": "T56-",
-          "memo": "限醫技一，課程內容為第1~5週羽球，第8~12週田徑，第6~7、13~15週排球。",
+          "memo": "限醫技一，課程內容為第1~5週桌球，第7~11週田徑，第6、12~15週網球。",
           "cos_ename": "Physical Education",
           "brief": "",
           "degree": "1",
@@ -987,7 +987,7 @@
           "TURL": "",
           "teacher": "黃中興",
           "cos_time": "T12-",
-          "memo": "限醫工一，課程內容為第1~5週桌球，第8~12週田徑，第6~7、13~15週網球。",
+          "memo": "限醫工一，課程內容為第1~5週桌球，第7~11週田徑，第6、12~15週網球。",
           "cos_ename": "Physical Education",
           "brief": "",
           "degree": "1",
@@ -6862,6 +6862,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1048": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1048",
+          "cos_code": "UEE2704",
+          "num_limit": "60",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "演算法導論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://vda.ee.nctu.edu.tw/hmchen/",
+          "teacher": "陳宏明",
+          "cos_time": "T34-EE130[KF],R5-ED101[KF]",
+          "memo": "",
+          "cos_ename": "Introduction to Algorithms",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "511",
+          "dep_primary": "1",
+          "dep_cname": "電機工程學系",
+          "dep_ename": "Department of Electrical and Computer Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1049": {
           "acy": "110",
           "sem": "1",
@@ -7819,7 +7847,7 @@
           "sem": "1",
           "cos_id": "1090",
           "cos_code": "UEE4604",
-          "num_limit": "40",
+          "num_limit": "45",
           "dep_limit": "N",
           "URL": null,
           "cos_cname": "電力電子實驗",
@@ -8185,6 +8213,15 @@
           }
         },
         "1101_1046": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1048": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -8712,6 +8749,12 @@
             "brief": ""
           }
         },
+        "1101_1048": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1049": {
           "": {
             "brief_code": "",
@@ -9021,6 +9064,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1046": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1048": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1049": {
@@ -15438,6 +15484,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1419": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1419",
+          "cos_code": "DAC3358",
+          "num_limit": "10",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "分析化學特論-科學研究方法",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "許馨云",
+          "cos_time": "T56F3-EO615",
+          "memo": "限本系本學期正在修專題研究之學生",
+          "cos_ename": "Special Topics of Analytical Chemistry - Communicating Science",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "654",
+          "dep_primary": "1",
+          "dep_cname": "應用化學系",
+          "dep_ename": "Department of Applied Chemistry",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1421": {
           "acy": "110",
           "sem": "1",
@@ -15595,6 +15669,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1419": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1421": {
           "": {
             "course_category_cname": "",
@@ -15681,6 +15764,12 @@
             "brief": ""
           }
         },
+        "1101_1419": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1421": {
           "": {
             "brief_code": "",
@@ -15726,6 +15815,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1416": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1419": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1421": {
@@ -29761,6 +29853,90 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1101_7528": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7528",
+          "cos_code": "DFR4111",
+          "num_limit": "45",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "西班牙文(一)",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "馮志宇",
+          "cos_time": "T12-A501[KF]",
+          "memo": "",
+          "cos_ename": "Spanish (I)",
+          "brief": "其它",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_7529": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7529",
+          "cos_code": "DFR4111",
+          "num_limit": "45",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "西班牙文(一)",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "馮志宇",
+          "cos_time": "T56-A307[KF]",
+          "memo": "",
+          "cos_ename": "Spanish (I)",
+          "brief": "其它",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1101_7530": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "7530",
+          "cos_code": "DFR4112",
+          "num_limit": "45",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "西班牙文(二)",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "馮志宇",
+          "cos_time": "T34-A501[KF]",
+          "memo": "",
+          "cos_ename": "Spanish (II)",
+          "brief": "其它",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1101_7531": {
           "acy": "110",
           "sem": "1",
@@ -30828,6 +31004,33 @@
             "GECIEngName": ""
           }
         },
+        "1101_7528": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_7529": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_7530": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_7531": {
           "": {
             "course_category_cname": "",
@@ -31424,6 +31627,24 @@
             "brief": "其它(87)"
           }
         },
+        "1101_7528": {
+          "B075": {
+            "brief_code": "B075",
+            "brief": "其它(87)"
+          }
+        },
+        "1101_7529": {
+          "B075": {
+            "brief_code": "B075",
+            "brief": "其它(87)"
+          }
+        },
+        "1101_7530": {
+          "B075": {
+            "brief_code": "B075",
+            "brief": "其它(87)"
+          }
+        },
         "1101_7531": {
           "B075": {
             "brief_code": "B075",
@@ -31739,6 +31960,15 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_7527": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_7528": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_7529": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_7530": {
           "授課語言代碼": "zh-tw"
         },
         "1101_7531": {
@@ -50309,7 +50539,7 @@
           "cos_id": "5842",
           "cos_code": "IAA5752",
           "num_limit": "15",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "影像敘事工作坊",
           "cos_credit": "2.00",
@@ -57607,6 +57837,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_B089": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "B089",
+          "cos_code": "B2454  ",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "資料科學(上)",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "巫坤品",
+          "cos_time": "M34-YR319[YM]",
+          "memo": null,
+          "cos_ename": "Data Science (1)",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "112",
+          "dep_primary": "1",
+          "dep_cname": "生物醫學資訊研究所",
+          "dep_ename": "Institute of Biomedical Informatics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_B090": {
           "acy": "110",
           "sem": "1",
@@ -57701,6 +57959,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_B089": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_B090": {
           "": {
             "course_category_cname": "",
@@ -57745,6 +58012,12 @@
             "brief": ""
           }
         },
+        "1101_B089": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_B090": {
           "": {
             "brief_code": "",
@@ -57769,6 +58042,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_B083": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_B089": {
           "授課語言代碼": "zh-tw"
         },
         "1101_B090": {
@@ -58091,6 +58367,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_B029": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "B029",
+          "cos_code": "A3299  ",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "神經肌肉系統特論",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "周立偉、江明彰、林吟亮",
+          "cos_time": "T56-YB419[YM]",
+          "memo": null,
+          "cos_ename": "Special Topics in Neuromuscular System",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "262",
+          "dep_primary": "1",
+          "dep_cname": "物理治療暨輔助科技學系",
+          "dep_ename": " Department of Physical Therapy and Assistive Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_B042": {
           "acy": "110",
           "sem": "1",
@@ -58232,6 +58536,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_B029": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_B042": {
           "": {
             "course_category_cname": "",
@@ -58288,6 +58601,12 @@
             "brief": ""
           }
         },
+        "1101_B029": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_B042": {
           "": {
             "brief_code": "",
@@ -58321,6 +58640,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_B028": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_B029": {
           "授課語言代碼": "zh-tw"
         },
         "1101_B042": {
@@ -61625,7 +61947,7 @@
           "cos_id": "5833",
           "cos_code": "IAA5447",
           "num_limit": "18",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "使用者經驗設計",
           "cos_credit": "3.00",
@@ -61653,7 +61975,7 @@
           "cos_id": "5836",
           "cos_code": "IAA5484",
           "num_limit": "0",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "多媒體網頁設計實務",
           "cos_credit": "3.00",
@@ -61681,7 +62003,7 @@
           "cos_id": "5838",
           "cos_code": "IAA5740",
           "num_limit": "12",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "沉浸與虛幻引擎",
           "cos_credit": "3.00",
@@ -61709,7 +62031,7 @@
           "cos_id": "5842",
           "cos_code": "IAA5752",
           "num_limit": "15",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "影像敘事工作坊",
           "cos_credit": "2.00",
@@ -63211,6 +63533,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5040": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5040",
+          "cos_code": "IEE5723",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "實體設計自動化",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://vda.ee.nctu.edu.tw/hmchen/",
+          "teacher": "陳宏明",
+          "cos_time": "Mn56-ED302[KF]",
+          "memo": "",
+          "cos_ename": "Physical Design Automation",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "510",
+          "dep_primary": "1",
+          "dep_cname": "電子研究所",
+          "dep_ename": "Institute of Electronics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5042": {
           "acy": "110",
           "sem": "1",
@@ -63581,6 +63931,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5040": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5042": {
           "": {
             "course_category_cname": "",
@@ -63751,6 +64110,12 @@
             "brief": ""
           }
         },
+        "1101_5040": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5042": {
           "": {
             "brief_code": "",
@@ -63847,6 +64212,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_5038": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5040": {
           "授課語言代碼": "zh-tw"
         },
         "1101_5042": {
@@ -71049,7 +71417,7 @@
           "sem": "1",
           "cos_id": "5392",
           "cos_code": "IEV5225",
-          "num_limit": "20",
+          "num_limit": "25",
           "dep_limit": "N",
           "URL": null,
           "cos_cname": "水及廢水處理",
@@ -71105,7 +71473,7 @@
           "sem": "1",
           "cos_id": "5394",
           "cos_code": "IEV5352",
-          "num_limit": "9999",
+          "num_limit": "80",
           "dep_limit": "N",
           "URL": null,
           "cos_cname": "專題討論",
@@ -71133,7 +71501,7 @@
           "sem": "1",
           "cos_id": "5395",
           "cos_code": "IEV5354",
-          "num_limit": "9999",
+          "num_limit": "6",
           "dep_limit": "N",
           "URL": null,
           "cos_cname": "個別研究",
@@ -72244,6 +72612,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1101_5446": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5446",
+          "cos_code": "IAC6643",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "生物技術特論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "許馨云",
+          "cos_time": "W234-SB201[KF]",
+          "memo": "",
+          "cos_ename": "Molecular Biotechnology",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "654",
+          "dep_primary": "1",
+          "dep_cname": "應用化學系",
+          "dep_ename": "Institute of Applied Chemistry",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
@@ -72318,6 +72714,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_5446": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -72368,6 +72773,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_5446": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -72393,6 +72804,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_5445": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5446": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -85929,7 +86343,7 @@
           "cos_hours": "3.00",
           "TURL": "",
           "teacher": "李昕潔",
-          "cos_time": "Tabc-A308[KF]",
+          "cos_time": "U89a-A701[KF]",
           "memo": "限專班同學選修，不接受校際選修",
           "cos_ename": "Technology Management and Issus of Technology Policy",
           "brief": "",

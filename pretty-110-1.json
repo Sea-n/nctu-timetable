@@ -117,6 +117,34 @@
           "reg_num": "-999",
           "depType": "U"
         },
+        "1101_A024": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "A024",
+          "cos_code": "B1308  ",
+          "num_limit": "20",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "身心靈實證之生死學與全人醫學",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "顏慕庸、蔡甫昌、何逸僊、廖敏洋、蔡兆勳",
+          "cos_time": "T56-YT103[YM]",
+          "memo": "醫學人文與倫理領域-醫學人文類，限醫學系，為使課程品質提升修課人數有限",
+          "cos_ename": "Thanatology: Perspective from Body, Mind, Spirit, and Integrative Medicine",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "101",
+          "dep_primary": "1",
+          "dep_cname": "醫學系",
+          "dep_ename": "Department of Medicine",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "-999",
+          "depType": "U"
+        },
         "1101_A026": {
           "acy": "110",
           "sem": "1",
@@ -189,6 +217,34 @@
           "cos_time": "T56-YT302[YM]",
           "memo": "限醫學系，為使課程品質提升修課人數有限",
           "cos_ename": "Taiwanese (language) and Interpersonal Communication",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "101",
+          "dep_primary": "1",
+          "dep_cname": "醫學系",
+          "dep_ename": "Department of Medicine",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "-999",
+          "depType": "U"
+        },
+        "1101_A030": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "A030",
+          "cos_code": "A5705  ",
+          "num_limit": "20",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "漢生病與醫學人文",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "莊毓民",
+          "cos_time": "Wab-YT103[YM]",
+          "memo": "醫學人文與倫理領域-醫學人文類，限醫學系，為使課程品質提升修課人數有限",
+          "cos_ename": "Leprosy and Medical Humanity",
           "brief": "",
           "degree": "1",
           "dep_id": "101",
@@ -498,6 +554,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_A024": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_A026": {
           "通識跨院基本素養_通識跨院": {
             "course_category_cname": "通識跨院基本素養_通識跨院",
@@ -517,6 +582,15 @@
           }
         },
         "1101_A029": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_A030": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -632,6 +706,12 @@
             "brief": ""
           }
         },
+        "1101_A024": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_A026": {
           "A504": {
             "brief_code": "A504",
@@ -645,6 +725,12 @@
           }
         },
         "1101_A029": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_A030": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -718,6 +804,9 @@
         "1101_A022": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_A024": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_A026": {
           "授課語言代碼": "zh-tw"
         },
@@ -725,6 +814,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_A029": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_A030": {
           "授課語言代碼": "zh-tw"
         },
         "1101_A044": {
@@ -21606,6 +21698,90 @@
           "reg_num": "-999",
           "depType": "U"
         },
+        "1101_A578": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "A578",
+          "cos_code": "A4655  ",
+          "num_limit": "25",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "莊子導讀",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "王小滕",
+          "cos_time": "W12-YT103[YM]",
+          "memo": "限牙醫一，含中文習作，為維持教學品質，限制修課人數",
+          "cos_ename": "Zhuangzi",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "O02",
+          "dep_primary": "1",
+          "dep_cname": "人文與社會中心",
+          "dep_ename": "Department of Anatomy and Cell Biology",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "-999",
+          "depType": "U"
+        },
+        "1101_A580": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "A580",
+          "cos_code": "A4655  ",
+          "num_limit": "35",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "莊子導讀",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "王小滕",
+          "cos_time": "W78-YT103[YM]",
+          "memo": "限醫放一，含中文習作，為維持教學品質，限制修課人數",
+          "cos_ename": "Zhuangzi",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "O02",
+          "dep_primary": "1",
+          "dep_cname": "人文與社會中心",
+          "dep_ename": "Department of Anatomy and Cell Biology",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "-999",
+          "depType": "U"
+        },
+        "1101_A581": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "A581",
+          "cos_code": "A4655  ",
+          "num_limit": "33",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "莊子導讀",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "王小滕",
+          "cos_time": "F12-YT103[YM]",
+          "memo": "限醫學系一A，含中文習作，為維持教學品質，限制修課人數",
+          "cos_ename": "Zhuangzi",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "O02",
+          "dep_primary": "1",
+          "dep_cname": "人文與社會中心",
+          "dep_ename": "Department of Anatomy and Cell Biology",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "-999",
+          "depType": "U"
+        },
         "1101_A582": {
           "acy": "110",
           "sem": "1",
@@ -22448,6 +22624,54 @@
             "GECIEngName": ""
           }
         },
+        "1101_A578": {
+          "語言領域-中文(含寫作)_語言-中文": {
+            "course_category_cname": "語言領域-中文(含寫作)_語言-中文",
+            "course_category_ename": "Chinese Literature_Chinese Literature",
+            "course_category_type": "29",
+            "GECIName": "",
+            "GECIEngName": ""
+          },
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_A580": {
+          "語言領域-中文(含寫作)_語言-中文": {
+            "course_category_cname": "語言領域-中文(含寫作)_語言-中文",
+            "course_category_ename": "Chinese Literature_Chinese Literature",
+            "course_category_type": "29",
+            "GECIName": "",
+            "GECIEngName": ""
+          },
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_A581": {
+          "語言領域-中文(含寫作)_語言-中文": {
+            "course_category_cname": "語言領域-中文(含寫作)_語言-中文",
+            "course_category_ename": "Chinese Literature_Chinese Literature",
+            "course_category_type": "29",
+            "GECIName": "",
+            "GECIEngName": ""
+          },
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_A582": {
           "語言領域-中文(含寫作)_語言-中文": {
             "course_category_cname": "語言領域-中文(含寫作)_語言-中文",
@@ -22752,6 +22976,24 @@
             "brief": "核心-人文(106),語言-中文(90)"
           }
         },
+        "1101_A578": {
+          "A501,A901": {
+            "brief_code": "A501,A901",
+            "brief": "核心-人文(106),語言-中文(90)"
+          }
+        },
+        "1101_A580": {
+          "A501,A901": {
+            "brief_code": "A501,A901",
+            "brief": "核心-人文(106),語言-中文(90)"
+          }
+        },
+        "1101_A581": {
+          "A501,A901": {
+            "brief_code": "A501,A901",
+            "brief": "核心-人文(106),語言-中文(90)"
+          }
+        },
         "1101_A582": {
           "A501,A901": {
             "brief_code": "A501,A901",
@@ -22923,6 +23165,15 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_A577": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_A578": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_A580": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_A581": {
           "授課語言代碼": "zh-tw"
         },
         "1101_A582": {
@@ -58743,6 +58994,111 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_A835": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "BB44DE12-B6EA-4162-9B03-8A2799919088": {
+      "dep_id": "BB44DE12-B6EA-4162-9B03-8A2799919088",
+      "dep_cname": "環境與職業衛生研究所",
+      "dep_ename": "Institute of Environmental and Occupational Health Sciences",
+      "1": {
+        "1101_A988": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "A988",
+          "cos_code": "A6547  ",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "環境衛生學",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "陳美蓮、楊振昌、郭憲文、余國賓、紀凱獻、潘文驥、張榮偉、劉宗榮、王正雄",
+          "cos_time": "T12-YS105[YM]",
+          "memo": null,
+          "cos_ename": "Environmental Health",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "110",
+          "dep_primary": "1",
+          "dep_cname": "環境與職業衛生研究所",
+          "dep_ename": "Institute of Environmental and Occupational Health Sciences",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "-999",
+          "depType": "G"
+        },
+        "1101_B019": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "B019",
+          "cos_code": "B0427  ",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "職業衛生學",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "陳美蓮、毛義方、黃鈺芳",
+          "cos_time": "M12-YS107[YM]",
+          "memo": null,
+          "cos_ename": "Occupational Hygiene",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "110",
+          "dep_primary": "1",
+          "dep_cname": "環境與職業衛生研究所",
+          "dep_ename": "Institute of Environmental and Occupational Health Sciences",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "-999",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "1101_A988": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_B019": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1101_A988": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_B019": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1101_A988": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_B019": {
           "授課語言代碼": "zh-tw"
         }
       }

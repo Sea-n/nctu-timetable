@@ -945,6 +945,34 @@
       "dep_cname": "生物醫學工程學系",
       "dep_ename": "Department of Biomedical Imaging and Radiological Sciences ",
       "1": {
+        "1101_A439": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "A439",
+          "cos_code": "B0334  ",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "微積分(一)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "謝忠村",
+          "cos_time": "M234-YX501[YM]",
+          "memo": null,
+          "cos_ename": "CalculusⅠ",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "261",
+          "dep_primary": "1",
+          "dep_cname": "生物醫學工程學系",
+          "dep_ename": "Department of Biomedical Imaging and Radiological Sciences ",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_A442": {
           "acy": "110",
           "sem": "1",
@@ -975,6 +1003,15 @@
         }
       },
       "costype": {
+        "1101_A439": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_A442": {
           "": {
             "course_category_cname": "",
@@ -986,6 +1023,12 @@
         }
       },
       "brief": {
+        "1101_A439": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_A442": {
           "C184": {
             "brief_code": "C184",
@@ -994,6 +1037,9 @@
         }
       },
       "language": {
+        "1101_A439": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_A442": {
           "授課語言代碼": "zh-tw"
         }

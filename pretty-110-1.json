@@ -4231,7 +4231,7 @@
           "cos_hours": "3.00",
           "TURL": "",
           "teacher": "張玉佩",
-          "cos_time": "T567-",
+          "cos_time": "T567-HK104[LJ]",
           "memo": "",
           "cos_ename": "Writing for Communication",
           "brief": "",
@@ -4483,7 +4483,7 @@
           "cos_hours": "3.00",
           "TURL": "http://dct.nctu.edu.tw/page_faculty.php?id=53",
           "teacher": "蔡欣怡、俞蘋",
-          "cos_time": "T567-HK104[LJ]",
+          "cos_time": "T567-HK115",
           "memo": "",
           "cos_ename": "",
           "brief": "",
@@ -4892,6 +4892,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1634": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1634",
+          "cos_code": "DOH1009",
+          "num_limit": "60",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "設計概論",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "謝明勳",
+          "cos_time": "F34-HC103[KF]",
+          "memo": "",
+          "cos_ename": "Introduction to Design",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "4A1",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學院院本部",
+          "dep_ename": "College of Humanities and Social Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1635": {
           "acy": "110",
           "sem": "1",
@@ -4920,6 +4948,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1101_1636": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1636",
+          "cos_code": "DOH1016",
+          "num_limit": "30",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "科技藝術概論",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "曾鈺涓",
+          "cos_time": "R34-HC103[KF]",
+          "memo": "",
+          "cos_ename": "Introduction to Technology and Art",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "4A1",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學院院本部",
+          "dep_ename": "College of Humanities and Social Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1101_1638": {
           "acy": "110",
           "sem": "1",
@@ -4936,6 +4992,34 @@
           "cos_time": "W34-HC103[KF]",
           "memo": "限20人，開學後加簽選課(第1堂課需出席)，跨域學程學生優先。",
           "cos_ename": "Layout and Printing Design",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "4A1",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學院院本部",
+          "dep_ename": "College of Humanities and Social Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1101_1640": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1640",
+          "cos_code": "DOH1036",
+          "num_limit": "25",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "動漫文化與網路傳播",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "羅禾淋",
+          "cos_time": "M56-HC101[KF]",
+          "memo": "",
+          "cos_ename": "Anime(ACG or Otaku) Culture and Internet Communication",
           "brief": "",
           "degree": "1",
           "dep_id": "4A1",
@@ -5065,7 +5149,7 @@
           "sem": "1",
           "cos_id": "1647",
           "cos_code": "DOH1056",
-          "num_limit": "9999",
+          "num_limit": "50",
           "dep_limit": "N",
           "URL": null,
           "cos_cname": "數位影像創作",
@@ -5262,6 +5346,22 @@
             "GECIEngName": ""
           }
         },
+        "1101_1634": {
+          "核心通識-藝術與文化_核心通識-藝術與文化": {
+            "course_category_cname": "核心通識-藝術與文化_核心通識-藝術與文化",
+            "course_category_ename": "Art and Cultures_Art and Cultures",
+            "course_category_type": "36",
+            "GECIName": "",
+            "GECIEngName": ""
+          },
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1635": {
           "": {
             "course_category_cname": "",
@@ -5271,7 +5371,32 @@
             "GECIEngName": ""
           }
         },
+        "1101_1636": {
+          "核心通識-藝術與文化_核心通識-藝術與文化": {
+            "course_category_cname": "核心通識-藝術與文化_核心通識-藝術與文化",
+            "course_category_ename": "Art and Cultures_Art and Cultures",
+            "course_category_type": "36",
+            "GECIName": "電,資,工,理,管,生,客",
+            "GECIEngName": "ECE,CCS,COE,COS,COM,CBT,CHK"
+          },
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "電,資,工,理,管,生,客",
+            "GECIEngName": "ECE,CCS,COE,COS,COM,CBT,CHK"
+          }
+        },
         "1101_1638": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1640": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -5384,13 +5509,31 @@
             "brief": "文化/進階(96),校基本素養(106),博雅選修通識 (90)"
           }
         },
+        "1101_1634": {
+          "A201,A505,A908": {
+            "brief_code": "A201,A505,A908",
+            "brief": "文化/進階(96),校基本素養(106),核心通識-藝術與文化(90)"
+          }
+        },
         "1101_1635": {
           "": {
             "brief_code": "",
             "brief": ""
           }
         },
+        "1101_1636": {
+          "A201,A504,A908": {
+            "brief_code": "A201,A504,A908",
+            "brief": "文化/進階(96),跨院基本素養(106),核心通識-藝術與文化(90)"
+          }
+        },
         "1101_1638": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1640": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -5464,10 +5607,19 @@
         "1101_1633": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_1634": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1635": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_1636": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1638": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1640": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1641": {
@@ -20570,7 +20722,7 @@
           "sem": "1",
           "cos_id": "A524",
           "cos_code": "B2009  ",
-          "num_limit": "18",
+          "num_limit": "20",
           "dep_limit": "N",
           "URL": null,
           "cos_cname": "東亞近現代史",
@@ -21027,7 +21179,7 @@
           "TURL": "",
           "teacher": "",
           "cos_time": "R34-YT301[YM]",
-          "memo": "哲學與心靈領域，為維持教學品質，限制修課人數。初選、新生選課限：牙醫一、物輔一、物輔二、醫學二、醫工一、醫技一、醫技二、醫放一、護理二、光電奈米學程學生選修。",
+          "memo": "1.外國語文學系周昭廷教授授課。2.哲學與心靈領域，為維持教學品質，限制修課人數。初選、新生選課限：牙醫一、物輔一、物輔二、醫學二、醫工一、醫技一、醫技二、醫放一、護理二、光電奈米學程學生選修。",
           "cos_ename": "Language and Human Mind",
           "brief": "",
           "degree": "1",
@@ -25001,10 +25153,10 @@
           }
         },
         "1101_6351": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
             "GECIName": "",
             "GECIEngName": ""
           }
@@ -25442,9 +25594,9 @@
           }
         },
         "1101_6351": {
-          "": {
-            "brief_code": "",
-            "brief": ""
+          "A202,A505": {
+            "brief_code": "A202,A505",
+            "brief": "歷史/進階(96),校基本素養(106)"
           }
         },
         "1101_6352": {
@@ -44438,6 +44590,34 @@
           "reg_num": "0",
           "depType": "P"
         },
+        "1101_1634": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1634",
+          "cos_code": "DOH1009",
+          "num_limit": "60",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "設計概論",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "謝明勳",
+          "cos_time": "F34-HC103[KF]",
+          "memo": "",
+          "cos_ename": "Introduction to Design",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PCD",
+          "dep_primary": "1",
+          "dep_cname": "創新科技藝術學分學程",
+          "dep_ename": "Innovative Technology and Art Program",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
         "1101_1635": {
           "acy": "110",
           "sem": "1",
@@ -44466,6 +44646,34 @@
           "reg_num": "0",
           "depType": "P"
         },
+        "1101_1636": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1636",
+          "cos_code": "DOH1016",
+          "num_limit": "30",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "科技藝術概論",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "曾鈺涓",
+          "cos_time": "R34-HC103[KF]",
+          "memo": "",
+          "cos_ename": "Introduction to Technology and Art",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PCD",
+          "dep_primary": "1",
+          "dep_cname": "創新科技藝術學分學程",
+          "dep_ename": "Innovative Technology and Art Program",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
         "1101_1638": {
           "acy": "110",
           "sem": "1",
@@ -44482,6 +44690,34 @@
           "cos_time": "W34-HC103[KF]",
           "memo": "限20人，開學後加簽選課(第1堂課需出席)，跨域學程學生優先。",
           "cos_ename": "Layout and Printing Design",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PCD",
+          "dep_primary": "1",
+          "dep_cname": "創新科技藝術學分學程",
+          "dep_ename": "Innovative Technology and Art Program",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
+        "1101_1640": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1640",
+          "cos_code": "DOH1036",
+          "num_limit": "25",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "動漫文化與網路傳播",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "羅禾淋",
+          "cos_time": "M56-HC101[KF]",
+          "memo": "",
+          "cos_ename": "Anime(ACG or Otaku) Culture and Internet Communication",
           "brief": "",
           "degree": "1",
           "dep_id": "PCD",
@@ -44611,7 +44847,7 @@
           "sem": "1",
           "cos_id": "1647",
           "cos_code": "DOH1056",
-          "num_limit": "9999",
+          "num_limit": "50",
           "dep_limit": "N",
           "URL": null,
           "cos_cname": "數位影像創作",
@@ -44668,6 +44904,22 @@
             "GECIEngName": ""
           }
         },
+        "1101_1634": {
+          "核心通識-藝術與文化_核心通識-藝術與文化": {
+            "course_category_cname": "核心通識-藝術與文化_核心通識-藝術與文化",
+            "course_category_ename": "Art and Cultures_Art and Cultures",
+            "course_category_type": "36",
+            "GECIName": "",
+            "GECIEngName": ""
+          },
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1635": {
           "": {
             "course_category_cname": "",
@@ -44677,7 +44929,32 @@
             "GECIEngName": ""
           }
         },
+        "1101_1636": {
+          "核心通識-藝術與文化_核心通識-藝術與文化": {
+            "course_category_cname": "核心通識-藝術與文化_核心通識-藝術與文化",
+            "course_category_ename": "Art and Cultures_Art and Cultures",
+            "course_category_type": "36",
+            "GECIName": "電,資,工,理,管,生,客",
+            "GECIEngName": "ECE,CCS,COE,COS,COM,CBT,CHK"
+          },
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "電,資,工,理,管,生,客",
+            "GECIEngName": "ECE,CCS,COE,COS,COM,CBT,CHK"
+          }
+        },
         "1101_1638": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1640": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -44745,13 +45022,31 @@
             "brief": "文化/進階(96),校基本素養(106),博雅選修通識 (90)"
           }
         },
+        "1101_1634": {
+          "A201,A505,A908": {
+            "brief_code": "A201,A505,A908",
+            "brief": "文化/進階(96),校基本素養(106),核心通識-藝術與文化(90)"
+          }
+        },
         "1101_1635": {
           "": {
             "brief_code": "",
             "brief": ""
           }
         },
+        "1101_1636": {
+          "A201,A504,A908": {
+            "brief_code": "A201,A504,A908",
+            "brief": "文化/進階(96),跨院基本素養(106),核心通識-藝術與文化(90)"
+          }
+        },
         "1101_1638": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1640": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -44795,10 +45090,19 @@
         "1101_1633": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_1634": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1635": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_1636": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1638": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1640": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1641": {
@@ -46833,7 +47137,7 @@
           "cos_hours": "3.00",
           "TURL": "",
           "teacher": "陳詩欣",
-          "cos_time": "F567-A701[KF]",
+          "cos_time": "M567-",
           "memo": "管科／生科院／電資院輔開；加入VIP、Venture Lab、跨域、科管跨域學程 (通識、網路課程，限40人)；第一、第二階段選課限碩博、開學後開放大四以；上不列入電信所、電控所、電機所專業科目；不列入光電系碩士班應修17學分\r\n",
           "cos_ename": "Intellectual Property Management ",
           "brief": "",
@@ -46917,7 +47221,7 @@
           "cos_hours": "3.00",
           "TURL": "",
           "teacher": "陳詩欣",
-          "cos_time": "M567-A722[KF]",
+          "cos_time": "M34n-A722[KF]",
           "memo": "英文授課；科管所、GMBA合開；限科管所；科管跨域學程、VIP[English Medium Course]",
           "cos_ename": "Intellectual Property Management: Case Study and Practice",
           "brief": "",
@@ -47243,6 +47547,34 @@
           "reg_num": "0",
           "depType": "Q"
         },
+        "1101_1634": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1634",
+          "cos_code": "DOH1009",
+          "num_limit": "60",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "設計概論",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "謝明勳",
+          "cos_time": "F34-HC103[KF]",
+          "memo": "",
+          "cos_ename": "Introduction to Design",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QJZ",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學院跨領域設計與創新科技跨域學程",
+          "dep_ename": "College of Humanities and Social Sciences for Transdisciplinary Inn",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
         "1101_1635": {
           "acy": "110",
           "sem": "1",
@@ -47271,6 +47603,34 @@
           "reg_num": "0",
           "depType": "Q"
         },
+        "1101_1636": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1636",
+          "cos_code": "DOH1016",
+          "num_limit": "30",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "科技藝術概論",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "曾鈺涓",
+          "cos_time": "R34-HC103[KF]",
+          "memo": "",
+          "cos_ename": "Introduction to Technology and Art",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QJZ",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學院跨領域設計與創新科技跨域學程",
+          "dep_ename": "College of Humanities and Social Sciences for Transdisciplinary Inn",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
         "1101_1638": {
           "acy": "110",
           "sem": "1",
@@ -47287,6 +47647,34 @@
           "cos_time": "W34-HC103[KF]",
           "memo": "限20人，開學後加簽選課(第1堂課需出席)，跨域學程學生優先。",
           "cos_ename": "Layout and Printing Design",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QJZ",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學院跨領域設計與創新科技跨域學程",
+          "dep_ename": "College of Humanities and Social Sciences for Transdisciplinary Inn",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
+        "1101_1640": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1640",
+          "cos_code": "DOH1036",
+          "num_limit": "25",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "動漫文化與網路傳播",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "羅禾淋",
+          "cos_time": "M56-HC101[KF]",
+          "memo": "",
+          "cos_ename": "Anime(ACG or Otaku) Culture and Internet Communication",
           "brief": "",
           "degree": "1",
           "dep_id": "QJZ",
@@ -47416,7 +47804,7 @@
           "sem": "1",
           "cos_id": "1647",
           "cos_code": "DOH1056",
-          "num_limit": "9999",
+          "num_limit": "50",
           "dep_limit": "N",
           "URL": null,
           "cos_cname": "數位影像創作",
@@ -47529,6 +47917,22 @@
             "GECIEngName": ""
           }
         },
+        "1101_1634": {
+          "核心通識-藝術與文化_核心通識-藝術與文化": {
+            "course_category_cname": "核心通識-藝術與文化_核心通識-藝術與文化",
+            "course_category_ename": "Art and Cultures_Art and Cultures",
+            "course_category_type": "36",
+            "GECIName": "",
+            "GECIEngName": ""
+          },
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1635": {
           "": {
             "course_category_cname": "",
@@ -47538,7 +47942,32 @@
             "GECIEngName": ""
           }
         },
+        "1101_1636": {
+          "核心通識-藝術與文化_核心通識-藝術與文化": {
+            "course_category_cname": "核心通識-藝術與文化_核心通識-藝術與文化",
+            "course_category_ename": "Art and Cultures_Art and Cultures",
+            "course_category_type": "36",
+            "GECIName": "電,資,工,理,管,生,客",
+            "GECIEngName": "ECE,CCS,COE,COS,COM,CBT,CHK"
+          },
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "電,資,工,理,管,生,客",
+            "GECIEngName": "ECE,CCS,COE,COS,COM,CBT,CHK"
+          }
+        },
         "1101_1638": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1640": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -47624,13 +48053,31 @@
             "brief": "文化/進階(96),校基本素養(106),博雅選修通識 (90)"
           }
         },
+        "1101_1634": {
+          "A201,A505,A908": {
+            "brief_code": "A201,A505,A908",
+            "brief": "文化/進階(96),校基本素養(106),核心通識-藝術與文化(90)"
+          }
+        },
         "1101_1635": {
           "": {
             "brief_code": "",
             "brief": ""
           }
         },
+        "1101_1636": {
+          "A201,A504,A908": {
+            "brief_code": "A201,A504,A908",
+            "brief": "文化/進階(96),跨院基本素養(106),核心通識-藝術與文化(90)"
+          }
+        },
         "1101_1638": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1640": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -47686,10 +48133,19 @@
         "1101_1633": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_1634": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1635": {
           "授課語言代碼": "zh-tw"
         },
+        "1101_1636": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1638": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1640": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1641": {
@@ -48532,7 +48988,7 @@
           "cos_hours": "3.00",
           "TURL": "",
           "teacher": "陳詩欣",
-          "cos_time": "F567-A701[KF]",
+          "cos_time": "M567-",
           "memo": "管科／生科院／電資院輔開；加入VIP、Venture Lab、跨域、科管跨域學程 (通識、網路課程，限40人)；第一、第二階段選課限碩博、開學後開放大四以；上不列入電信所、電控所、電機所專業科目；不列入光電系碩士班應修17學分\r\n",
           "cos_ename": "Intellectual Property Management ",
           "brief": "",
@@ -48560,7 +49016,7 @@
           "cos_hours": "3.00",
           "TURL": "",
           "teacher": "陳詩欣",
-          "cos_time": "M567-A722[KF]",
+          "cos_time": "M34n-A722[KF]",
           "memo": "英文授課；科管所、GMBA合開；限科管所；科管跨域學程、VIP[English Medium Course]",
           "cos_ename": "Intellectual Property Management: Case Study and Practice",
           "brief": "",
@@ -49079,6 +49535,34 @@
       "dep_cname": "人文社會學院藝術與音樂跨域學程",
       "dep_ename": "College of Humanities and Social Sciences for Transdisciplinary Inn",
       "1": {
+        "1101_1636": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1636",
+          "cos_code": "DOH1016",
+          "num_limit": "30",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "科技藝術概論",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "曾鈺涓",
+          "cos_time": "R34-HC103[KF]",
+          "memo": "",
+          "cos_ename": "Introduction to Technology and Art",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QKS",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學院藝術與音樂跨域學程",
+          "dep_ename": "College of Humanities and Social Sciences for Transdisciplinary Inn",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
         "1101_1643": {
           "acy": "110",
           "sem": "1",
@@ -49112,7 +49596,7 @@
           "sem": "1",
           "cos_id": "1647",
           "cos_code": "DOH1056",
-          "num_limit": "9999",
+          "num_limit": "50",
           "dep_limit": "N",
           "URL": null,
           "cos_cname": "數位影像創作",
@@ -49305,6 +49789,22 @@
         }
       },
       "costype": {
+        "1101_1636": {
+          "核心通識-藝術與文化_核心通識-藝術與文化": {
+            "course_category_cname": "核心通識-藝術與文化_核心通識-藝術與文化",
+            "course_category_ename": "Art and Cultures_Art and Cultures",
+            "course_category_type": "36",
+            "GECIName": "電,資,工,理,管,生,客",
+            "GECIEngName": "ECE,CCS,COE,COS,COM,CBT,CHK"
+          },
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "電,資,工,理,管,生,客",
+            "GECIEngName": "ECE,CCS,COE,COS,COM,CBT,CHK"
+          }
+        },
         "1101_1643": {
           "": {
             "course_category_cname": "",
@@ -49386,6 +49886,12 @@
         }
       },
       "brief": {
+        "1101_1636": {
+          "A201,A504,A908": {
+            "brief_code": "A201,A504,A908",
+            "brief": "文化/進階(96),跨院基本素養(106),核心通識-藝術與文化(90)"
+          }
+        },
         "1101_1643": {
           "": {
             "brief_code": "",
@@ -49436,6 +49942,9 @@
         }
       },
       "language": {
+        "1101_1636": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1643": {
           "授課語言代碼": "zh-tw"
         },
@@ -57098,6 +57607,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_B090": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "B090",
+          "cos_code": "B2455  ",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "深度學習與自然語言處理",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "巫坤品",
+          "cos_time": "M12-YR319[YM]",
+          "memo": null,
+          "cos_ename": "Natural Language Processing by Deep Learning",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "112",
+          "dep_primary": "1",
+          "dep_cname": "生物醫學資訊研究所",
+          "dep_ename": "Institute of Biomedical Informatics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_B092": {
           "acy": "110",
           "sem": "1",
@@ -57164,6 +57701,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_B090": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_B092": {
           "": {
             "course_category_cname": "",
@@ -57199,6 +57745,12 @@
             "brief": ""
           }
         },
+        "1101_B090": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_B092": {
           "": {
             "brief_code": "",
@@ -57217,6 +57769,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_B083": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_B090": {
           "授課語言代碼": "zh-tw"
         },
         "1101_B092": {
@@ -60274,6 +60829,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5799": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5799",
+          "cos_code": "IED5092",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "數位學習導論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.ied.nctu.edu.tw/professor/cchou.htm",
+          "teacher": "周倩",
+          "cos_time": "T234-HA216[KF]",
+          "memo": "",
+          "cos_ename": "Foundations of E-learning",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "460",
+          "dep_primary": "1",
+          "dep_cname": "教育研究所",
+          "dep_ename": "Institute of Education",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5800": {
           "acy": "110",
           "sem": "1",
@@ -60358,6 +60941,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5810": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5810",
+          "cos_code": "IED5201",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "數位學習論文研討",
+          "cos_credit": "1.00",
+          "cos_hours": "1.00",
+          "TURL": "http://www.ied.nctu.edu.tw/professor/cchou.htm",
+          "teacher": "周倩",
+          "cos_time": "Wn-HA216[KF]",
+          "memo": "",
+          "cos_ename": "Seminar in E-learning",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "460",
+          "dep_primary": "1",
+          "dep_cname": "教育研究所",
+          "dep_ename": "Institute of Education",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5815": {
           "acy": "110",
           "sem": "1",
@@ -60434,6 +61045,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5799": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5800": {
           "": {
             "course_category_cname": "",
@@ -60453,6 +61073,15 @@
           }
         },
         "1101_5808": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5810": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -60493,6 +61122,12 @@
             "brief": ""
           }
         },
+        "1101_5799": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5800": {
           "": {
             "brief_code": "",
@@ -60506,6 +61141,12 @@
           }
         },
         "1101_5808": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5810": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -60531,6 +61172,9 @@
         "1101_5796": {
           "授課語言代碼": "en-us"
         },
+        "1101_5799": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_5800": {
           "授課語言代碼": "zh-tw"
         },
@@ -60538,6 +61182,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_5808": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5810": {
           "授課語言代碼": "zh-tw"
         },
         "1101_5815": {
@@ -66755,6 +67402,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5128": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5128",
+          "cos_code": "IIE5023",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "微奈米製作技術與感測器",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "許鉦宗",
+          "cos_time": "R567-EE209[KF]",
+          "memo": "",
+          "cos_ename": "Micro/Nano fabrications and Sensors    ",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "515",
+          "dep_primary": "1",
+          "dep_cname": "生醫工程研究所",
+          "dep_ename": "Institute of Biomedical Imaging and Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5129": {
           "acy": "110",
           "sem": "1",
@@ -66975,6 +67650,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5128": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5129": {
           "": {
             "course_category_cname": "",
@@ -67055,6 +67739,12 @@
             "brief": ""
           }
         },
+        "1101_5128": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5129": {
           "": {
             "brief_code": "",
@@ -67103,6 +67793,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_5127": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5128": {
           "授課語言代碼": "zh-tw"
         },
         "1101_5129": {
@@ -72762,6 +73455,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1101_5505": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5505",
+          "cos_code": "IMS5516",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "財務管理",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "蔡璧徽",
+          "cos_time": "F234-M205[KF]",
+          "memo": "開放大一到大四同學選修",
+          "cos_ename": "Financial Management",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "700",
+          "dep_primary": "1",
+          "dep_cname": "管理科學系",
+          "dep_ename": "Institute of Management Science",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1101_5510": {
           "acy": "110",
           "sem": "1",
@@ -72837,6 +73558,29 @@
             "GECIEngName": ""
           }
         },
+        "1101_5505": {
+          "核心通識-社會與經濟_核心通識-社會與經濟": {
+            "course_category_cname": "核心通識-社會與經濟_核心通識-社會與經濟",
+            "course_category_ename": "Society and Economy_Society and Economy",
+            "course_category_type": "33",
+            "GECIName": "電,資",
+            "GECIEngName": "ECE,CCS"
+          },
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "電,資",
+            "GECIEngName": "ECE,CCS"
+          },
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "電,資",
+            "GECIEngName": "ECE,CCS"
+          }
+        },
         "1101_5510": {
           "": {
             "course_category_cname": "",
@@ -72878,6 +73622,12 @@
             "brief": ""
           }
         },
+        "1101_5505": {
+          "A203,A504,A505,A905": {
+            "brief_code": "A203,A504,A505,A905",
+            "brief": "公民/進階(96),跨院基本素養(106),校基本素養(106),核心通識-社會與經濟(90)"
+          }
+        },
         "1101_5510": {
           "": {
             "brief_code": "",
@@ -72899,6 +73649,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_5503": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5505": {
           "授課語言代碼": "zh-tw"
         },
         "1101_5510": {
@@ -75287,7 +76040,7 @@
           "cos_hours": "3.00",
           "TURL": "",
           "teacher": "陳詩欣",
-          "cos_time": "F567-A701[KF]",
+          "cos_time": "M567-",
           "memo": "管科／生科院／電資院輔開；加入VIP、Venture Lab、跨域、科管跨域學程 (通識、網路課程，限40人)；第一、第二階段選課限碩博、開學後開放大四以；上不列入電信所、電控所、電機所專業科目；不列入光電系碩士班應修17學分\r\n",
           "cos_ename": "Intellectual Property Management ",
           "brief": "",
@@ -75315,7 +76068,7 @@
           "cos_hours": "3.00",
           "TURL": "",
           "teacher": "陳詩欣",
-          "cos_time": "M34n-A722[KF]",
+          "cos_time": "F567-A722[KF]",
           "memo": "限科管所學生；英語授課[English Medium Course]",
           "cos_ename": "Research in the Emergence of Emerging Technologies",
           "brief": "",
@@ -75483,7 +76236,7 @@
           "cos_hours": "3.00",
           "TURL": "",
           "teacher": "陳詩欣",
-          "cos_time": "M567-A722[KF]",
+          "cos_time": "M34n-A722[KF]",
           "memo": "英文授課；科管所、GMBA合開；限科管所；科管跨域學程、VIP[English Medium Course]",
           "cos_ename": "Intellectual Property Management: Case Study and Practice",
           "brief": "",

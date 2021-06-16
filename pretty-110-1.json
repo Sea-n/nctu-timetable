@@ -16011,6 +16011,34 @@
           "reg_num": "-999",
           "depType": "U"
         },
+        "1101_1279": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1279",
+          "cos_code": "DCV2103",
+          "num_limit": "45",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "工程數學(一)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://geo.cv.nctu.edu.tw",
+          "teacher": "林志平",
+          "cos_time": "T234-EB227[KF]",
+          "memo": "[English Medium Course]  跨校區課程",
+          "cos_ename": "Engineering Mathematics(I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "612",
+          "dep_primary": "1",
+          "dep_cname": "土木工程學系",
+          "dep_ename": "Department of Civil Engineering",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "-999",
+          "depType": "U"
+        },
         "1101_1284": {
           "acy": "110",
           "sem": "1",
@@ -16130,6 +16158,15 @@
             "GECIEngName": "ECE,CCS"
           }
         },
+        "1101_1279": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1284": {
           "": {
             "course_category_cname": "",
@@ -16186,6 +16223,12 @@
             "brief": "自然/進階(96),跨院基本素養(106),核心通識-社會與經濟(90)"
           }
         },
+        "1101_1279": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1284": {
           "": {
             "brief_code": "",
@@ -16217,6 +16260,9 @@
         },
         "1101_1278": {
           "授課語言代碼": "zh-tw"
+        },
+        "1101_1279": {
+          "授課語言代碼": "en-us"
         },
         "1101_1284": {
           "授課語言代碼": "zh-tw"
@@ -24298,6 +24344,34 @@
           "reg_num": "-999",
           "depType": "T"
         },
+        "1101_2839": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "2839",
+          "cos_code": "SET1055",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "工程數學(1)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://geo.cv.nctu.edu.tw",
+          "teacher": "林志平",
+          "cos_time": "T234-EB227[KF]",
+          "memo": "1.此課程林志平老師授課六周，其餘十二週由理工學院楊順欽老師授課。 2.六週與土木系合班上課。",
+          "cos_ename": "Engineering Mathematics(1)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "951",
+          "dep_primary": "1",
+          "dep_cname": "系統工程與科技學士學位學程",
+          "dep_ename": "Undergraduate Degree Program of System Engineering and Technology",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "-999",
+          "depType": "T"
+        },
         "1101_2957": {
           "acy": "110",
           "sem": "1",
@@ -24994,6 +25068,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_2839": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_2957": {
           "": {
             "course_category_cname": "",
@@ -25449,6 +25532,12 @@
             "brief": ""
           }
         },
+        "1101_2839": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_2957": {
           "": {
             "brief_code": "",
@@ -25677,6 +25766,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_2787": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_2839": {
           "授課語言代碼": "zh-tw"
         },
         "1101_2957": {
@@ -51055,6 +51147,34 @@
           "reg_num": "-999",
           "depType": "P"
         },
+        "1101_5275": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5275",
+          "cos_code": "IOE5047",
+          "num_limit": "40",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "排隊理論(英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "李奇育",
+          "cos_time": "T56R2-ED302[KF]",
+          "memo": "本院學生優先；博士班資格考考核科目；請依各所入學年度之修業要點選課；英文授課[English Medium Course]",
+          "cos_ename": "Queuing Theory",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAN",
+          "dep_primary": "1",
+          "dep_cname": "電機資訊英語授課學分學程",
+          "dep_ename": "Electrical Engineering and Computer Science-International Program",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "-999",
+          "depType": "P"
+        },
         "1101_5276": {
           "acy": "110",
           "sem": "1",
@@ -51714,6 +51834,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5275": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5276": {
           "博雅選修通識_博雅選修通識": {
             "course_category_cname": "博雅選修通識_博雅選修通識",
@@ -52074,6 +52203,12 @@
             "brief": ""
           }
         },
+        "1101_5275": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5276": {
           "A205,A504,A909": {
             "brief_code": "A205,A504,A909",
@@ -52263,6 +52398,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_5268": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_5275": {
           "授課語言代碼": "en-us"
         },
         "1101_5276": {
@@ -62921,6 +63059,34 @@
           "reg_num": "-999",
           "depType": "Q"
         },
+        "1101_5294": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5294",
+          "cos_code": "IDS5005",
+          "num_limit": "80",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "巨量資料分析技術與應用",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "曾新穆",
+          "cos_time": "W34n-EC115[KF]",
+          "memo": "本院學生優先",
+          "cos_ename": "Big Data Analytics Techniques and Applications",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QLK",
+          "dep_primary": "1",
+          "dep_cname": "人工智慧跨域學程-工程與科學組",
+          "dep_ename": "Artificial Intelligence-Engineering and Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "-999",
+          "depType": "Q"
+        },
         "1101_5295": {
           "acy": "110",
           "sem": "1",
@@ -63281,6 +63447,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5294": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5295": {
           "": {
             "course_category_cname": "",
@@ -63460,6 +63635,12 @@
             "brief": ""
           }
         },
+        "1101_5294": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5295": {
           "": {
             "brief_code": "",
@@ -63553,6 +63734,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_5288": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5294": {
           "授課語言代碼": "zh-tw"
         },
         "1101_5295": {
@@ -64467,6 +64651,34 @@
           "reg_num": "-999",
           "depType": "Q"
         },
+        "1101_5294": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5294",
+          "cos_code": "IDS5005",
+          "num_limit": "80",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "巨量資料分析技術與應用",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "曾新穆",
+          "cos_time": "W34n-EC115[KF]",
+          "memo": "本院學生優先",
+          "cos_ename": "Big Data Analytics Techniques and Applications",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QLL",
+          "dep_primary": "1",
+          "dep_cname": "人工智慧跨域學程-管理組",
+          "dep_ename": "Artificial Intelligence-Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "-999",
+          "depType": "Q"
+        },
         "1101_5459": {
           "acy": "110",
           "sem": "1",
@@ -65051,6 +65263,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5294": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5459": {
           "": {
             "course_category_cname": "",
@@ -65308,6 +65529,12 @@
             "brief": ""
           }
         },
+        "1101_5294": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5459": {
           "": {
             "brief_code": "",
@@ -65446,6 +65673,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_5251": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5294": {
           "授課語言代碼": "zh-tw"
         },
         "1101_5459": {
@@ -66708,6 +66938,34 @@
           "reg_num": "-999",
           "depType": "Q"
         },
+        "1101_5294": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5294",
+          "cos_code": "IDS5005",
+          "num_limit": "80",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "巨量資料分析技術與應用",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "曾新穆",
+          "cos_time": "W34n-EC115[KF]",
+          "memo": "本院學生優先",
+          "cos_ename": "Big Data Analytics Techniques and Applications",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QLM",
+          "dep_primary": "1",
+          "dep_cname": "人工智慧跨域學程-生醫組",
+          "dep_ename": "Artificial Intelligence-Biomedicine",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "-999",
+          "depType": "Q"
+        },
         "1101_5295": {
           "acy": "110",
           "sem": "1",
@@ -67330,6 +67588,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5294": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5295": {
           "": {
             "course_category_cname": "",
@@ -67632,6 +67899,12 @@
             "brief": ""
           }
         },
+        "1101_5294": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5295": {
           "": {
             "brief_code": "",
@@ -67789,6 +68062,9 @@
         },
         "1101_5286": {
           "授課語言代碼": "en-us"
+        },
+        "1101_5294": {
+          "授課語言代碼": "zh-tw"
         },
         "1101_5295": {
           "授課語言代碼": "en-us"
@@ -85578,6 +85854,34 @@
           "reg_num": "-999",
           "depType": "G"
         },
+        "1101_5275": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5275",
+          "cos_code": "IOE5047",
+          "num_limit": "40",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "排隊理論(英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "李奇育",
+          "cos_time": "T56R2-ED302[KF]",
+          "memo": "本院學生優先；博士班資格考考核科目；請依各所入學年度之修業要點選課；英文授課[English Medium Course]",
+          "cos_ename": "Queuing Theory",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "552",
+          "dep_primary": "1",
+          "dep_cname": "網路工程研究所",
+          "dep_ename": "Institute of Network Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "-999",
+          "depType": "G"
+        },
         "1101_5276": {
           "acy": "110",
           "sem": "1",
@@ -85700,6 +86004,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5275": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5276": {
           "博雅選修通識_博雅選修通識": {
             "course_category_cname": "博雅選修通識_博雅選修通識",
@@ -85760,6 +86073,12 @@
             "brief": ""
           }
         },
+        "1101_5275": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5276": {
           "A205,A504,A909": {
             "brief_code": "A205,A504,A909",
@@ -85791,6 +86110,9 @@
         },
         "1101_5274": {
           "授課語言代碼": "zh-tw"
+        },
+        "1101_5275": {
+          "授課語言代碼": "en-us"
         },
         "1101_5276": {
           "授課語言代碼": "en-us"
@@ -86185,6 +86507,62 @@
           "reg_num": "-999",
           "depType": "G"
         },
+        "1101_5292": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5292",
+          "cos_code": "IDS5002",
+          "num_limit": "96",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "數據科學系列演講",
+          "cos_credit": ".00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "曾新穆",
+          "cos_time": "W78-EC115[KF]",
+          "memo": "數據科學與工程研究所必修",
+          "cos_ename": "Data Science Seminar",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "554",
+          "dep_primary": "1",
+          "dep_cname": "數據科學與工程研究所碩士班",
+          "dep_ename": "Institute of Data Science and Engineering",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "-999",
+          "depType": "G"
+        },
+        "1101_5294": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5294",
+          "cos_code": "IDS5005",
+          "num_limit": "80",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "巨量資料分析技術與應用",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "曾新穆",
+          "cos_time": "W34n-EC115[KF]",
+          "memo": "本院學生優先",
+          "cos_ename": "Big Data Analytics Techniques and Applications",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "554",
+          "dep_primary": "1",
+          "dep_cname": "數據科學與工程研究所碩士班",
+          "dep_ename": "Institute of Data Science and Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "-999",
+          "depType": "G"
+        },
         "1101_5295": {
           "acy": "110",
           "sem": "1",
@@ -86252,6 +86630,24 @@
             "GECIEngName": ""
           }
         },
+        "1101_5292": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_5294": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5295": {
           "": {
             "course_category_cname": "",
@@ -86278,6 +86674,18 @@
             "brief": ""
           }
         },
+        "1101_5292": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_5294": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5295": {
           "": {
             "brief_code": "",
@@ -86293,6 +86701,12 @@
       },
       "language": {
         "1101_5291": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5292": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5294": {
           "授課語言代碼": "zh-tw"
         },
         "1101_5295": {
@@ -88064,6 +88478,34 @@
           "reg_num": "-999",
           "depType": "G"
         },
+        "1101_5356": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5356",
+          "cos_code": "ICV5414",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "地物探測與資料分析",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://geo.cv.nctu.edu.tw",
+          "teacher": "林志平",
+          "cos_time": "M567-EB404[KF]",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Geophysical Exploration and Data Analysis",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "612",
+          "dep_primary": "1",
+          "dep_cname": "土木工程學系",
+          "dep_ename": "Institute of Civil Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "-999",
+          "depType": "G"
+        },
         "1101_5362": {
           "acy": "110",
           "sem": "1",
@@ -88215,6 +88657,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5356": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5362": {
           "": {
             "course_category_cname": "",
@@ -88268,6 +88719,12 @@
             "brief": ""
           }
         },
+        "1101_5356": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5362": {
           "": {
             "brief_code": "",
@@ -88302,6 +88759,9 @@
       "language": {
         "1101_5348": {
           "授課語言代碼": "zh-tw"
+        },
+        "1101_5356": {
+          "授課語言代碼": "en-us"
         },
         "1101_5362": {
           "授課語言代碼": "en-us"
@@ -100509,10 +100969,47 @@
           "crsoutline_type": "data",
           "reg_num": "-999",
           "depType": "M"
+        },
+        "1101_4002": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "4002",
+          "cos_code": "IPP5003",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "專題研討",
+          "cos_credit": ".00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "李柏璁",
+          "cos_time": "",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Seminar",
+          "brief": "",
+          "degree": "4",
+          "dep_id": "503",
+          "dep_primary": "1",
+          "dep_cname": "光電博士學位學程",
+          "dep_ename": "International Ph.D. Program in Photonics (UST)",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "-999",
+          "depType": "M"
         }
       },
       "costype": {
         "1101_4001": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_4002": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -100528,10 +101025,19 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_4002": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
         "1101_4001": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_4002": {
           "授課語言代碼": "en-us"
         }
       }
@@ -102327,6 +102833,34 @@
       "dep_cname": "國防資安管理碩士在職專班",
       "dep_ename": "Degree Program of Cybersecurity Management\r\n",
       "1": {
+        "1101_5297": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5297",
+          "cos_code": "PCM5001",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "電腦安全概論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "李奇育",
+          "cos_time": "Rabc-TD",
+          "memo": "限資訊學院國防資安管理碩士在職專班學生選修；上課地點：台北校區第一演講廳",
+          "cos_ename": "Computer Security",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "558",
+          "dep_primary": "1",
+          "dep_cname": "國防資安管理碩士在職專班",
+          "dep_ename": "Degree Program of Cybersecurity Management\r\n",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "-999",
+          "depType": "J"
+        },
         "1101_5298": {
           "acy": "110",
           "sem": "1",
@@ -102385,6 +102919,15 @@
         }
       },
       "costype": {
+        "1101_5297": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5298": {
           "": {
             "course_category_cname": "",
@@ -102405,6 +102948,12 @@
         }
       },
       "brief": {
+        "1101_5297": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5298": {
           "": {
             "brief_code": "",
@@ -102419,6 +102968,9 @@
         }
       },
       "language": {
+        "1101_5297": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_5298": {
           "授課語言代碼": "zh-tw"
         },

@@ -5571,6 +5571,34 @@
       "dep_cname": "傳播與科技學系",
       "dep_ename": "Department of Communication and Technology",
       "1": {
+        "1101_1692": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1692",
+          "cos_code": "DCT1015",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "服務學習(一)",
+          "cos_credit": "1.00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "魏玓、戴瑜慧",
+          "cos_time": "T8-HK104[LJ]",
+          "memo": "",
+          "cos_ename": "Service Learning I",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "483",
+          "dep_primary": "1",
+          "dep_cname": "傳播與科技學系",
+          "dep_ename": "Department of Communication and Technology",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "-999",
+          "depType": "U"
+        },
         "1101_1694": {
           "acy": "110",
           "sem": "1",
@@ -5965,6 +5993,15 @@
         }
       },
       "costype": {
+        "1101_1692": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1694": {
           "通識核心課程_通識核心": {
             "course_category_cname": "通識核心課程_通識核心",
@@ -6128,6 +6165,12 @@
         }
       },
       "brief": {
+        "1101_1692": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1694": {
           "A503": {
             "brief_code": "A503",
@@ -6214,6 +6257,9 @@
         }
       },
       "language": {
+        "1101_1692": {
+          "授課語言代碼": "zh-tw"
+        },
         "1101_1694": {
           "授課語言代碼": "zh-tw"
         },

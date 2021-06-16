@@ -12501,6 +12501,34 @@
           "reg_num": "-999",
           "depType": "U"
         },
+        "1101_1166": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1166",
+          "cos_code": "DCP3115",
+          "num_limit": "218",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "資訊工程研討",
+          "cos_credit": ".00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "莊榮宏",
+          "cos_time": "M56-AB101[KF]",
+          "memo": "資工系與電資學士班學生優先選課",
+          "cos_ename": "Computer Science Seminars",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "550",
+          "dep_primary": "1",
+          "dep_cname": "資訊工程學系",
+          "dep_ename": "Department of Computer Science",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "-999",
+          "depType": "U"
+        },
         "1101_1167": {
           "acy": "110",
           "sem": "1",
@@ -12818,6 +12846,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1166": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1167": {
           "": {
             "course_category_cname": "",
@@ -12958,6 +12995,12 @@
             "brief": ""
           }
         },
+        "1101_1166": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1167": {
           "": {
             "brief_code": "",
@@ -13037,6 +13080,9 @@
         },
         "1101_1165": {
           "授課語言代碼": "en-us"
+        },
+        "1101_1166": {
+          "授課語言代碼": "zh-tw"
         },
         "1101_1167": {
           "授課語言代碼": "en-us"
@@ -63252,6 +63298,34 @@
           "reg_num": "-999",
           "depType": "Q"
         },
+        "1101_1181": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1181",
+          "cos_code": "DCP1234",
+          "num_limit": "45",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "線性代數(英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "https://sites.google.com/view/wei-cecnl",
+          "teacher": "魏群樹",
+          "cos_time": "W34F7-ED302[KF]",
+          "memo": "一年級必修僅開學才開放選課；外系生請於開學上網加選；資工系與電資學士班學生優先選課；資訊共同； 英文授課[English Medium Course]",
+          "cos_ename": "Linear Algebra",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QLK",
+          "dep_primary": "1",
+          "dep_cname": "人工智慧跨域學程-工程與科學組",
+          "dep_ename": "Artificial Intelligence-Engineering and Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "-999",
+          "depType": "Q"
+        },
         "1101_1182": {
           "acy": "110",
           "sem": "1",
@@ -63830,6 +63904,15 @@
             "GECIEngName": "COE,COS,COM,CBT"
           }
         },
+        "1101_1181": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1182": {
           "": {
             "course_category_cname": "",
@@ -64048,6 +64131,12 @@
             "brief": "自然/進階(96),跨院基本素養(106)"
           }
         },
+        "1101_1181": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1182": {
           "": {
             "brief_code": "",
@@ -64177,6 +64266,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_1180": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_1181": {
           "授課語言代碼": "en-us"
         },
         "1101_1182": {
@@ -64580,6 +64672,34 @@
           "cos_time": "T34R7-EC016[KF]",
           "memo": "外系生請於開學上網加選；資訊共同；需修過『資料結構與物件導向程式設計』才可修『演算法概論』；Pass the “Data Structures and Object-oriented Programming” before taking “Intro. to Algorithms” 英文授課[English Medium Course]",
           "cos_ename": "Introduction to Algorithms",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QLL",
+          "dep_primary": "1",
+          "dep_cname": "人工智慧跨域學程-管理組",
+          "dep_ename": "Artificial Intelligence-Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "-999",
+          "depType": "Q"
+        },
+        "1101_1181": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1181",
+          "cos_code": "DCP1234",
+          "num_limit": "45",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "線性代數(英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "https://sites.google.com/view/wei-cecnl",
+          "teacher": "魏群樹",
+          "cos_time": "W34F7-ED302[KF]",
+          "memo": "一年級必修僅開學才開放選課；外系生請於開學上網加選；資工系與電資學士班學生優先選課；資訊共同； 英文授課[English Medium Course]",
+          "cos_ename": "Linear Algebra",
           "brief": "",
           "degree": "1",
           "dep_id": "QLL",
@@ -65593,6 +65713,15 @@
             "GECIEngName": "COE,COS,COM,CBT"
           }
         },
+        "1101_1181": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1182": {
           "": {
             "course_category_cname": "",
@@ -65925,6 +66054,12 @@
             "brief": "自然/進階(96),跨院基本素養(106)"
           }
         },
+        "1101_1181": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1182": {
           "": {
             "brief_code": "",
@@ -66132,6 +66267,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_1180": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_1181": {
           "授課語言代碼": "en-us"
         },
         "1101_1182": {
@@ -66829,6 +66967,34 @@
           "cos_time": "T34R7-EC016[KF]",
           "memo": "外系生請於開學上網加選；資訊共同；需修過『資料結構與物件導向程式設計』才可修『演算法概論』；Pass the “Data Structures and Object-oriented Programming” before taking “Intro. to Algorithms” 英文授課[English Medium Course]",
           "cos_ename": "Introduction to Algorithms",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QLM",
+          "dep_primary": "1",
+          "dep_cname": "人工智慧跨域學程-生醫組",
+          "dep_ename": "Artificial Intelligence-Biomedicine",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "-999",
+          "depType": "Q"
+        },
+        "1101_1181": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1181",
+          "cos_code": "DCP1234",
+          "num_limit": "45",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "線性代數(英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "https://sites.google.com/view/wei-cecnl",
+          "teacher": "魏群樹",
+          "cos_time": "W34F7-ED302[KF]",
+          "memo": "一年級必修僅開學才開放選課；外系生請於開學上網加選；資工系與電資學士班學生優先選課；資訊共同； 英文授課[English Medium Course]",
+          "cos_ename": "Linear Algebra",
           "brief": "",
           "degree": "1",
           "dep_id": "QLM",
@@ -67930,6 +68096,15 @@
             "GECIEngName": "COE,COS,COM,CBT"
           }
         },
+        "1101_1181": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1182": {
           "": {
             "course_category_cname": "",
@@ -68323,6 +68498,12 @@
             "brief": "自然/進階(96),跨院基本素養(106)"
           }
         },
+        "1101_1181": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1182": {
           "": {
             "brief_code": "",
@@ -68557,6 +68738,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_1180": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_1181": {
           "授課語言代碼": "en-us"
         },
         "1101_1182": {
@@ -109885,6 +110069,34 @@
           "reg_num": "-999",
           "depType": "U"
         },
+        "1101_1181": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1181",
+          "cos_code": "DCP1234",
+          "num_limit": "45",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "線性代數(英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "https://sites.google.com/view/wei-cecnl",
+          "teacher": "魏群樹",
+          "cos_time": "W34F7-ED302[KF]",
+          "memo": "一年級必修僅開學才開放選課；外系生請於開學上網加選；資工系與電資學士班學生優先選課；資訊共同； 英文授課[English Medium Course]",
+          "cos_ename": "Linear Algebra",
+          "brief": "",
+          "degree": "A",
+          "dep_id": "5C1",
+          "dep_primary": "1",
+          "dep_cname": "資訊學院共同課程",
+          "dep_ename": "College of Computer Science",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "-999",
+          "depType": "U"
+        },
         "1101_1182": {
           "acy": "110",
           "sem": "1",
@@ -110225,6 +110437,15 @@
             "GECIEngName": "COE,COS,COM,CBT"
           }
         },
+        "1101_1181": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1182": {
           "": {
             "course_category_cname": "",
@@ -110356,6 +110577,12 @@
             "brief": "自然/進階(96),跨院基本素養(106)"
           }
         },
+        "1101_1181": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1182": {
           "": {
             "brief_code": "",
@@ -110434,6 +110661,9 @@
           "授課語言代碼": "en-us"
         },
         "1101_1180": {
+          "授課語言代碼": "en-us"
+        },
+        "1101_1181": {
           "授課語言代碼": "en-us"
         },
         "1101_1182": {

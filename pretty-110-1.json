@@ -1054,7 +1054,7 @@
           "cos_credit": "3.00",
           "cos_hours": "3.00",
           "TURL": "",
-          "teacher": "侯宜菁、吳筱盈、邱愛富、廖媛美、童恒新、陳俞琪、胡慧蘭、黃淑鶴、楊曼華、童惠芳",
+          "teacher": "侯宜菁、吳筱盈、邱愛富、廖媛美、童恒新、陳俞琪、胡慧蘭、黃淑鶴、楊曼華、童惠芳、張嘉琪",
           "cos_time": "M12345678T12345678W12345678-YN416[YM]",
           "memo": null,
           "cos_ename": "Adult Nursing Ⅱ",
@@ -5851,6 +5851,34 @@
           "reg_num": "-999",
           "depType": "U"
         },
+        "1101_1708": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1708",
+          "cos_code": "DCT3113",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "說故事與敘事方法",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "魏玓",
+          "cos_time": "T234-HK104[LJ]",
+          "memo": "",
+          "cos_ename": "Storytelling and Narrative",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "483",
+          "dep_primary": "1",
+          "dep_cname": "傳播與科技學系",
+          "dep_ename": "Department of Communication and Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "-999",
+          "depType": "U"
+        },
         "1101_1709": {
           "acy": "110",
           "sem": "1",
@@ -6062,6 +6090,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1708": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1709": {
           "": {
             "course_category_cname": "",
@@ -6151,6 +6188,12 @@
             "brief": ""
           }
         },
+        "1101_1708": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1709": {
           "": {
             "brief_code": "",
@@ -6199,6 +6242,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1707": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1708": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1709": {
@@ -16407,6 +16453,62 @@
           "reg_num": "-999",
           "depType": "U"
         },
+        "1101_1307": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1307",
+          "cos_code": "DMA1141",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "計算機概論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "鄒年棣",
+          "cos_time": "T6R78-",
+          "memo": "",
+          "cos_ename": "Introduction to Computer Science",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "613",
+          "dep_primary": "1",
+          "dep_cname": "材料科學與工程學系",
+          "dep_ename": "Department of Materials Science and Engineering",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "-999",
+          "depType": "U"
+        },
+        "1101_1308": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1308",
+          "cos_code": "DMA1307",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "服務學習 (二)",
+          "cos_credit": ".00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "鄒年棣",
+          "cos_time": "F78-",
+          "memo": "限材料系選修",
+          "cos_ename": "Service Learning II",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "613",
+          "dep_primary": "1",
+          "dep_cname": "材料科學與工程學系",
+          "dep_ename": "Department of Materials Science and Engineering",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "-999",
+          "depType": "U"
+        },
         "1101_1309": {
           "acy": "110",
           "sem": "1",
@@ -16604,6 +16706,24 @@
             "GECIEngName": ""
           }
         },
+        "1101_1307": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1101_1308": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1309": {
           "": {
             "course_category_cname": "",
@@ -16678,6 +16798,18 @@
             "brief": "自然/進階(96),校基本素養(106)"
           }
         },
+        "1101_1307": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1101_1308": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1309": {
           "": {
             "brief_code": "",
@@ -16723,6 +16855,12 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1303": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1307": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1308": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1309": {
@@ -64594,6 +64732,34 @@
           "reg_num": "-999",
           "depType": "Q"
         },
+        "1101_1307": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1307",
+          "cos_code": "DMA1141",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "計算機概論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "鄒年棣",
+          "cos_time": "T6R78-",
+          "memo": "",
+          "cos_ename": "Introduction to Computer Science",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QLL",
+          "dep_primary": "1",
+          "dep_cname": "人工智慧跨域學程-管理組",
+          "dep_ename": "Artificial Intelligence-Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "-999",
+          "depType": "Q"
+        },
         "1101_1469": {
           "acy": "110",
           "sem": "1",
@@ -65472,6 +65638,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1307": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1469": {
           "": {
             "course_category_cname": "",
@@ -65780,6 +65955,12 @@
             "brief": ""
           }
         },
+        "1101_1307": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1469": {
           "": {
             "brief_code": "",
@@ -65966,6 +66147,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1224": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1307": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1469": {
@@ -66783,6 +66967,34 @@
           "TURL": "",
           "teacher": "邵雲龍",
           "cos_time": "Tabc-EE527",
+          "memo": "",
+          "cos_ename": "Introduction to Computer Science",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QLM",
+          "dep_primary": "1",
+          "dep_cname": "人工智慧跨域學程-生醫組",
+          "dep_ename": "Artificial Intelligence-Biomedicine",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "-999",
+          "depType": "Q"
+        },
+        "1101_1307": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "1307",
+          "cos_code": "DMA1141",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "計算機概論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "鄒年棣",
+          "cos_time": "T6R78-",
           "memo": "",
           "cos_ename": "Introduction to Computer Science",
           "brief": "",
@@ -67763,6 +67975,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_1307": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_1504": {
           "": {
             "course_category_cname": "",
@@ -68132,6 +68353,12 @@
             "brief": ""
           }
         },
+        "1101_1307": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_1504": {
           "": {
             "brief_code": "",
@@ -68345,6 +68572,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_1224": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_1307": {
           "授課語言代碼": "zh-tw"
         },
         "1101_1504": {
@@ -79489,6 +79719,34 @@
           "crsoutline_type": "data",
           "reg_num": "-999",
           "depType": "G"
+        },
+        "1101_5958": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5958",
+          "cos_code": "ICH5124",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "傳播政治經濟學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "魏玓",
+          "cos_time": "R567-HK206[LJ]",
+          "memo": "",
+          "cos_ename": "",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "483",
+          "dep_primary": "1",
+          "dep_cname": "傳播與科技學系",
+          "dep_ename": "Department of Communication and Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "-999",
+          "depType": "G"
         }
       },
       "costype": {
@@ -79545,6 +79803,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1101_5958": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -79583,6 +79850,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1101_5958": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -79602,6 +79875,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1101_5957": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1101_5958": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -89250,6 +89526,34 @@
           "reg_num": "-999",
           "depType": "G"
         },
+        "1101_5381": {
+          "acy": "110",
+          "sem": "1",
+          "cos_id": "5381",
+          "cos_code": "IMA5540",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "固態熱力學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "鄒年棣",
+          "cos_time": "W234-EF201[KF]",
+          "memo": "1.限材料系、奈米所、加速器學程材料組、國際半導體學院加選2.外系及外校請用書面加選[English Medium Course]",
+          "cos_ename": "Thermodymanics of Solid",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "613",
+          "dep_primary": "1",
+          "dep_cname": "材料科學與工程學系",
+          "dep_ename": "Institute of Materials Science and Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "-999",
+          "depType": "G"
+        },
         "1101_5382": {
           "acy": "110",
           "sem": "1",
@@ -89363,6 +89667,15 @@
             "GECIEngName": ""
           }
         },
+        "1101_5381": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1101_5382": {
           "": {
             "course_category_cname": "",
@@ -89410,6 +89723,12 @@
             "brief": ""
           }
         },
+        "1101_5381": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1101_5382": {
           "": {
             "brief_code": "",
@@ -89438,6 +89757,9 @@
         },
         "1101_5380": {
           "授課語言代碼": "zh-tw"
+        },
+        "1101_5381": {
+          "授課語言代碼": "en-us"
         },
         "1101_5382": {
           "授課語言代碼": "zh-tw"

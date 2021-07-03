@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-cd `dirname $0`
+cd "$(dirname "$0")" || exit 1
 
 from=${1:-109}
 to=${2:-110}
@@ -26,6 +26,8 @@ for y in `seq $from $to`; do
 			-d 'm_crsname= ' \
 			> raw-name-$y-$t.json
 
+			sleep 3
+
 			curl -s 'https://timetable.nycu.edu.tw/?r=main/get_cos_list' \
 			-d "m_acy=$y" \
 			-d "m_sem=$t" \
@@ -44,6 +46,8 @@ for y in `seq $from $to`; do
 			-d 'm_crsname=**' \
 			-d 'm_crsoutline= ' \
 			> raw-outline-$y-$t.json
+
+			sleep 3
 
 			if [ `wc -c < raw-name-$y-$t.json` -gt 1234 ]; then
 				if [ `wc -c < raw-outline-$y-$t.json` -gt 1234 ]; then

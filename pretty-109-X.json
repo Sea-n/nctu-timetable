@@ -30,7 +30,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "82",
           "depType": "U"
         }
       },
@@ -64,22 +64,22 @@
       "dep_cname": "資訊工程學系",
       "dep_ename": "Department of Computer Science",
       "1": {
-        "109X_1012": {
+        "109X_1013": {
           "acy": "109",
           "sem": "X",
-          "cos_id": "1012",
-          "cos_code": "DCP1160",
-          "num_limit": "9999",
+          "cos_id": "1013",
+          "cos_code": "DCP2354",
+          "num_limit": "70",
           "dep_limit": "N",
           "URL": null,
-          "cos_cname": "基礎程式設計",
-          "cos_credit": ".00",
-          "cos_hours": "1.00",
-          "TURL": "",
-          "teacher": "吳凱強、洪瑞鴻",
-          "cos_time": "",
-          "memo": "日期:7月5日-8月9日,星期一12:30-17:00,本課程及格條件為通過『程式能力鑑定』,第一週課程將簡介程式能力鑑定考試的流程及規定,考試時間則將另行公布;課程為資工系二年級必修課,建議有一定程式能力者再選修.限大學部.",
-          "cos_ename": "Basic Programming",
+          "cos_cname": "線性代數",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "https://people.cs.nctu.edu.tw/~yi/",
+          "teacher": "易志偉",
+          "cos_time": "M567T567W567-EC122[KF]",
+          "memo": "日期:7月5日-8月11日,資工系優先.",
+          "cos_ename": "Linear Algebra",
           "brief": "",
           "degree": "1",
           "dep_id": "550",
@@ -89,7 +89,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "69",
           "depType": "U"
         },
         "109X_1014": {
@@ -97,7 +97,7 @@
           "sem": "X",
           "cos_id": "1014",
           "cos_code": "DCP3362",
-          "num_limit": "50",
+          "num_limit": "70",
           "dep_limit": "N",
           "URL": null,
           "cos_cname": "計算機組織",
@@ -117,7 +117,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "69",
           "depType": "U"
         },
         "109X_1015": {
@@ -125,7 +125,7 @@
           "sem": "X",
           "cos_id": "1015",
           "cos_code": "DCP1242",
-          "num_limit": "70",
+          "num_limit": "80",
           "dep_limit": "N",
           "URL": null,
           "cos_cname": "資料結構與物件導向程式設計",
@@ -145,12 +145,12 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "83",
           "depType": "U"
         }
       },
       "costype": {
-        "109X_1012": {
+        "109X_1013": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -179,7 +179,7 @@
         }
       },
       "brief": {
-        "109X_1012": {
+        "109X_1013": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -199,7 +199,7 @@
         }
       },
       "language": {
-        "109X_1012": {
+        "109X_1013": {
           "授課語言代碼": "zh-tw"
         },
         "109X_1014": {
@@ -220,7 +220,7 @@
           "sem": "X",
           "cos_id": "1005",
           "cos_code": "DAC1205",
-          "num_limit": "50",
+          "num_limit": "80",
           "dep_limit": "N",
           "URL": null,
           "cos_cname": "化學(一)",
@@ -229,7 +229,7 @@
           "TURL": "http://web.it.nctu.edu.tw/~twli/",
           "teacher": "李大偉",
           "cos_time": "",
-          "memo": "時間:7/5第一週面授時間2小時(下午1:20-3:20資訊服務中心PC4),8/2期中考及8/30期末考2小時(下午1:20-3:20,SC159)網路課程",
+          "memo": "時間:‧\t7/5（週一）下午1:20-2:20 同步遠距上課改為在 Cisco Webex舉行，會議號（存取碼）： 158 056 3732。8/2期中考與8/30期末考（實體或遠距考試視疫情情況而決定）",
           "cos_ename": "Chemistry (I)",
           "brief": "",
           "degree": "1",
@@ -240,7 +240,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "78",
           "depType": "U"
         },
         "109X_1041": {
@@ -268,7 +268,7 @@
           "cos_type": "選修",
           "cos_type_e": "Elective",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "13",
           "depType": "U"
         }
       },
@@ -325,7 +325,7 @@
           "sem": "X",
           "cos_id": "1016",
           "cos_code": "DOM1040",
-          "num_limit": "30",
+          "num_limit": "9999",
           "dep_limit": "N",
           "URL": null,
           "cos_cname": "統計學(一)",
@@ -334,7 +334,7 @@
           "TURL": "",
           "teacher": "巫佳煌",
           "cos_time": "M567T567W567-MB405[KF]",
-          "memo": "日期:7月5日-8月11日,1.管院大學部共同必修課程.2.管科系系務會議107.4.11重申「大學部必修課程(不包括重修課程)不開放暑修,若有特殊理由,需事先申請獲得同意才能承認學分(霹靂優學園課程除外)」,管科系學生(含雙主修、輔系、跨域學程)需用網路加退選申請表取得系上同意後至課務組加選.3.運管系必修課程初修不得暑修.4.其他科系學生之學分抵免依各學系自行認定.",
+          "memo": "（遠距教學）日期:7月5日-8月11日,1.管院大學部共同必修課程.2.管科系系務會議107.4.11重申「大學部必修課程(不包括重修課程)不開放暑修,若有特殊理由,需事先申請獲得同意才能承認學分(霹靂優學園課程除外)」,管科系學生(含雙主修、輔系、跨域學程)需用網路加退選申請表取得系上同意後至課務組加選.3.運管系必修課程初修不得暑修.4.其他科系學生之學分抵免依各學系自行認定.",
           "cos_ename": "Statistics (I)",
           "brief": "",
           "degree": "1",
@@ -345,7 +345,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "47",
           "depType": "U"
         },
         "109X_1017": {
@@ -353,7 +353,7 @@
           "sem": "X",
           "cos_id": "1017",
           "cos_code": "DOM1042",
-          "num_limit": "30",
+          "num_limit": "9999",
           "dep_limit": "N",
           "URL": null,
           "cos_cname": "統計學(二)",
@@ -362,7 +362,7 @@
           "TURL": "",
           "teacher": "巫佳煌",
           "cos_time": "M234T234W234-MB405[KF]",
-          "memo": "日期:7月5日-8月11日,1.管院大學部共同必修課程.2.管科系系務會議107.4.11重申「大學部必修課程(不包括重修課程)不開放暑修,若有特殊理由,需事先申請獲得同意才能承認學分(霹靂優學園課程除外)」,管科系學生(含雙主修、輔系、跨域學程)需用網路加退選申請表取得系上同意後至課務組加選.3.運管系必修課程初修不得暑修.4.其他科系學生之學分抵免依各學系自行認定.",
+          "memo": "（遠距教學）日期:7月5日-8月11日,1.管院大學部共同必修課程.2.管科系系務會議107.4.11重申「大學部必修課程(不包括重修課程)不開放暑修,若有特殊理由,需事先申請獲得同意才能承認學分(霹靂優學園課程除外)」,管科系學生(含雙主修、輔系、跨域學程)需用網路加退選申請表取得系上同意後至課務組加選.3.運管系必修課程初修不得暑修.4.其他科系學生之學分抵免依各學系自行認定.",
           "cos_ename": "Statistics (II)",
           "brief": "",
           "degree": "1",
@@ -373,7 +373,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "23",
           "depType": "U"
         },
         "109X_1018": {
@@ -390,7 +390,7 @@
           "TURL": "",
           "teacher": "蔡璧徽",
           "cos_time": "M234T234W234-M205[KF]",
-          "memo": "日期:7月5日-8月11日,1.管院大學部共同必修課程.2.管科系系務會議107.4.11重申「大學部必修課程(不包括重修課程)不開放暑修,若有特殊理由,需事先申請獲得同意才能承認學分(霹靂優學園課程除外)」,管科系學生(含雙主修、輔系、跨域學程)需用網路加退選申請表取得系上同意後至課務組加選.3.運管系必修課程初修不得暑修.4.其他科系學生之學分抵免依各學系自行認定.",
+          "memo": "日期:7月5日-8月11日,1.管院大學部共同必修課程.2.管科系系務會議107.4.11重申「大學部必修課程(不包括重修課程)不開放暑修,若有特殊理由,需事先申請獲得同意才能承認學分(霹靂優學園課程除外)」,管科系學生(含雙主修、輔系、跨域學程)需用網路加退選申請表取得系上同意後至課務組加選.3.運管系必修課程初修不得暑修.4.其他科系學生之學分抵免依各學系自行認定.提醒本課程(課號1018)原定為實體課，7月為遠距上課，8月若解封，可能改為實體課程，5009會計學才是網路課，有疑問可以Email詢問蔡璧徽教授。",
           "cos_ename": "Accounting (I)",
           "brief": "",
           "degree": "1",
@@ -401,7 +401,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "30",
           "depType": "U"
         }
       },
@@ -496,7 +496,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "9",
           "depType": "O"
         },
         "109X_1026": {
@@ -524,7 +524,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "1",
           "depType": "O"
         }
       },
@@ -601,7 +601,7 @@
           "cos_type": "外語",
           "cos_type_e": "Foreign Languages Course",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "25",
           "depType": "O"
         },
         "109X_1022": {
@@ -629,7 +629,7 @@
           "cos_type": "外語",
           "cos_type_e": "Foreign Languages Course",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "9",
           "depType": "O"
         },
         "109X_1023": {
@@ -657,7 +657,35 @@
           "cos_type": "外語",
           "cos_type_e": "Foreign Languages Course",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "16",
+          "depType": "O"
+        },
+        "109X_1024": {
+          "acy": "109",
+          "sem": "X",
+          "cos_id": "1024",
+          "cos_code": "DFR1304",
+          "num_limit": "25",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "英文演說:撰寫與發表",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "吳思葦",
+          "cos_time": "T234R234-A506[KF]",
+          "memo": "日期:7月6日-8月12日[English Medium Course]",
+          "cos_ename": "English Public Speaking:Writing and Presenting",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "17",
           "depType": "O"
         }
       },
@@ -688,6 +716,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "109X_1024": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -708,6 +745,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "109X_1024": {
+          "B072": {
+            "brief_code": "B072",
+            "brief": "進階(87)"
+          }
         }
       },
       "language": {
@@ -719,6 +762,9 @@
         },
         "109X_1023": {
           "授課語言代碼": "zh-tw"
+        },
+        "109X_1024": {
+          "授課語言代碼": "en-us"
         }
       }
     },
@@ -752,7 +798,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "44",
           "depType": "O"
         },
         "109X_1004": {
@@ -760,7 +806,7 @@
           "sem": "X",
           "cos_id": "1004",
           "cos_code": "DEP1112",
-          "num_limit": "70",
+          "num_limit": "100",
           "dep_limit": "N",
           "URL": null,
           "cos_cname": "物理(二)",
@@ -768,7 +814,7 @@
           "cos_hours": "4.00",
           "TURL": "http://www.ep.nctu.edu.tw/teacher_members/teacher_member_view_tw/102",
           "teacher": "林俊良",
-          "cos_time": "T78W678R78F678-SC158[KF]",
+          "cos_time": "T78W678R78F678-SC106[KF]",
           "memo": "日期:7月5日-8月18日[英語授課English Medium Course]",
           "cos_ename": "Physics (II)",
           "brief": "",
@@ -780,7 +826,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "87",
           "depType": "O"
         }
       },
@@ -832,6 +878,34 @@
       "dep_cname": "微積分教學小組",
       "dep_ename": "Calculus section",
       "1": {
+        "109X_1000": {
+          "acy": "109",
+          "sem": "X",
+          "cos_id": "1000",
+          "cos_code": "DAM1367",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "微積分甲（一）",
+          "cos_credit": "4.00",
+          "cos_hours": "4.00",
+          "TURL": "",
+          "teacher": "薛名成",
+          "cos_time": "M234T234W234R234-",
+          "memo": "日期:7月5日-8月13日",
+          "cos_ename": "Calculus (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OUE",
+          "dep_primary": "1",
+          "dep_cname": "微積分教學小組",
+          "dep_ename": "Calculus section",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "171",
+          "depType": "O"
+        },
         "109X_1001": {
           "acy": "109",
           "sem": "X",
@@ -857,7 +931,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "91",
           "depType": "O"
         },
         "109X_1002": {
@@ -885,11 +959,20 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "96",
           "depType": "O"
         }
       },
       "costype": {
+        "109X_1000": {
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "客",
+            "GECIEngName": "CHK"
+          }
+        },
         "109X_1001": {
           "通識跨院基本素養_通識跨院": {
             "course_category_cname": "通識跨院基本素養_通識跨院",
@@ -910,6 +993,12 @@
         }
       },
       "brief": {
+        "109X_1000": {
+          "A205,A504": {
+            "brief_code": "A205,A504",
+            "brief": "自然/進階(96),跨院基本素養(106)"
+          }
+        },
         "109X_1001": {
           "A205,A504": {
             "brief_code": "A205,A504",
@@ -924,10 +1013,72 @@
         }
       },
       "language": {
+        "109X_1000": {
+          "授課語言代碼": "zh-tw"
+        },
         "109X_1001": {
           "授課語言代碼": "zh-tw"
         },
         "109X_1002": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "EDC2AE3B-55E0-40CB-8DA1-BAF46ABAAA7C": {
+      "dep_id": "EDC2AE3B-55E0-40CB-8DA1-BAF46ABAAA7C",
+      "dep_cname": "教學發展中心",
+      "dep_ename": "Center of Teaching and Learning Development",
+      "1": {
+        "109X_1019": {
+          "acy": "109",
+          "sem": "X",
+          "cos_id": "1019",
+          "cos_code": "WOR1005",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "3D列印之醫療應用",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "李泉、李明家",
+          "cos_time": "",
+          "memo": "(遠距教學)日期:7月5日-7月9日,週一至週四:23456789,週五234n,https:meet.google.comyrg-mzes-rhz",
+          "cos_ename": "3D Printing in Medical Applications",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OUH",
+          "dep_primary": "1",
+          "dep_cname": "教學發展中心",
+          "dep_ename": "Center of Teaching and Learning Development",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "23",
+          "depType": "O"
+        }
+      },
+      "costype": {
+        "109X_1019": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "109X_1019": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "109X_1019": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -951,7 +1102,7 @@
           "TURL": "",
           "teacher": "陳柏宏",
           "cos_time": "M234-ED220[KF],M567-,T234-ED220[KF],T567-,W234-ED220[KF],W567-",
-          "memo": "日期:7月14日-8月14日,限本校,電子所優先,567為彈性上機課",
+          "memo": "日期:7月5日-8月25日,限本校,電子所優先,567為彈性上機課",
           "cos_ename": "Power Management Integrated Circuit Design and Implementation",
           "brief": "",
           "degree": "3",
@@ -962,7 +1113,7 @@
           "cos_type": "選修",
           "cos_type_e": "Elective",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "47",
           "depType": "G"
         }
       },
@@ -1021,7 +1172,7 @@
           "cos_type": "選修",
           "cos_type_e": "Elective",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "46",
           "depType": "G"
         }
       },
@@ -1080,7 +1231,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "1",
           "depType": "G"
         }
       },
@@ -1105,65 +1256,6 @@
       },
       "language": {
         "109X_5010": {
-          "授課語言代碼": "zh-tw"
-        }
-      }
-    },
-    "DA5BA833-FBD2-4842-8445-5DA53A84F2C5": {
-      "dep_id": "DA5BA833-FBD2-4842-8445-5DA53A84F2C5",
-      "dep_cname": "統計學研究所",
-      "dep_ename": "Institute of Statistics",
-      "1": {
-        "109X_5004": {
-          "acy": "109",
-          "sem": "X",
-          "cos_id": "5004",
-          "cos_code": "IST5552",
-          "num_limit": "9999",
-          "dep_limit": "*",
-          "URL": null,
-          "cos_cname": "統計計算語言",
-          "cos_credit": "3.00",
-          "cos_hours": "3.00",
-          "TURL": "http://www.stat.nctu.edu.tw/people/bio.php?PID=12",
-          "teacher": "洪慧念",
-          "cos_time": "M567T567W567-CS105",
-          "memo": "日期:7月19日- 8月25日",
-          "cos_ename": "Statistical Computing Software",
-          "brief": "",
-          "degree": "3",
-          "dep_id": "657",
-          "dep_primary": "1",
-          "dep_cname": "統計學研究所",
-          "dep_ename": "Institute of Statistics",
-          "cos_type": "必修",
-          "cos_type_e": "Required",
-          "crsoutline_type": "data",
-          "reg_num": "0",
-          "depType": "G"
-        }
-      },
-      "costype": {
-        "109X_5004": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        }
-      },
-      "brief": {
-        "109X_5004": {
-          "": {
-            "brief_code": "",
-            "brief": ""
-          }
-        }
-      },
-      "language": {
-        "109X_5004": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -1198,7 +1290,7 @@
           "cos_type": "選修",
           "cos_type_e": "Elective",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "21",
           "depType": "G"
         },
         "109X_5008": {
@@ -1215,7 +1307,7 @@
           "TURL": "",
           "teacher": "蔡璧徽",
           "cos_time": "W567F234567-M205[KF]",
-          "memo": "日期:7月7日- 8月13日",
+          "memo": "日期:7月7日- 8月13日(因應疫情遠距上課，同學繳費後可Email給蔡璧徽教授，助教就可公布電子講義和影片給同學預習。)",
           "cos_ename": "Financial Management",
           "brief": "",
           "degree": "3",
@@ -1226,7 +1318,7 @@
           "cos_type": "選修",
           "cos_type_e": "Elective",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "37",
           "depType": "G"
         },
         "109X_5009": {
@@ -1243,7 +1335,7 @@
           "TURL": "",
           "teacher": "蔡璧徽",
           "cos_time": "T567-M205[KF]",
-          "memo": "日期:7月6日- 8月10日,網路課程",
+          "memo": "日期:7月6日- 8月10日,網路課程(7月6日、13日、20日、27日、8月3日 週二13:20-16:10 透過 Google meet遠距和老師交流 5次，8月10日線上期末考請自備有鏡頭的筆電、電腦或手機考試)",
           "cos_ename": "Accounting",
           "brief": "",
           "degree": "3",
@@ -1254,7 +1346,7 @@
           "cos_type": "選修",
           "cos_type_e": "Elective",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "27",
           "depType": "G"
         }
       },
@@ -1363,7 +1455,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "44",
           "depType": "G"
         }
       },
@@ -1422,7 +1514,7 @@
           "cos_type": "選修",
           "cos_type_e": "Elective",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "12",
           "depType": "J"
         },
         "109X_5040": {
@@ -1450,7 +1542,7 @@
           "cos_type": "選修",
           "cos_type_e": "Elective",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "10",
           "depType": "J"
         }
       },
@@ -1527,7 +1619,7 @@
           "cos_type": "選修",
           "cos_type_e": "Elective",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "22",
           "depType": "J"
         },
         "109X_5035": {
@@ -1535,7 +1627,7 @@
           "sem": "X",
           "cos_id": "5035",
           "cos_code": "IMS2336",
-          "num_limit": "9999",
+          "num_limit": "48",
           "dep_limit": "N",
           "URL": null,
           "cos_cname": "問卷設計與實作分析",
@@ -1543,9 +1635,9 @@
           "cos_hours": "3.00",
           "TURL": "",
           "teacher": "高國揚、黃瓊誼、欒紀成",
-          "cos_time": "TabcRabcS567-M205[KF]",
-          "memo": "日期:7月3日-8月12日,限專班",
-          "cos_ename": "Questionnaire Design and APPlied Analysis",
+          "cos_time": "TabcRabc-M205[KF]",
+          "memo": "日期:7月6日-9月2日,限專二選修",
+          "cos_ename": "Questionnaire Design and Applied Analysis",
           "brief": "",
           "degree": "5",
           "dep_id": "710",
@@ -1555,7 +1647,7 @@
           "cos_type": "選修",
           "cos_type_e": "Elective",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "47",
           "depType": "J"
         }
       },
@@ -1602,6 +1694,157 @@
         }
       }
     },
+    "A9F5FF55-A079-477C-9527-564D092F10C7": {
+      "dep_id": "A9F5FF55-A079-477C-9527-564D092F10C7",
+      "dep_cname": "高階主管管理碩士學程",
+      "dep_ename": "Degree Program of Management for Executives",
+      "1": {
+        "109X_5041": {
+          "acy": "109",
+          "sem": "X",
+          "cos_id": "5041",
+          "cos_code": "IBA2005",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "全球經濟視野",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "https://sites.google.com/nctu.edu.tw/profuenspages/",
+          "teacher": "溫金豐、郭旭崧、司徒文、黃宜侯、胡均立、鍾惠民、毛治國、杜書伍",
+          "cos_time": "S234567-",
+          "memo": "日期:週六,隔週上課,地點:台北校區第二演講廳,限EMBA碩二在校生",
+          "cos_ename": "Global Economic Prospects",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "711",
+          "dep_primary": "1",
+          "dep_cname": "高階主管管理碩士學程",
+          "dep_ename": "Degree Program of Management for Executives",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "59",
+          "depType": "E"
+        },
+        "109X_5042": {
+          "acy": "109",
+          "sem": "X",
+          "cos_id": "5042",
+          "cos_code": "IBA1041",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "行銷策略與管理",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "張家齊、楊智傑、祝鳳岡",
+          "cos_time": "U234567-",
+          "memo": "日期:週日,隔週上課,地點:管理一館光寶廳,限EMBA碩二在校生",
+          "cos_ename": "Marketing Strategies and Management",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "711",
+          "dep_primary": "1",
+          "dep_cname": "高階主管管理碩士學程",
+          "dep_ename": "Degree Program of Management for Executives",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "59",
+          "depType": "E"
+        },
+        "109X_5043": {
+          "acy": "109",
+          "sem": "X",
+          "cos_id": "5043",
+          "cos_code": "IBA2042",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "領導溝通與健康暨醫療產業管理",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "張家齊、蔚順華、鍾惠民",
+          "cos_time": "S234U234-",
+          "memo": "日期:7-8月週末,地點:陽明校區圖資402,限EMBA在校生",
+          "cos_ename": "Communication Leadership and the Management of Healthcare Industry",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "711",
+          "dep_primary": "1",
+          "dep_cname": "高階主管管理碩士學程",
+          "dep_ename": "Degree Program of Management for Executives",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "56",
+          "depType": "E"
+        }
+      },
+      "costype": {
+        "109X_5041": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "109X_5042": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "109X_5043": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "109X_5041": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "109X_5042": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "109X_5043": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "109X_5041": {
+          "授課語言代碼": "zh-tw"
+        },
+        "109X_5042": {
+          "授課語言代碼": "zh-tw"
+        },
+        "109X_5043": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "7B1AC97F-AB3C-4A03-AFC4-8B3F825AB632": {
       "dep_id": "7B1AC97F-AB3C-4A03-AFC4-8B3F825AB632",
       "dep_cname": "管理學院碩士在職專班-工管組",
@@ -1632,7 +1875,7 @@
           "cos_type": "選修",
           "cos_type_e": "Elective",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "19",
           "depType": "J"
         },
         "109X_5025": {
@@ -1660,7 +1903,7 @@
           "cos_type": "選修",
           "cos_type_e": "Elective",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "24",
           "depType": "J"
         },
         "109X_5026": {
@@ -1688,7 +1931,7 @@
           "cos_type": "選修",
           "cos_type_e": "Elective",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "22",
           "depType": "J"
         }
       },
@@ -1783,7 +2026,7 @@
           "cos_type": "選修",
           "cos_type_e": "Elective",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "14",
           "depType": "J"
         },
         "109X_5028": {
@@ -1811,7 +2054,7 @@
           "cos_type": "選修",
           "cos_type_e": "Elective",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "27",
           "depType": "J"
         },
         "109X_5029": {
@@ -1828,7 +2071,7 @@
           "TURL": "",
           "teacher": "黃思皓",
           "cos_time": "Sabc-M-B09",
-          "memo": "日期:7月3日-8月29日,限本校在職專班學生選修；依資財系網站https://imf.nctu.edu.tw公告之課程時間表上課。",
+          "memo": "日期:9月4日-9月5日,限本校在職專班學生選修；依資財系網站https:imf.nctu.edu.tw公告之課程時間表上課。",
           "cos_ename": "",
           "brief": "",
           "degree": "5",
@@ -1839,7 +2082,7 @@
           "cos_type": "選修",
           "cos_type_e": "Elective",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "24",
           "depType": "J"
         }
       },
@@ -1923,7 +2166,7 @@
           "TURL": "",
           "teacher": "王仁聖",
           "cos_time": "MabcWabcFabc-A701[KF]",
-          "memo": "日期:7月5日-8月13日,限專班",
+          "memo": "(全面採遠距教學)日期:7月5日-8月13日,限專班",
           "cos_ename": "Applied Economics",
           "brief": "",
           "degree": "5",
@@ -1934,7 +2177,7 @@
           "cos_type": "選修",
           "cos_type_e": "Elective",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "38",
           "depType": "J"
         },
         "109X_5031": {
@@ -1951,7 +2194,7 @@
           "TURL": "",
           "teacher": "王仁聖",
           "cos_time": "TabcRabcS234-A701[KF]",
-          "memo": "日期:7月6日-9月2日,限專班",
+          "memo": "(全面採遠距教學)日期:7月6日-8月12日,限專班",
           "cos_ename": "Statistics for Business Application",
           "brief": "",
           "degree": "5",
@@ -1962,7 +2205,7 @@
           "cos_type": "選修",
           "cos_type_e": "Elective",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "26",
           "depType": "J"
         },
         "109X_5032": {
@@ -1979,7 +2222,7 @@
           "TURL": "",
           "teacher": "王仁聖",
           "cos_time": "Un56789-A701[KF]",
-          "memo": "日期:7月4日-9月5日,限專班",
+          "memo": "(全面採遠距教學)日期:7月4日-9月5日,限專班",
           "cos_ename": "Management Accounting",
           "brief": "",
           "degree": "5",
@@ -1990,7 +2233,7 @@
           "cos_type": "選修",
           "cos_type_e": "Elective",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "33",
           "depType": "J"
         }
       },
@@ -2065,7 +2308,7 @@
           "sem": "X",
           "cos_id": "5021",
           "cos_code": "IBM6035",
-          "num_limit": "16",
+          "num_limit": "9999",
           "dep_limit": "N",
           "URL": null,
           "cos_cname": "統計學",
@@ -2074,7 +2317,7 @@
           "TURL": "",
           "teacher": "丁承",
           "cos_time": "Tabc-",
-          "memo": "日期:7月6日- 9月2日,限管院各專班,經管所碩博班,地點:台北校區第二演講廳.",
+          "memo": "日期:7月6日- 9月2日,限管院各專班,經管所碩博班,地點:台北校區第二演講廳.(備註: 配合疫情，暑修上課方式調整如下：7月31日前全面採遠距教學，8/1後由上課教師視疫情狀況自行調整。)\r\n",
           "cos_ename": "Statistics",
           "brief": "",
           "degree": "5",
@@ -2085,7 +2328,7 @@
           "cos_type": "選修",
           "cos_type_e": "Elective",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "32",
           "depType": "J"
         },
         "109X_5022": {
@@ -2093,7 +2336,7 @@
           "sem": "X",
           "cos_id": "5022",
           "cos_code": "IBM6039",
-          "num_limit": "75",
+          "num_limit": "0",
           "dep_limit": "N",
           "URL": null,
           "cos_cname": "管理技能發展專題研討",
@@ -2102,7 +2345,7 @@
           "TURL": "",
           "teacher": "鄧東濱、唐瓔璋",
           "cos_time": "U234567-",
-          "memo": "日期:7/4,7/11,7/18,7/25,8/8,8/15,8/22,8/29,上課時間為9:00-12:00；13:30-16:45。限管院各專班,經管優先,地點:台北校區第二演講廳(本課程只進行第一階段選課分發,不進行第二階段分發)",
+          "memo": "日期:7/4,7/11,7/18,7/25,8/8,8/15,8/22,8/29,上課時間為9:00-12:00；13:30-16:45。限管院各專班,經管優先,地點:台北校區第二演講廳(本課程只進行第一階段選課分發,不進行第二階段分發)(備註: 配合疫情，暑修上課方式調整如下：7月31日前全面採遠距教學，8/1後由上課教師視疫情狀況自行調整。)\r\n",
           "cos_ename": "Selected Topics on Management Skills Development",
           "brief": "",
           "degree": "5",
@@ -2113,7 +2356,7 @@
           "cos_type": "選修",
           "cos_type_e": "Elective",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "74",
           "depType": "J"
         },
         "109X_5023": {
@@ -2121,7 +2364,7 @@
           "sem": "X",
           "cos_id": "5023",
           "cos_code": "IBM6036",
-          "num_limit": "16",
+          "num_limit": "9999",
           "dep_limit": "N",
           "URL": null,
           "cos_cname": "會計學",
@@ -2130,7 +2373,7 @@
           "TURL": "",
           "teacher": "劉志諒",
           "cos_time": "MabcWabc-",
-          "memo": "日期:7月5日- 9月2日,限管院各專班,經管所碩博班,地點:台北校區第二演講廳.",
+          "memo": "日期:7月5日- 9月2日,限管院各專班,經管所碩博班,地點:台北校區第二演講廳.(備註: 配合疫情，暑修上課方式調整如下：7月31日前全面採遠距教學，8/1後由上課教師視疫情狀況自行調整。)\r\n",
           "cos_ename": "Financial Accounting",
           "brief": "",
           "degree": "5",
@@ -2141,7 +2384,7 @@
           "cos_type": "選修",
           "cos_type_e": "Elective",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "22",
           "depType": "J"
         }
       },
@@ -2236,7 +2479,7 @@
           "cos_type": "選修",
           "cos_type_e": "Elective",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "36",
           "depType": "J"
         },
         "109X_5037": {
@@ -2264,7 +2507,7 @@
           "cos_type": "選修",
           "cos_type_e": "Elective",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "34",
           "depType": "J"
         }
       },

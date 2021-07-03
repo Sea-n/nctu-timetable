@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 cd `dirname $0`
 
-from=${1:-108}
-to=${2:-109}
+from=${1:-109}
+to=${2:-110}
 
 for y in `seq $from $to`; do
 	for t in "1" "2" "X"; do
@@ -58,14 +58,10 @@ for y in `seq $from $to`; do
 					echo "Failed: $y $t"
 				fi
 			fi
-
-			wc pretty-$y-$t.json
-		) &
+		)
 	done
 done
 
-echo "Waiting...."
-wait
 echo "Done."
 
 find . -name "*-*-[12X].json" -size -10c -delete  # Empty

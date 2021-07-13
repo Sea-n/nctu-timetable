@@ -604,34 +604,6 @@
           "reg_num": "25",
           "depType": "O"
         },
-        "109X_1022": {
-          "acy": "109",
-          "sem": "X",
-          "cos_id": "1022",
-          "cos_code": "DFR1105",
-          "num_limit": "30",
-          "dep_limit": "*",
-          "URL": null,
-          "cos_cname": "大一英文（一）",
-          "cos_credit": "2.00",
-          "cos_hours": "2.00",
-          "TURL": "",
-          "teacher": "闕郁軒",
-          "cos_time": "T234R234-A502[KF]",
-          "memo": "日期:7月5日-8月11日",
-          "cos_ename": "Freshman English (I)",
-          "brief": "",
-          "degree": "1",
-          "dep_id": "OU6",
-          "dep_primary": "1",
-          "dep_cname": "語言教學與研究中心",
-          "dep_ename": "Language Teaching and Research Center",
-          "cos_type": "外語",
-          "cos_type_e": "Foreign Languages Course",
-          "crsoutline_type": "data",
-          "reg_num": "7",
-          "depType": "O"
-        },
         "109X_1023": {
           "acy": "109",
           "sem": "X",
@@ -699,15 +671,6 @@
             "GECIEngName": ""
           }
         },
-        "109X_1022": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        },
         "109X_1023": {
           "": {
             "course_category_cname": "",
@@ -734,12 +697,6 @@
             "brief": "進階(87)"
           }
         },
-        "109X_1022": {
-          "B071": {
-            "brief_code": "B071",
-            "brief": "基礎(87)"
-          }
-        },
         "109X_1023": {
           "": {
             "brief_code": "",
@@ -755,9 +712,6 @@
       },
       "language": {
         "109X_1021": {
-          "授課語言代碼": "zh-tw"
-        },
-        "109X_1022": {
           "授課語言代碼": "zh-tw"
         },
         "109X_1023": {
@@ -1516,47 +1470,10 @@
           "crsoutline_type": "data",
           "reg_num": "12",
           "depType": "J"
-        },
-        "109X_5040": {
-          "acy": "109",
-          "sem": "X",
-          "cos_id": "5040",
-          "cos_code": "IHC5120",
-          "num_limit": "9999",
-          "dep_limit": "*",
-          "URL": null,
-          "cos_cname": "客家影視劇",
-          "cos_credit": "3.00",
-          "cos_hours": "3.00",
-          "TURL": "http://hs.nctu.edu.tw/Faculty/HCTuan",
-          "teacher": "段馨君",
-          "cos_time": "TabcRabc-HK207[LJ]",
-          "memo": "日期:7月5日-9月3日",
-          "cos_ename": "Hakka Film, TV Drama, and Theater",
-          "brief": "",
-          "degree": "5",
-          "dep_id": "480",
-          "dep_primary": "1",
-          "dep_cname": "客家社會與文化碩士在職專班",
-          "dep_ename": "Degree Program of Hakka Society and Culture for In-Service Teachers",
-          "cos_type": "選修",
-          "cos_type_e": "Elective",
-          "crsoutline_type": "data",
-          "reg_num": "9",
-          "depType": "J"
         }
       },
       "costype": {
         "109X_5039": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        },
-        "109X_5040": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -1572,19 +1489,10 @@
             "brief_code": "",
             "brief": ""
           }
-        },
-        "109X_5040": {
-          "": {
-            "brief_code": "",
-            "brief": ""
-          }
         }
       },
       "language": {
         "109X_5039": {
-          "授課語言代碼": "zh-tw"
-        },
-        "109X_5040": {
           "授課語言代碼": "zh-tw"
         }
       }

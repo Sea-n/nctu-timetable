@@ -32,6 +32,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "U"
+        },
+        "1102_1534": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1534",
+          "cos_code": "DBT2114",
+          "num_limit": "25",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "程式設計 Go Go Go",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "羅惟正",
+          "cos_time": "T9ab-CSPC3",
+          "memo": "",
+          "cos_ename": "Programming Go Go Go",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "350",
+          "dep_primary": "1",
+          "dep_cname": "生物科技學系",
+          "dep_ename": "Department of Biological Science and Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
         }
       },
       "costype": {
@@ -43,6 +71,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1102_1534": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -51,10 +88,19 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1102_1534": {
+          "A205,A505": {
+            "brief_code": "A205,A505",
+            "brief": "自然/進階(96),校基本素養(106)"
+          }
         }
       },
       "language": {
         "1102_1527": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1534": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -108,6 +154,62 @@
           "cos_time": "Rabcd-ED222",
           "memo": "限已修畢或正在修邏輯設計課程者",
           "cos_ename": "Digital Laboratory  ",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "511",
+          "dep_primary": "1",
+          "dep_cname": "電機工程學系",
+          "dep_ename": "Department of Electrical and Computer Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1102_1022": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1022",
+          "cos_code": "UEE2402",
+          "num_limit": "60",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "電子學(二)",
+          "cos_credit": "3.00",
+          "cos_hours": "4.00",
+          "TURL": "http://amsdft.cn.nctu.edu.tw",
+          "teacher": "洪浩喬",
+          "cos_time": "M78R34-EE207[KF]",
+          "memo": "",
+          "cos_ename": "Electronics (II)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "511",
+          "dep_primary": "1",
+          "dep_cname": "電機工程學系",
+          "dep_ename": "Department of Electrical and Computer Engineering",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1102_1042": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1042",
+          "cos_code": "UEE3101",
+          "num_limit": "100",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "複變函數",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://jsjk.cn.nctu.edu.tw",
+          "teacher": "陳永平",
+          "cos_time": "M2W34-ED219[KF]",
+          "memo": "",
+          "cos_ename": "Complex Variables",
           "brief": "",
           "degree": "1",
           "dep_id": "511",
@@ -196,6 +298,24 @@
             "GECIEngName": ""
           }
         },
+        "1102_1022": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_1042": {
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "工",
+            "GECIEngName": "COE"
+          }
+        },
         "1102_1060": {
           "": {
             "course_category_cname": "",
@@ -228,6 +348,18 @@
             "brief": ""
           }
         },
+        "1102_1022": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1102_1042": {
+          "A205,A504": {
+            "brief_code": "A205,A504",
+            "brief": "自然/進階(96),跨院基本素養(106)"
+          }
+        },
         "1102_1060": {
           "": {
             "brief_code": "",
@@ -246,6 +378,12 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_1012": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1022": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1042": {
           "授課語言代碼": "zh-tw"
         },
         "1102_1060": {
@@ -783,6 +921,90 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1102_6303": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "6303",
+          "cos_code": "GEC4006",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "普通心理學",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "梁瓊惠",
+          "cos_time": "M34-A103[KF]",
+          "memo": "1.不接受修讀過「心理學」或「心理學概論」同學修讀2.系統預設核心社會,欲採計核心自然請至通識中心書面申請核心社會,欲採計核心自然請至通識中心書面申請。",
+          "cos_ename": "General Psychology",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1102_6320": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "6320",
+          "cos_code": "GEC4006",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "普通心理學",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "梁瓊惠",
+          "cos_time": "M78-A103[KF]",
+          "memo": "1.不接受修讀過「心理學」或「心理學概論」同學修讀2.系統預設核心社會,欲採計核心自然請至通識中心書面申請核心社會,欲採計核心自然請至通識中心書面申請。",
+          "cos_ename": "General Psychology",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1102_6325": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "6325",
+          "cos_code": "GEC4006",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "普通心理學",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "梁瓊惠",
+          "cos_time": "T34-A103[KF]",
+          "memo": "1.不接受修讀過「心理學」或「心理學概論」同學修讀2.系統預設核心社會,欲採計核心自然請至通識中心書面申請核心社會,欲採計核心自然請至通識中心書面申請。",
+          "cos_ename": "General Psychology",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1102_6326": {
           "acy": "110",
           "sem": "2",
@@ -827,6 +1049,34 @@
           "cos_time": "T56-A509[KF]",
           "memo": "",
           "cos_ename": "The  Paradigms of Novels",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1102_6342": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "6342",
+          "cos_code": "GEC8177",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "社會心理學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "梁瓊惠",
+          "cos_time": "T678-A103[KF]",
+          "memo": "",
+          "cos_ename": "Social Psychology",
           "brief": "",
           "degree": "1",
           "dep_id": "OU1",
@@ -894,6 +1144,62 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "O"
+        },
+        "1102_6377": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "6377",
+          "cos_code": "GEC6728",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "霸權興衰史:從十五世紀至當代",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "劉河北",
+          "cos_time": "F12-A102[KF]",
+          "memo": "",
+          "cos_ename": "The Rise and Fall of the Great Powers",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1102_6382": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "6382",
+          "cos_code": "GEC6728",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "霸權興衰史:從十五世紀至當代",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "劉河北",
+          "cos_time": "F34-A102[KF]",
+          "memo": "",
+          "cos_ename": "The Rise and Fall of the Great Powers",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
         }
       },
       "costype": {
@@ -929,6 +1235,54 @@
             "GECIEngName": ""
           }
         },
+        "1102_6303": {
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          },
+          "領域課程-個人、社會與文化_領域課程-個人、社會與文化": {
+            "course_category_cname": "領域課程-個人、社會與文化_領域課程-個人、社會與文化",
+            "course_category_ename": "Distribution-socioculture_DASC",
+            "course_category_type": "49",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_6320": {
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          },
+          "領域課程-個人、社會與文化_領域課程-個人、社會與文化": {
+            "course_category_cname": "領域課程-個人、社會與文化_領域課程-個人、社會與文化",
+            "course_category_ename": "Distribution-socioculture_DASC",
+            "course_category_type": "49",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_6325": {
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          },
+          "領域課程-個人、社會與文化_領域課程-個人、社會與文化": {
+            "course_category_cname": "領域課程-個人、社會與文化_領域課程-個人、社會與文化",
+            "course_category_ename": "Distribution-socioculture_DASC",
+            "course_category_type": "49",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_6326": {
           "通識核心課程_通識核心": {
             "course_category_cname": "通識核心課程_通識核心",
@@ -961,6 +1315,22 @@
             "GECIEngName": ""
           }
         },
+        "1102_6342": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          },
+          "領域課程-個人、社會與文化_領域課程-個人、社會與文化": {
+            "course_category_cname": "領域課程-個人、社會與文化_領域課程-個人、社會與文化",
+            "course_category_ename": "Distribution-socioculture_DASC",
+            "course_category_type": "49",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_6367": {
           "通識校基本素養_通識校基本": {
             "course_category_cname": "通識校基本素養_通識校基本",
@@ -989,6 +1359,38 @@
             "course_category_cname": "領域課程-個人、社會與文化_領域課程-個人、社會與文化",
             "course_category_ename": "Distribution-socioculture_DASC",
             "course_category_type": "49",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_6377": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          },
+          "領域課程-公民與倫理思考_領域課程-公民與倫理思考": {
+            "course_category_cname": "領域課程-公民與倫理思考_領域課程-公民與倫理思考",
+            "course_category_ename": "Distribution-civics_DACE",
+            "course_category_type": "50",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_6382": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          },
+          "領域課程-公民與倫理思考_領域課程-公民與倫理思考": {
+            "course_category_cname": "領域課程-公民與倫理思考_領域課程-公民與倫理思考",
+            "course_category_ename": "Distribution-civics_DACE",
+            "course_category_type": "50",
             "GECIName": "",
             "GECIEngName": ""
           }
@@ -1007,6 +1409,24 @@
             "brief": "文化/進階(96),核心-人文(106),基本素養-生命及品格教育&#x0D;\n(110)"
           }
         },
+        "1102_6303": {
+          "A104,A502,Z106": {
+            "brief_code": "A104,A502,Z106",
+            "brief": "群己/基礎(96),核心-社會(106),領域課程-個人、社會與文化&#x0D;\n(110)"
+          }
+        },
+        "1102_6320": {
+          "A104,A502,Z106": {
+            "brief_code": "A104,A502,Z106",
+            "brief": "群己/基礎(96),核心-社會(106),領域課程-個人、社會與文化&#x0D;\n(110)"
+          }
+        },
+        "1102_6325": {
+          "A104,A502,Z106": {
+            "brief_code": "A104,A502,Z106",
+            "brief": "群己/基礎(96),核心-社會(106),領域課程-個人、社會與文化&#x0D;\n(110)"
+          }
+        },
         "1102_6326": {
           "A101,A501,Z105": {
             "brief_code": "A101,A501,Z105",
@@ -1019,6 +1439,12 @@
             "brief": "文化/基礎(96),核心-人文(106),領域課程-人文與美學&#x0D;\n(110)"
           }
         },
+        "1102_6342": {
+          "A204,A505,Z106": {
+            "brief_code": "A204,A505,Z106",
+            "brief": "群己/進階(96),校基本素養(106),領域課程-個人、社會與文化&#x0D;\n(110)"
+          }
+        },
         "1102_6367": {
           "A202,A505,Z106": {
             "brief_code": "A202,A505,Z106",
@@ -1029,6 +1455,18 @@
           "A202,A505,Z106": {
             "brief_code": "A202,A505,Z106",
             "brief": "歷史/進階(96),校基本素養(106),領域課程-個人、社會與文化&#x0D;\n(110)"
+          }
+        },
+        "1102_6377": {
+          "A202,A505,Z107": {
+            "brief_code": "A202,A505,Z107",
+            "brief": "歷史/進階(96),校基本素養(106),領域課程-公民與倫理思考&#x0D;\n(110)"
+          }
+        },
+        "1102_6382": {
+          "A202,A505,Z107": {
+            "brief_code": "A202,A505,Z107",
+            "brief": "歷史/進階(96),校基本素養(106),領域課程-公民與倫理思考&#x0D;\n(110)"
           }
         }
       },
@@ -1039,16 +1477,100 @@
         "1102_6155": {
           "授課語言代碼": "zh-tw"
         },
+        "1102_6303": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_6320": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_6325": {
+          "授課語言代碼": "zh-tw"
+        },
         "1102_6326": {
           "授課語言代碼": "zh-tw"
         },
         "1102_6338": {
           "授課語言代碼": "zh-tw"
         },
+        "1102_6342": {
+          "授課語言代碼": "zh-tw"
+        },
         "1102_6367": {
           "授課語言代碼": "zh-tw"
         },
         "1102_6373": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_6377": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_6382": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "33CAB877-FF5B-4F42-882F-3F255B07F5F9": {
+      "dep_id": "33CAB877-FF5B-4F42-882F-3F255B07F5F9",
+      "dep_cname": "共同教育委員會",
+      "dep_ename": "",
+      "1": {
+        "1102_6604": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "6604",
+          "cos_code": "CGE1029",
+          "num_limit": "80",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "機器人與人工智慧系統探索",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "http://jsjk.cn.nctu.edu.tw",
+          "teacher": "陳永平",
+          "cos_time": "T78-EE207[KF]",
+          "memo": "",
+          "cos_ename": "Exploring Robotic and Artificial Intelligent Systems",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU2",
+          "dep_primary": "1",
+          "dep_cname": "共同教育委員會",
+          "dep_ename": "",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        }
+      },
+      "costype": {
+        "1102_6604": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          },
+          "領域課程-社會中的科技與自然_領域課程-社會中的科技與自然": {
+            "course_category_cname": "領域課程-社會中的科技與自然_領域課程-社會中的科技與自然",
+            "course_category_ename": "Distribution-society & sciences_DAST",
+            "course_category_type": "51",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1102_6604": {
+          "A205,A505,Z108": {
+            "brief_code": "A205,A505,Z108",
+            "brief": "自然/進階(96),校基本素養(106),領域課程-社會中的科技與自然&#x0D;\n(110)"
+          }
+        }
+      },
+      "language": {
+        "1102_6604": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -1154,6 +1676,65 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_7515": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "49552B82-2C24-4355-AA37-2E503351C46B": {
+      "dep_id": "49552B82-2C24-4355-AA37-2E503351C46B",
+      "dep_cname": "微積分教學小組",
+      "dep_ename": "Calculus section",
+      "1": {
+        "1102_0355": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "0355",
+          "cos_code": "DAM1370",
+          "num_limit": "60",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "微積分乙（二）",
+          "cos_credit": "4.00",
+          "cos_hours": "4.00",
+          "TURL": "http://www.stat.nctu.edu.tw/people/bio.php?PID=12",
+          "teacher": "洪慧念",
+          "cos_time": "F56-A309[KF],T34-SC152[KF]",
+          "memo": "限管科系,資財系財金組",
+          "cos_ename": "Calculus (II)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OUE",
+          "dep_primary": "1",
+          "dep_cname": "微積分教學小組",
+          "dep_ename": "Calculus section",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        }
+      },
+      "costype": {
+        "1102_0355": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1102_0355": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1102_0355": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -1398,6 +1979,170 @@
         },
         "1102_5620": {
           "授課語言代碼": "en-us"
+        }
+      }
+    },
+    "C3B4AAC5-2FD4-4EAD-BFD3-BA9063CB01F0": {
+      "dep_id": "C3B4AAC5-2FD4-4EAD-BFD3-BA9063CB01F0",
+      "dep_cname": "生物資訊及系統生物研究所",
+      "dep_ename": "Institute of Bioinformatics and System Biology",
+      "1": {
+        "1102_5733": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5733",
+          "cos_code": "IBT5308",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "論文研究",
+          "cos_credit": "1.00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "羅惟正、何信瑩、陳亭妏",
+          "cos_time": "M2-",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Thesis",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "351",
+          "dep_primary": "1",
+          "dep_cname": "生物資訊及系統生物研究所",
+          "dep_ename": "Institute of Bioinformatics and System Biology",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1102_5742": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5742",
+          "cos_code": "IBI5175",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "Go人工智慧大數據平行運算",
+          "cos_credit": "4.00",
+          "cos_hours": "4.00",
+          "TURL": "",
+          "teacher": "羅惟正",
+          "cos_time": "W5689-BI305[PA]",
+          "memo": "",
+          "cos_ename": "Artificial intelligent big data parallel computation by Go",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "351",
+          "dep_primary": "1",
+          "dep_cname": "生物資訊及系統生物研究所",
+          "dep_ename": "Institute of Bioinformatics and System Biology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "1102_5733": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_5742": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1102_5733": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1102_5742": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1102_5733": {
+          "授課語言代碼": "en-us"
+        },
+        "1102_5742": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "B5BB6F71-1D6C-4050-BD7B-CA6B0558A7B7": {
+      "dep_id": "B5BB6F71-1D6C-4050-BD7B-CA6B0558A7B7",
+      "dep_cname": "教育研究所",
+      "dep_ename": "Institute of Education",
+      "1": {
+        "1102_5799": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5799",
+          "cos_code": "IED5182",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "教育與心理測驗研究",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳思光",
+          "cos_time": "R234-CS",
+          "memo": "",
+          "cos_ename": "Theories of Psychological and Educational Measurement",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "460",
+          "dep_primary": "1",
+          "dep_cname": "教育研究所",
+          "dep_ename": "Institute of Education",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "1102_5799": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1102_5799": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1102_5799": {
+          "授課語言代碼": "zh-tw"
         }
       }
     },
@@ -1774,6 +2519,62 @@
       "dep_cname": "國際半導體產業學院碩士班",
       "dep_ename": "International College of Semiconductor Technology",
       "1": {
+        "1102_5213": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5213",
+          "cos_code": "CST5012",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "數位信號處理超大型積體電路",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://sipcas.blog.nctu.edu.tw/",
+          "teacher": "管延城",
+          "cos_time": "W234-EE112[KF]",
+          "memo": "英文授課；有意願開放給社會人士選讀[English Medium Course]",
+          "cos_ename": "VLSI Digital Signal Processing",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "591",
+          "dep_primary": "1",
+          "dep_cname": "國際半導體產業學院碩士班",
+          "dep_ename": "International College of Semiconductor Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1102_5222": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5222",
+          "cos_code": "CST5072",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "材料測試分析技術原理與應用",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "https://yushengsu.wixsite.com/bestlab",
+          "teacher": "蘇育陞",
+          "cos_time": "W234-EE116[KF]",
+          "memo": "英文授課；有意願開放給社會人士選讀[English Medium Course]",
+          "cos_ename": "Principles and Applications of Materials Characterization Techniques",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "591",
+          "dep_primary": "1",
+          "dep_cname": "國際半導體產業學院碩士班",
+          "dep_ename": "International College of Semiconductor Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1102_5226": {
           "acy": "110",
           "sem": "2",
@@ -1804,6 +2605,24 @@
         }
       },
       "costype": {
+        "1102_5213": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_5222": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5226": {
           "": {
             "course_category_cname": "",
@@ -1815,6 +2634,18 @@
         }
       },
       "brief": {
+        "1102_5213": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1102_5222": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5226": {
           "": {
             "brief_code": "",
@@ -1823,6 +2654,12 @@
         }
       },
       "language": {
+        "1102_5213": {
+          "授課語言代碼": "en-us"
+        },
+        "1102_5222": {
+          "授課語言代碼": "en-us"
+        },
         "1102_5226": {
           "授課語言代碼": "en-us"
         }
@@ -1992,6 +2829,65 @@
         }
       }
     },
+    "8F93E581-C5C5-4D6A-9608-3AE0220B377B": {
+      "dep_id": "8F93E581-C5C5-4D6A-9608-3AE0220B377B",
+      "dep_cname": "應用化學系",
+      "dep_ename": "Institute of Applied Chemistry",
+      "1": {
+        "1102_5452": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5452",
+          "cos_code": "IAC5662",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "高分子晶體學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "王建隆",
+          "cos_time": "T234-SB202[KF]",
+          "memo": "",
+          "cos_ename": "Polymer Crystal Structure  Morphology and Defects",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "654",
+          "dep_primary": "1",
+          "dep_cname": "應用化學系",
+          "dep_ename": "Institute of Applied Chemistry",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "1102_5452": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1102_5452": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1102_5452": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "4A98AF77-4001-4569-AB8F-5C7907D1ADDF": {
       "dep_id": "4A98AF77-4001-4569-AB8F-5C7907D1ADDF",
       "dep_cname": "應用化學系分子科學碩博班",
@@ -2129,10 +3025,47 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1102_5471": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5471",
+          "cos_code": "IST5581",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "隨機過程",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.stat.nctu.edu.tw/people/bio.php?PID=12",
+          "teacher": "洪慧念",
+          "cos_time": "W234-A406[KF]",
+          "memo": "",
+          "cos_ename": "Stochastic Processes",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "657",
+          "dep_primary": "1",
+          "dep_cname": "統計學研究所",
+          "dep_ename": "Institute of Statistics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
         "1102_5468": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_5471": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -2148,10 +3081,19 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1102_5471": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
         "1102_5468": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_5471": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -3555,18 +4497,164 @@
         }
       }
     },
+    "74E5BE29-E5B7-44D4-B3AE-EDDD225E2A93": {
+      "dep_id": "74E5BE29-E5B7-44D4-B3AE-EDDD225E2A93",
+      "dep_cname": "電機學院碩士在職專班",
+      "dep_ename": "Degree Program of Electrical and Computer Science",
+      "1": {
+        "1102_5008": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5008",
+          "cos_code": "IEC5329",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "前瞻類比積體電路設計",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://amsdft.cn.nctu.edu.tw",
+          "teacher": "洪浩喬",
+          "cos_time": "Rabc-EE207[KF]",
+          "memo": "電控組；限陽明交大在職專班學生選修",
+          "cos_ename": "Advance Analog Integrated Circuit",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "506",
+          "dep_primary": "1",
+          "dep_cname": "電機學院碩士在職專班",
+          "dep_ename": "Degree Program of Electrical and Computer Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        }
+      },
+      "costype": {
+        "1102_5008": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1102_5008": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1102_5008": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "8FC7C3E2-F857-431A-9716-DC9C05C4AA64": {
+      "dep_id": "8FC7C3E2-F857-431A-9716-DC9C05C4AA64",
+      "dep_cname": "工學院碩士在職專班-工程管理組",
+      "dep_ename": "Degree Program of Construction Technology and Management",
+      "1": {
+        "1102_5312": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5312",
+          "cos_code": "IMI5201",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "碩士論文研究",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "工程專",
+          "cos_time": "",
+          "memo": "1.碩士論文研究，限有簽指導教授協議書且繳至專班辦公室者才能選修                            2.限陽明交大在職專班學生選修",
+          "cos_ename": "Thesis Research",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "608",
+          "dep_primary": "1",
+          "dep_cname": "工學院碩士在職專班-工程管理組",
+          "dep_ename": "Degree Program of Construction Technology and Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        }
+      },
+      "costype": {
+        "1102_5312": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1102_5312": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1102_5312": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "9FA73A9C-3D78-4A4F-98B0-D32BBA16F024": {
       "dep_id": "9FA73A9C-3D78-4A4F-98B0-D32BBA16F024",
       "dep_cname": "工學院碩士在職專班-半導體組",
       "dep_ename": "Degree Program of Semiconductor Material and Processing Equipment",
       "1": {
+        "1102_5316": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5316",
+          "cos_code": "ISE5001",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "碩士論文研究",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "半導體專班",
+          "cos_time": "",
+          "memo": "1. 碩士論文研究，限有簽指導教授協議書且繳至專班辦公室者才能選修\r\n2. 限陽明交大在職專班學生選修\r\n",
+          "cos_ename": "Thesis Research",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "609",
+          "dep_primary": "1",
+          "dep_cname": "工學院碩士在職專班-半導體組",
+          "dep_ename": "Degree Program of Semiconductor Material and Processing Equipment",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
         "1102_5317": {
           "acy": "110",
           "sem": "2",
           "cos_id": "5317",
           "cos_code": "ISE5206",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "半導體材料分析",
           "cos_credit": "3.00",
@@ -3590,6 +4678,15 @@
         }
       },
       "costype": {
+        "1102_5316": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5317": {
           "": {
             "course_category_cname": "",
@@ -3601,6 +4698,12 @@
         }
       },
       "brief": {
+        "1102_5316": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5317": {
           "": {
             "brief_code": "",
@@ -3609,6 +4712,9 @@
         }
       },
       "language": {
+        "1102_5316": {
+          "授課語言代碼": "zh-tw"
+        },
         "1102_5317": {
           "授課語言代碼": "zh-tw"
         }

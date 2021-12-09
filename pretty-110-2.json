@@ -11669,6 +11669,34 @@
           "reg_num": "0",
           "depType": "P"
         },
+        "1102_5267": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5267",
+          "cos_code": "IOC5227",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "進階三維電腦視覺 (英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "邱維辰",
+          "cos_time": "M56-ED305[KF]",
+          "memo": "本院學生優先；英文授課[English Medium Course][另外1小時(第3節)以非同步上課方式]",
+          "cos_ename": "Advances in 3D Vision",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAN",
+          "dep_primary": "1",
+          "dep_cname": "電機資訊英語授課學分學程",
+          "dep_ename": "Electrical Engineering and Computer Science-International Program",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
         "1102_5268": {
           "acy": "110",
           "sem": "2",
@@ -11801,6 +11829,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_5267": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5268": {
           "": {
             "course_category_cname": "",
@@ -11851,6 +11888,12 @@
             "brief": ""
           }
         },
+        "1102_5267": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5268": {
           "": {
             "brief_code": "",
@@ -11881,6 +11924,9 @@
           "授課語言代碼": "en-us"
         },
         "1102_5251": {
+          "授課語言代碼": "en-us"
+        },
+        "1102_5267": {
           "授課語言代碼": "en-us"
         },
         "1102_5268": {
@@ -15553,6 +15599,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1102_5267": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5267",
+          "cos_code": "IOC5227",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "進階三維電腦視覺 (英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "邱維辰",
+          "cos_time": "M56-ED305[KF]",
+          "memo": "本院學生優先；英文授課[English Medium Course][另外1小時(第3節)以非同步上課方式]",
+          "cos_ename": "Advances in 3D Vision",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "551",
+          "dep_primary": "1",
+          "dep_cname": "資訊科學與工程研究所",
+          "dep_ename": "Institute of Computer Science and Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1102_5268": {
           "acy": "110",
           "sem": "2",
@@ -15674,6 +15748,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_5267": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5268": {
           "": {
             "course_category_cname": "",
@@ -15736,6 +15819,12 @@
             "brief": ""
           }
         },
+        "1102_5267": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5268": {
           "": {
             "brief_code": "",
@@ -15770,6 +15859,9 @@
         },
         "1102_5262": {
           "授課語言代碼": "zh-tw"
+        },
+        "1102_5267": {
+          "授課語言代碼": "en-us"
         },
         "1102_5268": {
           "授課語言代碼": "en-us"

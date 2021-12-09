@@ -2769,10 +2769,10 @@
       },
       "costype": {
         "1102_1241": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
+          "遠距課程_遠距": {
+            "course_category_cname": "遠距課程_遠距",
+            "course_category_ename": "Distance  Learning Courses_DL",
+            "course_category_type": "4",
             "GECIName": "",
             "GECIEngName": ""
           }
@@ -2865,10 +2865,10 @@
           }
         },
         "1102_1300": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
+          "遠距課程_遠距": {
+            "course_category_cname": "遠距課程_遠距",
+            "course_category_ename": "Distance  Learning Courses_DL",
+            "course_category_type": "4",
             "GECIName": "",
             "GECIEngName": ""
           }
@@ -2929,6 +2929,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "U"
+        },
+        "1102_1329": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1329",
+          "cos_code": "DEP2349",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "電路理論（二）",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "羅舜聰",
+          "cos_time": "M56-SC158[KF],F5-SC162[KF]",
+          "memo": "",
+          "cos_ename": "Circuit Theory (II)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "651",
+          "dep_primary": "1",
+          "dep_cname": "電子物理學系",
+          "dep_ename": "Department of Electro-Physics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
         }
       },
       "costype": {
@@ -2940,6 +2968,15 @@
             "GECIName": "工",
             "GECIEngName": "COE"
           }
+        },
+        "1102_1329": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -2948,10 +2985,19 @@
             "brief_code": "A205,A504",
             "brief": "自然/進階(96),跨院基本素養(106)"
           }
+        },
+        "1102_1329": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
         "1102_1327": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1329": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -4367,6 +4413,13 @@
             "course_category_cname": "通識跨院基本素養_通識跨院",
             "course_category_ename": "General Education Course: Intercollegiate_GECI",
             "course_category_type": "16",
+            "GECIName": "管",
+            "GECIEngName": "COM"
+          },
+          "遠距課程_遠距": {
+            "course_category_cname": "遠距課程_遠距",
+            "course_category_ename": "Distance  Learning Courses_DL",
+            "course_category_type": "4",
             "GECIName": "管",
             "GECIEngName": "COM"
           }
@@ -9614,10 +9667,47 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1102_5292": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5292",
+          "cos_code": "IDS5008",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "數值軟體開發(英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "https://yyc.solvcon.net/",
+          "teacher": "陳永昱",
+          "cos_time": "Mz12-EC114[KF]",
+          "memo": "本院學生優先；英文授課[English Medium Course]",
+          "cos_ename": "Numerical Software Development ",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "554",
+          "dep_primary": "1",
+          "dep_cname": "數據科學與工程研究所碩士班",
+          "dep_ename": "Institute of Data Science and Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
         "1102_5290": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_5292": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -9633,11 +9723,20 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1102_5292": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
         "1102_5290": {
           "授課語言代碼": "zh-tw"
+        },
+        "1102_5292": {
+          "授課語言代碼": "en-us"
         }
       }
     },
@@ -9988,6 +10087,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1102_5417": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5417",
+          "cos_code": "IEP5656",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "量子物理與元件",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "羅舜聰",
+          "cos_time": "W567-SC162[KF]",
+          "memo": "",
+          "cos_ename": "Quantum Physics and Devices",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "651",
+          "dep_primary": "1",
+          "dep_cname": "電子物理學系",
+          "dep_ename": "Institute of Electro-Physics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
@@ -9999,6 +10126,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1102_5417": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -10007,10 +10143,19 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1102_5417": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
         "1102_5410": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_5417": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -15465,10 +15610,10 @@
           }
         },
         "1102_5172": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
+          "遠距課程_遠距": {
+            "course_category_cname": "遠距課程_遠距",
+            "course_category_ename": "Distance  Learning Courses_DL",
+            "course_category_type": "4",
             "GECIName": "",
             "GECIEngName": ""
           }
@@ -15580,10 +15725,10 @@
           }
         },
         "1102_5184": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
+          "遠距課程_遠距": {
+            "course_category_cname": "遠距課程_遠距",
+            "course_category_ename": "Distance  Learning Courses_DL",
+            "course_category_type": "4",
             "GECIName": "",
             "GECIEngName": ""
           }

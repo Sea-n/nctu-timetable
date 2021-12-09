@@ -3196,6 +3196,34 @@
           "reg_num": "53",
           "depType": "U"
         },
+        "1102_1391": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1391",
+          "cos_code": "DAC1203",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "有機化學（三）",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "孫仲銘",
+          "cos_time": "M234-SB522",
+          "memo": "",
+          "cos_ename": "Organic Chemistry(III)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "654",
+          "dep_primary": "1",
+          "dep_cname": "應用化學系",
+          "dep_ename": "Department of Applied Chemistry",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1102_1398": {
           "acy": "110",
           "sem": "2",
@@ -3253,6 +3281,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_1391": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_1398": {
           "": {
             "course_category_cname": "",
@@ -3282,6 +3319,12 @@
             "brief": ""
           }
         },
+        "1102_1391": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_1398": {
           "": {
             "brief_code": "",
@@ -3297,6 +3340,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_1384": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1391": {
           "授課語言代碼": "zh-tw"
         },
         "1102_1398": {
@@ -17092,6 +17138,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1102_5467": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5467",
+          "cos_code": "IST5519",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "時間序列",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "高竹嵐",
+          "cos_time": "W567-A406[KF]",
+          "memo": "",
+          "cos_ename": "Time Series",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "657",
+          "dep_primary": "1",
+          "dep_cname": "統計學研究所",
+          "dep_ename": "Institute of Statistics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1102_5468": {
           "acy": "110",
           "sem": "2",
@@ -17159,6 +17233,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_5467": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5468": {
           "": {
             "course_category_cname": "",
@@ -17185,6 +17268,12 @@
             "brief": ""
           }
         },
+        "1102_5467": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5468": {
           "": {
             "brief_code": "",
@@ -17201,6 +17290,9 @@
       "language": {
         "1102_5466": {
           "授課語言代碼": "en-us"
+        },
+        "1102_5467": {
+          "授課語言代碼": "zh-tw"
         },
         "1102_5468": {
           "授課語言代碼": "zh-tw"
@@ -21254,6 +21346,34 @@
       "dep_cname": "理學院碩士在職專班-應用科技組",
       "dep_ename": "Degree Program of Applied Science and Technology",
       "1": {
+        "1102_5497": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5497",
+          "cos_code": "IAT5127",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "生物醫藥二",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "孫仲銘",
+          "cos_time": "Rabc-SB522",
+          "memo": "限本校在職專班學生選修",
+          "cos_ename": "Drug Discovery and Development(II)",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "661",
+          "dep_primary": "1",
+          "dep_cname": "理學院碩士在職專班-應用科技組",
+          "dep_ename": "Degree Program of Applied Science and Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
         "1102_5498": {
           "acy": "110",
           "sem": "2",
@@ -21284,6 +21404,15 @@
         }
       },
       "costype": {
+        "1102_5497": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5498": {
           "": {
             "course_category_cname": "",
@@ -21295,6 +21424,12 @@
         }
       },
       "brief": {
+        "1102_5497": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5498": {
           "": {
             "brief_code": "",
@@ -21303,6 +21438,9 @@
         }
       },
       "language": {
+        "1102_5497": {
+          "授課語言代碼": "zh-tw"
+        },
         "1102_5498": {
           "授課語言代碼": "zh-tw"
         }

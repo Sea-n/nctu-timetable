@@ -3195,6 +3195,34 @@
           "crsoutline_type": "data",
           "reg_num": "53",
           "depType": "U"
+        },
+        "1102_1398": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1398",
+          "cos_code": "DAC3203",
+          "num_limit": "0",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "專題研究(三)",
+          "cos_credit": "1.00",
+          "cos_hours": "3.00",
+          "TURL": "https://dac.nycu.edu.tw/members/1266",
+          "teacher": "吳淑褓",
+          "cos_time": "S234-",
+          "memo": "",
+          "cos_ename": "Research(3)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "654",
+          "dep_primary": "1",
+          "dep_cname": "應用化學系",
+          "dep_ename": "Department of Applied Chemistry",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
         }
       },
       "costype": {
@@ -3224,6 +3252,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1102_1398": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -3244,6 +3281,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1102_1398": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -3254,6 +3297,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_1384": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1398": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -16744,6 +16790,62 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1102_5440": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5440",
+          "cos_code": "IAC5400",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "專題演講",
+          "cos_credit": "1.00",
+          "cos_hours": "4.00",
+          "TURL": "https://dac.nycu.edu.tw/members/1266",
+          "teacher": "吳淑褓",
+          "cos_time": "F5678-SB210[KF]",
+          "memo": "高分子、有機、無機、物化、分析、生化等領域請選本組",
+          "cos_ename": "Departmental Colloquium",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "654",
+          "dep_primary": "1",
+          "dep_cname": "應用化學系",
+          "dep_ename": "Institute of Applied Chemistry",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1102_5446": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5446",
+          "cos_code": "IAC5419",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "論文研究",
+          "cos_credit": "1.00",
+          "cos_hours": "2.00",
+          "TURL": "https://dac.nycu.edu.tw/members/1266",
+          "teacher": "吳淑褓",
+          "cos_time": "",
+          "memo": "高分子、有機、無機、物化、分析、生化等領域請選本組",
+          "cos_ename": "Thesis Research",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "654",
+          "dep_primary": "1",
+          "dep_cname": "應用化學系",
+          "dep_ename": "Institute of Applied Chemistry",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1102_5452": {
           "acy": "110",
           "sem": "2",
@@ -16783,6 +16885,24 @@
             "GECIEngName": ""
           }
         },
+        "1102_5440": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_5446": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5452": {
           "": {
             "course_category_cname": "",
@@ -16800,6 +16920,18 @@
             "brief": ""
           }
         },
+        "1102_5440": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1102_5446": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5452": {
           "": {
             "brief_code": "",
@@ -16809,6 +16941,12 @@
       },
       "language": {
         "1102_5438": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_5440": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_5446": {
           "授課語言代碼": "zh-tw"
         },
         "1102_5452": {
@@ -16926,6 +17064,34 @@
       "dep_cname": "統計學研究所",
       "dep_ename": "Institute of Statistics",
       "1": {
+        "1102_5466": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5466",
+          "cos_code": "IST5515",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "統計計算",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "高竹嵐",
+          "cos_time": "M567-A406[KF]",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Statistical Computing",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "657",
+          "dep_primary": "1",
+          "dep_cname": "統計學研究所",
+          "dep_ename": "Institute of Statistics",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1102_5468": {
           "acy": "110",
           "sem": "2",
@@ -16984,6 +17150,15 @@
         }
       },
       "costype": {
+        "1102_5466": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5468": {
           "": {
             "course_category_cname": "",
@@ -17004,6 +17179,12 @@
         }
       },
       "brief": {
+        "1102_5466": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5468": {
           "": {
             "brief_code": "",
@@ -17018,6 +17199,9 @@
         }
       },
       "language": {
+        "1102_5466": {
+          "授課語言代碼": "en-us"
+        },
         "1102_5468": {
           "授課語言代碼": "zh-tw"
         },
@@ -23210,6 +23394,62 @@
           "reg_num": "0",
           "depType": "J"
         },
+        "1102_5191": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5191",
+          "cos_code": "ITL5655",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "證券犯罪 ",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "許永欽",
+          "cos_time": "Mabc-MB1069",
+          "memo": "限科法博、科法所及科法專班同學選修",
+          "cos_ename": "Securities Crimes",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "730",
+          "dep_primary": "1",
+          "dep_cname": "科技法律研究所碩士在職專班",
+          "dep_ename": "Degree Program of Technology Law",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
+        "1102_5192": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5192",
+          "cos_code": "ITL5656",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "數位經濟與反托拉斯",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "鄭歆儒",
+          "cos_time": "Tabc-",
+          "memo": "遠距課程。開放通識，開放大三以上同學選修\r\n",
+          "cos_ename": "Digital Economy and Antitrust Law",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "730",
+          "dep_primary": "1",
+          "dep_cname": "科技法律研究所碩士在職專班",
+          "dep_ename": "Degree Program of Technology Law",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
         "1102_5193": {
           "acy": "110",
           "sem": "2",
@@ -23481,6 +23721,24 @@
             "GECIEngName": ""
           }
         },
+        "1102_5191": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_5192": {
+          "遠距課程_遠距": {
+            "course_category_cname": "遠距課程_遠距",
+            "course_category_ename": "Distance  Learning Courses_DL",
+            "course_category_type": "4",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5193": {
           "": {
             "course_category_cname": "",
@@ -23648,6 +23906,18 @@
             "brief": ""
           }
         },
+        "1102_5191": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1102_5192": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5193": {
           "": {
             "brief_code": "",
@@ -23732,6 +24002,12 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_5190": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_5191": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_5192": {
           "授課語言代碼": "zh-tw"
         },
         "1102_5193": {

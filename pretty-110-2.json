@@ -1993,7 +1993,7 @@
           "sem": "2",
           "cos_id": "1149",
           "cos_code": "DCP3321",
-          "num_limit": "150",
+          "num_limit": "120",
           "dep_limit": "*",
           "URL": null,
           "cos_cname": "正規語言概論",
@@ -2012,6 +2012,34 @@
           "dep_ename": "Department of Computer Science",
           "cos_type": "選修",
           "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1102_1158": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1158",
+          "cos_code": "DCP3103",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "資訊工程專題(一)(英文授課)",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "資工系",
+          "cos_time": "S56-ED102[KF]",
+          "memo": "必修；電資學士班同學在二年級以上必須選修電機學院與資訊學院同一系所開至少2學期專題課程；英文授課[English Medium Course]",
+          "cos_ename": "Computer Science and Engineering Projects (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "550",
+          "dep_primary": "1",
+          "dep_cname": "資訊工程學系",
+          "dep_ename": "Department of Computer Science",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "U"
@@ -2053,6 +2081,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1102_1158": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -2079,6 +2116,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1102_1158": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -2093,6 +2136,9 @@
         },
         "1102_1149": {
           "授課語言代碼": "zh-tw"
+        },
+        "1102_1158": {
+          "授課語言代碼": "en-us"
         }
       }
     },
@@ -2489,10 +2535,47 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "U"
+        },
+        "1102_1300": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1300",
+          "cos_code": "DMA2503",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "電子材料",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "吳耀銓",
+          "cos_time": "F56-EF207[KF]",
+          "memo": "網路授課",
+          "cos_ename": "Electronic Materials",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "613",
+          "dep_primary": "1",
+          "dep_cname": "材料科學與工程學系",
+          "dep_ename": "Department of Materials Science and Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
         }
       },
       "costype": {
         "1102_1297": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_1300": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -2508,10 +2591,78 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1102_1300": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
         "1102_1297": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1300": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "900C8A5B-25F1-4110-8F09-E9ACB0D68CFD": {
+      "dep_id": "900C8A5B-25F1-4110-8F09-E9ACB0D68CFD",
+      "dep_cname": "電子物理學系",
+      "dep_ename": "Department of Electro-Physics",
+      "1": {
+        "1102_1327": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1327",
+          "cos_code": "DEP2327",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "邏輯設計",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://140.113.28.160/",
+          "teacher": "趙天生",
+          "cos_time": "M34R7-SC158[KF]",
+          "memo": "",
+          "cos_ename": "Logic Design",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "651",
+          "dep_primary": "1",
+          "dep_cname": "電子物理學系",
+          "dep_ename": "Department of Electro-Physics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        }
+      },
+      "costype": {
+        "1102_1327": {
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "工",
+            "GECIEngName": "COE"
+          }
+        }
+      },
+      "brief": {
+        "1102_1327": {
+          "A205,A504": {
+            "brief_code": "A205,A504",
+            "brief": "自然/進階(96),跨院基本素養(106)"
+          }
+        }
+      },
+      "language": {
+        "1102_1327": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -7142,6 +7293,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1102_5088": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5088",
+          "cos_code": "ECM9038",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "MIMO通訊系統",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "https://sites.google.com/site/ycjerryhuang/",
+          "teacher": "黃昱智",
+          "cos_time": "W234-EE118[KF]",
+          "memo": "110B MIMO通訊系統改為中文授課",
+          "cos_ename": "MIMO Communication Systems",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "513",
+          "dep_primary": "1",
+          "dep_cname": "電信工程研究所",
+          "dep_ename": "Institute of Communication Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1102_5089": {
           "acy": "110",
           "sem": "2",
@@ -7199,6 +7378,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_5088": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5089": {
           "": {
             "course_category_cname": "",
@@ -7228,6 +7416,12 @@
             "brief": ""
           }
         },
+        "1102_5088": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5089": {
           "": {
             "brief_code": "",
@@ -7243,6 +7437,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_5087": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_5088": {
           "授課語言代碼": "zh-tw"
         },
         "1102_5089": {
@@ -7748,6 +7945,34 @@
       "dep_cname": "資訊科學與工程研究所",
       "dep_ename": "Institute of Computer Science and Engineering",
       "1": {
+        "1102_5243": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5243",
+          "cos_code": "IOC5010",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "個別研究",
+          "cos_credit": "1.00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "資科工所",
+          "cos_time": "Sz-",
+          "memo": "資科工所必修；每學期須選修「個別研究」課程",
+          "cos_ename": "Independent Study",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "551",
+          "dep_primary": "1",
+          "dep_cname": "資訊科學與工程研究所",
+          "dep_ename": "Institute of Computer Science and Engineering",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1102_5248": {
           "acy": "110",
           "sem": "2",
@@ -7974,6 +8199,15 @@
         }
       },
       "costype": {
+        "1102_5243": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5248": {
           "": {
             "course_category_cname": "",
@@ -8048,6 +8282,12 @@
         }
       },
       "brief": {
+        "1102_5243": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5248": {
           "": {
             "brief_code": "",
@@ -8098,6 +8338,9 @@
         }
       },
       "language": {
+        "1102_5243": {
+          "授課語言代碼": "zh-tw"
+        },
         "1102_5248": {
           "授課語言代碼": "en-us"
         },
@@ -8129,6 +8372,34 @@
       "dep_cname": "網路工程研究所",
       "dep_ename": "Institute of Network Engineering",
       "1": {
+        "1102_5271": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5271",
+          "cos_code": "IOE5010",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "個別研究",
+          "cos_credit": "1.00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "網工所",
+          "cos_time": "Sz-",
+          "memo": "網工所必修；每學期須選修「個別研究」課程",
+          "cos_ename": "Independent Study",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "552",
+          "dep_primary": "1",
+          "dep_cname": "網路工程研究所",
+          "dep_ename": "Institute of Network Engineering",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1102_5273": {
           "acy": "110",
           "sem": "2",
@@ -8187,6 +8458,15 @@
         }
       },
       "costype": {
+        "1102_5271": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5273": {
           "": {
             "course_category_cname": "",
@@ -8207,6 +8487,12 @@
         }
       },
       "brief": {
+        "1102_5271": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5273": {
           "": {
             "brief_code": "",
@@ -8221,10 +8507,131 @@
         }
       },
       "language": {
+        "1102_5271": {
+          "授課語言代碼": "zh-tw"
+        },
         "1102_5273": {
           "授課語言代碼": "en-us"
         },
         "1102_5274": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "7BDC1EB0-9B23-4A92-AB4A-ED06B71D55C0": {
+      "dep_id": "7BDC1EB0-9B23-4A92-AB4A-ED06B71D55C0",
+      "dep_cname": "多媒體工程研究所",
+      "dep_ename": "Institute of Multimedia Engineering",
+      "1": {
+        "1102_5279": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5279",
+          "cos_code": "ILE5011",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "個別研究",
+          "cos_credit": "1.00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "多媒體所",
+          "cos_time": "Sz-",
+          "memo": "多工所必修；每學期須選修「個別研究」課程",
+          "cos_ename": "Independent Study",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "553",
+          "dep_primary": "1",
+          "dep_cname": "多媒體工程研究所",
+          "dep_ename": "Institute of Multimedia Engineering",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "1102_5279": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1102_5279": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1102_5279": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "537EA001-3191-4C00-88A8-0FDA05982424": {
+      "dep_id": "537EA001-3191-4C00-88A8-0FDA05982424",
+      "dep_cname": "數據科學與工程研究所碩士班",
+      "dep_ename": "Institute of Data Science and Engineering",
+      "1": {
+        "1102_5290": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5290",
+          "cos_code": "IDS5001",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "個別研究",
+          "cos_credit": "1.00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "數據所",
+          "cos_time": "Sz-",
+          "memo": "數據科學與工程研究所必修；每學期須選修「個別研究」課程",
+          "cos_ename": "Independent Study",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "554",
+          "dep_primary": "1",
+          "dep_cname": "數據科學與工程研究所碩士班",
+          "dep_ename": "Institute of Data Science and Engineering",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "1102_5290": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1102_5290": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1102_5290": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -8540,6 +8947,65 @@
       },
       "language": {
         "1102_5389": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "41BD6B9E-1F68-4F9C-9762-12776BE7A147": {
+      "dep_id": "41BD6B9E-1F68-4F9C-9762-12776BE7A147",
+      "dep_cname": "電子物理學系",
+      "dep_ename": "Institute of Electro-Physics",
+      "1": {
+        "1102_5410": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5410",
+          "cos_code": "IEP5569",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "半導體物理及元件（二）",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://140.113.28.160/",
+          "teacher": "趙天生",
+          "cos_time": "F234-SC162[KF]",
+          "memo": "",
+          "cos_ename": "Semiconductor Physics and Devices (II)",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "651",
+          "dep_primary": "1",
+          "dep_cname": "電子物理學系",
+          "dep_ename": "Institute of Electro-Physics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "1102_5410": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1102_5410": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1102_5410": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -11677,6 +12143,65 @@
         }
       }
     },
+    "75E185EE-1E25-4A97-99FC-E69EFCE5EA58": {
+      "dep_id": "75E185EE-1E25-4A97-99FC-E69EFCE5EA58",
+      "dep_cname": "資訊科學與工程研究所",
+      "dep_ename": "Institute of Computer Science and Engineering",
+      "1": {
+        "1102_4006": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "4006",
+          "cos_code": "IOC5011",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "博士學位論文研究",
+          "cos_credit": "1.00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "資科工所",
+          "cos_time": "S1-",
+          "memo": "資科工所博士生資格考試通過後必修",
+          "cos_ename": "Ph.D.Thesis Study",
+          "brief": "",
+          "degree": "4",
+          "dep_id": "551",
+          "dep_primary": "1",
+          "dep_cname": "資訊科學與工程研究所",
+          "dep_ename": "Institute of Computer Science and Engineering",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "D"
+        }
+      },
+      "costype": {
+        "1102_4006": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1102_4006": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1102_4006": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "74E5BE29-E5B7-44D4-B3AE-EDDD225E2A93": {
       "dep_id": "74E5BE29-E5B7-44D4-B3AE-EDDD225E2A93",
       "dep_cname": "電機學院碩士在職專班",
@@ -12170,6 +12695,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "J"
+        },
+        "1102_5319": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5319",
+          "cos_code": "ISE5214",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "電子與光電材料",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "吳耀銓",
+          "cos_time": "Rabc-EF207[KF]",
+          "memo": "限陽明交大在職專班學生選修\r\n",
+          "cos_ename": "Electronic and Optoelectronic Materials  ",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "609",
+          "dep_primary": "1",
+          "dep_cname": "工學院碩士在職專班-半導體組",
+          "dep_ename": "Degree Program of Semiconductor Material and Processing Equipment",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
         }
       },
       "costype": {
@@ -12183,6 +12736,15 @@
           }
         },
         "1102_5317": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_5319": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -12204,6 +12766,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1102_5319": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -12211,6 +12779,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_5317": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_5319": {
           "授課語言代碼": "zh-tw"
         }
       }

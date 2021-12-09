@@ -2943,6 +2943,65 @@
         }
       }
     },
+    "437984C4-C0DD-445C-9801-9EE0954A0046": {
+      "dep_id": "437984C4-C0DD-445C-9801-9EE0954A0046",
+      "dep_cname": "理學院科學學士學位學程",
+      "dep_ename": "Undergraduate honors Program of Interdisciplinary Science",
+      "1": {
+        "1102_1310": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1310",
+          "cos_code": "DPS2006",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "天文學發展史導論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "葉李華",
+          "cos_time": "W34n-SA212",
+          "memo": "理學院學士班學生優先，建議大二以上學生選修。",
+          "cos_ename": "Introduction to the History of Astronomy",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "650",
+          "dep_primary": "1",
+          "dep_cname": "理學院科學學士學位學程",
+          "dep_ename": "Undergraduate honors Program of Interdisciplinary Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "C"
+        }
+      },
+      "costype": {
+        "1102_1310": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1102_1310": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1102_1310": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "900C8A5B-25F1-4110-8F09-E9ACB0D68CFD": {
       "dep_id": "900C8A5B-25F1-4110-8F09-E9ACB0D68CFD",
       "dep_cname": "電子物理學系",
@@ -3760,6 +3819,65 @@
       },
       "language": {
         "1102_1720": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "028758A1-A365-44DB-9EF4-5B97C510A2E2": {
+      "dep_id": "028758A1-A365-44DB-9EF4-5B97C510A2E2",
+      "dep_cname": "百川學士學位學程",
+      "dep_ename": "",
+      "1": {
+        "1102_1408": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1408",
+          "cos_code": "DWA1079",
+          "num_limit": "15",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "科幻創意解析",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "葉李華",
+          "cos_time": "T789-SC152[KF]",
+          "memo": "初選上限15人僅限百川1-3年級同學，開學後加退選對全校開放上限增至20人",
+          "cos_ename": "Analysis of Creativities in Science Fiction",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "950",
+          "dep_primary": "1",
+          "dep_cname": "百川學士學位學程",
+          "dep_ename": "",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "C"
+        }
+      },
+      "costype": {
+        "1102_1408": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1102_1408": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1102_1408": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -8218,790 +8336,6 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "O"
-        },
-        "1102_B415": {
-          "acy": "110",
-          "sem": "2",
-          "cos_id": "B415",
-          "cos_code": "A8986  ",
-          "num_limit": "32",
-          "dep_limit": "*",
-          "URL": null,
-          "cos_cname": "匹克球",
-          "cos_credit": ".00",
-          "cos_hours": "2.00",
-          "TURL": "",
-          "teacher": "邱榮基",
-          "cos_time": "M12-",
-          "memo": "為維護教學品質，限制修課人數，額滿不予人工加簽。",
-          "cos_ename": "Pickleball",
-          "brief": "",
-          "degree": "1",
-          "dep_id": "OU9",
-          "dep_primary": "1",
-          "dep_cname": "體育室",
-          "dep_ename": "Physical Education Office",
-          "cos_type": "體育",
-          "cos_type_e": "Physical Education",
-          "crsoutline_type": "data",
-          "reg_num": "0",
-          "depType": "O"
-        },
-        "1102_B416": {
-          "acy": "110",
-          "sem": "2",
-          "cos_id": "B416",
-          "cos_code": "A8986  ",
-          "num_limit": "32",
-          "dep_limit": "*",
-          "URL": null,
-          "cos_cname": "匹克球",
-          "cos_credit": ".00",
-          "cos_hours": "2.00",
-          "TURL": "",
-          "teacher": "邱榮基",
-          "cos_time": "M34-",
-          "memo": "為維護教學品質，限制修課人數，額滿不予人工加簽。",
-          "cos_ename": "Pickleball",
-          "brief": "",
-          "degree": "1",
-          "dep_id": "OU9",
-          "dep_primary": "1",
-          "dep_cname": "體育室",
-          "dep_ename": "Physical Education Office",
-          "cos_type": "體育",
-          "cos_type_e": "Physical Education",
-          "crsoutline_type": "data",
-          "reg_num": "0",
-          "depType": "O"
-        },
-        "1102_B417": {
-          "acy": "110",
-          "sem": "2",
-          "cos_id": "B417",
-          "cos_code": "A3151  ",
-          "num_limit": "30",
-          "dep_limit": "*",
-          "URL": null,
-          "cos_cname": "桌球",
-          "cos_credit": ".00",
-          "cos_hours": "2.00",
-          "TURL": "",
-          "teacher": "李翔群",
-          "cos_time": "M12-",
-          "memo": "為維護教學品質，限制修課人數。",
-          "cos_ename": "Table Tennis",
-          "brief": "",
-          "degree": "1",
-          "dep_id": "OU9",
-          "dep_primary": "1",
-          "dep_cname": "體育室",
-          "dep_ename": "Physical Education Office",
-          "cos_type": "體育",
-          "cos_type_e": "Physical Education",
-          "crsoutline_type": "data",
-          "reg_num": "0",
-          "depType": "O"
-        },
-        "1102_B418": {
-          "acy": "110",
-          "sem": "2",
-          "cos_id": "B418",
-          "cos_code": "A9539  ",
-          "num_limit": "30",
-          "dep_limit": "*",
-          "URL": null,
-          "cos_cname": "軟式網球",
-          "cos_credit": ".00",
-          "cos_hours": "2.00",
-          "TURL": "",
-          "teacher": "莊泰源",
-          "cos_time": "M34-",
-          "memo": "為維護教學品質，限制修課人數。",
-          "cos_ename": "Soft Tennis",
-          "brief": "",
-          "degree": "1",
-          "dep_id": "OU9",
-          "dep_primary": "1",
-          "dep_cname": "體育室",
-          "dep_ename": "Physical Education Office",
-          "cos_type": "體育",
-          "cos_type_e": "Physical Education",
-          "crsoutline_type": "data",
-          "reg_num": "0",
-          "depType": "O"
-        },
-        "1102_B419": {
-          "acy": "110",
-          "sem": "2",
-          "cos_id": "B419",
-          "cos_code": "A4454  ",
-          "num_limit": "30",
-          "dep_limit": "*",
-          "URL": null,
-          "cos_cname": "排球",
-          "cos_credit": ".00",
-          "cos_hours": "2.00",
-          "TURL": "",
-          "teacher": "林顯丞",
-          "cos_time": "M56-",
-          "memo": "為維護教學品質，限制修課人數，初選階段限牙醫二選修，加退選階段開放選修。",
-          "cos_ename": "Volleyball",
-          "brief": "",
-          "degree": "1",
-          "dep_id": "OU9",
-          "dep_primary": "1",
-          "dep_cname": "體育室",
-          "dep_ename": "Physical Education Office",
-          "cos_type": "體育",
-          "cos_type_e": "Physical Education",
-          "crsoutline_type": "data",
-          "reg_num": "0",
-          "depType": "O"
-        },
-        "1102_B420": {
-          "acy": "110",
-          "sem": "2",
-          "cos_id": "B420",
-          "cos_code": "A7580  ",
-          "num_limit": "30",
-          "dep_limit": "*",
-          "URL": null,
-          "cos_cname": "足球",
-          "cos_credit": ".00",
-          "cos_hours": "2.00",
-          "TURL": "",
-          "teacher": "林昭光",
-          "cos_time": "M78-",
-          "memo": "為維護教學品質，限制修課人數，初選階段限醫學三選修，加退選階段開放選修。",
-          "cos_ename": "Soccer",
-          "brief": "",
-          "degree": "1",
-          "dep_id": "OU9",
-          "dep_primary": "1",
-          "dep_cname": "體育室",
-          "dep_ename": "Physical Education Office",
-          "cos_type": "體育",
-          "cos_type_e": "Physical Education",
-          "crsoutline_type": "data",
-          "reg_num": "0",
-          "depType": "O"
-        },
-        "1102_B421": {
-          "acy": "110",
-          "sem": "2",
-          "cos_id": "B421",
-          "cos_code": "A4022  ",
-          "num_limit": "30",
-          "dep_limit": "*",
-          "URL": null,
-          "cos_cname": "動力伸展與紓壓",
-          "cos_credit": ".00",
-          "cos_hours": "2.00",
-          "TURL": "",
-          "teacher": "藍于青",
-          "cos_time": "M78-",
-          "memo": "為維護教學品質，限制修課人數，初選階段限醫學三選修，加退選階段開放選修。",
-          "cos_ename": "Power Extension and Relax",
-          "brief": "",
-          "degree": "1",
-          "dep_id": "OU9",
-          "dep_primary": "1",
-          "dep_cname": "體育室",
-          "dep_ename": "Physical Education Office",
-          "cos_type": "體育",
-          "cos_type_e": "Physical Education",
-          "crsoutline_type": "data",
-          "reg_num": "0",
-          "depType": "O"
-        },
-        "1102_B422": {
-          "acy": "110",
-          "sem": "2",
-          "cos_id": "B422",
-          "cos_code": "A5794  ",
-          "num_limit": "30",
-          "dep_limit": "*",
-          "URL": null,
-          "cos_cname": "網球",
-          "cos_credit": ".00",
-          "cos_hours": "2.00",
-          "TURL": "",
-          "teacher": "陳厚諭",
-          "cos_time": "M78-",
-          "memo": "為維護教學品質，限制修課人數，初選階段限醫學三選修，加退選階段開放選修。",
-          "cos_ename": "Tennis",
-          "brief": "",
-          "degree": "1",
-          "dep_id": "OU9",
-          "dep_primary": "1",
-          "dep_cname": "體育室",
-          "dep_ename": "Physical Education Office",
-          "cos_type": "體育",
-          "cos_type_e": "Physical Education",
-          "crsoutline_type": "data",
-          "reg_num": "0",
-          "depType": "O"
-        },
-        "1102_B423": {
-          "acy": "110",
-          "sem": "2",
-          "cos_id": "B423",
-          "cos_code": "A4454  ",
-          "num_limit": "30",
-          "dep_limit": "*",
-          "URL": null,
-          "cos_cname": "排球",
-          "cos_credit": ".00",
-          "cos_hours": "2.00",
-          "TURL": "",
-          "teacher": "林顯丞",
-          "cos_time": "M78-",
-          "memo": "為維護教學品質，限制修課人數，初選階段限醫學三選修，加退選階段開放選修。",
-          "cos_ename": "Volleyball",
-          "brief": "",
-          "degree": "1",
-          "dep_id": "OU9",
-          "dep_primary": "1",
-          "dep_cname": "體育室",
-          "dep_ename": "Physical Education Office",
-          "cos_type": "體育",
-          "cos_type_e": "Physical Education",
-          "crsoutline_type": "data",
-          "reg_num": "0",
-          "depType": "O"
-        },
-        "1102_B424": {
-          "acy": "110",
-          "sem": "2",
-          "cos_id": "B424",
-          "cos_code": "A8986  ",
-          "num_limit": "30",
-          "dep_limit": "*",
-          "URL": null,
-          "cos_cname": "匹克球",
-          "cos_credit": ".00",
-          "cos_hours": "2.00",
-          "TURL": "",
-          "teacher": "林昭光",
-          "cos_time": "T12-",
-          "memo": "為維護教學品質，限制修課人數。",
-          "cos_ename": "Pickleball",
-          "brief": "",
-          "degree": "1",
-          "dep_id": "OU9",
-          "dep_primary": "1",
-          "dep_cname": "體育室",
-          "dep_ename": "Physical Education Office",
-          "cos_type": "體育",
-          "cos_type_e": "Physical Education",
-          "crsoutline_type": "data",
-          "reg_num": "0",
-          "depType": "O"
-        },
-        "1102_B425": {
-          "acy": "110",
-          "sem": "2",
-          "cos_id": "B425",
-          "cos_code": "A8986  ",
-          "num_limit": "30",
-          "dep_limit": "*",
-          "URL": null,
-          "cos_cname": "匹克球",
-          "cos_credit": ".00",
-          "cos_hours": "2.00",
-          "TURL": "",
-          "teacher": "林昭光",
-          "cos_time": "T34-",
-          "memo": "為維護教學品質，限制修課人數。",
-          "cos_ename": "Pickleball",
-          "brief": "",
-          "degree": "1",
-          "dep_id": "OU9",
-          "dep_primary": "1",
-          "dep_cname": "體育室",
-          "dep_ename": "Physical Education Office",
-          "cos_type": "體育",
-          "cos_type_e": "Physical Education",
-          "crsoutline_type": "data",
-          "reg_num": "0",
-          "depType": "O"
-        },
-        "1102_B426": {
-          "acy": "110",
-          "sem": "2",
-          "cos_id": "B426",
-          "cos_code": "A3151  ",
-          "num_limit": "30",
-          "dep_limit": "*",
-          "URL": null,
-          "cos_cname": "桌球",
-          "cos_credit": ".00",
-          "cos_hours": "2.00",
-          "TURL": "",
-          "teacher": "黃中興",
-          "cos_time": "T34-",
-          "memo": "為維護教學品質，限制修課人數。",
-          "cos_ename": "Table Tennis",
-          "brief": "",
-          "degree": "1",
-          "dep_id": "OU9",
-          "dep_primary": "1",
-          "dep_cname": "體育室",
-          "dep_ename": "Physical Education Office",
-          "cos_type": "體育",
-          "cos_type_e": "Physical Education",
-          "crsoutline_type": "data",
-          "reg_num": "0",
-          "depType": "O"
-        },
-        "1102_B427": {
-          "acy": "110",
-          "sem": "2",
-          "cos_id": "B427",
-          "cos_code": "A1831  ",
-          "num_limit": "25",
-          "dep_limit": "*",
-          "URL": null,
-          "cos_cname": "羽球",
-          "cos_credit": ".00",
-          "cos_hours": "2.00",
-          "TURL": "",
-          "teacher": "黃志成",
-          "cos_time": "W56-",
-          "memo": "與選修體育合班上課，為維護教學品質，限制修課人數。",
-          "cos_ename": "Badminton",
-          "brief": "",
-          "degree": "1",
-          "dep_id": "OU9",
-          "dep_primary": "1",
-          "dep_cname": "體育室",
-          "dep_ename": "Physical Education Office",
-          "cos_type": "體育",
-          "cos_type_e": "Physical Education",
-          "crsoutline_type": "data",
-          "reg_num": "0",
-          "depType": "O"
-        },
-        "1102_B428": {
-          "acy": "110",
-          "sem": "2",
-          "cos_id": "B428",
-          "cos_code": "A3151  ",
-          "num_limit": "25",
-          "dep_limit": "*",
-          "URL": null,
-          "cos_cname": "桌球",
-          "cos_credit": ".00",
-          "cos_hours": "2.00",
-          "TURL": "",
-          "teacher": "黃中興",
-          "cos_time": "W56-",
-          "memo": "與選修體育合班上課，為維護教學品質，限制修課人數。",
-          "cos_ename": "Table Tennis",
-          "brief": "",
-          "degree": "1",
-          "dep_id": "OU9",
-          "dep_primary": "1",
-          "dep_cname": "體育室",
-          "dep_ename": "Physical Education Office",
-          "cos_type": "體育",
-          "cos_type_e": "Physical Education",
-          "crsoutline_type": "data",
-          "reg_num": "0",
-          "depType": "O"
-        },
-        "1102_B429": {
-          "acy": "110",
-          "sem": "2",
-          "cos_id": "B429",
-          "cos_code": "A1831  ",
-          "num_limit": "25",
-          "dep_limit": "*",
-          "URL": null,
-          "cos_cname": "羽球",
-          "cos_credit": ".00",
-          "cos_hours": "2.00",
-          "TURL": "",
-          "teacher": "黃志成",
-          "cos_time": "W78-",
-          "memo": "與選修體育合班上課，為維護教學品質，限制修課人數。",
-          "cos_ename": "Badminton",
-          "brief": "",
-          "degree": "1",
-          "dep_id": "OU9",
-          "dep_primary": "1",
-          "dep_cname": "體育室",
-          "dep_ename": "Physical Education Office",
-          "cos_type": "體育",
-          "cos_type_e": "Physical Education",
-          "crsoutline_type": "data",
-          "reg_num": "0",
-          "depType": "O"
-        },
-        "1102_B430": {
-          "acy": "110",
-          "sem": "2",
-          "cos_id": "B430",
-          "cos_code": "A3151  ",
-          "num_limit": "25",
-          "dep_limit": "*",
-          "URL": null,
-          "cos_cname": "桌球",
-          "cos_credit": ".00",
-          "cos_hours": "2.00",
-          "TURL": "",
-          "teacher": "黃中興",
-          "cos_time": "T56-",
-          "memo": "與選修體育合班上課，為維護教學品質，限制修課人數。",
-          "cos_ename": "Table Tennis",
-          "brief": "",
-          "degree": "1",
-          "dep_id": "OU9",
-          "dep_primary": "1",
-          "dep_cname": "體育室",
-          "dep_ename": "Physical Education Office",
-          "cos_type": "體育",
-          "cos_type_e": "Physical Education",
-          "crsoutline_type": "data",
-          "reg_num": "0",
-          "depType": "O"
-        },
-        "1102_B431": {
-          "acy": "110",
-          "sem": "2",
-          "cos_id": "B431",
-          "cos_code": "A7323  ",
-          "num_limit": "30",
-          "dep_limit": "*",
-          "URL": null,
-          "cos_cname": "籃球",
-          "cos_credit": ".00",
-          "cos_hours": "2.00",
-          "TURL": "",
-          "teacher": "陳厚諭",
-          "cos_time": "T56-",
-          "memo": "為維護教學品質，限制修課人數。",
-          "cos_ename": "Basketball",
-          "brief": "",
-          "degree": "1",
-          "dep_id": "OU9",
-          "dep_primary": "1",
-          "dep_cname": "體育室",
-          "dep_ename": "Physical Education Office",
-          "cos_type": "體育",
-          "cos_type_e": "Physical Education",
-          "crsoutline_type": "data",
-          "reg_num": "0",
-          "depType": "O"
-        },
-        "1102_B432": {
-          "acy": "110",
-          "sem": "2",
-          "cos_id": "B432",
-          "cos_code": "A8986  ",
-          "num_limit": "30",
-          "dep_limit": "*",
-          "URL": null,
-          "cos_cname": "匹克球",
-          "cos_credit": ".00",
-          "cos_hours": "2.00",
-          "TURL": "",
-          "teacher": "黃中興",
-          "cos_time": "W12-",
-          "memo": "為維護教學品質，限制修課人數。",
-          "cos_ename": "Pickleball",
-          "brief": "",
-          "degree": "1",
-          "dep_id": "OU9",
-          "dep_primary": "1",
-          "dep_cname": "體育室",
-          "dep_ename": "Physical Education Office",
-          "cos_type": "體育",
-          "cos_type_e": "Physical Education",
-          "crsoutline_type": "data",
-          "reg_num": "0",
-          "depType": "O"
-        },
-        "1102_B433": {
-          "acy": "110",
-          "sem": "2",
-          "cos_id": "B433",
-          "cos_code": "A9260  ",
-          "num_limit": "30",
-          "dep_limit": "*",
-          "URL": null,
-          "cos_cname": "游泳",
-          "cos_credit": ".00",
-          "cos_hours": "2.00",
-          "TURL": "",
-          "teacher": "徐煒杰",
-          "cos_time": "W56-",
-          "memo": "為維護教學品質，限制修課人數。\r\n",
-          "cos_ename": "swim",
-          "brief": "",
-          "degree": "1",
-          "dep_id": "OU9",
-          "dep_primary": "1",
-          "dep_cname": "體育室",
-          "dep_ename": "Physical Education Office",
-          "cos_type": "體育",
-          "cos_type_e": "Physical Education",
-          "crsoutline_type": "data",
-          "reg_num": "0",
-          "depType": "O"
-        },
-        "1102_B434": {
-          "acy": "110",
-          "sem": "2",
-          "cos_id": "B434",
-          "cos_code": "A8181  ",
-          "num_limit": "30",
-          "dep_limit": "*",
-          "URL": null,
-          "cos_cname": "體適能",
-          "cos_credit": ".00",
-          "cos_hours": "2.00",
-          "TURL": "",
-          "teacher": "徐煒杰",
-          "cos_time": "W78-",
-          "memo": "為維護教學品質，限制修課人數。",
-          "cos_ename": "Fitness",
-          "brief": "",
-          "degree": "1",
-          "dep_id": "OU9",
-          "dep_primary": "1",
-          "dep_cname": "體育室",
-          "dep_ename": "Physical Education Office",
-          "cos_type": "體育",
-          "cos_type_e": "Physical Education",
-          "crsoutline_type": "data",
-          "reg_num": "0",
-          "depType": "O"
-        },
-        "1102_B435": {
-          "acy": "110",
-          "sem": "2",
-          "cos_id": "B435",
-          "cos_code": "A2956  ",
-          "num_limit": "30",
-          "dep_limit": "*",
-          "URL": null,
-          "cos_cname": "飛盤",
-          "cos_credit": ".00",
-          "cos_hours": "2.00",
-          "TURL": "",
-          "teacher": "林昭光",
-          "cos_time": "R12-",
-          "memo": "為維護教學品質，限制修課人數。",
-          "cos_ename": "Frisbee",
-          "brief": "",
-          "degree": "1",
-          "dep_id": "OU9",
-          "dep_primary": "1",
-          "dep_cname": "體育室",
-          "dep_ename": "Physical Education Office",
-          "cos_type": "體育",
-          "cos_type_e": "Physical Education",
-          "crsoutline_type": "data",
-          "reg_num": "0",
-          "depType": "O"
-        },
-        "1102_B436": {
-          "acy": "110",
-          "sem": "2",
-          "cos_id": "B436",
-          "cos_code": "A3151  ",
-          "num_limit": "30",
-          "dep_limit": "*",
-          "URL": null,
-          "cos_cname": "桌球",
-          "cos_credit": ".00",
-          "cos_hours": "2.00",
-          "TURL": "",
-          "teacher": "黃中興",
-          "cos_time": "R12-",
-          "memo": "為維護教學品質，限制修課人數。",
-          "cos_ename": "Table Tennis",
-          "brief": "",
-          "degree": "1",
-          "dep_id": "OU9",
-          "dep_primary": "1",
-          "dep_cname": "體育室",
-          "dep_ename": "Physical Education Office",
-          "cos_type": "體育",
-          "cos_type_e": "Physical Education",
-          "crsoutline_type": "data",
-          "reg_num": "0",
-          "depType": "O"
-        },
-        "1102_B437": {
-          "acy": "110",
-          "sem": "2",
-          "cos_id": "B437",
-          "cos_code": "A9260  ",
-          "num_limit": "30",
-          "dep_limit": "*",
-          "URL": null,
-          "cos_cname": "游泳",
-          "cos_credit": ".00",
-          "cos_hours": "2.00",
-          "TURL": "",
-          "teacher": "陳厚諭",
-          "cos_time": "R34-",
-          "memo": "為維護教學品質，限制修課人數。",
-          "cos_ename": "swim",
-          "brief": "",
-          "degree": "1",
-          "dep_id": "OU9",
-          "dep_primary": "1",
-          "dep_cname": "體育室",
-          "dep_ename": "Physical Education Office",
-          "cos_type": "體育",
-          "cos_type_e": "Physical Education",
-          "crsoutline_type": "data",
-          "reg_num": "0",
-          "depType": "O"
-        },
-        "1102_B438": {
-          "acy": "110",
-          "sem": "2",
-          "cos_id": "B438",
-          "cos_code": "A4022  ",
-          "num_limit": "30",
-          "dep_limit": "*",
-          "URL": null,
-          "cos_cname": "動力伸展與紓壓",
-          "cos_credit": ".00",
-          "cos_hours": "2.00",
-          "TURL": "",
-          "teacher": "藍于青",
-          "cos_time": "F34-",
-          "memo": "為維護教學品質，限制修課人數。",
-          "cos_ename": "Power Extension and Relax",
-          "brief": "",
-          "degree": "1",
-          "dep_id": "OU9",
-          "dep_primary": "1",
-          "dep_cname": "體育室",
-          "dep_ename": "Physical Education Office",
-          "cos_type": "體育",
-          "cos_type_e": "Physical Education",
-          "crsoutline_type": "data",
-          "reg_num": "0",
-          "depType": "O"
-        },
-        "1102_B439": {
-          "acy": "110",
-          "sem": "2",
-          "cos_id": "B439",
-          "cos_code": "A4454  ",
-          "num_limit": "30",
-          "dep_limit": "*",
-          "URL": null,
-          "cos_cname": "排球",
-          "cos_credit": ".00",
-          "cos_hours": "2.00",
-          "TURL": "",
-          "teacher": "黃志成",
-          "cos_time": "F34-",
-          "memo": "為維護教學品質，限制修課人數。",
-          "cos_ename": "Volleyball",
-          "brief": "",
-          "degree": "1",
-          "dep_id": "OU9",
-          "dep_primary": "1",
-          "dep_cname": "體育室",
-          "dep_ename": "Physical Education Office",
-          "cos_type": "體育",
-          "cos_type_e": "Physical Education",
-          "crsoutline_type": "data",
-          "reg_num": "0",
-          "depType": "O"
-        },
-        "1102_B440": {
-          "acy": "110",
-          "sem": "2",
-          "cos_id": "B440",
-          "cos_code": "A1831  ",
-          "num_limit": "30",
-          "dep_limit": "*",
-          "URL": null,
-          "cos_cname": "羽球",
-          "cos_credit": ".00",
-          "cos_hours": "2.00",
-          "TURL": "",
-          "teacher": "林正仰",
-          "cos_time": "F56-",
-          "memo": "為維護教學品質，限制修課人數。",
-          "cos_ename": "Badminton",
-          "brief": "",
-          "degree": "1",
-          "dep_id": "OU9",
-          "dep_primary": "1",
-          "dep_cname": "體育室",
-          "dep_ename": "Physical Education Office",
-          "cos_type": "體育",
-          "cos_type_e": "Physical Education",
-          "crsoutline_type": "data",
-          "reg_num": "0",
-          "depType": "O"
-        },
-        "1102_B441": {
-          "acy": "110",
-          "sem": "2",
-          "cos_id": "B441",
-          "cos_code": "B0398  ",
-          "num_limit": "30",
-          "dep_limit": "*",
-          "URL": null,
-          "cos_cname": "太極拳",
-          "cos_credit": ".00",
-          "cos_hours": "2.00",
-          "TURL": "",
-          "teacher": "張耀庭",
-          "cos_time": "F56-",
-          "memo": "為維護教學品質，限制修課人數。",
-          "cos_ename": "Tai Chi",
-          "brief": "",
-          "degree": "1",
-          "dep_id": "OU9",
-          "dep_primary": "1",
-          "dep_cname": "體育室",
-          "dep_ename": "Physical Education Office",
-          "cos_type": "體育",
-          "cos_type_e": "Physical Education",
-          "crsoutline_type": "data",
-          "reg_num": "0",
-          "depType": "O"
-        },
-        "1102_B442": {
-          "acy": "110",
-          "sem": "2",
-          "cos_id": "B442",
-          "cos_code": "B0398  ",
-          "num_limit": "30",
-          "dep_limit": "*",
-          "URL": null,
-          "cos_cname": "太極拳",
-          "cos_credit": ".00",
-          "cos_hours": "2.00",
-          "TURL": "",
-          "teacher": "張耀庭",
-          "cos_time": "F78-",
-          "memo": "為維護教學品質，限制修課人數。",
-          "cos_ename": "Tai Chi",
-          "brief": "",
-          "degree": "1",
-          "dep_id": "OU9",
-          "dep_primary": "1",
-          "dep_cname": "體育室",
-          "dep_ename": "Physical Education Office",
-          "cos_type": "體育",
-          "cos_type_e": "Physical Education",
-          "crsoutline_type": "data",
-          "reg_num": "0",
-          "depType": "O"
         }
       },
       "costype": {
@@ -10084,258 +9418,6 @@
             "GECIName": "",
             "GECIEngName": ""
           }
-        },
-        "1102_B415": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        },
-        "1102_B416": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        },
-        "1102_B417": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        },
-        "1102_B418": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        },
-        "1102_B419": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        },
-        "1102_B420": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        },
-        "1102_B421": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        },
-        "1102_B422": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        },
-        "1102_B423": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        },
-        "1102_B424": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        },
-        "1102_B425": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        },
-        "1102_B426": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        },
-        "1102_B427": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        },
-        "1102_B428": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        },
-        "1102_B429": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        },
-        "1102_B430": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        },
-        "1102_B431": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        },
-        "1102_B432": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        },
-        "1102_B433": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        },
-        "1102_B434": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        },
-        "1102_B435": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        },
-        "1102_B436": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        },
-        "1102_B437": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        },
-        "1102_B438": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        },
-        "1102_B439": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        },
-        "1102_B440": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        },
-        "1102_B441": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        },
-        "1102_B442": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
         }
       },
       "brief": {
@@ -11058,174 +10140,6 @@
             "brief_code": "C081",
             "brief": "體育必修(87)"
           }
-        },
-        "1102_B415": {
-          "C181": {
-            "brief_code": "C181",
-            "brief": "體育(大二大三必選)(90)"
-          }
-        },
-        "1102_B416": {
-          "C181": {
-            "brief_code": "C181",
-            "brief": "體育(大二大三必選)(90)"
-          }
-        },
-        "1102_B417": {
-          "C181": {
-            "brief_code": "C181",
-            "brief": "體育(大二大三必選)(90)"
-          }
-        },
-        "1102_B418": {
-          "C181": {
-            "brief_code": "C181",
-            "brief": "體育(大二大三必選)(90)"
-          }
-        },
-        "1102_B419": {
-          "C181": {
-            "brief_code": "C181",
-            "brief": "體育(大二大三必選)(90)"
-          }
-        },
-        "1102_B420": {
-          "C181": {
-            "brief_code": "C181",
-            "brief": "體育(大二大三必選)(90)"
-          }
-        },
-        "1102_B421": {
-          "C181": {
-            "brief_code": "C181",
-            "brief": "體育(大二大三必選)(90)"
-          }
-        },
-        "1102_B422": {
-          "C181": {
-            "brief_code": "C181",
-            "brief": "體育(大二大三必選)(90)"
-          }
-        },
-        "1102_B423": {
-          "C181": {
-            "brief_code": "C181",
-            "brief": "體育(大二大三必選)(90)"
-          }
-        },
-        "1102_B424": {
-          "C181": {
-            "brief_code": "C181",
-            "brief": "體育(大二大三必選)(90)"
-          }
-        },
-        "1102_B425": {
-          "C181": {
-            "brief_code": "C181",
-            "brief": "體育(大二大三必選)(90)"
-          }
-        },
-        "1102_B426": {
-          "C181": {
-            "brief_code": "C181",
-            "brief": "體育(大二大三必選)(90)"
-          }
-        },
-        "1102_B427": {
-          "C181": {
-            "brief_code": "C181",
-            "brief": "體育(大二大三必選)(90)"
-          }
-        },
-        "1102_B428": {
-          "C181": {
-            "brief_code": "C181",
-            "brief": "體育(大二大三必選)(90)"
-          }
-        },
-        "1102_B429": {
-          "C181": {
-            "brief_code": "C181",
-            "brief": "體育(大二大三必選)(90)"
-          }
-        },
-        "1102_B430": {
-          "C181": {
-            "brief_code": "C181",
-            "brief": "體育(大二大三必選)(90)"
-          }
-        },
-        "1102_B431": {
-          "C181": {
-            "brief_code": "C181",
-            "brief": "體育(大二大三必選)(90)"
-          }
-        },
-        "1102_B432": {
-          "F168": {
-            "brief_code": "F168",
-            "brief": "軍訓(90)"
-          }
-        },
-        "1102_B433": {
-          "F168": {
-            "brief_code": "F168",
-            "brief": "軍訓(90)"
-          }
-        },
-        "1102_B434": {
-          "F168": {
-            "brief_code": "F168",
-            "brief": "軍訓(90)"
-          }
-        },
-        "1102_B435": {
-          "F168": {
-            "brief_code": "F168",
-            "brief": "軍訓(90)"
-          }
-        },
-        "1102_B436": {
-          "F168": {
-            "brief_code": "F168",
-            "brief": "軍訓(90)"
-          }
-        },
-        "1102_B437": {
-          "": {
-            "brief_code": "",
-            "brief": ""
-          }
-        },
-        "1102_B438": {
-          "": {
-            "brief_code": "",
-            "brief": ""
-          }
-        },
-        "1102_B439": {
-          "": {
-            "brief_code": "",
-            "brief": ""
-          }
-        },
-        "1102_B440": {
-          "": {
-            "brief_code": "",
-            "brief": ""
-          }
-        },
-        "1102_B441": {
-          "": {
-            "brief_code": "",
-            "brief": ""
-          }
-        },
-        "1102_B442": {
-          "": {
-            "brief_code": "",
-            "brief": ""
-          }
         }
       },
       "language": {
@@ -11587,90 +10501,6 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_8715": {
-          "授課語言代碼": "zh-tw"
-        },
-        "1102_B415": {
-          "授課語言代碼": "zh-tw"
-        },
-        "1102_B416": {
-          "授課語言代碼": "zh-tw"
-        },
-        "1102_B417": {
-          "授課語言代碼": "zh-tw"
-        },
-        "1102_B418": {
-          "授課語言代碼": "zh-tw"
-        },
-        "1102_B419": {
-          "授課語言代碼": "zh-tw"
-        },
-        "1102_B420": {
-          "授課語言代碼": "zh-tw"
-        },
-        "1102_B421": {
-          "授課語言代碼": "zh-tw"
-        },
-        "1102_B422": {
-          "授課語言代碼": "zh-tw"
-        },
-        "1102_B423": {
-          "授課語言代碼": "zh-tw"
-        },
-        "1102_B424": {
-          "授課語言代碼": "zh-tw"
-        },
-        "1102_B425": {
-          "授課語言代碼": "zh-tw"
-        },
-        "1102_B426": {
-          "授課語言代碼": "zh-tw"
-        },
-        "1102_B427": {
-          "授課語言代碼": "zh-tw"
-        },
-        "1102_B428": {
-          "授課語言代碼": "zh-tw"
-        },
-        "1102_B429": {
-          "授課語言代碼": "zh-tw"
-        },
-        "1102_B430": {
-          "授課語言代碼": "zh-tw"
-        },
-        "1102_B431": {
-          "授課語言代碼": "zh-tw"
-        },
-        "1102_B432": {
-          "授課語言代碼": "zh-tw"
-        },
-        "1102_B433": {
-          "授課語言代碼": "zh-tw"
-        },
-        "1102_B434": {
-          "授課語言代碼": "zh-tw"
-        },
-        "1102_B435": {
-          "授課語言代碼": "zh-tw"
-        },
-        "1102_B436": {
-          "授課語言代碼": "zh-tw"
-        },
-        "1102_B437": {
-          "授課語言代碼": "zh-tw"
-        },
-        "1102_B438": {
-          "授課語言代碼": "zh-tw"
-        },
-        "1102_B439": {
-          "授課語言代碼": "zh-tw"
-        },
-        "1102_B440": {
-          "授課語言代碼": "zh-tw"
-        },
-        "1102_B441": {
-          "授課語言代碼": "zh-tw"
-        },
-        "1102_B442": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -11789,6 +10619,65 @@
       },
       "language": {
         "1102_0355": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "60A7936E-B0C0-4C0F-9DE7-33D16A367F20": {
+      "dep_id": "60A7936E-B0C0-4C0F-9DE7-33D16A367F20",
+      "dep_cname": "台中一中科學班",
+      "dep_ename": "Taichung First Senior High School",
+      "1": {
+        "1102_1427": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1427",
+          "cos_code": "DOS1010",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "個別科學研究",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "台中一中",
+          "cos_time": "R9a-",
+          "memo": "限中一中科學班",
+          "cos_ename": "Individual Science Study",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OUG",
+          "dep_primary": "1",
+          "dep_cname": "台中一中科學班",
+          "dep_ename": "Taichung First Senior High School",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "S"
+        }
+      },
+      "costype": {
+        "1102_1427": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1102_1427": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1102_1427": {
           "授課語言代碼": "zh-tw"
         }
       }

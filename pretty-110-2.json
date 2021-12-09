@@ -105,6 +105,65 @@
         }
       }
     },
+    "1CFC1720-6FE9-4265-98E5-06916C1DFF0D": {
+      "dep_id": "1CFC1720-6FE9-4265-98E5-06916C1DFF0D",
+      "dep_cname": "人文社會學系",
+      "dep_ename": "Department of Humanities and Social Sciences",
+      "1": {
+        "1102_1664": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1664",
+          "cos_code": "DHS2027",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "文化理論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://",
+          "teacher": "蔣淑貞",
+          "cos_time": "M567-HK106[LJ]",
+          "memo": "",
+          "cos_ename": "Cultural Theory",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "481",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學系",
+          "dep_ename": "Department of Humanities and Social Sciences",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        }
+      },
+      "costype": {
+        "1102_1664": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1102_1664": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1102_1664": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "3CEF1CCE-9A5D-4B91-AA06-C3F717F7619E": {
       "dep_id": "3CEF1CCE-9A5D-4B91-AA06-C3F717F7619E",
       "dep_cname": "人文社會學院院本部",
@@ -418,6 +477,118 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1102_1630": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1630",
+          "cos_code": "DOH1050",
+          "num_limit": "25",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "視覺敘事中的時空再現",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "談明軒",
+          "cos_time": "W34-HC103[KF]",
+          "memo": "",
+          "cos_ename": "Representation of Time-Space in Visual Narratives",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "4A1",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學院院本部",
+          "dep_ename": "College of Humanities and Social Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1102_1636": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1636",
+          "cos_code": "DOH3001",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "器樂進階演奏(一)",
+          "cos_credit": "1.00",
+          "cos_hours": ".50",
+          "TURL": "",
+          "teacher": "許佳穎",
+          "cos_time": "",
+          "memo": "每學期開課，需通過檢定才可修習(前一學期第5周前提出:請於111/03/18前提出申請並告知檢定科目;請mail到xjfu@nycu.edu.tw)，修習音樂個別指導課程者收取音樂個別指導費。 累進修習規定請參閱實施要點。 109跨域學程器樂修課檢定考試規定如下，目前樂器別限鋼琴及小提琴。 檢定當天 1. 書面資料包含 (1)音樂相關背景，例如：學習歷程、師承。 (2)學過的曲目。 2. 鋼琴： (1) 一首巴赫 (J. S. Bach) 作品/樂章，或一首練習曲。 (2) 兩首對比性樂曲或樂章。 3. 小提琴: (1) 巴赫 (J. S. Bach)：一個樂章無伴奏奏鳴曲或組曲。 (2) 一首自選曲 (曲長需5分鐘以上)。 原則上，4月進行檢定，詳細時間將另行通知。",
+          "cos_ename": "Advanced Instrumental Performance I",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "4A1",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學院院本部",
+          "dep_ename": "College of Humanities and Social Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1102_1637": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1637",
+          "cos_code": "DOH3002",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "器樂進階演奏(二)",
+          "cos_credit": "2.00",
+          "cos_hours": "1.00",
+          "TURL": "http://proarte.googlepages.com",
+          "teacher": "李俊穎、辛幸純、張先惠",
+          "cos_time": "",
+          "memo": "每學期開課，需通過檢定才可修習(前一學期第5周前提出:請於111/03/18前提出申請並告知檢定科目;請mail到xjfu@nycu.edu.tw)，修習音樂個別指導課程者收取音樂個別指導費。 累進修習規定請參閱實施要點。 109跨域學程器樂修課檢定考試規定如下，目前樂器別限鋼琴及小提琴。 檢定當天 1. 書面資料包含 (1)音樂相關背景，例如：學習歷程、師承。 (2)學過的曲目。 2. 鋼琴： (1) 一首巴赫 (J. S. Bach) 作品/樂章，或一首練習曲。 (2) 兩首對比性樂曲或樂章。 3. 小提琴: (1) 巴赫 (J. S. Bach)：一個樂章無伴奏奏鳴曲或組曲。 (2) 一首自選曲 (曲長需5分鐘以上)。 原則上，4月進行檢定，詳細時間將另行通知。",
+          "cos_ename": "Advanced Instrumental Performance II",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "4A1",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學院院本部",
+          "dep_ename": "College of Humanities and Social Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1102_1638": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1638",
+          "cos_code": "DOH3006",
+          "num_limit": "25",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "西洋藝術通史",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "林合懿",
+          "cos_time": "R34-HC104[KF]",
+          "memo": "",
+          "cos_ename": "History of Western Art",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "4A1",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學院院本部",
+          "dep_ename": "College of Humanities and Social Science",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1102_1639": {
           "acy": "110",
           "sem": "2",
@@ -434,6 +605,34 @@
           "cos_time": "M78-HC103[KF]",
           "memo": "",
           "cos_ename": "Art beyond creation, an introduction to Art Administration ",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "4A1",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學院院本部",
+          "dep_ename": "College of Humanities and Social Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1102_1640": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1640",
+          "cos_code": "DOH3009",
+          "num_limit": "25",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "生活中的素描",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "馬曉瑛",
+          "cos_time": "F234-HC103[KF]",
+          "memo": "",
+          "cos_ename": "Drawing in daily life",
           "brief": "",
           "degree": "1",
           "dep_id": "4A1",
@@ -582,7 +781,52 @@
             "GECIEngName": ""
           }
         },
+        "1102_1630": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_1636": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_1637": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_1638": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_1639": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_1640": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -668,7 +912,37 @@
             "brief": ""
           }
         },
+        "1102_1630": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1102_1636": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1102_1637": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1102_1638": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_1639": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1102_1640": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -715,7 +989,22 @@
         "1102_1626": {
           "授課語言代碼": "zh-tw"
         },
+        "1102_1630": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1636": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1637": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1638": {
+          "授課語言代碼": "zh-tw"
+        },
         "1102_1639": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1640": {
           "授課語言代碼": "zh-tw"
         },
         "1102_1645": {
@@ -2725,7 +3014,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "53",
           "depType": "U"
         },
         "1102_1384": {
@@ -2753,7 +3042,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "53",
           "depType": "U"
         }
       },
@@ -2882,6 +3171,34 @@
       "dep_cname": "資訊管理與財務金融系",
       "dep_ename": "Department of Information and Finance Management",
       "1": {
+        "1102_1478": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1478",
+          "cos_code": "DIF1066",
+          "num_limit": "60",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "演算法",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "游家牧",
+          "cos_time": "R789-M-b01[KF]",
+          "memo": "資財系優先選課",
+          "cos_ename": "Computer Algorithms",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "705",
+          "dep_primary": "1",
+          "dep_cname": "資訊管理與財務金融系",
+          "dep_ename": "Department of Information and Finance Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1102_1487": {
           "acy": "110",
           "sem": "2",
@@ -2912,6 +3229,15 @@
         }
       },
       "costype": {
+        "1102_1478": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_1487": {
           "": {
             "course_category_cname": "",
@@ -2923,6 +3249,12 @@
         }
       },
       "brief": {
+        "1102_1478": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_1487": {
           "": {
             "brief_code": "",
@@ -2931,6 +3263,9 @@
         }
       },
       "language": {
+        "1102_1478": {
+          "授課語言代碼": "zh-tw"
+        },
         "1102_1487": {
           "授課語言代碼": "zh-tw"
         }
@@ -3967,7 +4302,7 @@
           "TURL": "http://i.have.no.website",
           "teacher": "陳鏗任",
           "cos_time": "F56-HA108[KF]",
-          "memo": "學習科學跨域學程",
+          "memo": "學習科學跨域學程；遠距課程",
           "cos_ename": "Learning How to Learn: Strategies for Reading and Learning",
           "brief": "",
           "degree": "1",
@@ -4654,6 +4989,34 @@
       "dep_cname": "IMBA國際管理學分學程",
       "dep_ename": "Program of International Management ＆ Business Administration",
       "1": {
+        "1102_5574": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5574",
+          "cos_code": "IOF5145",
+          "num_limit": "60",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "資料科學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "游家牧",
+          "cos_time": "Tabc-M101[KF]",
+          "memo": "財金碩主開；GMBA及資財系輔開；資財系資管組核心必選；資訊類課程；財務金融碩博士班、GMBA學生及資財系學生優先；英語授課[English Medium Course]",
+          "cos_ename": "Data Science",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAL",
+          "dep_primary": "1",
+          "dep_cname": "IMBA國際管理學分學程",
+          "dep_ename": "Program of International Management ＆ Business Administration",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
         "1102_5605": {
           "acy": "110",
           "sem": "2",
@@ -4796,6 +5159,15 @@
         }
       },
       "costype": {
+        "1102_5574": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5605": {
           "": {
             "course_category_cname": "",
@@ -4843,6 +5215,12 @@
         }
       },
       "brief": {
+        "1102_5574": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5605": {
           "": {
             "brief_code": "",
@@ -4875,6 +5253,9 @@
         }
       },
       "language": {
+        "1102_5574": {
+          "授課語言代碼": "en-us"
+        },
         "1102_5605": {
           "授課語言代碼": "en-us"
         },
@@ -5009,6 +5390,34 @@
           "reg_num": "0",
           "depType": "P"
         },
+        "1102_5272": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5272",
+          "cos_code": "IOE5048",
+          "num_limit": "86",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "網路安全(英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "https://dsns.cs.nctu.edu.tw/ssp.php",
+          "teacher": "謝續平",
+          "cos_time": "T34n-EC115[KF]",
+          "memo": "本院學生優先；博士班資格考考核科目；資安學程必選修課程；英文授課[English Medium Course]",
+          "cos_ename": "Network Security",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAN",
+          "dep_primary": "1",
+          "dep_cname": "電機資訊英語授課學分學程",
+          "dep_ename": "Electrical Engineering and Computer Science-International Program",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
         "1102_5273": {
           "acy": "110",
           "sem": "2",
@@ -5075,6 +5484,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_5272": {
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "工,理,管,生,人",
+            "GECIEngName": "COE,COS,COM,CBT,CHS"
+          }
+        },
         "1102_5273": {
           "": {
             "course_category_cname": "",
@@ -5110,6 +5528,12 @@
             "brief": ""
           }
         },
+        "1102_5272": {
+          "A205,A504": {
+            "brief_code": "A205,A504",
+            "brief": "自然/進階(96),跨院基本素養(106)"
+          }
+        },
         "1102_5273": {
           "": {
             "brief_code": "",
@@ -5130,8 +5554,175 @@
         "1102_5269": {
           "授課語言代碼": "en-us"
         },
+        "1102_5272": {
+          "授課語言代碼": "en-us"
+        },
         "1102_5273": {
           "授課語言代碼": "en-us"
+        }
+      }
+    },
+    "766C288E-B3E9-4F2C-B835-CC802F620CAE": {
+      "dep_id": "766C288E-B3E9-4F2C-B835-CC802F620CAE",
+      "dep_cname": "音樂學分學程",
+      "dep_ename": "Program of Music",
+      "1": {
+        "1102_1636": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1636",
+          "cos_code": "DOH3001",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "器樂進階演奏(一)",
+          "cos_credit": "1.00",
+          "cos_hours": ".50",
+          "TURL": "",
+          "teacher": "許佳穎",
+          "cos_time": "",
+          "memo": "每學期開課，需通過檢定才可修習(前一學期第5周前提出:請於111/03/18前提出申請並告知檢定科目;請mail到xjfu@nycu.edu.tw)，修習音樂個別指導課程者收取音樂個別指導費。 累進修習規定請參閱實施要點。 109跨域學程器樂修課檢定考試規定如下，目前樂器別限鋼琴及小提琴。 檢定當天 1. 書面資料包含 (1)音樂相關背景，例如：學習歷程、師承。 (2)學過的曲目。 2. 鋼琴： (1) 一首巴赫 (J. S. Bach) 作品/樂章，或一首練習曲。 (2) 兩首對比性樂曲或樂章。 3. 小提琴: (1) 巴赫 (J. S. Bach)：一個樂章無伴奏奏鳴曲或組曲。 (2) 一首自選曲 (曲長需5分鐘以上)。 原則上，4月進行檢定，詳細時間將另行通知。",
+          "cos_ename": "Advanced Instrumental Performance I",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PBN",
+          "dep_primary": "1",
+          "dep_cname": "音樂學分學程",
+          "dep_ename": "Program of Music",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
+        "1102_1637": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1637",
+          "cos_code": "DOH3002",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "器樂進階演奏(二)",
+          "cos_credit": "2.00",
+          "cos_hours": "1.00",
+          "TURL": "http://proarte.googlepages.com",
+          "teacher": "李俊穎、辛幸純、張先惠",
+          "cos_time": "",
+          "memo": "每學期開課，需通過檢定才可修習(前一學期第5周前提出:請於111/03/18前提出申請並告知檢定科目;請mail到xjfu@nycu.edu.tw)，修習音樂個別指導課程者收取音樂個別指導費。 累進修習規定請參閱實施要點。 109跨域學程器樂修課檢定考試規定如下，目前樂器別限鋼琴及小提琴。 檢定當天 1. 書面資料包含 (1)音樂相關背景，例如：學習歷程、師承。 (2)學過的曲目。 2. 鋼琴： (1) 一首巴赫 (J. S. Bach) 作品/樂章，或一首練習曲。 (2) 兩首對比性樂曲或樂章。 3. 小提琴: (1) 巴赫 (J. S. Bach)：一個樂章無伴奏奏鳴曲或組曲。 (2) 一首自選曲 (曲長需5分鐘以上)。 原則上，4月進行檢定，詳細時間將另行通知。",
+          "cos_ename": "Advanced Instrumental Performance II",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PBN",
+          "dep_primary": "1",
+          "dep_cname": "音樂學分學程",
+          "dep_ename": "Program of Music",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        }
+      },
+      "costype": {
+        "1102_1636": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_1637": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1102_1636": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1102_1637": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1102_1636": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1637": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "90B37025-5AA3-42FE-B72F-517FAB447CDD": {
+      "dep_id": "90B37025-5AA3-42FE-B72F-517FAB447CDD",
+      "dep_cname": "創業與創新學分學程",
+      "dep_ename": "Venture and Innovation Program",
+      "1": {
+        "1102_1496": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1496",
+          "cos_code": "DOM1010",
+          "num_limit": "75",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "管理學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "黃仕斌、林士平、蘇信寧",
+          "cos_time": "T567-A316[KF]",
+          "memo": "管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限75人，得請授課教師簽准後可放寬至80人；管理基礎學分學程課程",
+          "cos_ename": "Management",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PBZ",
+          "dep_primary": "1",
+          "dep_cname": "創業與創新學分學程",
+          "dep_ename": "Venture and Innovation Program",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        }
+      },
+      "costype": {
+        "1102_1496": {
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "電,資,理,生,人,客",
+            "GECIEngName": "ECE,CCS,COS,CBT,CHS,CHK"
+          }
+        }
+      },
+      "brief": {
+        "1102_1496": {
+          "A203,A504": {
+            "brief_code": "A203,A504",
+            "brief": "公民/進階(96),跨院基本素養(106)"
+          }
+        }
+      },
+      "language": {
+        "1102_1496": {
+          "授課語言代碼": "zh-tw"
         }
       }
     },
@@ -5251,6 +5842,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "P"
+        },
+        "1102_1630": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1630",
+          "cos_code": "DOH1050",
+          "num_limit": "25",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "視覺敘事中的時空再現",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "談明軒",
+          "cos_time": "W34-HC103[KF]",
+          "memo": "",
+          "cos_ename": "Representation of Time-Space in Visual Narratives",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PCD",
+          "dep_primary": "1",
+          "dep_cname": "創新科技藝術學分學程",
+          "dep_ename": "Innovative Technology and Art Program",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
         }
       },
       "costype": {
@@ -5296,6 +5915,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1102_1630": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -5322,6 +5950,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1102_1630": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -5335,6 +5969,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_1626": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1630": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -5449,6 +6086,34 @@
       "dep_cname": "管理學院:管理基礎學分學程",
       "dep_ename": "Fundamental of Management Program",
       "1": {
+        "1102_1496": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1496",
+          "cos_code": "DOM1010",
+          "num_limit": "75",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "管理學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "黃仕斌、林士平、蘇信寧",
+          "cos_time": "T567-A316[KF]",
+          "memo": "管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限75人，得請授課教師簽准後可放寬至80人；管理基礎學分學程課程",
+          "cos_ename": "Management",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PFH",
+          "dep_primary": "1",
+          "dep_cname": "管理學院:管理基礎學分學程",
+          "dep_ename": "Fundamental of Management Program",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
         "1102_1509": {
           "acy": "110",
           "sem": "2",
@@ -5479,6 +6144,15 @@
         }
       },
       "costype": {
+        "1102_1496": {
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "電,資,理,生,人,客",
+            "GECIEngName": "ECE,CCS,COS,CBT,CHS,CHK"
+          }
+        },
         "1102_1509": {
           "": {
             "course_category_cname": "",
@@ -5490,6 +6164,12 @@
         }
       },
       "brief": {
+        "1102_1496": {
+          "A203,A504": {
+            "brief_code": "A203,A504",
+            "brief": "公民/進階(96),跨院基本素養(106)"
+          }
+        },
         "1102_1509": {
           "": {
             "brief_code": "",
@@ -5498,6 +6178,9 @@
         }
       },
       "language": {
+        "1102_1496": {
+          "授課語言代碼": "zh-tw"
+        },
         "1102_1509": {
           "授課語言代碼": "zh-tw"
         }
@@ -5724,6 +6407,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "Q"
+        },
+        "1102_1630": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1630",
+          "cos_code": "DOH1050",
+          "num_limit": "25",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "視覺敘事中的時空再現",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "談明軒",
+          "cos_time": "W34-HC103[KF]",
+          "memo": "",
+          "cos_ename": "Representation of Time-Space in Visual Narratives",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QJZ",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學院跨領域設計與創新科技跨域學程",
+          "dep_ename": "College of Humanities and Social Sciences for Transdisciplinary Inn",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
         }
       },
       "costype": {
@@ -5769,6 +6480,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1102_1630": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -5795,6 +6515,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1102_1630": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -5808,6 +6534,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_1626": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1630": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -5873,6 +6602,90 @@
           "reg_num": "0",
           "depType": "Q"
         },
+        "1102_1636": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1636",
+          "cos_code": "DOH3001",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "器樂進階演奏(一)",
+          "cos_credit": "1.00",
+          "cos_hours": ".50",
+          "TURL": "",
+          "teacher": "許佳穎",
+          "cos_time": "",
+          "memo": "每學期開課，需通過檢定才可修習(前一學期第5周前提出:請於111/03/18前提出申請並告知檢定科目;請mail到xjfu@nycu.edu.tw)，修習音樂個別指導課程者收取音樂個別指導費。 累進修習規定請參閱實施要點。 109跨域學程器樂修課檢定考試規定如下，目前樂器別限鋼琴及小提琴。 檢定當天 1. 書面資料包含 (1)音樂相關背景，例如：學習歷程、師承。 (2)學過的曲目。 2. 鋼琴： (1) 一首巴赫 (J. S. Bach) 作品/樂章，或一首練習曲。 (2) 兩首對比性樂曲或樂章。 3. 小提琴: (1) 巴赫 (J. S. Bach)：一個樂章無伴奏奏鳴曲或組曲。 (2) 一首自選曲 (曲長需5分鐘以上)。 原則上，4月進行檢定，詳細時間將另行通知。",
+          "cos_ename": "Advanced Instrumental Performance I",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QKS",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學院藝術與音樂跨域學程",
+          "dep_ename": "College of Humanities and Social Sciences for Transdisciplinary Inn",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
+        "1102_1637": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1637",
+          "cos_code": "DOH3002",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "器樂進階演奏(二)",
+          "cos_credit": "2.00",
+          "cos_hours": "1.00",
+          "TURL": "http://proarte.googlepages.com",
+          "teacher": "李俊穎、辛幸純、張先惠",
+          "cos_time": "",
+          "memo": "每學期開課，需通過檢定才可修習(前一學期第5周前提出:請於111/03/18前提出申請並告知檢定科目;請mail到xjfu@nycu.edu.tw)，修習音樂個別指導課程者收取音樂個別指導費。 累進修習規定請參閱實施要點。 109跨域學程器樂修課檢定考試規定如下，目前樂器別限鋼琴及小提琴。 檢定當天 1. 書面資料包含 (1)音樂相關背景，例如：學習歷程、師承。 (2)學過的曲目。 2. 鋼琴： (1) 一首巴赫 (J. S. Bach) 作品/樂章，或一首練習曲。 (2) 兩首對比性樂曲或樂章。 3. 小提琴: (1) 巴赫 (J. S. Bach)：一個樂章無伴奏奏鳴曲或組曲。 (2) 一首自選曲 (曲長需5分鐘以上)。 原則上，4月進行檢定，詳細時間將另行通知。",
+          "cos_ename": "Advanced Instrumental Performance II",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QKS",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學院藝術與音樂跨域學程",
+          "dep_ename": "College of Humanities and Social Sciences for Transdisciplinary Inn",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
+        "1102_1638": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1638",
+          "cos_code": "DOH3006",
+          "num_limit": "25",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "西洋藝術通史",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "林合懿",
+          "cos_time": "R34-HC104[KF]",
+          "memo": "",
+          "cos_ename": "History of Western Art",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QKS",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學院藝術與音樂跨域學程",
+          "dep_ename": "College of Humanities and Social Sciences for Transdisciplinary Inn",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
         "1102_1639": {
           "acy": "110",
           "sem": "2",
@@ -5889,6 +6702,34 @@
           "cos_time": "M78-HC103[KF]",
           "memo": "",
           "cos_ename": "Art beyond creation, an introduction to Art Administration ",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QKS",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學院藝術與音樂跨域學程",
+          "dep_ename": "College of Humanities and Social Sciences for Transdisciplinary Inn",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
+        "1102_1640": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1640",
+          "cos_code": "DOH3009",
+          "num_limit": "25",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "生活中的素描",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "馬曉瑛",
+          "cos_time": "F234-HC103[KF]",
+          "memo": "",
+          "cos_ename": "Drawing in daily life",
           "brief": "",
           "degree": "1",
           "dep_id": "QKS",
@@ -5949,7 +6790,43 @@
             "GECIEngName": ""
           }
         },
+        "1102_1636": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_1637": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_1638": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_1639": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_1640": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -5981,7 +6858,31 @@
             "brief": ""
           }
         },
+        "1102_1636": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1102_1637": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1102_1638": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_1639": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1102_1640": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -6001,7 +6902,19 @@
         "1102_1626": {
           "授課語言代碼": "zh-tw"
         },
+        "1102_1636": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1637": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1638": {
+          "授課語言代碼": "zh-tw"
+        },
         "1102_1639": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1640": {
           "授課語言代碼": "zh-tw"
         },
         "1102_1645": {
@@ -7237,6 +8150,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1102_5078": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5078",
+          "cos_code": "ECM5402",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "高等電磁學(二)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "蔡作敏",
+          "cos_time": "M234-EDB07[KF]",
+          "memo": "",
+          "cos_ename": "Advanced Electromagnetics (II)",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "513",
+          "dep_primary": "1",
+          "dep_cname": "電信工程研究所",
+          "dep_ename": "Institute of Communication Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1102_5085": {
           "acy": "110",
           "sem": "2",
@@ -7360,6 +8301,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_5078": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5085": {
           "": {
             "course_category_cname": "",
@@ -7404,6 +8354,12 @@
             "brief": ""
           }
         },
+        "1102_5078": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5085": {
           "": {
             "brief_code": "",
@@ -7431,6 +8387,9 @@
       },
       "language": {
         "1102_5077": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_5078": {
           "授課語言代碼": "zh-tw"
         },
         "1102_5085": {
@@ -8400,6 +9359,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1102_5272": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5272",
+          "cos_code": "IOE5048",
+          "num_limit": "86",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "網路安全(英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "https://dsns.cs.nctu.edu.tw/ssp.php",
+          "teacher": "謝續平",
+          "cos_time": "T34n-EC115[KF]",
+          "memo": "本院學生優先；博士班資格考考核科目；資安學程必選修課程；英文授課[English Medium Course]",
+          "cos_ename": "Network Security",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "552",
+          "dep_primary": "1",
+          "dep_cname": "網路工程研究所",
+          "dep_ename": "Institute of Network Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1102_5273": {
           "acy": "110",
           "sem": "2",
@@ -8467,6 +9454,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_5272": {
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "工,理,管,生,人",
+            "GECIEngName": "COE,COS,COM,CBT,CHS"
+          }
+        },
         "1102_5273": {
           "": {
             "course_category_cname": "",
@@ -8493,6 +9489,12 @@
             "brief": ""
           }
         },
+        "1102_5272": {
+          "A205,A504": {
+            "brief_code": "A205,A504",
+            "brief": "自然/進階(96),跨院基本素養(106)"
+          }
+        },
         "1102_5273": {
           "": {
             "brief_code": "",
@@ -8509,6 +9511,9 @@
       "language": {
         "1102_5271": {
           "授課語言代碼": "zh-tw"
+        },
+        "1102_5272": {
+          "授課語言代碼": "en-us"
         },
         "1102_5273": {
           "授課語言代碼": "en-us"
@@ -8970,7 +9975,7 @@
           "TURL": "http://140.113.28.160/",
           "teacher": "趙天生",
           "cos_time": "F234-SC162[KF]",
-          "memo": "",
+          "memo": "遠距課程",
           "cos_ename": "Semiconductor Physics and Devices (II)",
           "brief": "",
           "degree": "3",
@@ -8987,10 +9992,10 @@
       },
       "costype": {
         "1102_5410": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
+          "遠距課程_遠距": {
+            "course_category_cname": "遠距課程_遠距",
+            "course_category_ename": "Distance  Learning Courses_DL",
+            "course_category_type": "4",
             "GECIName": "",
             "GECIEngName": ""
           }
@@ -9823,7 +10828,7 @@
           "cos_hours": "2.00",
           "TURL": "",
           "teacher": "劉敦仁、古政元、蔡銘箴、林妙聰、李永銘、陳柏安、莊詠婷",
-          "cos_time": "R56-MB311[KF]",
+          "cos_time": "R56-AB101[KF]",
           "memo": "資管碩士班與博士班一年級必修課程，學號單號。",
           "cos_ename": "Seminar on IS & Management",
           "brief": "",
@@ -10217,6 +11222,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1102_5574": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5574",
+          "cos_code": "IOF5145",
+          "num_limit": "60",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "資料科學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "游家牧",
+          "cos_time": "Tabc-M101[KF]",
+          "memo": "財金碩主開；GMBA及資財系輔開；資財系資管組核心必選；資訊類課程；財務金融碩博士班、GMBA學生及資財系學生優先；英語授課[English Medium Course]",
+          "cos_ename": "Data Science",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "707",
+          "dep_primary": "1",
+          "dep_cname": "資訊管理與財務金融系財務金融碩博士班",
+          "dep_ename": "Graduate institute of finance",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1102_5577": {
           "acy": "110",
           "sem": "2",
@@ -10283,6 +11316,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_5574": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5577": {
           "": {
             "course_category_cname": "",
@@ -10318,6 +11360,12 @@
             "brief": ""
           }
         },
+        "1102_5574": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5577": {
           "": {
             "brief_code": "",
@@ -10337,6 +11385,9 @@
         },
         "1102_5572": {
           "授課語言代碼": "zh-tw"
+        },
+        "1102_5574": {
+          "授課語言代碼": "en-us"
         },
         "1102_5577": {
           "授課語言代碼": "zh-tw"
@@ -15235,6 +16286,34 @@
       "dep_cname": "管理學院共同課程",
       "dep_ename": "College of Management",
       "1": {
+        "1102_1496": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1496",
+          "cos_code": "DOM1010",
+          "num_limit": "75",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "管理學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "黃仕斌、林士平、蘇信寧",
+          "cos_time": "T567-A316[KF]",
+          "memo": "管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限75人，得請授課教師簽准後可放寬至80人；管理基礎學分學程課程",
+          "cos_ename": "Management",
+          "brief": "",
+          "degree": "A",
+          "dep_id": "7M1",
+          "dep_primary": "1",
+          "dep_cname": "管理學院共同課程",
+          "dep_ename": "College of Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1102_1507": {
           "acy": "110",
           "sem": "2",
@@ -15293,6 +16372,15 @@
         }
       },
       "costype": {
+        "1102_1496": {
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "電,資,理,生,人,客",
+            "GECIEngName": "ECE,CCS,COS,CBT,CHS,CHK"
+          }
+        },
         "1102_1507": {
           "": {
             "course_category_cname": "",
@@ -15313,6 +16401,12 @@
         }
       },
       "brief": {
+        "1102_1496": {
+          "A203,A504": {
+            "brief_code": "A203,A504",
+            "brief": "公民/進階(96),跨院基本素養(106)"
+          }
+        },
         "1102_1507": {
           "": {
             "brief_code": "",
@@ -15327,6 +16421,9 @@
         }
       },
       "language": {
+        "1102_1496": {
+          "授課語言代碼": "zh-tw"
+        },
         "1102_1507": {
           "授課語言代碼": "zh-tw"
         },

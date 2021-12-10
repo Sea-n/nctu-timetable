@@ -2351,6 +2351,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1102_1154": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1154",
+          "cos_code": "DCP1249",
+          "num_limit": "36",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "無人機自動飛航與電腦視覺概論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://people.cs.nctu.edu.tw/~kuanwen/",
+          "teacher": "陳冠文",
+          "cos_time": "Rabc-EA101",
+          "memo": "外系生請於開學上網加選；資工系與電資學士班學生優先選課",
+          "cos_ename": "Computer Vision for UAV Autopilot",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "550",
+          "dep_primary": "1",
+          "dep_cname": "資訊工程學系",
+          "dep_ename": "Department of Computer Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1102_1158": {
           "acy": "110",
           "sem": "2",
@@ -2417,6 +2445,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_1154": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_1158": {
           "": {
             "course_category_cname": "",
@@ -2452,6 +2489,12 @@
             "brief": ""
           }
         },
+        "1102_1154": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_1158": {
           "": {
             "brief_code": "",
@@ -2470,6 +2513,9 @@
           "授課語言代碼": "en-us"
         },
         "1102_1149": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1154": {
           "授課語言代碼": "zh-tw"
         },
         "1102_1158": {
@@ -2843,6 +2889,34 @@
       "dep_cname": "材料科學與工程學系",
       "dep_ename": "Department of Materials Science and Engineering",
       "1": {
+        "1102_1287": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1287",
+          "cos_code": "DMA1202",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "材料科學與工程導論(二)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "吳樸偉",
+          "cos_time": "M6F56-EF202[KF]",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Introduction to Materials Science and Engineering (II)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "613",
+          "dep_primary": "1",
+          "dep_cname": "材料科學與工程學系",
+          "dep_ename": "Department of Materials Science and Engineering",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1102_1297": {
           "acy": "110",
           "sem": "2",
@@ -2901,6 +2975,15 @@
         }
       },
       "costype": {
+        "1102_1287": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_1297": {
           "": {
             "course_category_cname": "",
@@ -2921,6 +3004,12 @@
         }
       },
       "brief": {
+        "1102_1287": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_1297": {
           "": {
             "brief_code": "",
@@ -2935,6 +3024,9 @@
         }
       },
       "language": {
+        "1102_1287": {
+          "授課語言代碼": "en-us"
+        },
         "1102_1297": {
           "授課語言代碼": "zh-tw"
         },
@@ -3062,6 +3154,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "U"
+        },
+        "1102_1340": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1340",
+          "cos_code": "DEP3361",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "材料科學導論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "莊振益",
+          "cos_time": "M56T2-SC162[KF]",
+          "memo": "電物組三選一",
+          "cos_ename": "Introduction to Materials Science",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "651",
+          "dep_primary": "1",
+          "dep_cname": "電子物理學系",
+          "dep_ename": "Department of Electro-Physics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
         }
       },
       "costype": {
@@ -3075,6 +3195,15 @@
           }
         },
         "1102_1329": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_1340": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -3096,6 +3225,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1102_1340": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -3103,6 +3238,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_1329": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1340": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -10900,6 +11038,111 @@
         }
       }
     },
+    "867086D9-6B6D-46F8-8F76-CC6B834551DB": {
+      "dep_id": "867086D9-6B6D-46F8-8F76-CC6B834551DB",
+      "dep_cname": "物理教學小組",
+      "dep_ename": "Physical section",
+      "1": {
+        "1102_0521": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "0521",
+          "cos_code": "DEP1114",
+          "num_limit": "60",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "物理(二)榮譽班",
+          "cos_credit": "4.00",
+          "cos_hours": "4.00",
+          "TURL": "",
+          "teacher": "莊振益",
+          "cos_time": "T78F34-SC110[KF]",
+          "memo": "含近代物理",
+          "cos_ename": "Physics(II)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OUD",
+          "dep_primary": "1",
+          "dep_cname": "物理教學小組",
+          "dep_ename": "Physical section",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1102_0551": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "0551",
+          "cos_code": "DEP1118",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "物理二(榮譽班)作業演算",
+          "cos_credit": ".00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "莊振益",
+          "cos_time": "Fbc-SC157[KF]",
+          "memo": "",
+          "cos_ename": "Physics Recitation (II)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OUD",
+          "dep_primary": "1",
+          "dep_cname": "物理教學小組",
+          "dep_ename": "Physical section",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        }
+      },
+      "costype": {
+        "1102_0521": {
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "客",
+            "GECIEngName": "CHK"
+          }
+        },
+        "1102_0551": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1102_0521": {
+          "A105,A504": {
+            "brief_code": "A105,A504",
+            "brief": "自然/基礎(96),跨院基本素養(106)"
+          }
+        },
+        "1102_0551": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1102_0521": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_0551": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "49552B82-2C24-4355-AA37-2E503351C46B": {
       "dep_id": "49552B82-2C24-4355-AA37-2E503351C46B",
       "dep_cname": "微積分教學小組",
@@ -17366,6 +17609,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1102_5447": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5447",
+          "cos_code": "IAC5478",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "高分子奈米材料",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.jtchen.com",
+          "teacher": "陳俊太",
+          "cos_time": "M567-SB211[KF]",
+          "memo": "",
+          "cos_ename": "Polymer Nanomaterials",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "654",
+          "dep_primary": "1",
+          "dep_cname": "應用化學系",
+          "dep_ename": "Institute of Applied Chemistry",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1102_5452": {
           "acy": "110",
           "sem": "2",
@@ -17423,6 +17694,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_5447": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5452": {
           "": {
             "course_category_cname": "",
@@ -17452,6 +17732,12 @@
             "brief": ""
           }
         },
+        "1102_5447": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5452": {
           "": {
             "brief_code": "",
@@ -17467,6 +17753,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_5446": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_5447": {
           "授課語言代碼": "zh-tw"
         },
         "1102_5452": {
@@ -22431,6 +22720,34 @@
       "dep_cname": "理學院碩士在職專班-科技與數位學習組",
       "dep_ename": "Degree Program of E-Learning",
       "1": {
+        "1102_5490": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5490",
+          "cos_code": "INE5011",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "論文研討",
+          "cos_credit": "1.00",
+          "cos_hours": "2.00",
+          "TURL": "http://www.jtchen.com",
+          "teacher": "陳俊太",
+          "cos_time": "Rab-SC106[KF]",
+          "memo": "數位學習組，限本校在職專班學生選修",
+          "cos_ename": "Seminar",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "660",
+          "dep_primary": "1",
+          "dep_cname": "理學院碩士在職專班-科技與數位學習組",
+          "dep_ename": "Degree Program of E-Learning",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
         "1102_5491": {
           "acy": "110",
           "sem": "2",
@@ -22461,6 +22778,15 @@
         }
       },
       "costype": {
+        "1102_5490": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5491": {
           "": {
             "course_category_cname": "",
@@ -22472,6 +22798,12 @@
         }
       },
       "brief": {
+        "1102_5490": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5491": {
           "": {
             "brief_code": "",
@@ -22480,6 +22812,9 @@
         }
       },
       "language": {
+        "1102_5490": {
+          "授課語言代碼": "zh-tw"
+        },
         "1102_5491": {
           "授課語言代碼": "zh-tw"
         }

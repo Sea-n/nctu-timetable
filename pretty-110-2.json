@@ -1585,6 +1585,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1102_1063": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1063",
+          "cos_code": "UEE3410",
+          "num_limit": "60",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "混合信號積體電路導論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://adclab.nctu.edu.tw/faculty/",
+          "teacher": "陳佳宏",
+          "cos_time": "R4-EDB07[KF],M78-EDB26[KF]",
+          "memo": "大三、大四",
+          "cos_ename": "Introduction to Mixed-Signal Integrated Circuits",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "511",
+          "dep_primary": "1",
+          "dep_cname": "電機工程學系",
+          "dep_ename": "Department of Electrical and Computer Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1102_1077": {
           "acy": "110",
           "sem": "2",
@@ -1796,6 +1824,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_1063": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_1077": {
           "": {
             "course_category_cname": "",
@@ -1918,6 +1955,12 @@
             "brief": ""
           }
         },
+        "1102_1063": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_1077": {
           "": {
             "brief_code": "",
@@ -1981,6 +2024,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_1060": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1063": {
           "授課語言代碼": "zh-tw"
         },
         "1102_1077": {
@@ -4420,6 +4466,62 @@
       "dep_cname": "資訊管理與財務金融系",
       "dep_ename": "Department of Information and Finance Management",
       "1": {
+        "1102_1475": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1475",
+          "cos_code": "DIF1102",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "服務學習(二)",
+          "cos_credit": "1.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "李漢星",
+          "cos_time": "W56-M-b09[KF]",
+          "memo": "限資財系學生選修",
+          "cos_ename": "Service Learning II",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "705",
+          "dep_primary": "1",
+          "dep_cname": "資訊管理與財務金融系",
+          "dep_ename": "Department of Information and Finance Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1102_1477": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1477",
+          "cos_code": "DIF1030",
+          "num_limit": "60",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "投資學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "李漢星",
+          "cos_time": "R234-M101[KF]",
+          "memo": "資財系優先選課",
+          "cos_ename": "Investments",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "705",
+          "dep_primary": "1",
+          "dep_cname": "資訊管理與財務金融系",
+          "dep_ename": "Department of Information and Finance Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1102_1478": {
           "acy": "110",
           "sem": "2",
@@ -4478,6 +4580,24 @@
         }
       },
       "costype": {
+        "1102_1475": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_1477": {
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "電,資,工,理,生",
+            "GECIEngName": "ECE,CCS,COE,COS,CBT"
+          }
+        },
         "1102_1478": {
           "": {
             "course_category_cname": "",
@@ -4498,6 +4618,18 @@
         }
       },
       "brief": {
+        "1102_1475": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1102_1477": {
+          "A203,A504": {
+            "brief_code": "A203,A504",
+            "brief": "公民/進階(96),跨院基本素養(106)"
+          }
+        },
         "1102_1478": {
           "": {
             "brief_code": "",
@@ -4512,6 +4644,12 @@
         }
       },
       "language": {
+        "1102_1475": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1477": {
+          "授課語言代碼": "zh-tw"
+        },
         "1102_1478": {
           "授課語言代碼": "zh-tw"
         },
@@ -18151,6 +18289,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1102_5415": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5415",
+          "cos_code": "IEP5629",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "時間解析光譜學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "羅志偉",
+          "cos_time": "R234-SC151[KF]",
+          "memo": "",
+          "cos_ename": "Time-Resolved Spectroscopy",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "651",
+          "dep_primary": "1",
+          "dep_cname": "電子物理學系",
+          "dep_ename": "Institute of Electro-Physics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1102_5417": {
           "acy": "110",
           "sem": "2",
@@ -18190,6 +18356,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_5415": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5417": {
           "": {
             "course_category_cname": "",
@@ -18207,6 +18382,12 @@
             "brief": ""
           }
         },
+        "1102_5415": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5417": {
           "": {
             "brief_code": "",
@@ -18216,6 +18397,9 @@
       },
       "language": {
         "1102_5410": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_5415": {
           "授課語言代碼": "zh-tw"
         },
         "1102_5417": {
@@ -20673,6 +20857,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1102_5563": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5563",
+          "cos_code": "IOF5031",
+          "num_limit": "80",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "投資學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "李漢星",
+          "cos_time": "R567-M101[KF]",
+          "memo": "財務類課程；財務金融碩博士班學生優先",
+          "cos_ename": "Investment",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "707",
+          "dep_primary": "1",
+          "dep_cname": "資訊管理與財務金融系財務金融碩博士班",
+          "dep_ename": "Graduate institute of finance",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1102_5570": {
           "acy": "110",
           "sem": "2",
@@ -20824,6 +21036,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_5563": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5570": {
           "": {
             "course_category_cname": "",
@@ -20877,6 +21098,12 @@
             "brief": ""
           }
         },
+        "1102_5563": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5570": {
           "": {
             "brief_code": "",
@@ -20910,6 +21137,9 @@
       },
       "language": {
         "1102_5562": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_5563": {
           "授課語言代碼": "zh-tw"
         },
         "1102_5570": {
@@ -24339,6 +24569,34 @@
           "reg_num": "0",
           "depType": "J"
         },
+        "1102_5675": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5675",
+          "cos_code": "IOF5031",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "投資學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "李漢星",
+          "cos_time": "S234-M101[KF]",
+          "memo": "限本校在職專班同學選修；依財金所網站公告之課程時間表上課",
+          "cos_ename": "Investment",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "717",
+          "dep_primary": "1",
+          "dep_cname": "管理學院碩士在職專班-財金組",
+          "dep_ename": "Degree Program of Financ",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
         "1102_5676": {
           "acy": "110",
           "sem": "2",
@@ -24387,6 +24645,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_5675": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5676": {
           "": {
             "course_category_cname": "",
@@ -24410,6 +24677,12 @@
             "brief": ""
           }
         },
+        "1102_5675": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5676": {
           "": {
             "brief_code": "",
@@ -24422,6 +24695,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_5674": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_5675": {
           "授課語言代碼": "zh-tw"
         },
         "1102_5676": {

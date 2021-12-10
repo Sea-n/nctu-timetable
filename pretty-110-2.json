@@ -3251,6 +3251,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "U"
+        },
+        "1102_1403": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1403",
+          "cos_code": "DAC3362",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "虛擬化學實驗的原理與實踐",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "https://dac.nycu.edu.tw/members/1285",
+          "teacher": "李大偉",
+          "cos_time": "",
+          "memo": "適合修習對象:1.需修完化學一及化學二的學生2.對HTML語言熟悉的學生.",
+          "cos_ename": "Principles and Practice of Virtual Chemistry Labs",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "654",
+          "dep_primary": "1",
+          "dep_cname": "應用化學系",
+          "dep_ename": "Department of Applied Chemistry",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
         }
       },
       "costype": {
@@ -3298,6 +3326,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1102_1403": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -3330,6 +3367,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1102_1403": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -3346,6 +3389,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_1398": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1403": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -17646,6 +17692,157 @@
           "授課語言代碼": "en-us"
         },
         "1102_5516": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "A81D8BD9-229D-4E17-8966-0544BDF3BE34": {
+      "dep_id": "A81D8BD9-229D-4E17-8966-0544BDF3BE34",
+      "dep_cname": "運輸與物流管理學系交通運輸碩博士班",
+      "dep_ename": "Institute of Traffic and Transportation",
+      "1": {
+        "1102_5524": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5524",
+          "cos_code": "ITS5082",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "永續運輸規劃",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "盧宗成",
+          "cos_time": "T234-TD",
+          "memo": "台北北門校區開課",
+          "cos_ename": "Sustainable Transportation Planning",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "702",
+          "dep_primary": "1",
+          "dep_cname": "運輸與物流管理學系交通運輸碩博士班",
+          "dep_ename": "Institute of Traffic and Transportation",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1102_5528": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5528",
+          "cos_code": "ITS5310",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "車流理論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "邱裕鈞",
+          "cos_time": "T567-TD",
+          "memo": "台北北門校區開課",
+          "cos_ename": "Traffic Flow Theory",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "702",
+          "dep_primary": "1",
+          "dep_cname": "運輸與物流管理學系交通運輸碩博士班",
+          "dep_ename": "Institute of Traffic and Transportation",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1102_5529": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5529",
+          "cos_code": "ITT5112",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "公共運輸政策與規劃",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "黃台生、蔡輝昇",
+          "cos_time": "W234-TD",
+          "memo": "台北北門校區開課",
+          "cos_ename": "Policy and Planning for Public Transit",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "702",
+          "dep_primary": "1",
+          "dep_cname": "運輸與物流管理學系交通運輸碩博士班",
+          "dep_ename": "Institute of Traffic and Transportation",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "1102_5524": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_5528": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_5529": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1102_5524": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1102_5528": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1102_5529": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1102_5524": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_5528": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_5529": {
           "授課語言代碼": "zh-tw"
         }
       }

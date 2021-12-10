@@ -3628,6 +3628,62 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1102_1468": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1468",
+          "cos_code": "DEM3558",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "R語言與資料分析",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "王志軒",
+          "cos_time": "T234-MB414[KF]",
+          "memo": "",
+          "cos_ename": "R language & data analysis",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "704",
+          "dep_primary": "1",
+          "dep_cname": "工業工程與管理學系",
+          "dep_ename": "Department of Industrial Engineering and Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1102_1469": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1469",
+          "cos_code": "DEM4321",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "工程經濟",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "徐霈元",
+          "cos_time": "T2F56-MB506[KF]",
+          "memo": "工工系學生優先，可旁聽",
+          "cos_ename": "Engineering Economy",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "704",
+          "dep_primary": "1",
+          "dep_cname": "工業工程與管理學系",
+          "dep_ename": "Department of Industrial Engineering and Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1102_1470": {
           "acy": "110",
           "sem": "2",
@@ -3719,6 +3775,31 @@
             "GECIEngName": "ECE,CCS"
           }
         },
+        "1102_1468": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_1469": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "電,資",
+            "GECIEngName": "ECE,CCS"
+          },
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "電,資",
+            "GECIEngName": "ECE,CCS"
+          }
+        },
         "1102_1470": {
           "": {
             "course_category_cname": "",
@@ -3766,6 +3847,18 @@
             "brief": "自然/進階(96),跨院基本素養(106),校基本素養(106)"
           }
         },
+        "1102_1468": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1102_1469": {
+          "A203,A504,A505": {
+            "brief_code": "A203,A504,A505",
+            "brief": "公民/進階(96),跨院基本素養(106),校基本素養(106)"
+          }
+        },
         "1102_1470": {
           "": {
             "brief_code": "",
@@ -3790,6 +3883,12 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_1467": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1468": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1469": {
           "授課語言代碼": "zh-tw"
         },
         "1102_1470": {
@@ -5140,7 +5239,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "33",
           "depType": "O"
         },
         "1102_8102": {
@@ -5168,7 +5267,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "48",
           "depType": "O"
         },
         "1102_8103": {
@@ -5196,7 +5295,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "45",
           "depType": "O"
         },
         "1102_8104": {
@@ -5224,7 +5323,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "46",
           "depType": "O"
         },
         "1102_8105": {
@@ -5252,7 +5351,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "44",
           "depType": "O"
         },
         "1102_8106": {
@@ -5280,7 +5379,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "44",
           "depType": "O"
         },
         "1102_8107": {
@@ -5308,7 +5407,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "39",
           "depType": "O"
         },
         "1102_8108": {
@@ -5336,7 +5435,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "43",
           "depType": "O"
         },
         "1102_8109": {
@@ -5364,7 +5463,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "42",
           "depType": "O"
         },
         "1102_8110": {
@@ -5392,7 +5491,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "42",
           "depType": "O"
         },
         "1102_8111": {
@@ -5420,7 +5519,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "28",
           "depType": "O"
         },
         "1102_8112": {
@@ -5448,7 +5547,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "49",
           "depType": "O"
         },
         "1102_8113": {
@@ -5476,7 +5575,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "54",
           "depType": "O"
         },
         "1102_8114": {
@@ -5504,7 +5603,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "51",
           "depType": "O"
         },
         "1102_8115": {
@@ -5532,7 +5631,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "38",
           "depType": "O"
         },
         "1102_8116": {
@@ -5560,7 +5659,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "42",
           "depType": "O"
         },
         "1102_8117": {
@@ -5588,7 +5687,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "51",
           "depType": "O"
         },
         "1102_8118": {
@@ -5616,7 +5715,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "56",
           "depType": "O"
         },
         "1102_8120": {
@@ -5644,7 +5743,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "57",
           "depType": "O"
         },
         "1102_8121": {
@@ -5672,7 +5771,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "53",
           "depType": "O"
         },
         "1102_8122": {
@@ -5700,7 +5799,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "35",
           "depType": "O"
         },
         "1102_8123": {
@@ -5728,7 +5827,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "36",
           "depType": "O"
         },
         "1102_8124": {
@@ -5756,7 +5855,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "54",
           "depType": "O"
         },
         "1102_8125": {
@@ -5784,7 +5883,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "45",
           "depType": "O"
         },
         "1102_8126": {
@@ -5812,7 +5911,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "59",
           "depType": "O"
         },
         "1102_8127": {
@@ -5840,7 +5939,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "48",
           "depType": "O"
         },
         "1102_8129": {
@@ -5868,7 +5967,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "46",
           "depType": "O"
         },
         "1102_8130": {
@@ -5896,7 +5995,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "39",
           "depType": "O"
         },
         "1102_8131": {
@@ -5924,7 +6023,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "37",
           "depType": "O"
         },
         "1102_8132": {
@@ -5952,7 +6051,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "35",
           "depType": "O"
         },
         "1102_8133": {
@@ -6008,7 +6107,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "40",
           "depType": "O"
         },
         "1102_8203": {
@@ -6036,7 +6135,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "40",
           "depType": "O"
         },
         "1102_8204": {
@@ -6064,7 +6163,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "40",
           "depType": "O"
         },
         "1102_8205": {
@@ -6092,7 +6191,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "42",
           "depType": "O"
         },
         "1102_8206": {
@@ -6120,7 +6219,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "32",
           "depType": "O"
         },
         "1102_8208": {
@@ -6148,7 +6247,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "40",
           "depType": "O"
         },
         "1102_8209": {
@@ -6176,7 +6275,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "35",
           "depType": "O"
         },
         "1102_8221": {
@@ -6204,7 +6303,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "40",
           "depType": "O"
         },
         "1102_8222": {
@@ -6232,7 +6331,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "40",
           "depType": "O"
         },
         "1102_8223": {
@@ -6260,7 +6359,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "40",
           "depType": "O"
         },
         "1102_8224": {
@@ -6288,7 +6387,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "40",
           "depType": "O"
         },
         "1102_8225": {
@@ -6316,7 +6415,7 @@
           "cos_type": "選修",
           "cos_type_e": "Elective",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "32",
           "depType": "O"
         },
         "1102_8226": {
@@ -6344,7 +6443,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "32",
           "depType": "O"
         },
         "1102_8227": {
@@ -6372,7 +6471,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "40",
           "depType": "O"
         },
         "1102_8228": {
@@ -6400,7 +6499,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "35",
           "depType": "O"
         },
         "1102_8229": {
@@ -6428,7 +6527,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "36",
           "depType": "O"
         },
         "1102_8230": {
@@ -6456,7 +6555,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "40",
           "depType": "O"
         },
         "1102_8232": {
@@ -6484,7 +6583,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "26",
           "depType": "O"
         },
         "1102_8233": {
@@ -6512,7 +6611,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "39",
           "depType": "O"
         },
         "1102_8301": {
@@ -6540,7 +6639,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "40",
           "depType": "O"
         },
         "1102_8303": {
@@ -6568,7 +6667,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "41",
           "depType": "O"
         },
         "1102_8304": {
@@ -6596,7 +6695,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "28",
           "depType": "O"
         },
         "1102_8305": {
@@ -6624,7 +6723,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "40",
           "depType": "O"
         },
         "1102_8306": {
@@ -6652,7 +6751,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "32",
           "depType": "O"
         },
         "1102_8308": {
@@ -6680,7 +6779,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "40",
           "depType": "O"
         },
         "1102_8309": {
@@ -6708,7 +6807,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "36",
           "depType": "O"
         },
         "1102_8321": {
@@ -6736,7 +6835,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "40",
           "depType": "O"
         },
         "1102_8322": {
@@ -6764,7 +6863,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "40",
           "depType": "O"
         },
         "1102_8323": {
@@ -6792,7 +6891,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "41",
           "depType": "O"
         },
         "1102_8324": {
@@ -6820,7 +6919,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "40",
           "depType": "O"
         },
         "1102_8325": {
@@ -6848,7 +6947,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "31",
           "depType": "O"
         },
         "1102_8327": {
@@ -6876,7 +6975,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "36",
           "depType": "O"
         },
         "1102_8328": {
@@ -6904,7 +7003,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "40",
           "depType": "O"
         },
         "1102_8329": {
@@ -6932,7 +7031,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "40",
           "depType": "O"
         },
         "1102_8401": {
@@ -7072,7 +7171,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "31",
           "depType": "O"
         },
         "1102_8502": {
@@ -7100,7 +7199,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "32",
           "depType": "O"
         },
         "1102_8503": {
@@ -7128,7 +7227,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "40",
           "depType": "O"
         },
         "1102_8504": {
@@ -7156,7 +7255,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "40",
           "depType": "O"
         },
         "1102_8505": {
@@ -7184,7 +7283,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "32",
           "depType": "O"
         },
         "1102_8506": {
@@ -7212,7 +7311,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "39",
           "depType": "O"
         },
         "1102_8508": {
@@ -7240,7 +7339,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "40",
           "depType": "O"
         },
         "1102_8509": {
@@ -7268,7 +7367,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "36",
           "depType": "O"
         },
         "1102_8510": {
@@ -7296,7 +7395,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "32",
           "depType": "O"
         },
         "1102_8511": {
@@ -7324,7 +7423,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "40",
           "depType": "O"
         },
         "1102_8512": {
@@ -7352,7 +7451,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "35",
           "depType": "O"
         },
         "1102_8513": {
@@ -7380,7 +7479,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "40",
           "depType": "O"
         },
         "1102_8514": {
@@ -7408,7 +7507,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "40",
           "depType": "O"
         },
         "1102_8551": {
@@ -7688,7 +7787,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "18",
           "depType": "O"
         },
         "1102_8602": {
@@ -7716,7 +7815,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "13",
           "depType": "O"
         },
         "1102_8603": {
@@ -7744,7 +7843,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "15",
           "depType": "O"
         },
         "1102_8604": {
@@ -7772,7 +7871,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "20",
           "depType": "O"
         },
         "1102_8605": {
@@ -7800,7 +7899,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "25",
           "depType": "O"
         },
         "1102_8606": {
@@ -7828,7 +7927,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "18",
           "depType": "O"
         },
         "1102_8607": {
@@ -7856,7 +7955,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "39",
           "depType": "O"
         },
         "1102_8608": {
@@ -7884,7 +7983,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "23",
           "depType": "O"
         },
         "1102_8609": {
@@ -7912,7 +8011,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "13",
           "depType": "O"
         },
         "1102_8610": {
@@ -7940,7 +8039,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "13",
           "depType": "O"
         },
         "1102_8611": {
@@ -7968,7 +8067,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "10",
           "depType": "O"
         },
         "1102_8612": {
@@ -7996,7 +8095,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "18",
           "depType": "O"
         },
         "1102_8613": {
@@ -8024,7 +8123,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "13",
           "depType": "O"
         },
         "1102_8614": {
@@ -8052,7 +8151,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "15",
           "depType": "O"
         },
         "1102_8701": {
@@ -8080,7 +8179,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "40",
           "depType": "O"
         },
         "1102_8702": {
@@ -8108,7 +8207,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "40",
           "depType": "O"
         },
         "1102_8703": {
@@ -8136,7 +8235,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "40",
           "depType": "O"
         },
         "1102_8704": {
@@ -8164,7 +8263,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "39",
           "depType": "O"
         },
         "1102_8705": {
@@ -8192,7 +8291,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "40",
           "depType": "O"
         },
         "1102_8706": {
@@ -8220,7 +8319,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "21",
           "depType": "O"
         },
         "1102_8707": {
@@ -8248,7 +8347,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "32",
           "depType": "O"
         },
         "1102_8708": {
@@ -8276,7 +8375,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "40",
           "depType": "O"
         },
         "1102_8709": {
@@ -8304,7 +8403,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "40",
           "depType": "O"
         },
         "1102_8710": {
@@ -8332,7 +8431,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "40",
           "depType": "O"
         },
         "1102_8711": {
@@ -8360,7 +8459,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "40",
           "depType": "O"
         },
         "1102_8712": {
@@ -8388,7 +8487,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "40",
           "depType": "O"
         },
         "1102_8713": {
@@ -8416,7 +8515,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "40",
           "depType": "O"
         },
         "1102_8714": {
@@ -8444,7 +8543,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "29",
           "depType": "O"
         },
         "1102_8715": {
@@ -8472,7 +8571,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "40",
           "depType": "O"
         }
       },
@@ -14821,7 +14920,7 @@
           "TURL": "http://chien.cm.nctu.edu.tw",
           "teacher": "簡仁宗",
           "cos_time": "F567-ED219[KF]",
-          "memo": "開放\"深度學習\"課程於資訊學院所有的研究所,限修人數 80人",
+          "memo": "【AI學程專業必修】  資訊學院博碩士班同學修習本課程需遞送「碩士生修習非本院專業課程申請書」、「博士生修習非本院專業課程申請書」。本課程不可抵免資訊學院之各博士班資格考科。",
           "cos_ename": "Deep Learning",
           "brief": "",
           "degree": "3",
@@ -16033,6 +16132,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1102_5278": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5278",
+          "cos_code": "IOE5119",
+          "num_limit": "45",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "行動車聯網 C-V2X 技術與應用服務",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "蔣村杰",
+          "cos_time": "W9ab-EC220",
+          "memo": "上課教室：EC220+EC221+EC222；本院學生優先",
+          "cos_ename": "C-V2X Mobile Communication Network Technologies and Applications",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "552",
+          "dep_primary": "1",
+          "dep_cname": "網路工程研究所",
+          "dep_ename": "Institute of Network Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
@@ -16071,6 +16198,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1102_5278": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -16097,6 +16233,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1102_5278": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -16110,6 +16252,9 @@
           "授課語言代碼": "en-us"
         },
         "1102_5274": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_5278": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -17701,6 +17846,90 @@
       "dep_cname": "運輸與物流管理學系交通運輸碩博士班",
       "dep_ename": "Institute of Traffic and Transportation",
       "1": {
+        "1102_5520": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5520",
+          "cos_code": "ITS5060",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "運輸需求分析",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "鍾易詩",
+          "cos_time": "M234-TD",
+          "memo": "台北北門校區開課",
+          "cos_ename": "Travel Demand Analysis",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "702",
+          "dep_primary": "1",
+          "dep_cname": "運輸與物流管理學系交通運輸碩博士班",
+          "dep_ename": "Institute of Traffic and Transportation",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1102_5522": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5522",
+          "cos_code": "ITS5073",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "專題研討（甲組）一",
+          "cos_credit": "1.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "盧宗成",
+          "cos_time": "M56-A901[KF]",
+          "memo": "新竹校區開課",
+          "cos_ename": "SeminarⅠ",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "702",
+          "dep_primary": "1",
+          "dep_cname": "運輸與物流管理學系交通運輸碩博士班",
+          "dep_ename": "Institute of Traffic and Transportation",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1102_5523": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5523",
+          "cos_code": "ITS5077",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "專題研討(甲組)二",
+          "cos_credit": "1.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "運管系",
+          "cos_time": "W78-A905[KF]",
+          "memo": "新竹校區開課",
+          "cos_ename": "Seminar II",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "702",
+          "dep_primary": "1",
+          "dep_cname": "運輸與物流管理學系交通運輸碩博士班",
+          "dep_ename": "Institute of Traffic and Transportation",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1102_5524": {
           "acy": "110",
           "sem": "2",
@@ -17784,9 +18013,176 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1102_5531": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5531",
+          "cos_code": "ITT5121",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "運輸與物流研究專題",
+          "cos_credit": "1.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "運管系",
+          "cos_time": "F78-A806[KF]",
+          "memo": "主開台北北門校區實體、新竹視訊上課； 英文授課[English Medium Course]",
+          "cos_ename": "Research Seminar",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "702",
+          "dep_primary": "1",
+          "dep_cname": "運輸與物流管理學系交通運輸碩博士班",
+          "dep_ename": "Institute of Traffic and Transportation",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1102_5532": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5532",
+          "cos_code": "ITT5340",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "專題研討(乙組)一",
+          "cos_credit": "1.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "陳穆臻",
+          "cos_time": "M56-TD",
+          "memo": "台北北門校區開課",
+          "cos_ename": "Seminar Ⅰ  ",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "702",
+          "dep_primary": "1",
+          "dep_cname": "運輸與物流管理學系交通運輸碩博士班",
+          "dep_ename": "Institute of Traffic and Transportation",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1102_5533": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5533",
+          "cos_code": "ITT5341",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "專題研討(乙組)二",
+          "cos_credit": "1.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "運管系",
+          "cos_time": "F56-TD",
+          "memo": "台北北門校區開課",
+          "cos_ename": "Seminar Ⅱ  ",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "702",
+          "dep_primary": "1",
+          "dep_cname": "運輸與物流管理學系交通運輸碩博士班",
+          "dep_ename": "Institute of Traffic and Transportation",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1102_5534": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5534",
+          "cos_code": "ITT5558",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "運輸計畫評估",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "閻姿慧",
+          "cos_time": "M789-TD",
+          "memo": "台北北門校區開課； 英文授課[English Medium Course]",
+          "cos_ename": "Transportation Projects Evaluation",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "702",
+          "dep_primary": "1",
+          "dep_cname": "運輸與物流管理學系交通運輸碩博士班",
+          "dep_ename": "Institute of Traffic and Transportation",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1102_5535": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5535",
+          "cos_code": "ITT5577",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "數學規劃",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "邱裕鈞",
+          "cos_time": "F234-TD",
+          "memo": "台北北門校區開課",
+          "cos_ename": "Mathematical Programming",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "702",
+          "dep_primary": "1",
+          "dep_cname": "運輸與物流管理學系交通運輸碩博士班",
+          "dep_ename": "Institute of Traffic and Transportation",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
+        "1102_5520": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_5522": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_5523": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5524": {
           "": {
             "course_category_cname": "",
@@ -17806,6 +18202,51 @@
           }
         },
         "1102_5529": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_5531": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_5532": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_5533": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_5534": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_5535": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -17816,6 +18257,24 @@
         }
       },
       "brief": {
+        "1102_5520": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1102_5522": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1102_5523": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5524": {
           "": {
             "brief_code": "",
@@ -17829,6 +18288,36 @@
           }
         },
         "1102_5529": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1102_5531": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1102_5532": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1102_5533": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1102_5534": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1102_5535": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -17836,6 +18325,15 @@
         }
       },
       "language": {
+        "1102_5520": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_5522": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_5523": {
+          "授課語言代碼": "zh-tw"
+        },
         "1102_5524": {
           "授課語言代碼": "zh-tw"
         },
@@ -17843,6 +18341,80 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_5529": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_5531": {
+          "授課語言代碼": "en-us"
+        },
+        "1102_5532": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_5533": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_5534": {
+          "授課語言代碼": "en-us"
+        },
+        "1102_5535": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "D07005FB-64B9-4C7E-89BB-5BDAAFCCF9E0": {
+      "dep_id": "D07005FB-64B9-4C7E-89BB-5BDAAFCCF9E0",
+      "dep_cname": "運輸與物流管理學系物流管理碩博士班",
+      "dep_ename": "Institute of Logistics Management",
+      "1": {
+        "1102_5537": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5537",
+          "cos_code": "ITS5015",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "全球供應鏈管理",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳穆臻",
+          "cos_time": "R567-TD",
+          "memo": "台北北門校區開課",
+          "cos_ename": "Global Supply Chain Management",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "703",
+          "dep_primary": "1",
+          "dep_cname": "運輸與物流管理學系物流管理碩博士班",
+          "dep_ename": "Institute of Logistics Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "1102_5537": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1102_5537": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1102_5537": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -17980,6 +18552,34 @@
           "cos_time": "M789-MB414[KF]",
           "memo": "工工系學生優先，不可旁聽，不開放社會人士選讀",
           "cos_ename": "Special Topic on Algorithms in Management Science",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "704",
+          "dep_primary": "1",
+          "dep_cname": "工業工程與管理學系",
+          "dep_ename": "Department of Industrial Engineering and Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1102_5544": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5544",
+          "cos_code": "IEM5292",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "物流網路設計",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "徐霈元",
+          "cos_time": "T567-MB418",
+          "memo": "工工系學生優先，可旁聽，開放社會人士選讀[English Medium Course]",
+          "cos_ename": "Logistic network design",
           "brief": "",
           "degree": "3",
           "dep_id": "704",
@@ -18179,6 +18779,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_5544": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5545": {
           "": {
             "course_category_cname": "",
@@ -18256,6 +18865,12 @@
             "brief": ""
           }
         },
+        "1102_5544": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5545": {
           "": {
             "brief_code": "",
@@ -18302,6 +18917,9 @@
         },
         "1102_5542": {
           "授課語言代碼": "zh-tw"
+        },
+        "1102_5544": {
+          "授課語言代碼": "en-us"
         },
         "1102_5545": {
           "授課語言代碼": "zh-tw"
@@ -21790,6 +22408,65 @@
       },
       "language": {
         "1102_5635": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "7B1AC97F-AB3C-4A03-AFC4-8B3F825AB632": {
+      "dep_id": "7B1AC97F-AB3C-4A03-AFC4-8B3F825AB632",
+      "dep_cname": "管理學院碩士在職專班-工管組",
+      "dep_ename": "Degree Program of Industrial Engineering and Management",
+      "1": {
+        "1102_5657": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5657",
+          "cos_code": "IEM5231",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "統計方法與資料分析",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "巫佳煌",
+          "cos_time": "Wabc-MB110[KF]",
+          "memo": "與學分班合開；本專班課程不准本系及他系一般生選修",
+          "cos_ename": "Statistical Methods and Data Analysis",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "714",
+          "dep_primary": "1",
+          "dep_cname": "管理學院碩士在職專班-工管組",
+          "dep_ename": "Degree Program of Industrial Engineering and Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        }
+      },
+      "costype": {
+        "1102_5657": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1102_5657": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1102_5657": {
           "授課語言代碼": "zh-tw"
         }
       }

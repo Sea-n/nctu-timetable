@@ -16685,6 +16685,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1102_5126": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5126",
+          "cos_code": "IIE5056",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "研究對象權益之保障與法律議題",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://labview.cs.nctu.edu.tw",
+          "teacher": "蕭子健、薛美蓮",
+          "cos_time": "M567-EF207[KF]",
+          "memo": "本所生優先",
+          "cos_ename": "Protection of Research Subjects Rights and Legal Issues",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "515",
+          "dep_primary": "1",
+          "dep_cname": "生醫工程研究所",
+          "dep_ename": "Institute of Biomedical Imaging and Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1102_5127": {
           "acy": "110",
           "sem": "2",
@@ -16758,6 +16786,15 @@
             "GECIEngName": "CCS"
           }
         },
+        "1102_5126": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5127": {
           "": {
             "course_category_cname": "",
@@ -16793,6 +16830,12 @@
             "brief": "自然/進階(96),跨院基本素養(106),校基本素養(106)"
           }
         },
+        "1102_5126": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5127": {
           "": {
             "brief_code": "",
@@ -16811,6 +16854,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_5123": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_5126": {
           "授課語言代碼": "zh-tw"
         },
         "1102_5127": {
@@ -16847,6 +16893,34 @@
           "dep_ename": "Institute of Computer Science and Engineering",
           "cos_type": "必修",
           "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1102_5247": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5247",
+          "cos_code": "IOC5090",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "虛擬醫用儀表",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://labview.cs.nctu.edu.tw",
+          "teacher": "蕭子健、張家齊",
+          "cos_time": "T56-EC315",
+          "memo": "本院學生優先；機械系不同意所屬學生採計通識學分 [另外1小時(第3節)以非同步上課方式]",
+          "cos_ename": "Virtual Biomedical Instrumentation ",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "551",
+          "dep_primary": "1",
+          "dep_cname": "資訊科學與工程研究所",
+          "dep_ename": "Institute of Computer Science and Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
@@ -17114,6 +17188,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_5247": {
+          "通識校基本素養_通識校基本": {
+            "course_category_cname": "通識校基本素養_通識校基本",
+            "course_category_ename": "General Education Course: Literacy_GECL",
+            "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5248": {
           "": {
             "course_category_cname": "",
@@ -17203,6 +17286,12 @@
             "brief": ""
           }
         },
+        "1102_5247": {
+          "A205,A505": {
+            "brief_code": "A205,A505",
+            "brief": "自然/進階(96),校基本素養(106)"
+          }
+        },
         "1102_5248": {
           "": {
             "brief_code": "",
@@ -17260,6 +17349,9 @@
       },
       "language": {
         "1102_5243": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_5247": {
           "授課語言代碼": "zh-tw"
         },
         "1102_5248": {
@@ -27194,6 +27286,34 @@
       "dep_cname": "電機學院與資訊學院共同課程",
       "dep_ename": "College of Electrical Engineering and Computer Science",
       "1": {
+        "1102_1711": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1711",
+          "cos_code": "DCP1175",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "訊號與系統",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://labview.cs.nctu.edu.tw",
+          "teacher": "蕭子健",
+          "cos_time": "M34-EC016[KF]",
+          "memo": "電機學院與資訊學院共同課程；[另外1小時(第3節)以非同步上課方式]",
+          "cos_ename": "Signals and Systems",
+          "brief": "",
+          "degree": "A",
+          "dep_id": "5Y1",
+          "dep_primary": "1",
+          "dep_cname": "電機學院與資訊學院共同課程",
+          "dep_ename": "College of Electrical Engineering and Computer Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1102_1715": {
           "acy": "110",
           "sem": "2",
@@ -27224,6 +27344,15 @@
         }
       },
       "costype": {
+        "1102_1711": {
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "工",
+            "GECIEngName": "COE"
+          }
+        },
         "1102_1715": {
           "通識跨院基本素養_通識跨院": {
             "course_category_cname": "通識跨院基本素養_通識跨院",
@@ -27235,6 +27364,12 @@
         }
       },
       "brief": {
+        "1102_1711": {
+          "A205,A504": {
+            "brief_code": "A205,A504",
+            "brief": "自然/進階(96),跨院基本素養(106)"
+          }
+        },
         "1102_1715": {
           "A205,A504": {
             "brief_code": "A205,A504",
@@ -27243,6 +27378,9 @@
         }
       },
       "language": {
+        "1102_1711": {
+          "授課語言代碼": "zh-tw"
+        },
         "1102_1715": {
           "授課語言代碼": "zh-tw"
         }

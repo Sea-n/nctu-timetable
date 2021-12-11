@@ -15818,6 +15818,34 @@
       "dep_cname": "傳播研究所",
       "dep_ename": "Institute of Communication Studies",
       "1": {
+        "1102_5808": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5808",
+          "cos_code": "ICT5324",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "傳播理論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "https://ics.nctu.edu.tw/professors/taiyeewu",
+          "teacher": "吳泰毅",
+          "cos_time": "F234-F204[KF]",
+          "memo": "傳播所必修",
+          "cos_ename": "Communication Theories",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "461",
+          "dep_primary": "1",
+          "dep_cname": "傳播研究所",
+          "dep_ename": "Institute of Communication Studies",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1102_5815": {
           "acy": "110",
           "sem": "2",
@@ -15845,10 +15873,56 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1102_5936": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5936",
+          "cos_code": "ICT5421",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "說服理論與實務",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "https://ics.nctu.edu.tw/professors/taiyeewu",
+          "teacher": "吳泰毅",
+          "cos_time": "R234-F204[KF]",
+          "memo": "",
+          "cos_ename": "Persuasion: Theories and Practice",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "461",
+          "dep_primary": "1",
+          "dep_cname": "傳播研究所",
+          "dep_ename": "Institute of Communication Studies",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
+        "1102_5808": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5815": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_5936": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -15859,7 +15933,19 @@
         }
       },
       "brief": {
+        "1102_5808": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5815": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1102_5936": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -15867,7 +15953,13 @@
         }
       },
       "language": {
+        "1102_5808": {
+          "授課語言代碼": "zh-tw"
+        },
         "1102_5815": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_5936": {
           "授課語言代碼": "zh-tw"
         }
       }

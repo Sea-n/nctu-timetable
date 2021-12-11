@@ -24152,6 +24152,34 @@
       "dep_cname": "高階主管管理碩士學程",
       "dep_ename": "Degree Program of Management for Executives",
       "1": {
+        "1102_5634": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5634",
+          "cos_code": "IBA1023",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "中國大陸企業管理研究",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "張家齊、林春成、鍾惠民、戴天時、吳浩庠、傅恆霖",
+          "cos_time": "Sabc-",
+          "memo": "交大校區EMBA與陽明校區生醫管理碩士在職學位學程合開；限EMBA學生選修",
+          "cos_ename": "Seminar on Management of Chinese Enterprises",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "711",
+          "dep_primary": "1",
+          "dep_cname": "高階主管管理碩士學程",
+          "dep_ename": "Degree Program of Management for Executives",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "E"
+        },
         "1102_5635": {
           "acy": "110",
           "sem": "2",
@@ -24179,10 +24207,56 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "E"
+        },
+        "1102_5638": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5638",
+          "cos_code": "IBA2001",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "資訊與管理專題",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "劉敦仁、林春成、李永銘、林孟洲、楊千",
+          "cos_time": "U234567-",
+          "memo": "隔週上課，每次6小時 ; 限EMBA學生選修",
+          "cos_ename": "Seminar on Information and Management",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "711",
+          "dep_primary": "1",
+          "dep_cname": "高階主管管理碩士學程",
+          "dep_ename": "Degree Program of Management for Executives",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "E"
         }
       },
       "costype": {
+        "1102_5634": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5635": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_5638": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -24193,7 +24267,19 @@
         }
       },
       "brief": {
+        "1102_5634": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5635": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1102_5638": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -24201,7 +24287,13 @@
         }
       },
       "language": {
+        "1102_5634": {
+          "授課語言代碼": "zh-tw"
+        },
         "1102_5635": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_5638": {
           "授課語言代碼": "zh-tw"
         }
       }

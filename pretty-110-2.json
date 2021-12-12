@@ -5944,6 +5944,34 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1102_7163": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "7163",
+          "cos_code": "DFR1216",
+          "num_limit": "25",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "商用英文",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "郭詩芝",
+          "cos_time": "W12-A505[KF]",
+          "memo": "",
+          "cos_ename": "Business English",
+          "brief": "進階",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1102_7167": {
           "acy": "110",
           "sem": "2",
@@ -6094,6 +6122,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_7163": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_7167": {
           "": {
             "course_category_cname": "",
@@ -6156,6 +6193,12 @@
             "brief": "基礎(87)"
           }
         },
+        "1102_7163": {
+          "B072": {
+            "brief_code": "B072",
+            "brief": "進階(87)"
+          }
+        },
         "1102_7167": {
           "B072": {
             "brief_code": "B072",
@@ -6192,6 +6235,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_7128": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_7163": {
           "授課語言代碼": "zh-tw"
         },
         "1102_7167": {

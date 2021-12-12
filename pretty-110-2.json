@@ -2489,6 +2489,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1102_1152": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1152",
+          "cos_code": "DCP1273",
+          "num_limit": "60",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "組合數學(英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "高孟駿",
+          "cos_time": "Mab-EC114[KF]",
+          "memo": "外系生請於開學上網加選；資工系與電資學士班學生優先選課；學士班七大主題學程；英文授課[另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously][English Medium Course]",
+          "cos_ename": "Combinatorial Mathematics",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "550",
+          "dep_primary": "1",
+          "dep_cname": "資訊工程學系",
+          "dep_ename": "Department of Computer Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": null,
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1102_1154": {
           "acy": "110",
           "sem": "2",
@@ -2611,6 +2639,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_1152": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_1154": {
           "": {
             "course_category_cname": "",
@@ -2664,6 +2701,12 @@
             "brief": ""
           }
         },
+        "1102_1152": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_1154": {
           "": {
             "brief_code": "",
@@ -2695,6 +2738,9 @@
         },
         "1102_1149": {
           "授課語言代碼": "zh-tw"
+        },
+        "1102_1152": {
+          "授課語言代碼": "en-us"
         },
         "1102_1154": {
           "授課語言代碼": "zh-tw"
@@ -12777,6 +12823,34 @@
       "dep_cname": "電機資訊英語授課學分學程",
       "dep_ename": "Electrical Engineering and Computer Science-International Program",
       "1": {
+        "1102_1152": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1152",
+          "cos_code": "DCP1273",
+          "num_limit": "60",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "組合數學(英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "高孟駿",
+          "cos_time": "Mab-EC114[KF]",
+          "memo": "外系生請於開學上網加選；資工系與電資學士班學生優先選課；學士班七大主題學程；英文授課[另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously][English Medium Course]",
+          "cos_ename": "Combinatorial Mathematics",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAN",
+          "dep_primary": "1",
+          "dep_cname": "電機資訊英語授課學分學程",
+          "dep_ename": "Electrical Engineering and Computer Science-International Program",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": null,
+          "reg_num": "0",
+          "depType": "P"
+        },
         "1102_5248": {
           "acy": "110",
           "sem": "2",
@@ -12975,6 +13049,15 @@
         }
       },
       "costype": {
+        "1102_1152": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5248": {
           "": {
             "course_category_cname": "",
@@ -13040,6 +13123,12 @@
         }
       },
       "brief": {
+        "1102_1152": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5248": {
           "": {
             "brief_code": "",
@@ -13084,6 +13173,9 @@
         }
       },
       "language": {
+        "1102_1152": {
+          "授課語言代碼": "en-us"
+        },
         "1102_5248": {
           "授課語言代碼": "en-us"
         },

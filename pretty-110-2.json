@@ -229,6 +229,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "U"
+        },
+        "1102_1674": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1674",
+          "cos_code": "DHS3158",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "中國近現代社會與文化",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "張藝曦",
+          "cos_time": "W234-",
+          "memo": "",
+          "cos_ename": "Social-cultural history of modern China",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "481",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學系",
+          "dep_ename": "Department of Humanities and Social Sciences",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
         }
       },
       "costype": {
@@ -240,6 +268,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1102_1674": {
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "資,理,生,人",
+            "GECIEngName": "CCS,COS,CBT,CHS"
+          }
         }
       },
       "brief": {
@@ -248,10 +285,19 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1102_1674": {
+          "A201,A504": {
+            "brief_code": "A201,A504",
+            "brief": "文化/進階(96),跨院基本素養(106)"
+          }
         }
       },
       "language": {
         "1102_1664": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1674": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -4662,6 +4708,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1102_1483": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1483",
+          "cos_code": "DIF1011",
+          "num_limit": "60",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "總體經濟學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "黃宜侯",
+          "cos_time": "T234-M-b09[KF]",
+          "memo": "資財系優先選課",
+          "cos_ename": "Macroeconomics",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "705",
+          "dep_primary": "1",
+          "dep_cname": "資訊管理與財務金融系",
+          "dep_ename": "Department of Information and Finance Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1102_1487": {
           "acy": "110",
           "sem": "2",
@@ -4719,6 +4793,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_1483": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_1487": {
           "": {
             "course_category_cname": "",
@@ -4748,6 +4831,12 @@
             "brief": ""
           }
         },
+        "1102_1483": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_1487": {
           "": {
             "brief_code": "",
@@ -4763,6 +4852,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_1478": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1483": {
           "授課語言代碼": "zh-tw"
         },
         "1102_1487": {
@@ -12306,6 +12398,34 @@
       "dep_cname": "物理教學小組",
       "dep_ename": "Physical section",
       "1": {
+        "1102_0516": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "0516",
+          "cos_code": "DEP1112",
+          "num_limit": "65",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "物理(二)",
+          "cos_credit": "4.00",
+          "cos_hours": "4.00",
+          "TURL": "",
+          "teacher": "鍾介文",
+          "cos_time": "M34R78-SC152[KF]",
+          "memo": "",
+          "cos_ename": "Physics (II)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OUD",
+          "dep_primary": "1",
+          "dep_cname": "物理教學小組",
+          "dep_ename": "Physical section",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1102_0521": {
           "acy": "110",
           "sem": "2",
@@ -12330,6 +12450,34 @@
           "dep_ename": "Physical section",
           "cos_type": "必修",
           "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1102_0546": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "0546",
+          "cos_code": "DEP1116",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "物理二作業演算",
+          "cos_credit": ".00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "鍾介文",
+          "cos_time": "Fbc-SC152[KF]",
+          "memo": "",
+          "cos_ename": "Physics Recitation (II)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OUD",
+          "dep_primary": "1",
+          "dep_cname": "物理教學小組",
+          "dep_ename": "Physical section",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "O"
@@ -12364,6 +12512,15 @@
         }
       },
       "costype": {
+        "1102_0516": {
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "客",
+            "GECIEngName": "CHK"
+          }
+        },
         "1102_0521": {
           "通識跨院基本素養_通識跨院": {
             "course_category_cname": "通識跨院基本素養_通識跨院",
@@ -12371,6 +12528,15 @@
             "course_category_type": "16",
             "GECIName": "客",
             "GECIEngName": "CHK"
+          }
+        },
+        "1102_0546": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
           }
         },
         "1102_0551": {
@@ -12384,10 +12550,22 @@
         }
       },
       "brief": {
+        "1102_0516": {
+          "A105,A504": {
+            "brief_code": "A105,A504",
+            "brief": "自然/基礎(96),跨院基本素養(106)"
+          }
+        },
         "1102_0521": {
           "A105,A504": {
             "brief_code": "A105,A504",
             "brief": "自然/基礎(96),跨院基本素養(106)"
+          }
+        },
+        "1102_0546": {
+          "": {
+            "brief_code": "",
+            "brief": ""
           }
         },
         "1102_0551": {
@@ -12398,7 +12576,13 @@
         }
       },
       "language": {
+        "1102_0516": {
+          "授課語言代碼": "zh-tw"
+        },
         "1102_0521": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_0546": {
           "授課語言代碼": "zh-tw"
         },
         "1102_0551": {
@@ -20295,7 +20479,7 @@
           "cos_id": "5531",
           "cos_code": "ITT5121",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "運輸與物流研究專題",
           "cos_credit": "1.00",
@@ -21905,6 +22089,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1102_5576": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5576",
+          "cos_code": "IOF5156",
+          "num_limit": "55",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "ESG與資產管理專題",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "鍾惠民、梁婉麗、黃宜侯、謝文良、李漢星、劉宗聖",
+          "cos_time": "F567-M115",
+          "memo": "財務類課程；財務金融碩博士班優先",
+          "cos_ename": "Seminar of ESG and Asset Management",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "707",
+          "dep_primary": "1",
+          "dep_cname": "資訊管理與財務金融系財務金融碩博士班",
+          "dep_ename": "Graduate institute of finance",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1102_5577": {
           "acy": "110",
           "sem": "2",
@@ -21989,6 +22201,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_5576": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5577": {
           "": {
             "course_category_cname": "",
@@ -22036,6 +22257,12 @@
             "brief": ""
           }
         },
+        "1102_5576": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5577": {
           "": {
             "brief_code": "",
@@ -22061,6 +22288,9 @@
         },
         "1102_5574": {
           "授課語言代碼": "en-us"
+        },
+        "1102_5576": {
+          "授課語言代碼": "zh-tw"
         },
         "1102_5577": {
           "授課語言代碼": "zh-tw"
@@ -23981,6 +24211,65 @@
       },
       "language": {
         "1102_4006": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "30B55C0F-1EF3-4B53-8EF8-3D26A8DDDC87": {
+      "dep_id": "30B55C0F-1EF3-4B53-8EF8-3D26A8DDDC87",
+      "dep_cname": "客家社會與文化碩士在職專班",
+      "dep_ename": "Degree Program of Hakka Society and Culture for In-Service Teachers",
+      "1": {
+        "1102_5912": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5912",
+          "cos_code": "IHC5114",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "學術寫作",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "張藝曦",
+          "cos_time": "Wabc-HK207[LJ]",
+          "memo": "",
+          "cos_ename": "Academic Writing and Presentation",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "480",
+          "dep_primary": "1",
+          "dep_cname": "客家社會與文化碩士在職專班",
+          "dep_ename": "Degree Program of Hakka Society and Culture for In-Service Teachers",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        }
+      },
+      "costype": {
+        "1102_5912": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1102_5912": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1102_5912": {
           "授課語言代碼": "zh-tw"
         }
       }

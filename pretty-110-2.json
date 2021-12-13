@@ -6287,6 +6287,34 @@
       "dep_cname": "語言教學與研究中心",
       "dep_ename": "Language Teaching and Research Center",
       "1": {
+        "1102_7103": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "7103",
+          "cos_code": "DFR1107",
+          "num_limit": "36",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "大一英文（二）",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "闕郁軒",
+          "cos_time": "M78-A307[KF]",
+          "memo": "",
+          "cos_ename": "Freshman English (II)",
+          "brief": "基礎",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1102_7108": {
           "acy": "110",
           "sem": "2",
@@ -6388,6 +6416,34 @@
           "memo": "",
           "cos_ename": "Freshman English (II)",
           "brief": "基礎",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1102_7154": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "7154",
+          "cos_code": "DFR1314",
+          "num_limit": "25",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "進階英文聽力與寫作",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "闕郁軒",
+          "cos_time": "M56-A307[KF]",
+          "memo": "",
+          "cos_ename": "Advanced English Listening and Writing",
+          "brief": "",
           "degree": "1",
           "dep_id": "OU6",
           "dep_primary": "1",
@@ -6597,6 +6653,15 @@
         }
       },
       "costype": {
+        "1102_7103": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_7108": {
           "": {
             "course_category_cname": "",
@@ -6625,6 +6690,15 @@
           }
         },
         "1102_7128": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_7154": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -6698,6 +6772,12 @@
         }
       },
       "brief": {
+        "1102_7103": {
+          "B071": {
+            "brief_code": "B071",
+            "brief": "基礎(87)"
+          }
+        },
         "1102_7108": {
           "B071": {
             "brief_code": "B071",
@@ -6720,6 +6800,12 @@
           "B071": {
             "brief_code": "B071",
             "brief": "基礎(87)"
+          }
+        },
+        "1102_7154": {
+          "B072": {
+            "brief_code": "B072",
+            "brief": "進階(87)"
           }
         },
         "1102_7163": {
@@ -6766,6 +6852,9 @@
         }
       },
       "language": {
+        "1102_7103": {
+          "授課語言代碼": "zh-tw"
+        },
         "1102_7108": {
           "授課語言代碼": "zh-tw"
         },
@@ -6776,6 +6865,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_7128": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_7154": {
           "授課語言代碼": "zh-tw"
         },
         "1102_7163": {
@@ -24141,6 +24233,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1102_5209": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5209",
+          "cos_code": "ITL5660",
+          "num_limit": "15",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "法與心理學",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "http://mhchin.blog.nctu.edu.tw",
+          "teacher": "金孟華",
+          "cos_time": "W34-MB1063",
+          "memo": "開放台聯大大三以上同學選修",
+          "cos_ename": " Law and Psychology",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "731",
+          "dep_primary": "1",
+          "dep_cname": "科技法律研究所",
+          "dep_ename": "Institute of Technology Law",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
@@ -24278,6 +24398,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1102_5209": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -24370,6 +24499,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1102_5209": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -24417,6 +24552,9 @@
         },
         "1102_5208": {
           "授課語言代碼": "en-us"
+        },
+        "1102_5209": {
+          "授課語言代碼": "zh-tw"
         }
       }
     },

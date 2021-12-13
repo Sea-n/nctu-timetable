@@ -302,6 +302,65 @@
         }
       }
     },
+    "23468ECA-50AE-4182-BAF8-C0AD5E57D27D": {
+      "dep_id": "23468ECA-50AE-4182-BAF8-C0AD5E57D27D",
+      "dep_cname": "傳播與科技學系",
+      "dep_ename": "Department of Communication and Technology",
+      "1": {
+        "1102_1681": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1681",
+          "cos_code": "DCT1041",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "客家與傳播",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "https://dcat.nycu.edu.tw/members/jsoniahuang/",
+          "teacher": "黃靜蓉",
+          "cos_time": "M234-HKB08[LJ]",
+          "memo": "",
+          "cos_ename": "Hakka and Communication",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "483",
+          "dep_primary": "1",
+          "dep_cname": "傳播與科技學系",
+          "dep_ename": "Department of Communication and Technology",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        }
+      },
+      "costype": {
+        "1102_1681": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1102_1681": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1102_1681": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "3CEF1CCE-9A5D-4B91-AA06-C3F717F7619E": {
       "dep_id": "3CEF1CCE-9A5D-4B91-AA06-C3F717F7619E",
       "dep_cname": "人文社會學院院本部",
@@ -13212,6 +13271,34 @@
       "dep_cname": "IMBA國際管理學分學程",
       "dep_ename": "Program of International Management ＆ Business Administration",
       "1": {
+        "1102_5510": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5510",
+          "cos_code": "IMS5369",
+          "num_limit": "60",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "知識經濟時代的策略思維",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "郭國泰",
+          "cos_time": "M567-M301[KF]",
+          "memo": "英語授課；開放大三大四選修；管科所主開、GMBA輔開；IMBA學程[English Medium Course]",
+          "cos_ename": "Strategic Thinking in the Era of Knowledge Economy",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAL",
+          "dep_primary": "1",
+          "dep_cname": "IMBA國際管理學分學程",
+          "dep_ename": "Program of International Management ＆ Business Administration",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
         "1102_5541": {
           "acy": "110",
           "sem": "2",
@@ -13438,6 +13525,15 @@
         }
       },
       "costype": {
+        "1102_5510": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5541": {
           "": {
             "course_category_cname": "",
@@ -13512,6 +13608,12 @@
         }
       },
       "brief": {
+        "1102_5510": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5541": {
           "": {
             "brief_code": "",
@@ -13562,6 +13664,9 @@
         }
       },
       "language": {
+        "1102_5510": {
+          "授課語言代碼": "en-us"
+        },
         "1102_5541": {
           "授課語言代碼": "en-us"
         },
@@ -20302,6 +20407,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1102_5510": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5510",
+          "cos_code": "IMS5369",
+          "num_limit": "60",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "知識經濟時代的策略思維",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "郭國泰",
+          "cos_time": "M567-M301[KF]",
+          "memo": "英語授課；開放大三大四選修；管科所主開、GMBA輔開；IMBA學程[English Medium Course]",
+          "cos_ename": "Strategic Thinking in the Era of Knowledge Economy",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "700",
+          "dep_primary": "1",
+          "dep_cname": "管理科學系",
+          "dep_ename": "Institute of Management Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1102_5516": {
           "acy": "110",
           "sem": "2",
@@ -20350,6 +20483,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_5510": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5516": {
           "": {
             "course_category_cname": "",
@@ -20373,6 +20515,12 @@
             "brief": ""
           }
         },
+        "1102_5510": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5516": {
           "": {
             "brief_code": "",
@@ -20386,6 +20534,9 @@
         },
         "1102_5509": {
           "授課語言代碼": "zh-tw"
+        },
+        "1102_5510": {
+          "授課語言代碼": "en-us"
         },
         "1102_5516": {
           "授課語言代碼": "zh-tw"
@@ -25202,6 +25353,65 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_5498": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "483A74DF-13DF-40D6-B125-AE7D2F2946BA": {
+      "dep_id": "483A74DF-13DF-40D6-B125-AE7D2F2946BA",
+      "dep_cname": "管理學院碩士在職專班-管科組",
+      "dep_ename": "Degree Program of Management Science",
+      "1": {
+        "1102_5625": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5625",
+          "cos_code": "IMS5300",
+          "num_limit": "20",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "企業財務與經營決策",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳宗岡、郭國泰",
+          "cos_time": "Mabc-M301[KF]",
+          "memo": "限專班選修",
+          "cos_ename": "Corporate Financial and Operating Policies",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "710",
+          "dep_primary": "1",
+          "dep_cname": "管理學院碩士在職專班-管科組",
+          "dep_ename": "Degree Program of Management Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        }
+      },
+      "costype": {
+        "1102_5625": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1102_5625": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1102_5625": {
           "授課語言代碼": "zh-tw"
         }
       }

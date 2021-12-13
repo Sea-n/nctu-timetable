@@ -740,7 +740,7 @@
           "cos_hours": "2.00",
           "TURL": "",
           "teacher": "蕭智尹",
-          "cos_time": "M78-HC103[KF]",
+          "cos_time": "F34-HC104[KF]",
           "memo": "",
           "cos_ename": "Art beyond creation, an introduction to Art Administration ",
           "brief": "",
@@ -3186,7 +3186,7 @@
           "TURL": "https://dac.nycu.edu.tw/members/1285",
           "teacher": "李大偉",
           "cos_time": "W12-SC109[KF]",
-          "memo": "網路課程",
+          "memo": "遠距課程",
           "cos_ename": "Chemistry (II)",
           "brief": "",
           "degree": "1",
@@ -3315,6 +3315,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1102_1298": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1298",
+          "cos_code": "DMA2405",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "材料工程實驗(二)",
+          "cos_credit": "2.00",
+          "cos_hours": "4.00",
+          "TURL": "",
+          "teacher": "吳文偉",
+          "cos_time": "S5678-",
+          "memo": "限材料系選修\r\n外系以書面加選",
+          "cos_ename": "Advanced Materials Labs.(II)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "613",
+          "dep_primary": "1",
+          "dep_cname": "材料科學與工程學系",
+          "dep_ename": "Department of Materials Science and Engineering",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1102_1300": {
           "acy": "110",
           "sem": "2",
@@ -3372,6 +3400,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_1298": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_1300": {
           "遠距課程_遠距": {
             "course_category_cname": "遠距課程_遠距",
@@ -3401,6 +3438,12 @@
             "brief": ""
           }
         },
+        "1102_1298": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_1300": {
           "": {
             "brief_code": "",
@@ -3416,6 +3459,9 @@
           "授課語言代碼": "en-us"
         },
         "1102_1297": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1298": {
           "授課語言代碼": "zh-tw"
         },
         "1102_1300": {
@@ -14039,7 +14085,7 @@
           "cos_id": "1496",
           "cos_code": "DOM1010",
           "num_limit": "75",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "管理學",
           "cos_credit": "3.00",
@@ -14453,7 +14499,7 @@
           "cos_id": "1496",
           "cos_code": "DOM1010",
           "num_limit": "75",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "管理學",
           "cos_credit": "3.00",
@@ -14481,7 +14527,7 @@
           "cos_id": "1509",
           "cos_code": "DOM1042",
           "num_limit": "85",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "統計學(二)",
           "cos_credit": "3.00",
@@ -14509,7 +14555,7 @@
           "cos_id": "1512",
           "cos_code": "DOM1046",
           "num_limit": "20",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "作業研究(二)",
           "cos_credit": "3.00",
@@ -15224,7 +15270,7 @@
           "cos_hours": "2.00",
           "TURL": "",
           "teacher": "蕭智尹",
-          "cos_time": "M78-HC103[KF]",
+          "cos_time": "F34-HC104[KF]",
           "memo": "",
           "cos_ename": "Art beyond creation, an introduction to Art Administration ",
           "brief": "",
@@ -20228,6 +20274,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1102_5509": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5509",
+          "cos_code": "IMS5367",
+          "num_limit": "60",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "國際企業管理",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "郭國泰",
+          "cos_time": "R567-M205[KF]",
+          "memo": "開放大學部三、四年級選修",
+          "cos_ename": "International Business Management",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "700",
+          "dep_primary": "1",
+          "dep_cname": "管理科學系",
+          "dep_ename": "Institute of Management Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1102_5516": {
           "acy": "110",
           "sem": "2",
@@ -20267,6 +20341,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_5509": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5516": {
           "": {
             "course_category_cname": "",
@@ -20284,6 +20367,12 @@
             "brief": ""
           }
         },
+        "1102_5509": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5516": {
           "": {
             "brief_code": "",
@@ -20294,6 +20383,9 @@
       "language": {
         "1102_5504": {
           "授課語言代碼": "en-us"
+        },
+        "1102_5509": {
+          "授課語言代碼": "zh-tw"
         },
         "1102_5516": {
           "授課語言代碼": "zh-tw"
@@ -28029,7 +28121,7 @@
           "cos_id": "5691",
           "cos_code": "IOM5009",
           "num_limit": "9999",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "企業經營與倫理專題講座",
           "cos_credit": "3.00",
@@ -28548,7 +28640,7 @@
           "cos_id": "1496",
           "cos_code": "DOM1010",
           "num_limit": "75",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "管理學",
           "cos_credit": "3.00",
@@ -28576,7 +28668,7 @@
           "cos_id": "1502",
           "cos_code": "DOM1014",
           "num_limit": "70",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "線性代數",
           "cos_credit": "3.00",
@@ -28604,7 +28696,7 @@
           "cos_id": "1507",
           "cos_code": "DOM1034",
           "num_limit": "55",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "程式設計",
           "cos_credit": "3.00",
@@ -28632,7 +28724,7 @@
           "cos_id": "1509",
           "cos_code": "DOM1042",
           "num_limit": "85",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "統計學(二)",
           "cos_credit": "3.00",
@@ -28660,7 +28752,7 @@
           "cos_id": "1512",
           "cos_code": "DOM1046",
           "num_limit": "20",
-          "dep_limit": "*",
+          "dep_limit": "N",
           "URL": null,
           "cos_cname": "作業研究(二)",
           "cos_credit": "3.00",

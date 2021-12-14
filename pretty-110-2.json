@@ -19808,6 +19808,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1102_5270": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5270",
+          "cos_code": "IOC5231",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "雲原生軟體開發與最佳實踐",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cs.nctu.edu.tw/~jlhuang",
+          "teacher": "黃俊龍",
+          "cos_time": "Wabc-EC122[KF]",
+          "memo": "本院學生優先",
+          "cos_ename": "Cloud Native Development: towards Best Practice",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "551",
+          "dep_primary": "1",
+          "dep_cname": "資訊科學與工程研究所",
+          "dep_ename": "Institute of Computer Science and Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
@@ -19909,6 +19937,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1102_5270": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -19977,6 +20014,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1102_5270": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -20012,6 +20055,9 @@
         },
         "1102_5269": {
           "授課語言代碼": "en-us"
+        },
+        "1102_5270": {
+          "授課語言代碼": "zh-tw"
         }
       }
     },
@@ -26679,6 +26725,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "J"
+        },
+        "1102_5010": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5010",
+          "cos_code": "IEC5506",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "推薦系統",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cs.nctu.edu.tw/~jlhuang",
+          "teacher": "黃俊龍",
+          "cos_time": "Rabc-EC015[KF]",
+          "memo": "資訊組；限陽明交大在職專班學生選修",
+          "cos_ename": "Introduction to Recommender Systems",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "506",
+          "dep_primary": "1",
+          "dep_cname": "電機學院碩士在職專班",
+          "dep_ename": "Degree Program of Electrical and Computer Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
         }
       },
       "costype": {
@@ -26717,6 +26791,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1102_5010": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -26743,6 +26826,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1102_5010": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -26756,6 +26845,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_5009": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_5010": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -30536,6 +30628,34 @@
       "dep_cname": "資訊學院共同課程",
       "dep_ename": "College of Computer Science",
       "1": {
+        "1102_1169": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1169",
+          "cos_code": "DCP1187",
+          "num_limit": "100",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "資料庫系統概論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cs.nctu.edu.tw/~jlhuang",
+          "teacher": "黃俊龍",
+          "cos_time": "F56-EDB27[KF]",
+          "memo": "外系生請於開學上網加選；資工系與電資學士班學生優先選課；學士班七大主題學程。共同必修[另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously]",
+          "cos_ename": "Introduction to Database Systems  ",
+          "brief": "",
+          "degree": "A",
+          "dep_id": "5C1",
+          "dep_primary": "1",
+          "dep_cname": "資訊學院共同課程",
+          "dep_ename": "College of Computer Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1102_1172": {
           "acy": "110",
           "sem": "2",
@@ -30622,6 +30742,15 @@
         }
       },
       "costype": {
+        "1102_1169": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_1172": {
           "": {
             "course_category_cname": "",
@@ -30658,6 +30787,12 @@
         }
       },
       "brief": {
+        "1102_1169": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_1172": {
           "": {
             "brief_code": "",
@@ -30678,6 +30813,9 @@
         }
       },
       "language": {
+        "1102_1169": {
+          "授課語言代碼": "zh-tw"
+        },
         "1102_1172": {
           "授課語言代碼": "en-us"
         },

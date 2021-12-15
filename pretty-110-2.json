@@ -26820,7 +26820,7 @@
           "cos_hours": "3.00",
           "TURL": "",
           "teacher": "楊秉純",
-          "cos_time": "F234-CM217[TN]",
+          "cos_time": "F234-CM217",
           "memo": "上課地點：台南校區",
           "cos_ename": "Energy System Design and Application",
           "brief": "",
@@ -27070,10 +27070,121 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "J"
+        },
+        "1102_5914": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5914",
+          "cos_code": "IHC5121",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "文化資產保存與再利用",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "榮芳杰",
+          "cos_time": "Fabc-HK115",
+          "memo": "",
+          "cos_ename": "Special Topics for Conservation and Adaptive Reuse of the Cultural Property",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "480",
+          "dep_primary": "1",
+          "dep_cname": "客家社會與文化碩士在職專班",
+          "dep_ename": "Degree Program of Hakka Society and Culture for In-Service Teachers",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
+        "1102_5916": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5916",
+          "cos_code": "IHC5123",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "客家認同與社會運動",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "柯朝欽",
+          "cos_time": "Rabc-HK207[LJ]",
+          "memo": "",
+          "cos_ename": "Hakka Identity and Social Movements",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "480",
+          "dep_primary": "1",
+          "dep_cname": "客家社會與文化碩士在職專班",
+          "dep_ename": "Degree Program of Hakka Society and Culture for In-Service Teachers",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
+        "1102_5917": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5917",
+          "cos_code": "IHC5500",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "論文研究",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "客家專班",
+          "cos_time": "",
+          "memo": "",
+          "cos_ename": "Thesis Writing",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "480",
+          "dep_primary": "1",
+          "dep_cname": "客家社會與文化碩士在職專班",
+          "dep_ename": "Degree Program of Hakka Society and Culture for In-Service Teachers",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
         }
       },
       "costype": {
         "1102_5912": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_5914": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_5916": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_5917": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -27089,10 +27200,37 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1102_5914": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1102_5916": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1102_5917": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
         "1102_5912": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_5914": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_5916": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_5917": {
           "授課語言代碼": "zh-tw"
         }
       }

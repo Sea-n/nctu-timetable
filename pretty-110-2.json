@@ -1856,6 +1856,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1102_1065": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1065",
+          "cos_code": "UEE3506",
+          "num_limit": "60",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "數據通訊",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "李程輝",
+          "cos_time": "M2R56-ED203[KF]",
+          "memo": "大三、大四",
+          "cos_ename": "Data Communications",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "511",
+          "dep_primary": "1",
+          "dep_cname": "電機工程學系",
+          "dep_ename": "Department of Electrical and Computer Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1102_1077": {
           "acy": "110",
           "sem": "2",
@@ -2076,6 +2104,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_1065": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_1077": {
           "": {
             "course_category_cname": "",
@@ -2204,6 +2241,12 @@
             "brief": ""
           }
         },
+        "1102_1065": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_1077": {
           "": {
             "brief_code": "",
@@ -2270,6 +2313,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_1063": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1065": {
           "授課語言代碼": "zh-tw"
         },
         "1102_1077": {

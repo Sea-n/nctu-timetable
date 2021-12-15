@@ -7614,7 +7614,7 @@
           "TURL": "http://i.have.no.website",
           "teacher": "陳鏗任",
           "cos_time": "F56-HA108[KF]",
-          "memo": "學習科學跨域學程；遠距課程",
+          "memo": "1.學習科學跨域學程2.遠距課程3.非師資生修讀本課程，不須繳交學分費4.非師資生修讀本課程，需至課務組下載並填寫&quot;網路選課加退選處理表&quot;，經任課老師同意送師培中心辦理加簽。5.如欲將本課程視為通識學分，另需送交課務組辦理登記。",
           "cos_ename": "Learning How to Learn: Strategies for Reading and Learning",
           "brief": "",
           "degree": "1",
@@ -18010,6 +18010,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1102_5797": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5797",
+          "cos_code": "IED5146",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "動機理論與數位學習",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://ILTM.nctu.edu.tw",
+          "teacher": "孫之元、鄭慧琪",
+          "cos_time": "T567-HA220",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Human Motivation and E-learning",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "460",
+          "dep_primary": "1",
+          "dep_cname": "教育研究所",
+          "dep_ename": "Institute of Education",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1102_5799": {
           "acy": "110",
           "sem": "2",
@@ -18067,6 +18095,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_5797": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5799": {
           "": {
             "course_category_cname": "",
@@ -18096,6 +18133,12 @@
             "brief": ""
           }
         },
+        "1102_5797": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5799": {
           "": {
             "brief_code": "",
@@ -18112,6 +18155,9 @@
         },
         "1102_5792": {
           "授課語言代碼": "zh-tw"
+        },
+        "1102_5797": {
+          "授課語言代碼": "en-us"
         },
         "1102_5799": {
           "授課語言代碼": "zh-tw"

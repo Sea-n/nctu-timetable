@@ -1785,8 +1785,8 @@
           "cos_hours": "3.00",
           "TURL": "",
           "teacher": "田伯隆",
-          "cos_time": "T4R34-EDB26[KF]",
-          "memo": "",
+          "cos_time": "R34-EDB26[KF]",
+          "memo": "原訂課程為週二2節、週四34節。週二第2節為非同步教學方式進行，請留意課程資訊。",
           "cos_ename": "Operating Systems",
           "brief": "",
           "degree": "1",
@@ -6366,6 +6366,34 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1102_6343": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "6343",
+          "cos_code": "GEC6109",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "古希臘哲學史",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "博佳佳",
+          "cos_time": "T78-A509[KF]",
+          "memo": "[English Medium Course]",
+          "cos_ename": "History of philosophy: Greek antiquity    ",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1102_6348": {
           "acy": "110",
           "sem": "2",
@@ -6438,6 +6466,34 @@
           "cos_time": "W34-EE209[KF]",
           "memo": "",
           "cos_ename": "Robot Technology in Movies and Life",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU1",
+          "dep_primary": "1",
+          "dep_cname": "通識教育中心",
+          "dep_ename": "Center of General Education",
+          "cos_type": "通識",
+          "cos_type_e": "General Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1102_6364": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "6364",
+          "cos_code": "GEC8869",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "探索科學I:舊世界的科學",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "博佳佳",
+          "cos_time": "R34-A509[KF]",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Exploring History of Science. Part I:Science in Ancient Worlds",
           "brief": "",
           "degree": "1",
           "dep_id": "OU1",
@@ -6804,6 +6860,22 @@
             "GECIEngName": ""
           }
         },
+        "1102_6343": {
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
+            "GECIName": "",
+            "GECIEngName": ""
+          },
+          "領域課程-個人、社會與文化_領域課程-個人、社會與文化": {
+            "course_category_cname": "領域課程-個人、社會與文化_領域課程-個人、社會與文化",
+            "course_category_ename": "Distribution-socioculture_DASC",
+            "course_category_type": "49",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_6348": {
           "跨校區課程_跨校區課程": {
             "course_category_cname": "跨校區課程_跨校區課程",
@@ -6848,6 +6920,22 @@
             "course_category_cname": "通識校基本素養_通識校基本",
             "course_category_ename": "General Education Course: Literacy_GECL",
             "course_category_type": "15",
+            "GECIName": "",
+            "GECIEngName": ""
+          },
+          "領域課程-社會中的科技與自然_領域課程-社會中的科技與自然": {
+            "course_category_cname": "領域課程-社會中的科技與自然_領域課程-社會中的科技與自然",
+            "course_category_ename": "Distribution-society & sciences_DAST",
+            "course_category_type": "51",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_6364": {
+          "通識核心課程_通識核心": {
+            "course_category_cname": "通識核心課程_通識核心",
+            "course_category_ename": "General Education Course_GEC",
+            "course_category_type": "17",
             "GECIName": "",
             "GECIEngName": ""
           },
@@ -7037,6 +7125,12 @@
             "brief": "群己/進階(96),校基本素養(106),領域課程-個人、社會與文化&#x0D;\n(110)"
           }
         },
+        "1102_6343": {
+          "A201,A501,Z106": {
+            "brief_code": "A201,A501,Z106",
+            "brief": "文化/進階(96),核心-人文(106),領域課程-個人、社會與文化&#x0D;\n(110)"
+          }
+        },
         "1102_6348": {
           "A101,A501,Z105": {
             "brief_code": "A101,A501,Z105",
@@ -7053,6 +7147,12 @@
           "A205,A505,Z108": {
             "brief_code": "A205,A505,Z108",
             "brief": "自然/進階(96),校基本素養(106),領域課程-社會中的科技與自然&#x0D;\n(110)"
+          }
+        },
+        "1102_6364": {
+          "A205,A503,Z108": {
+            "brief_code": "A205,A503,Z108",
+            "brief": "自然/進階(96),核心-自然(106),領域課程-社會中的科技與自然&#x0D;\n(110)"
           }
         },
         "1102_6367": {
@@ -7129,6 +7229,9 @@
         "1102_6342": {
           "授課語言代碼": "zh-tw"
         },
+        "1102_6343": {
+          "授課語言代碼": "en-us"
+        },
         "1102_6348": {
           "授課語言代碼": "zh-tw"
         },
@@ -7137,6 +7240,9 @@
         },
         "1102_6352": {
           "授課語言代碼": "zh-tw"
+        },
+        "1102_6364": {
+          "授課語言代碼": "en-us"
         },
         "1102_6367": {
           "授課語言代碼": "zh-tw"
@@ -19984,6 +20090,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1102_5064": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5064",
+          "cos_code": "ICN5633",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "微感測器原理與應用",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "邱一",
+          "cos_time": "F567-EE209[KF]",
+          "memo": "大四及研究所。*電控所學生注意：畢業學分須修本所課程至少15學分(本所課程為永久課號ICN開頭之課程)\r\n",
+          "cos_ename": "Introduction to Microsensors:Principle Application",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "512",
+          "dep_primary": "1",
+          "dep_cname": "電控工程研究所",
+          "dep_ename": "Institute of Electrical Control Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1102_5066": {
           "acy": "110",
           "sem": "2",
@@ -20023,6 +20157,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_5064": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5066": {
           "": {
             "course_category_cname": "",
@@ -20040,6 +20183,12 @@
             "brief": ""
           }
         },
+        "1102_5064": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5066": {
           "": {
             "brief_code": "",
@@ -20049,6 +20198,9 @@
       },
       "language": {
         "1102_5055": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_5064": {
           "授課語言代碼": "zh-tw"
         },
         "1102_5066": {
@@ -20074,8 +20226,8 @@
           "cos_hours": "3.00",
           "TURL": "",
           "teacher": "田伯隆",
-          "cos_time": "M56W3-EE102[KF]",
-          "memo": "",
+          "cos_time": "M56-EE102[KF]",
+          "memo": "原訂課程為週一56節、週三3節。週三第3節為非同步教學方式進行，請留意課程資訊。",
           "cos_ename": "Computer Communication Networks",
           "brief": "",
           "degree": "3",
@@ -29599,7 +29751,7 @@
           "cos_hours": "2.00",
           "TURL": "http://www.cs.nctu.edu.tw/~chuang/",
           "teacher": "黃俊穎",
-          "cos_time": "",
+          "cos_time": "S34-北門校區",
           "memo": "詳細上課時間請留意課程平台公告；限資訊學院國防資安管理碩士在職專班學生選修；上課教室:台北北門校區第一演講廳",
           "cos_ename": "Seminar on Cybersecurity Management",
           "brief": "",
@@ -29627,8 +29779,8 @@
           "cos_hours": "3.00",
           "TURL": "http://people.cs.nctu.edu.tw/~katelin/",
           "teacher": "林靖茹",
-          "cos_time": "",
-          "memo": "限資訊學院國防資安管理碩士在職專班學生選修；上課教室:陽明校區教學大樓104教室",
+          "cos_time": "Fabc-北門校區",
+          "memo": "限資訊學院國防資安管理碩士在職專班學生選修；上課教室:台北北門校區第一演講廳",
           "cos_ename": "Computer Networks",
           "brief": "",
           "degree": "5",
@@ -29655,7 +29807,7 @@
           "cos_hours": "3.00",
           "TURL": "",
           "teacher": "鍾崇斌、黃俊穎",
-          "cos_time": "",
+          "cos_time": "Wabc-北門校區",
           "memo": "限資訊學院國防資安管理碩士在職專班學生選修；上課教室:台北北門校區第一演講廳",
           "cos_ename": "Computer Operations, Organization and Evolution",
           "brief": "",

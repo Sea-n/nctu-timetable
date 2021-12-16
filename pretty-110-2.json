@@ -2331,6 +2331,34 @@
       "dep_cname": "光電工程學系",
       "dep_ename": "Department  of Photonics",
       "1": {
+        "1102_1082": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1082",
+          "cos_code": "DEO1006",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "物理實驗(二)",
+          "cos_credit": "1.00",
+          "cos_hours": "3.00",
+          "TURL": "http://physlab.ep.nctu.edu.tw/",
+          "teacher": "物理實驗助教",
+          "cos_time": "M234-",
+          "memo": "",
+          "cos_ename": "Physics Lab. (II)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "514",
+          "dep_primary": "1",
+          "dep_cname": "光電工程學系",
+          "dep_ename": "Department  of Photonics",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "35",
+          "depType": "U"
+        },
         "1102_1084": {
           "acy": "110",
           "sem": "2",
@@ -2893,6 +2921,15 @@
         }
       },
       "costype": {
+        "1102_1082": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_1084": {
           "": {
             "course_category_cname": "",
@@ -3082,6 +3119,12 @@
         }
       },
       "brief": {
+        "1102_1082": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_1084": {
           "": {
             "brief_code": "",
@@ -3204,6 +3247,9 @@
         }
       },
       "language": {
+        "1102_1082": {
+          "授課語言代碼": "zh-tw"
+        },
         "1102_1084": {
           "授課語言代碼": "zh-tw"
         },
@@ -4127,7 +4173,7 @@
           "cos_hours": "3.00",
           "TURL": "",
           "teacher": "吳樸偉",
-          "cos_time": "M6F56-EF202[KF]",
+          "cos_time": "T2F34-EF202[KF]",
           "memo": "[English Medium Course]",
           "cos_ename": "Introduction to Materials Science and Engineering (II)",
           "brief": "",
@@ -8177,6 +8223,34 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1102_9903": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "9903",
+          "cos_code": "EDU1014",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "班級經營",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "陳聖昌",
+          "cos_time": "W34-HA109[KF]",
+          "memo": "",
+          "cos_ename": "Classroom Management",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU7",
+          "dep_primary": "1",
+          "dep_cname": "師資培育中心",
+          "dep_ename": "Center for Teacher Education",
+          "cos_type": "教育",
+          "cos_type_e": "Teacher Education",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1102_9905": {
           "acy": "110",
           "sem": "2",
@@ -8261,6 +8335,34 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1102_9916": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "9916",
+          "cos_code": "EDU1228",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "教學實習(自然領域/物理)",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "陳聖昌",
+          "cos_time": "T56-HA217[KF]",
+          "memo": "教學觀摩時間另訂",
+          "cos_ename": "Teaching Practice(Physics)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU7",
+          "dep_primary": "1",
+          "dep_cname": "師資培育中心",
+          "dep_ename": "Center for Teacher Education",
+          "cos_type": "教育",
+          "cos_type_e": "Teacher Education",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1102_9918": {
           "acy": "110",
           "sem": "2",
@@ -8292,6 +8394,15 @@
       },
       "costype": {
         "1102_9902": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_9903": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -8341,6 +8452,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_9916": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_9918": {
           "": {
             "course_category_cname": "",
@@ -8353,6 +8473,12 @@
       },
       "brief": {
         "1102_9902": {
+          "D099": {
+            "brief_code": "D099",
+            "brief": "教育學程(87)"
+          }
+        },
+        "1102_9903": {
           "D099": {
             "brief_code": "D099",
             "brief": "教育學程(87)"
@@ -8376,6 +8502,12 @@
             "brief": "教育學程(87)"
           }
         },
+        "1102_9916": {
+          "D099": {
+            "brief_code": "D099",
+            "brief": "教育學程(87)"
+          }
+        },
         "1102_9918": {
           "D099": {
             "brief_code": "D099",
@@ -8387,6 +8519,9 @@
         "1102_9902": {
           "授課語言代碼": "zh-tw"
         },
+        "1102_9903": {
+          "授課語言代碼": "zh-tw"
+        },
         "1102_9905": {
           "授課語言代碼": "zh-tw"
         },
@@ -8394,6 +8529,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_9914": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_9916": {
           "授課語言代碼": "zh-tw"
         },
         "1102_9918": {
@@ -15545,6 +15683,62 @@
           "reg_num": "0",
           "depType": "P"
         },
+        "1102_5112": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5112",
+          "cos_code": "IEO5686",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "光學系統導論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "安惠榮",
+          "cos_time": "M34W3-EO115[KF]",
+          "memo": "英語授課[English Medium Course]",
+          "cos_ename": "Introduction to Optical Systems",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAN",
+          "dep_primary": "1",
+          "dep_cname": "電機資訊英語授課學分學程",
+          "dep_ename": "Electrical Engineering and Computer Science-International Program",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
+        "1102_5113": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5113",
+          "cos_code": "IEO5701",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "光纖通訊",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cc.nctu.edu.tw/~cwchow/",
+          "teacher": "鄒志偉",
+          "cos_time": "R567-EO103[KF]",
+          "memo": "英語授課[English Medium Course]",
+          "cos_ename": "Optical Fiber Communication",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAN",
+          "dep_primary": "1",
+          "dep_cname": "電機資訊英語授課學分學程",
+          "dep_ename": "Electrical Engineering and Computer Science-International Program",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
         "1102_5122": {
           "acy": "110",
           "sem": "2",
@@ -15845,6 +16039,24 @@
             "GECIEngName": ""
           }
         },
+        "1102_5112": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_5113": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5122": {
           "": {
             "course_category_cname": "",
@@ -15949,6 +16161,18 @@
             "brief": ""
           }
         },
+        "1102_5112": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1102_5113": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5122": {
           "": {
             "brief_code": "",
@@ -16015,6 +16239,12 @@
           "授課語言代碼": "en-us"
         },
         "1102_5109": {
+          "授課語言代碼": "en-us"
+        },
+        "1102_5112": {
+          "授課語言代碼": "en-us"
+        },
+        "1102_5113": {
           "授課語言代碼": "en-us"
         },
         "1102_5122": {
@@ -17710,10 +17940,47 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "Q"
+        },
+        "1102_5791": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5791",
+          "cos_code": "IED5040",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "網路化科學學習",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "陳聖昌",
+          "cos_time": "F34-HA218[KF]",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Web-based Science Learning",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QKT",
+          "dep_primary": "1",
+          "dep_cname": "教育研究所學習科學跨域學程",
+          "dep_ename": "Institute of Education for Learning Science Cross-Disciplinary Prog",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
         }
       },
       "costype": {
         "1102_5788": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_5791": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -17729,11 +17996,20 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1102_5791": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
         "1102_5788": {
           "授課語言代碼": "zh-tw"
+        },
+        "1102_5791": {
+          "授課語言代碼": "en-us"
         }
       }
     },
@@ -18513,6 +18789,65 @@
         }
       }
     },
+    "C417A8E1-FBE2-4D99-BDB5-5C27DB9A2F4D": {
+      "dep_id": "C417A8E1-FBE2-4D99-BDB5-5C27DB9A2F4D",
+      "dep_cname": "生物科技學系",
+      "dep_ename": "Institute of Biological Science and Technology",
+      "1": {
+        "1102_5729": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5729",
+          "cos_code": "IBT5677",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "生物醫學拉丁文 (一)",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "曲在雯、施朝凱",
+          "cos_time": "M78-SC109[KF]",
+          "memo": "",
+          "cos_ename": "Biological and Medical Latin (I)",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "350",
+          "dep_primary": "1",
+          "dep_cname": "生物科技學系",
+          "dep_ename": "Institute of Biological Science and Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "1102_5729": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1102_5729": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1102_5729": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "C3B4AAC5-2FD4-4EAD-BFD3-BA9063CB01F0": {
       "dep_id": "C3B4AAC5-2FD4-4EAD-BFD3-BA9063CB01F0",
       "dep_cname": "生物資訊及系統生物研究所",
@@ -18784,6 +19119,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1102_5791": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5791",
+          "cos_code": "IED5040",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "網路化科學學習",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "陳聖昌",
+          "cos_time": "F34-HA218[KF]",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Web-based Science Learning",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "460",
+          "dep_primary": "1",
+          "dep_cname": "教育研究所",
+          "dep_ename": "Institute of Education",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1102_5792": {
           "acy": "110",
           "sem": "2",
@@ -18868,6 +19231,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1102_5801": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5801",
+          "cos_code": "IED5204",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "科學教育論文研討",
+          "cos_credit": "1.00",
+          "cos_hours": "1.00",
+          "TURL": "",
+          "teacher": "陳聖昌",
+          "cos_time": "M5-HA218[KF]",
+          "memo": "",
+          "cos_ename": "Seminar in Science Education",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "460",
+          "dep_primary": "1",
+          "dep_cname": "教育研究所",
+          "dep_ename": "Institute of Education",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1102_5802": {
           "acy": "110",
           "sem": "2",
@@ -18916,6 +19307,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_5791": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5792": {
           "": {
             "course_category_cname": "",
@@ -18935,6 +19335,15 @@
           }
         },
         "1102_5799": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_5801": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -18966,6 +19375,12 @@
             "brief": ""
           }
         },
+        "1102_5791": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5792": {
           "": {
             "brief_code": "",
@@ -18979,6 +19394,12 @@
           }
         },
         "1102_5799": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1102_5801": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -18998,6 +19419,9 @@
         "1102_5790": {
           "授課語言代碼": "zh-tw"
         },
+        "1102_5791": {
+          "授課語言代碼": "en-us"
+        },
         "1102_5792": {
           "授課語言代碼": "zh-tw"
         },
@@ -19005,6 +19429,9 @@
           "授課語言代碼": "en-us"
         },
         "1102_5799": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_5801": {
           "授課語言代碼": "zh-tw"
         },
         "1102_5802": {
@@ -19556,10 +19983,47 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1102_5066": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5066",
+          "cos_code": "ICN5641",
+          "num_limit": "60",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "圖形識別",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "林昇甫",
+          "cos_time": "R234-EE208[KF]",
+          "memo": "*電控所學生注意：畢業學分須修本所課程至少15學分(本所課程為永久課號ICN開頭之課程)",
+          "cos_ename": "Pattern Recognition",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "512",
+          "dep_primary": "1",
+          "dep_cname": "電控工程研究所",
+          "dep_ename": "Institute of Electrical Control Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
         "1102_5055": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_5066": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -19575,10 +20039,19 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1102_5066": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
         "1102_5055": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_5066": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -20213,6 +20686,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1102_5105": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5105",
+          "cos_code": "IEO5389",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "近場光學與光學超解析技術",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "高宗聖",
+          "cos_time": "F234-CY202[KF]",
+          "memo": "",
+          "cos_ename": "Near-field optics and optical Super-resolution techniques",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "514",
+          "dep_primary": "1",
+          "dep_cname": "光電工程學系",
+          "dep_ename": "Institute of Electro-Optical Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1102_5106": {
           "acy": "110",
           "sem": "2",
@@ -20380,6 +20881,62 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1102_5112": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5112",
+          "cos_code": "IEO5686",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "光學系統導論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "安惠榮",
+          "cos_time": "M34W3-EO115[KF]",
+          "memo": "英語授課[English Medium Course]",
+          "cos_ename": "Introduction to Optical Systems",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "514",
+          "dep_primary": "1",
+          "dep_cname": "光電工程學系",
+          "dep_ename": "Institute of Electro-Optical Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
+        "1102_5113": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5113",
+          "cos_code": "IEO5701",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "光纖通訊",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cc.nctu.edu.tw/~cwchow/",
+          "teacher": "鄒志偉",
+          "cos_time": "R567-EO103[KF]",
+          "memo": "英語授課[English Medium Course]",
+          "cos_ename": "Optical Fiber Communication",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "514",
+          "dep_primary": "1",
+          "dep_cname": "光電工程學系",
+          "dep_ename": "Institute of Electro-Optical Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
@@ -20491,6 +21048,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_5105": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5106": {
           "": {
             "course_category_cname": "",
@@ -20537,6 +21103,24 @@
           }
         },
         "1102_5111": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_5112": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_5113": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -20619,6 +21203,12 @@
             "brief": ""
           }
         },
+        "1102_5105": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5106": {
           "": {
             "brief_code": "",
@@ -20650,6 +21240,18 @@
           }
         },
         "1102_5111": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1102_5112": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1102_5113": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -20693,6 +21295,9 @@
         "1102_5104": {
           "授課語言代碼": "zh-tw"
         },
+        "1102_5105": {
+          "授課語言代碼": "zh-tw"
+        },
         "1102_5106": {
           "授課語言代碼": "zh-tw"
         },
@@ -20710,6 +21315,12 @@
         },
         "1102_5111": {
           "授課語言代碼": "zh-tw"
+        },
+        "1102_5112": {
+          "授課語言代碼": "en-us"
+        },
+        "1102_5113": {
+          "授課語言代碼": "en-us"
         }
       }
     },
@@ -29723,7 +30334,7 @@
           "cos_hours": "3.00",
           "TURL": "",
           "teacher": "陳宗岡、郭國泰",
-          "cos_time": "Mabc-M301[KF]",
+          "cos_time": "Mabc-光寶二廳",
           "memo": "限專班選修",
           "cos_ename": "Corporate Financial and Operating Policies",
           "brief": "",

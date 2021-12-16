@@ -22084,6 +22084,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1102_5250": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5250",
+          "cos_code": "IOC5129",
+          "num_limit": "60",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "容錯計算",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "吳育松",
+          "cos_time": "W34-ED302[KF]",
+          "memo": "本院學生優先[另外1小時(第3節)以非同步上課方式]",
+          "cos_ename": "Fault Tolerant Computing",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "551",
+          "dep_primary": "1",
+          "dep_cname": "資訊科學與工程研究所",
+          "dep_ename": "Institute of Computer Science and Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1102_5251": {
           "acy": "110",
           "sem": "2",
@@ -22365,6 +22393,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_5250": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5251": {
           "": {
             "course_category_cname": "",
@@ -22466,6 +22503,12 @@
             "brief": ""
           }
         },
+        "1102_5250": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5251": {
           "": {
             "brief_code": "",
@@ -22530,6 +22573,9 @@
         },
         "1102_5248": {
           "授課語言代碼": "en-us"
+        },
+        "1102_5250": {
+          "授課語言代碼": "zh-tw"
         },
         "1102_5251": {
           "授課語言代碼": "en-us"
@@ -33496,6 +33542,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "U"
+        },
+        "1102_1181": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1181",
+          "cos_code": "DCP3362",
+          "num_limit": "70",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "計算機組織",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cis.nctu.edu.tw/~ylli/",
+          "teacher": "李毅郎",
+          "cos_time": "R56-EC022[KF]",
+          "memo": "二年級必修，其他年級請於第二階段選課初選，外系生請於開學上網加選；資工系與電資學士班學生優先選課；共同必修[另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously]",
+          "cos_ename": "Computer Organization",
+          "brief": "",
+          "degree": "A",
+          "dep_id": "5C1",
+          "dep_primary": "1",
+          "dep_cname": "資訊學院共同課程",
+          "dep_ename": "College of Computer Science",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
         }
       },
       "costype": {
@@ -33550,6 +33624,15 @@
             "GECIName": "工",
             "GECIEngName": "COE"
           }
+        },
+        "1102_1181": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -33582,6 +33665,12 @@
             "brief_code": "A205,A504,A505",
             "brief": "自然/進階(96),跨院基本素養(106),校基本素養(106)"
           }
+        },
+        "1102_1181": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -33598,6 +33687,9 @@
           "授課語言代碼": "en-us"
         },
         "1102_1179": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1181": {
           "授課語言代碼": "zh-tw"
         }
       }

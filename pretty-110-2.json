@@ -7793,6 +7793,34 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1102_7507": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "7507",
+          "cos_code": "DFR1231",
+          "num_limit": "45",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "日文(一)",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "上條純惠",
+          "cos_time": "F34-A502[KF]",
+          "memo": "",
+          "cos_ename": "Japanese(I)",
+          "brief": "其它",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1102_7510": {
           "acy": "110",
           "sem": "2",
@@ -7921,6 +7949,62 @@
           "cos_time": "M34-A507[KF]",
           "memo": "",
           "cos_ename": "Japanese(Ⅵ)",
+          "brief": "其它",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1102_7523": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "7523",
+          "cos_code": "DFR1312",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "中級日語會話",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "上條純惠",
+          "cos_time": "F56-A502[KF]",
+          "memo": "",
+          "cos_ename": "Intermediate Japanese Conversation",
+          "brief": "其它",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1102_7524": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "7524",
+          "cos_code": "DFR1319",
+          "num_limit": "15",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "日語辯論溝通演習",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "上條純惠",
+          "cos_time": "Fab-A507[KF]",
+          "memo": "",
+          "cos_ename": "Japanese Debate, Communication and Practice ",
           "brief": "其它",
           "degree": "1",
           "dep_id": "OU6",
@@ -8109,6 +8193,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_7507": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_7510": {
           "": {
             "course_category_cname": "",
@@ -8146,6 +8239,24 @@
           }
         },
         "1102_7522": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_7523": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_7524": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -8243,6 +8354,12 @@
             "brief": "其它(87)"
           }
         },
+        "1102_7507": {
+          "B075": {
+            "brief_code": "B075",
+            "brief": "其它(87)"
+          }
+        },
         "1102_7510": {
           "B075": {
             "brief_code": "B075",
@@ -8268,6 +8385,18 @@
           }
         },
         "1102_7522": {
+          "B075": {
+            "brief_code": "B075",
+            "brief": "其它(87)"
+          }
+        },
+        "1102_7523": {
+          "B075": {
+            "brief_code": "B075",
+            "brief": "其它(87)"
+          }
+        },
+        "1102_7524": {
           "B075": {
             "brief_code": "B075",
             "brief": "其它(87)"
@@ -8323,6 +8452,9 @@
         "1102_7505": {
           "授課語言代碼": "zh-tw"
         },
+        "1102_7507": {
+          "授課語言代碼": "zh-tw"
+        },
         "1102_7510": {
           "授課語言代碼": "zh-tw"
         },
@@ -8336,6 +8468,12 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_7522": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_7523": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_7524": {
           "授課語言代碼": "zh-tw"
         },
         "1102_7530": {

@@ -4023,6 +4023,62 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "U"
+        },
+        "1102_1222": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1222",
+          "cos_code": "DME2323",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "應用力學（二）",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "劉義強",
+          "cos_time": "T2R56-EE132[KF]",
+          "memo": "[English Medium Course]",
+          "cos_ename": "Applied Mechanics (II)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "611",
+          "dep_primary": "1",
+          "dep_cname": "機械工程學系",
+          "dep_ename": "Department of Mechanical Engineering",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1102_1235": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1235",
+          "cos_code": "DME4607",
+          "num_limit": "40",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "振動學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "劉義強",
+          "cos_time": "T78W3-EE206[KF]",
+          "memo": "",
+          "cos_ename": "Vibration",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "611",
+          "dep_primary": "1",
+          "dep_cname": "機械工程學系",
+          "dep_ename": "Department of Mechanical Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
         }
       },
       "costype": {
@@ -4036,6 +4092,24 @@
           }
         },
         "1102_1205": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_1222": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_1235": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -4057,6 +4131,18 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1102_1222": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1102_1235": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -4064,6 +4150,12 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_1205": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1222": {
+          "授課語言代碼": "en-us"
+        },
+        "1102_1235": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -8502,6 +8594,34 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1102_9904": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "9904",
+          "cos_code": "EDU1047",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "教育行政",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "姚清煇",
+          "cos_time": "R56-HA219[KF]",
+          "memo": "",
+          "cos_ename": "Educational Administration",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU7",
+          "dep_primary": "1",
+          "dep_cname": "師資培育中心",
+          "dep_ename": "Center for Teacher Education",
+          "cos_type": "教育",
+          "cos_type_e": "Teacher Education",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1102_9905": {
           "acy": "110",
           "sem": "2",
@@ -8662,6 +8782,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_9904": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_9905": {
           "": {
             "course_category_cname": "",
@@ -8735,6 +8864,12 @@
             "brief": "教育學程(87)"
           }
         },
+        "1102_9904": {
+          "D099": {
+            "brief_code": "D099",
+            "brief": "教育學程(87)"
+          }
+        },
         "1102_9905": {
           "D099": {
             "brief_code": "D099",
@@ -8771,6 +8906,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_9903": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_9904": {
           "授課語言代碼": "zh-tw"
         },
         "1102_9905": {
@@ -14355,10 +14493,47 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "O"
+        },
+        "1102_C885": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "C885",
+          "cos_code": "A8186",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "全民國防教育軍事訓練課程(五)國防科技",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "邱信誼",
+          "cos_time": "M78-YX501[YM]",
+          "memo": null,
+          "cos_ename": "All-out Defense Education Military Training (五) Defense Technology",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OUA",
+          "dep_primary": "1",
+          "dep_cname": "軍訓室",
+          "dep_ename": "Military Training Office",
+          "cos_type": "軍訓",
+          "cos_type_e": "Military Training",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
         }
       },
       "costype": {
         "1102_C883": {
+          "跨校區課程_跨校區課程": {
+            "course_category_cname": "跨校區課程_跨校區課程",
+            "course_category_ename": "Cross-Campus Course_Cross-Campus Course",
+            "course_category_type": "57",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_C885": {
           "跨校區課程_跨校區課程": {
             "course_category_cname": "跨校區課程_跨校區課程",
             "course_category_ename": "Cross-Campus Course_Cross-Campus Course",
@@ -14374,10 +14549,19 @@
             "brief_code": "F168",
             "brief": "軍訓(90)"
           }
+        },
+        "1102_C885": {
+          "F168": {
+            "brief_code": "F168",
+            "brief": "軍訓(90)"
+          }
         }
       },
       "language": {
         "1102_C883": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_C885": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -20630,6 +20814,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1102_5092": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5092",
+          "cos_code": "ECM9046",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "綠能奈米科技",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "寒川誠二",
+          "cos_time": "W567-EE118[KF]",
+          "memo": "研究所碩博士班(110下新開課)",
+          "cos_ename": "Green Nanotechnology",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "513",
+          "dep_primary": "1",
+          "dep_cname": "電信工程研究所",
+          "dep_ename": "Institute of Communication Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
@@ -20686,6 +20898,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1102_5092": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -20724,6 +20945,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1102_5092": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -20743,6 +20970,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_5089": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_5092": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -30231,6 +30461,90 @@
       "dep_cname": "工學院碩士在職專班-產安組",
       "dep_ename": "Degree Program of Industrial Safety and Risk Management",
       "1": {
+        "1102_5301": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5301",
+          "cos_code": "IET5005",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "水回收處理技術",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://etss.nctu.edu.tw/lab/member_01.html",
+          "teacher": "黃志彬",
+          "cos_time": "Tabc-EV407[KF]",
+          "memo": "乙類。限陽明交大在職專班學生選修。",
+          "cos_ename": "Treatment Technology and Management for Water Reuse",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "606",
+          "dep_primary": "1",
+          "dep_cname": "工學院碩士在職專班-產安組",
+          "dep_ename": "Degree Program of Industrial Safety and Risk Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
+        "1102_5302": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5302",
+          "cos_code": "ISR5104",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "產業安全特論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "曹常成、沈育霖",
+          "cos_time": "S234-EE324[KF]",
+          "memo": "限陽明交大在職專班學生選修",
+          "cos_ename": "Special Issues on Occupational Safety",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "606",
+          "dep_primary": "1",
+          "dep_cname": "工學院碩士在職專班-產安組",
+          "dep_ename": "Degree Program of Industrial Safety and Risk Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
+        "1102_5303": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5303",
+          "cos_code": "ISR5105",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "產業危害氣體控制",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "傅武雄、黃建平",
+          "cos_time": "Rabc-EE206[KF]",
+          "memo": "限陽明交大在職專班學生選修",
+          "cos_ename": "Hazardous Gas Control",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "606",
+          "dep_primary": "1",
+          "dep_cname": "工學院碩士在職專班-產安組",
+          "dep_ename": "Degree Program of Industrial Safety and Risk Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
         "1102_5304": {
           "acy": "110",
           "sem": "2",
@@ -30255,6 +30569,34 @@
           "dep_ename": "Degree Program of Industrial Safety and Risk Management",
           "cos_type": "必修",
           "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
+        "1102_5305": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5305",
+          "cos_code": "ISR5120",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "防火性能設計法導論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "徐一量、許銘顯",
+          "cos_time": "Mabc-EE324[KF]",
+          "memo": "限陽明交大在職專班學生選修",
+          "cos_ename": "An Introduction to Fire Safety Engineering Design",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "606",
+          "dep_primary": "1",
+          "dep_cname": "工學院碩士在職專班-產安組",
+          "dep_ename": "Degree Program of Industrial Safety and Risk Management",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "J"
@@ -30289,7 +30631,43 @@
         }
       },
       "costype": {
+        "1102_5301": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_5302": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_5303": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5304": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_5305": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -30309,7 +30687,31 @@
         }
       },
       "brief": {
+        "1102_5301": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1102_5302": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1102_5303": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5304": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1102_5305": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -30323,7 +30725,19 @@
         }
       },
       "language": {
+        "1102_5301": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_5302": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_5303": {
+          "授課語言代碼": "zh-tw"
+        },
         "1102_5304": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_5305": {
           "授課語言代碼": "zh-tw"
         },
         "1102_5306": {
@@ -30363,10 +30777,47 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "J"
+        },
+        "1102_5308": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5308",
+          "cos_code": "IAP5156",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "仿生軟機器人學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "劉義強",
+          "cos_time": "Mabc-EE230[KF]",
+          "memo": "限陽明交大在職專班學生選修",
+          "cos_ename": "Bioinspired soft robotics",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "607",
+          "dep_primary": "1",
+          "dep_cname": "工學院碩士在職專班-精密組",
+          "dep_ename": "Degree Program of Automation and Precision Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
         }
       },
       "costype": {
         "1102_5307": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_5308": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -30382,10 +30833,19 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1102_5308": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
         "1102_5307": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_5308": {
           "授課語言代碼": "zh-tw"
         }
       }

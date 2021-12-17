@@ -3696,6 +3696,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "U"
+        },
+        "1102_1165": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1165",
+          "cos_code": "DCP4591",
+          "num_limit": "100",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "計算機網路管理",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "曾建超、王則涵、曾亮齊",
+          "cos_time": "Rabc-EC114[KF]",
+          "memo": "外系生請於開學上網加選；資工系與電資學士班學生優先選課",
+          "cos_ename": "Computer Network Administration",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "550",
+          "dep_primary": "1",
+          "dep_cname": "資訊工程學系",
+          "dep_ename": "Department of Computer Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
         }
       },
       "costype": {
@@ -3761,6 +3789,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1102_1165": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -3805,6 +3842,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1102_1165": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -3827,6 +3870,9 @@
           "授課語言代碼": "en-us"
         },
         "1102_1161": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1165": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -17634,6 +17680,34 @@
           "reg_num": "0",
           "depType": "P"
         },
+        "1102_1505": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1505",
+          "cos_code": "DOM1031",
+          "num_limit": "105",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "會計學(二)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳宗岡",
+          "cos_time": "M4-AB101[KF],M56-M101[KF]",
+          "memo": "非管院同學請於2月14日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限105人，得請授課教師簽准後可放寬至110人；管理基礎學分學程課程。",
+          "cos_ename": "Accounting (II)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PFH",
+          "dep_primary": "1",
+          "dep_cname": "管理學院:管理基礎學分學程",
+          "dep_ename": "Fundamental of Management Program",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
         "1102_1509": {
           "acy": "110",
           "sem": "2",
@@ -17701,6 +17775,15 @@
             "GECIEngName": "ECE,CCS,COS,CBT,CHS,CHK"
           }
         },
+        "1102_1505": {
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "電,資,理,生,人",
+            "GECIEngName": "ECE,CCS,COS,CBT,CHS"
+          }
+        },
         "1102_1509": {
           "": {
             "course_category_cname": "",
@@ -17727,6 +17810,12 @@
             "brief": "公民/進階(96),跨院基本素養(106)"
           }
         },
+        "1102_1505": {
+          "A203,A504": {
+            "brief_code": "A203,A504",
+            "brief": "公民/進階(96),跨院基本素養(106)"
+          }
+        },
         "1102_1509": {
           "": {
             "brief_code": "",
@@ -17742,6 +17831,9 @@
       },
       "language": {
         "1102_1496": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1505": {
           "授課語言代碼": "zh-tw"
         },
         "1102_1509": {
@@ -26200,6 +26292,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1102_5507": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5507",
+          "cos_code": "IMS5365",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "信用風險與應用  ",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "陳宗岡",
+          "cos_time": "F67-M205[KF]",
+          "memo": "限管科系所(大三大四)",
+          "cos_ename": "Credit Risk and Its Applications",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "700",
+          "dep_primary": "1",
+          "dep_cname": "管理科學系",
+          "dep_ename": "Institute of Management Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1102_5509": {
           "acy": "110",
           "sem": "2",
@@ -26256,6 +26376,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1102_5512": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5512",
+          "cos_code": "IMS5373",
+          "num_limit": "10",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "財務會計與信用風險論文研討(二)",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "陳宗岡",
+          "cos_time": "F4n-M205[KF]",
+          "memo": "需先修過財務會計與信用風險論文研討(一)",
+          "cos_ename": "Research Seminar on Financial Accounting and Credit Rish (II)",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "700",
+          "dep_primary": "1",
+          "dep_cname": "管理科學系",
+          "dep_ename": "Institute of Management Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1102_5516": {
           "acy": "110",
           "sem": "2",
@@ -26295,6 +26443,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_5507": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5509": {
           "": {
             "course_category_cname": "",
@@ -26305,6 +26462,15 @@
           }
         },
         "1102_5510": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_5512": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -26330,6 +26496,12 @@
             "brief": ""
           }
         },
+        "1102_5507": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5509": {
           "": {
             "brief_code": "",
@@ -26337,6 +26509,12 @@
           }
         },
         "1102_5510": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1102_5512": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -26353,11 +26531,17 @@
         "1102_5504": {
           "授課語言代碼": "en-us"
         },
+        "1102_5507": {
+          "授課語言代碼": "zh-tw"
+        },
         "1102_5509": {
           "授課語言代碼": "zh-tw"
         },
         "1102_5510": {
           "授課語言代碼": "en-us"
+        },
+        "1102_5512": {
+          "授課語言代碼": "zh-tw"
         },
         "1102_5516": {
           "授課語言代碼": "zh-tw"
@@ -31873,6 +32057,34 @@
       "dep_cname": "管理學院碩士在職專班-管科組",
       "dep_ename": "Degree Program of Management Science",
       "1": {
+        "1102_5624": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5624",
+          "cos_code": "IMS3003",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "會計學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳宗岡",
+          "cos_time": "S567-M205[KF]",
+          "memo": "限專班選修",
+          "cos_ename": "Accounting",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "710",
+          "dep_primary": "1",
+          "dep_cname": "管理學院碩士在職專班-管科組",
+          "dep_ename": "Degree Program of Management Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
         "1102_5625": {
           "acy": "110",
           "sem": "2",
@@ -31903,6 +32115,15 @@
         }
       },
       "costype": {
+        "1102_5624": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5625": {
           "": {
             "course_category_cname": "",
@@ -31914,6 +32135,12 @@
         }
       },
       "brief": {
+        "1102_5624": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5625": {
           "": {
             "brief_code": "",
@@ -31922,6 +32149,9 @@
         }
       },
       "language": {
+        "1102_5624": {
+          "授課語言代碼": "zh-tw"
+        },
         "1102_5625": {
           "授課語言代碼": "zh-tw"
         }
@@ -35563,6 +35793,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1102_1505": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1505",
+          "cos_code": "DOM1031",
+          "num_limit": "105",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "會計學(二)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "陳宗岡",
+          "cos_time": "M4-AB101[KF],M56-M101[KF]",
+          "memo": "非管院同學請於2月14日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限105人，得請授課教師簽准後可放寬至110人；管理基礎學分學程課程。",
+          "cos_ename": "Accounting (II)",
+          "brief": "",
+          "degree": "A",
+          "dep_id": "7M1",
+          "dep_primary": "1",
+          "dep_cname": "管理學院共同課程",
+          "dep_ename": "College of Management",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1102_1507": {
           "acy": "110",
           "sem": "2",
@@ -35667,6 +35925,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_1505": {
+          "通識跨院基本素養_通識跨院": {
+            "course_category_cname": "通識跨院基本素養_通識跨院",
+            "course_category_ename": "General Education Course: Intercollegiate_GECI",
+            "course_category_type": "16",
+            "GECIName": "電,資,理,生,人",
+            "GECIEngName": "ECE,CCS,COS,CBT,CHS"
+          }
+        },
         "1102_1507": {
           "": {
             "course_category_cname": "",
@@ -35708,6 +35975,12 @@
             "brief": ""
           }
         },
+        "1102_1505": {
+          "A203,A504": {
+            "brief_code": "A203,A504",
+            "brief": "公民/進階(96),跨院基本素養(106)"
+          }
+        },
         "1102_1507": {
           "": {
             "brief_code": "",
@@ -35732,6 +36005,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_1502": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1505": {
           "授課語言代碼": "zh-tw"
         },
         "1102_1507": {

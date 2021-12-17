@@ -840,6 +840,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1102_1634": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1634",
+          "cos_code": "DOH1060",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "科學與藝術的湧現",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "http://legacy-lab.com",
+          "teacher": "劉辰岫",
+          "cos_time": "",
+          "memo": "",
+          "cos_ename": "Emergence of science and art",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "4A1",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學院院本部",
+          "dep_ename": "College of Humanities and Social Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1102_1636": {
           "acy": "110",
           "sem": "2",
@@ -1125,6 +1153,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_1634": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_1636": {
           "": {
             "course_category_cname": "",
@@ -1253,6 +1290,12 @@
             "brief": ""
           }
         },
+        "1102_1634": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_1636": {
           "": {
             "brief_code": "",
@@ -1325,6 +1368,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_1630": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1634": {
           "授課語言代碼": "zh-tw"
         },
         "1102_1636": {
@@ -1772,6 +1818,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1102_1045": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1045",
+          "cos_code": "UEE3406",
+          "num_limit": "120",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "數位電路與系統",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://twins.ee.nctu.edu.tw/~tschang/index.htm",
+          "teacher": "張添烜",
+          "cos_time": "R7-ED220[KF],F56-EDB26[KF]",
+          "memo": "",
+          "cos_ename": "Digital Circuits and Systems",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "511",
+          "dep_primary": "1",
+          "dep_cname": "電機工程學系",
+          "dep_ename": "Department of Electrical and Computer Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1102_1055": {
           "acy": "110",
           "sem": "2",
@@ -2105,6 +2179,15 @@
             "GECIEngName": "COE"
           }
         },
+        "1102_1045": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_1055": {
           "": {
             "course_category_cname": "",
@@ -2260,6 +2343,12 @@
             "brief": "自然/進階(96),跨院基本素養(106)"
           }
         },
+        "1102_1045": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_1055": {
           "": {
             "brief_code": "",
@@ -2347,6 +2436,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_1042": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1045": {
           "授課語言代碼": "zh-tw"
         },
         "1102_1055": {
@@ -4070,6 +4162,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1102_1221": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1221",
+          "cos_code": "DME2316",
+          "num_limit": "60",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "工場實習",
+          "cos_credit": "2.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "鄭中緯",
+          "cos_time": "M234-實習工廠",
+          "memo": "限本系學生選課",
+          "cos_ename": "Workshop Practice",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "611",
+          "dep_primary": "1",
+          "dep_cname": "機械工程學系",
+          "dep_ename": "Department of Mechanical Engineering",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1102_1222": {
           "acy": "110",
           "sem": "2",
@@ -4146,6 +4266,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_1221": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_1222": {
           "": {
             "course_category_cname": "",
@@ -4178,6 +4307,12 @@
             "brief": ""
           }
         },
+        "1102_1221": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_1222": {
           "": {
             "brief_code": "",
@@ -4196,6 +4331,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_1205": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1221": {
           "授課語言代碼": "zh-tw"
         },
         "1102_1222": {
@@ -5444,7 +5582,7 @@
           "cos_type": "選修",
           "cos_type_e": "Elective",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "63",
           "depType": "U"
         },
         "1102_1461": {
@@ -5472,7 +5610,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "64",
           "depType": "U"
         },
         "1102_1463": {
@@ -5500,7 +5638,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "55",
           "depType": "U"
         },
         "1102_1465": {
@@ -5528,7 +5666,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "61",
           "depType": "U"
         },
         "1102_1466": {
@@ -5584,7 +5722,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "52",
           "depType": "U"
         },
         "1102_1468": {
@@ -16976,7 +17114,7 @@
           "TURL": "",
           "teacher": "黃仕斌、林士平、蘇信寧",
           "cos_time": "T567-A316[KF]",
-          "memo": "管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限75人，得請授課教師簽准後可放寬至80人；管理基礎學分學程課程",
+          "memo": "非管院同學請於2月14日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限75人，得請授課教師簽准後可放寬至80人；管理基礎學分學程課程",
           "cos_ename": "Management",
           "brief": "",
           "degree": "1",
@@ -17160,6 +17298,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "P"
+        },
+        "1102_1634": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1634",
+          "cos_code": "DOH1060",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "科學與藝術的湧現",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "http://legacy-lab.com",
+          "teacher": "劉辰岫",
+          "cos_time": "",
+          "memo": "",
+          "cos_ename": "Emergence of science and art",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PCD",
+          "dep_primary": "1",
+          "dep_cname": "創新科技藝術學分學程",
+          "dep_ename": "Innovative Technology and Art Program",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
         }
       },
       "costype": {
@@ -17214,6 +17380,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1102_1634": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -17246,6 +17421,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1102_1634": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -17262,6 +17443,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_1630": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1634": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -17390,7 +17574,7 @@
           "TURL": "",
           "teacher": "黃仕斌、林士平、蘇信寧",
           "cos_time": "T567-A316[KF]",
-          "memo": "管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限75人，得請授課教師簽准後可放寬至80人；管理基礎學分學程課程",
+          "memo": "非管院同學請於2月14日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限75人，得請授課教師簽准後可放寬至80人；管理基礎學分學程課程",
           "cos_ename": "Management",
           "brief": "",
           "degree": "1",
@@ -17418,7 +17602,7 @@
           "TURL": "",
           "teacher": "巫佳煌",
           "cos_time": "M234-A316[KF]",
-          "memo": "管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限85人，得請授課教師簽准後可放寬至90人；管理基礎學分學程課程。",
+          "memo": "非管院同學請於2月14日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限85人，得請授課教師簽准後可放寬至90人；管理基礎學分學程課程。",
           "cos_ename": "Statistics (II)",
           "brief": "",
           "degree": "1",
@@ -17446,7 +17630,7 @@
           "TURL": "",
           "teacher": "水敬心",
           "cos_time": "T234-A309[KF]",
-          "memo": "管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限20人，得請授課教師簽准後可放寬至25人；管理基礎學分學程課程；英文授課[English Medium Course]",
+          "memo": "非管院同學請於2月14日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限20人，得請授課教師簽准後可放寬至25人；管理基礎學分學程課程；英文授課[English Medium Course]",
           "cos_ename": "Operations Research (II)",
           "brief": "",
           "degree": "1",
@@ -17935,6 +18119,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "Q"
+        },
+        "1102_1634": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1634",
+          "cos_code": "DOH1060",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "科學與藝術的湧現",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "http://legacy-lab.com",
+          "teacher": "劉辰岫",
+          "cos_time": "",
+          "memo": "",
+          "cos_ename": "Emergence of science and art",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QJZ",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學院跨領域設計與創新科技跨域學程",
+          "dep_ename": "College of Humanities and Social Sciences for Transdisciplinary Inn",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
         }
       },
       "costype": {
@@ -17989,6 +18201,15 @@
             "GECIName": "",
             "GECIEngName": ""
           }
+        },
+        "1102_1634": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
         }
       },
       "brief": {
@@ -18021,6 +18242,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1102_1634": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -18037,6 +18264,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_1630": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1634": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -18149,6 +18379,34 @@
           "cos_time": "R567-EAB06",
           "memo": "",
           "cos_ename": "Sound Art and Technology",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QKS",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學院藝術與音樂跨域學程",
+          "dep_ename": "College of Humanities and Social Sciences for Transdisciplinary Inn",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
+        "1102_1634": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1634",
+          "cos_code": "DOH1060",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "科學與藝術的湧現",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "http://legacy-lab.com",
+          "teacher": "劉辰岫",
+          "cos_time": "",
+          "memo": "",
+          "cos_ename": "Emergence of science and art",
           "brief": "",
           "degree": "1",
           "dep_id": "QKS",
@@ -18349,6 +18607,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_1634": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_1636": {
           "": {
             "course_category_cname": "",
@@ -18417,6 +18684,12 @@
             "brief": ""
           }
         },
+        "1102_1634": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_1636": {
           "": {
             "brief_code": "",
@@ -18459,6 +18732,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_1626": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1634": {
           "授課語言代碼": "zh-tw"
         },
         "1102_1636": {
@@ -26696,7 +26972,7 @@
           "cos_type": "必修",
           "cos_type_e": "Required",
           "crsoutline_type": "data",
-          "reg_num": "0",
+          "reg_num": "125",
           "depType": "G"
         },
         "1102_5539": {
@@ -30989,6 +31265,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "J"
+        },
+        "1102_5311": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5311",
+          "cos_code": "IAP5159",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "積層製造系統",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "鄭中緯",
+          "cos_time": "S234-EE230[KF]",
+          "memo": "",
+          "cos_ename": "Additive Manufacturing Systems",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "607",
+          "dep_primary": "1",
+          "dep_cname": "工學院碩士在職專班-精密組",
+          "dep_ename": "Degree Program of Automation and Precision Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
         }
       },
       "costype": {
@@ -31002,6 +31306,15 @@
           }
         },
         "1102_5308": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_5311": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -31023,6 +31336,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1102_5311": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -31030,6 +31349,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_5308": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_5311": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -35153,7 +35475,7 @@
           "TURL": "",
           "teacher": "黃仕斌、林士平、蘇信寧",
           "cos_time": "T567-A316[KF]",
-          "memo": "管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限75人，得請授課教師簽准後可放寬至80人；管理基礎學分學程課程",
+          "memo": "非管院同學請於2月14日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限75人，得請授課教師簽准後可放寬至80人；管理基礎學分學程課程",
           "cos_ename": "Management",
           "brief": "",
           "degree": "A",
@@ -35181,7 +35503,7 @@
           "TURL": "",
           "teacher": "閻姿慧",
           "cos_time": "R567-A309[KF]",
-          "memo": "管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限70人，得請授課教師簽准後可放寬至75人。",
+          "memo": "非管院同學請於2月14日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限70人，得請授課教師簽准後可放寬至75人。",
           "cos_ename": "Linear Algebra",
           "brief": "",
           "degree": "A",
@@ -35209,7 +35531,7 @@
           "TURL": "",
           "teacher": "吳浩庠",
           "cos_time": "T789-MB210[KF]",
-          "memo": "管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限55人，若超過人數上限請至管院辦公室登記。",
+          "memo": "非管院同學請於2月14日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限55人，若超過人數上限請至管院辦公室登記（非管院學生具雙主修、輔系、跨域學程資格者，請提供相關證明）。",
           "cos_ename": "Programming",
           "brief": "",
           "degree": "A",
@@ -35237,7 +35559,7 @@
           "TURL": "",
           "teacher": "巫佳煌",
           "cos_time": "M234-A316[KF]",
-          "memo": "管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限85人，得請授課教師簽准後可放寬至90人；管理基礎學分學程課程。",
+          "memo": "非管院同學請於2月14日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限85人，得請授課教師簽准後可放寬至90人；管理基礎學分學程課程。",
           "cos_ename": "Statistics (II)",
           "brief": "",
           "degree": "A",
@@ -35265,7 +35587,7 @@
           "TURL": "",
           "teacher": "水敬心",
           "cos_time": "T234-A309[KF]",
-          "memo": "管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限20人，得請授課教師簽准後可放寬至25人；管理基礎學分學程課程；英文授課[English Medium Course]",
+          "memo": "非管院同學請於2月14日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限20人，得請授課教師簽准後可放寬至25人；管理基礎學分學程課程；英文授課[English Medium Course]",
           "cos_ename": "Operations Research (II)",
           "brief": "",
           "degree": "A",

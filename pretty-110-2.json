@@ -7709,34 +7709,6 @@
           "reg_num": "0",
           "depType": "O"
         },
-        "1102_7167": {
-          "acy": "110",
-          "sem": "2",
-          "cos_id": "7167",
-          "cos_code": "DFR1327",
-          "num_limit": "25",
-          "dep_limit": "*",
-          "URL": null,
-          "cos_cname": "正向幸福心理學的英文課 ",
-          "cos_credit": "2.00",
-          "cos_hours": "2.00",
-          "TURL": "http://sun.nctu.edu.tw",
-          "teacher": "孫于智",
-          "cos_time": "F34-A308[KF]",
-          "memo": "",
-          "cos_ename": "Positive psychology English class",
-          "brief": "進階",
-          "degree": "1",
-          "dep_id": "OU6",
-          "dep_primary": "1",
-          "dep_cname": "語言教學與研究中心",
-          "dep_ename": "Language Teaching and Research Center",
-          "cos_type": "外語",
-          "cos_type_e": "Foreign Languages Course",
-          "crsoutline_type": "data",
-          "reg_num": "0",
-          "depType": "O"
-        },
         "1102_7169": {
           "acy": "110",
           "sem": "2",
@@ -8166,15 +8138,6 @@
             "GECIEngName": ""
           }
         },
-        "1102_7167": {
-          "": {
-            "course_category_cname": "",
-            "course_category_ename": "",
-            "course_category_type": "",
-            "GECIName": "",
-            "GECIEngName": ""
-          }
-        },
         "1102_7169": {
           "": {
             "course_category_cname": "",
@@ -8336,12 +8299,6 @@
             "brief": "進階(87)"
           }
         },
-        "1102_7167": {
-          "B072": {
-            "brief_code": "B072",
-            "brief": "進階(87)"
-          }
-        },
         "1102_7169": {
           "B072": {
             "brief_code": "B072",
@@ -8441,9 +8398,6 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_7163": {
-          "授課語言代碼": "zh-tw"
-        },
-        "1102_7167": {
           "授課語言代碼": "zh-tw"
         },
         "1102_7169": {
@@ -20021,6 +19975,65 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_5936": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "92FE9A22-3F52-4AC1-AA35-E975A91C75DA": {
+      "dep_id": "92FE9A22-3F52-4AC1-AA35-E975A91C75DA",
+      "dep_cname": "應用藝術研究所",
+      "dep_ename": "Institute of Applied Arts",
+      "1": {
+        "1102_5830": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5830",
+          "cos_code": "IAA5759",
+          "num_limit": "12",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "創意傢俱設計與製作",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "洪瑞鴻",
+          "cos_time": "F567-EEB30",
+          "memo": "",
+          "cos_ename": "",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "462",
+          "dep_primary": "1",
+          "dep_cname": "應用藝術研究所",
+          "dep_ename": "Institute of Applied Arts",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "1102_5830": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1102_5830": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1102_5830": {
           "授課語言代碼": "zh-tw"
         }
       }

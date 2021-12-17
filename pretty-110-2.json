@@ -1772,6 +1772,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1102_1055": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1055",
+          "cos_code": "UEE3105",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "隨機線性代數(英)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "https://itlab.nctu.edu.tw/",
+          "teacher": "李冕",
+          "cos_time": "T8F56-EDB01[KF]",
+          "memo": "大三、大四[English Medium Course]",
+          "cos_ename": "Randomized linear algebra",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "511",
+          "dep_primary": "1",
+          "dep_cname": "電機工程學系",
+          "dep_ename": "Department of Electrical and Computer Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1102_1057": {
           "acy": "110",
           "sem": "2",
@@ -2077,6 +2105,15 @@
             "GECIEngName": "COE"
           }
         },
+        "1102_1055": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_1057": {
           "": {
             "course_category_cname": "",
@@ -2223,6 +2260,12 @@
             "brief": "自然/進階(96),跨院基本素養(106)"
           }
         },
+        "1102_1055": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_1057": {
           "": {
             "brief_code": "",
@@ -2305,6 +2348,9 @@
         },
         "1102_1042": {
           "授課語言代碼": "zh-tw"
+        },
+        "1102_1055": {
+          "授課語言代碼": "en-us"
         },
         "1102_1057": {
           "授課語言代碼": "zh-tw"
@@ -16090,6 +16136,34 @@
           "reg_num": "0",
           "depType": "P"
         },
+        "1102_5076": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5076",
+          "cos_code": "ECM5215",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "機器學習理論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "https://itlab.nctu.edu.tw/",
+          "teacher": "李冕",
+          "cos_time": "T567-EDB07[KF]",
+          "memo": "Graduate student course[English Medium Course]",
+          "cos_ename": "Theoretical Machine Learning ",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAN",
+          "dep_primary": "1",
+          "dep_cname": "電機資訊英語授課學分學程",
+          "dep_ename": "Electrical Engineering and Computer Science-International Program",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
         "1102_5109": {
           "acy": "110",
           "sem": "2",
@@ -16493,6 +16567,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_5076": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5109": {
           "": {
             "course_category_cname": "",
@@ -16627,6 +16710,12 @@
             "brief": ""
           }
         },
+        "1102_5076": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5109": {
           "": {
             "brief_code": "",
@@ -16714,6 +16803,9 @@
       },
       "language": {
         "1102_1152": {
+          "授課語言代碼": "en-us"
+        },
+        "1102_5076": {
           "授課語言代碼": "en-us"
         },
         "1102_5109": {
@@ -20647,6 +20739,34 @@
       "dep_cname": "電信工程研究所",
       "dep_ename": "Institute of Communication Engineering",
       "1": {
+        "1102_5076": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5076",
+          "cos_code": "ECM5215",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "機器學習理論",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "https://itlab.nctu.edu.tw/",
+          "teacher": "李冕",
+          "cos_time": "T567-EDB07[KF]",
+          "memo": "Graduate student course[English Medium Course]",
+          "cos_ename": "Theoretical Machine Learning ",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "513",
+          "dep_primary": "1",
+          "dep_cname": "電信工程研究所",
+          "dep_ename": "Institute of Communication Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1102_5077": {
           "acy": "110",
           "sem": "2",
@@ -20815,6 +20935,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1102_5091": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5091",
+          "cos_code": "ECM9045",
+          "num_limit": "50",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "5G技術規格與實驗",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "吳文榕",
+          "cos_time": "R234-ED814",
+          "memo": "",
+          "cos_ename": "5G specifications and experiments",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "513",
+          "dep_primary": "1",
+          "dep_cname": "電信工程研究所",
+          "dep_ename": "Institute of Communication Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1102_5092": {
           "acy": "110",
           "sem": "2",
@@ -20845,6 +20993,15 @@
         }
       },
       "costype": {
+        "1102_5076": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5077": {
           "": {
             "course_category_cname": "",
@@ -20891,6 +21048,15 @@
           }
         },
         "1102_5089": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_5091": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -20910,6 +21076,12 @@
         }
       },
       "brief": {
+        "1102_5076": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5077": {
           "": {
             "brief_code": "",
@@ -20941,6 +21113,12 @@
           }
         },
         "1102_5089": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1102_5091": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -20954,6 +21132,9 @@
         }
       },
       "language": {
+        "1102_5076": {
+          "授課語言代碼": "en-us"
+        },
         "1102_5077": {
           "授課語言代碼": "zh-tw"
         },
@@ -20970,6 +21151,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_5089": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_5091": {
           "授課語言代碼": "zh-tw"
         },
         "1102_5092": {

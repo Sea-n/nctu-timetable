@@ -1986,6 +1986,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1102_1074": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1074",
+          "cos_code": "UEE4502",
+          "num_limit": "60",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "通訊原理(一)",
+          "cos_credit": "3.00",
+          "cos_hours": "4.00",
+          "TURL": "http://140.113.13.233",
+          "teacher": "陳伯寧",
+          "cos_time": "R34-ED103[KF],T56-ED305[KF]",
+          "memo": "(原通訊系統導論)",
+          "cos_ename": "Principle of Communication Engineering (I): Analog and Digital Systems",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "511",
+          "dep_primary": "1",
+          "dep_cname": "電機工程學系",
+          "dep_ename": "Department of Electrical and Computer Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1102_1077": {
           "acy": "110",
           "sem": "2",
@@ -2233,6 +2261,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_1074": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_1077": {
           "": {
             "course_category_cname": "",
@@ -2379,6 +2416,12 @@
             "brief": ""
           }
         },
+        "1102_1074": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_1077": {
           "": {
             "brief_code": "",
@@ -2454,6 +2497,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_1065": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1074": {
           "授課語言代碼": "zh-tw"
         },
         "1102_1077": {

@@ -32158,6 +32158,34 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "J"
+        },
+        "1102_5628": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5628",
+          "cos_code": "IMS5608",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "統計學",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "謝國文",
+          "cos_time": "Mabc-M205[KF]",
+          "memo": "限專班選修",
+          "cos_ename": "Statistics",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "710",
+          "dep_primary": "1",
+          "dep_cname": "管理學院碩士在職專班-管科組",
+          "dep_ename": "Degree Program of Management Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
         }
       },
       "costype": {
@@ -32171,6 +32199,15 @@
           }
         },
         "1102_5625": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_5628": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -32192,6 +32229,12 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1102_5628": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
@@ -32199,6 +32242,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_5625": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_5628": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -32350,6 +32396,65 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_5638": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "0C87ACDD-C358-45D3-8755-BA09FA213506": {
+      "dep_id": "0C87ACDD-C358-45D3-8755-BA09FA213506",
+      "dep_cname": "管理學院碩士在職專班-物流組",
+      "dep_ename": "Degree Program of Transportation and Logistics",
+      "1": {
+        "1102_5652": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5652",
+          "cos_code": "ITT5110",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "數量分析方法",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "邱裕鈞、胡守任、馮正民",
+          "cos_time": "Fabc-TD",
+          "memo": "上課地點：台北北門校區",
+          "cos_ename": "Quantitative Research Methods ",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "713",
+          "dep_primary": "1",
+          "dep_cname": "管理學院碩士在職專班-物流組",
+          "dep_ename": "Degree Program of Transportation and Logistics",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        }
+      },
+      "costype": {
+        "1102_5652": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1102_5652": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1102_5652": {
           "授課語言代碼": "zh-tw"
         }
       }

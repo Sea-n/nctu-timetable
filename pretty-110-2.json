@@ -8011,6 +8011,34 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1102_7123": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "7123",
+          "cos_code": "DFR1107",
+          "num_limit": "36",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "大一英文（二）",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "林麗美",
+          "cos_time": "R56-A505[KF]",
+          "memo": "",
+          "cos_ename": "Freshman English (II)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1102_7126": {
           "acy": "110",
           "sem": "2",
@@ -8056,6 +8084,34 @@
           "memo": "",
           "cos_ename": "Freshman English (II)",
           "brief": "基礎",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1102_7150": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "7150",
+          "cos_code": "DFR1302",
+          "num_limit": "25",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "進階英文閱讀與寫作",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "林麗美",
+          "cos_time": "R78-A505[KF]",
+          "memo": "",
+          "cos_ename": "Advanced English Reading and Writing",
+          "brief": "進階",
           "degree": "1",
           "dep_id": "OU6",
           "dep_primary": "1",
@@ -8516,6 +8572,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_7123": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_7126": {
           "": {
             "course_category_cname": "",
@@ -8526,6 +8591,15 @@
           }
         },
         "1102_7128": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_7150": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -8689,6 +8763,12 @@
             "brief": "基礎(87)"
           }
         },
+        "1102_7123": {
+          "B071": {
+            "brief_code": "B071",
+            "brief": "基礎(87)"
+          }
+        },
         "1102_7126": {
           "B071": {
             "brief_code": "B071",
@@ -8699,6 +8779,12 @@
           "B071": {
             "brief_code": "B071",
             "brief": "基礎(87)"
+          }
+        },
+        "1102_7150": {
+          "B072": {
+            "brief_code": "B072",
+            "brief": "進階(87)"
           }
         },
         "1102_7154": {
@@ -8802,10 +8888,16 @@
         "1102_7110": {
           "授課語言代碼": "zh-tw"
         },
+        "1102_7123": {
+          "授課語言代碼": "zh-tw"
+        },
         "1102_7126": {
           "授課語言代碼": "zh-tw"
         },
         "1102_7128": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_7150": {
           "授課語言代碼": "zh-tw"
         },
         "1102_7154": {
@@ -21108,10 +21200,47 @@
           "crsoutline_type": "data",
           "reg_num": "0",
           "depType": "G"
+        },
+        "1102_5044": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5044",
+          "cos_code": "IEE6802",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "高頻電路設計與實驗",
+          "cos_credit": "3.00",
+          "cos_hours": "6.00",
+          "TURL": "http://giga.ee.nctu.edu.tw",
+          "teacher": "郭建男",
+          "cos_time": "M789-ED103[KF],Wabc-LAB",
+          "memo": "",
+          "cos_ename": "High-Frequency Circuits & Design Laboratory",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "510",
+          "dep_primary": "1",
+          "dep_cname": "電子研究所",
+          "dep_ename": "Institute of Electronics",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
         }
       },
       "costype": {
         "1102_5022": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_5044": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -21127,11 +21256,20 @@
             "brief_code": "",
             "brief": ""
           }
+        },
+        "1102_5044": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
         }
       },
       "language": {
         "1102_5022": {
           "授課語言代碼": "en-us"
+        },
+        "1102_5044": {
+          "授課語言代碼": "zh-tw"
         }
       }
     },

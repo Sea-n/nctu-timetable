@@ -1958,6 +1958,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1102_1061": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1061",
+          "cos_code": "UEE3408",
+          "num_limit": "30",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "射頻電路原理與實驗",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "紀佩綾",
+          "cos_time": "F567-ED713",
+          "memo": "實驗課ED713。大三、大四",
+          "cos_ename": "Principles and Lab. of RF Circuits",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "511",
+          "dep_primary": "1",
+          "dep_cname": "電機工程學系",
+          "dep_ename": "Department of Electrical and Computer Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1102_1063": {
           "acy": "110",
           "sem": "2",
@@ -2280,6 +2308,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_1061": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_1063": {
           "": {
             "course_category_cname": "",
@@ -2447,6 +2484,12 @@
             "brief": ""
           }
         },
+        "1102_1061": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_1063": {
           "": {
             "brief_code": "",
@@ -2537,6 +2580,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_1060": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1061": {
           "授課語言代碼": "zh-tw"
         },
         "1102_1063": {
@@ -4848,6 +4894,62 @@
       "dep_cname": "電子物理學系",
       "dep_ename": "Department of Electro-Physics",
       "1": {
+        "1102_1321": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1321",
+          "cos_code": "DEP2312",
+          "num_limit": "90",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "應用數學（一）（線性代數）",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "楊毅",
+          "cos_time": "M2T78-SC160[KF]",
+          "memo": "初選限電物系",
+          "cos_ename": "Applied Maths. (I)(Linear Algebra, Vector Analysis)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "651",
+          "dep_primary": "1",
+          "dep_cname": "電子物理學系",
+          "dep_ename": "Department of Electro-Physics",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
+        "1102_1325": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1325",
+          "cos_code": "DEP2318",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "近代物理(一)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "楊毅",
+          "cos_time": "R34F6-SC162[KF]",
+          "memo": "B班，初選限電物系",
+          "cos_ename": "Modern Physics (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "651",
+          "dep_primary": "1",
+          "dep_cname": "電子物理學系",
+          "dep_ename": "Department of Electro-Physics",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1102_1327": {
           "acy": "110",
           "sem": "2",
@@ -5046,6 +5148,24 @@
         }
       },
       "costype": {
+        "1102_1321": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_1325": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_1327": {
           "通識跨院基本素養_通識跨院": {
             "course_category_cname": "通識跨院基本素養_通識跨院",
@@ -5111,6 +5231,18 @@
         }
       },
       "brief": {
+        "1102_1321": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1102_1325": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_1327": {
           "A205,A504": {
             "brief_code": "A205,A504",
@@ -5155,6 +5287,12 @@
         }
       },
       "language": {
+        "1102_1321": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1325": {
+          "授課語言代碼": "zh-tw"
+        },
         "1102_1327": {
           "授課語言代碼": "zh-tw"
         },
@@ -18184,6 +18322,34 @@
       "dep_cname": "物理研究所跨域學程(B)外系學生",
       "dep_ename": "Institute of Physics for Cross-Disciplinary Program",
       "1": {
+        "1102_1325": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1325",
+          "cos_code": "DEP2318",
+          "num_limit": "50",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "近代物理(一)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "楊毅",
+          "cos_time": "R34F6-SC162[KF]",
+          "memo": "B班，初選限電物系",
+          "cos_ename": "Modern Physics (I)",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QJM",
+          "dep_primary": "1",
+          "dep_cname": "物理研究所跨域學程(B)外系學生",
+          "dep_ename": "Institute of Physics for Cross-Disciplinary Program",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
         "1102_5477": {
           "acy": "110",
           "sem": "2",
@@ -18242,6 +18408,15 @@
         }
       },
       "costype": {
+        "1102_1325": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5477": {
           "": {
             "course_category_cname": "",
@@ -18262,6 +18437,12 @@
         }
       },
       "brief": {
+        "1102_1325": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5477": {
           "": {
             "brief_code": "",
@@ -18276,6 +18457,9 @@
         }
       },
       "language": {
+        "1102_1325": {
+          "授課語言代碼": "zh-tw"
+        },
         "1102_5477": {
           "授課語言代碼": "en-us"
         },
@@ -21488,6 +21672,34 @@
       "dep_cname": "電信工程研究所",
       "dep_ename": "Institute of Communication Engineering",
       "1": {
+        "1102_5071": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5071",
+          "cos_code": "ECM5047",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "微波電路設計與製造",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "紀佩綾",
+          "cos_time": "Wabc-ED713",
+          "memo": "",
+          "cos_ename": "Design of Microwave Circuits",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "513",
+          "dep_primary": "1",
+          "dep_cname": "電信工程研究所",
+          "dep_ename": "Institute of Communication Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1102_5076": {
           "acy": "110",
           "sem": "2",
@@ -21742,6 +21954,15 @@
         }
       },
       "costype": {
+        "1102_5071": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5076": {
           "": {
             "course_category_cname": "",
@@ -21825,6 +22046,12 @@
         }
       },
       "brief": {
+        "1102_5071": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5076": {
           "": {
             "brief_code": "",
@@ -21881,6 +22108,9 @@
         }
       },
       "language": {
+        "1102_5071": {
+          "授課語言代碼": "zh-tw"
+        },
         "1102_5076": {
           "授課語言代碼": "en-us"
         },

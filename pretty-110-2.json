@@ -1846,6 +1846,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1102_1053": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1053",
+          "cos_code": "DEE4592",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "電子專題討論",
+          "cos_credit": "1.00",
+          "cos_hours": "2.00",
+          "TURL": "https://sites.google.com/view/lighttaiwan",
+          "teacher": "譚至善",
+          "cos_time": "F34-ED116[KF]",
+          "memo": "",
+          "cos_ename": "Seminar on Electronic Engineering",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "511",
+          "dep_primary": "1",
+          "dep_cname": "電機工程學系",
+          "dep_ename": "Department of Electrical and Computer Engineering",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1102_1055": {
           "acy": "110",
           "sem": "2",
@@ -2216,6 +2244,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_1053": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_1055": {
           "": {
             "course_category_cname": "",
@@ -2386,6 +2423,12 @@
             "brief": ""
           }
         },
+        "1102_1053": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_1055": {
           "": {
             "brief_code": "",
@@ -2482,6 +2525,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_1045": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1053": {
           "授課語言代碼": "zh-tw"
         },
         "1102_1055": {

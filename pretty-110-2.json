@@ -621,7 +621,7 @@
           "sem": "2",
           "cos_id": "1611",
           "cos_code": "DOA1110",
-          "num_limit": "25",
+          "num_limit": "30",
           "dep_limit": "*",
           "URL": null,
           "cos_cname": "社會敘事與博物館",
@@ -4167,6 +4167,62 @@
           "reg_num": "0",
           "depType": "C"
         },
+        "1102_1187": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1187",
+          "cos_code": "DPN1101",
+          "num_limit": "23",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "服務學習(一)",
+          "cos_credit": ".00",
+          "cos_hours": "2.00",
+          "TURL": "http://www.cc.nctu.edu.tw/~t9411/",
+          "teacher": "柯富祥",
+          "cos_time": "S34-EE548",
+          "memo": "",
+          "cos_ename": "Service Learning I",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "610",
+          "dep_primary": "1",
+          "dep_cname": "奈米科學及工程學士學位學程",
+          "dep_ename": "Undergraduate Honors Program of Nano Science and Engineering",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "25",
+          "depType": "C"
+        },
+        "1102_1191": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1191",
+          "cos_code": "DPN1110",
+          "num_limit": "25",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "專題研究(一)",
+          "cos_credit": "1.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cc.nctu.edu.tw/~t9411/",
+          "teacher": "柯富祥",
+          "cos_time": "W78-EE546",
+          "memo": "專題研究每學期限修一門，請依序選修",
+          "cos_ename": "Research (Ⅰ)\t\t\t\t\t ",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "610",
+          "dep_primary": "1",
+          "dep_cname": "奈米科學及工程學士學位學程",
+          "dep_ename": "Undergraduate Honors Program of Nano Science and Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "23",
+          "depType": "C"
+        },
         "1102_1194": {
           "acy": "110",
           "sem": "2",
@@ -4223,6 +4279,34 @@
           "reg_num": "0",
           "depType": "C"
         },
+        "1102_1196": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1196",
+          "cos_code": "DPN1205",
+          "num_limit": "25",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "奈米科學與工程實驗",
+          "cos_credit": "1.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cc.nctu.edu.tw/~kwsu/",
+          "teacher": "蘇冠暐、袁俊傑、柯富祥、徐雍鎣",
+          "cos_time": "M9ab-EEB43",
+          "memo": "",
+          "cos_ename": "Nano science and engineering Lab.   ",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "610",
+          "dep_primary": "1",
+          "dep_cname": "奈米科學及工程學士學位學程",
+          "dep_ename": "Undergraduate Honors Program of Nano Science and Engineering",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "C"
+        },
         "1102_1199": {
           "acy": "110",
           "sem": "2",
@@ -4262,6 +4346,24 @@
             "GECIEngName": ""
           }
         },
+        "1102_1187": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_1191": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_1194": {
           "": {
             "course_category_cname": "",
@@ -4272,6 +4374,15 @@
           }
         },
         "1102_1195": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_1196": {
           "": {
             "course_category_cname": "",
             "course_category_ename": "",
@@ -4297,6 +4408,18 @@
             "brief": ""
           }
         },
+        "1102_1187": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1102_1191": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_1194": {
           "": {
             "brief_code": "",
@@ -4304,6 +4427,12 @@
           }
         },
         "1102_1195": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1102_1196": {
           "": {
             "brief_code": "",
             "brief": ""
@@ -4320,10 +4449,19 @@
         "1102_1186": {
           "授課語言代碼": "zh-tw"
         },
+        "1102_1187": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1191": {
+          "授課語言代碼": "zh-tw"
+        },
         "1102_1194": {
           "授課語言代碼": "zh-tw"
         },
         "1102_1195": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1196": {
           "授課語言代碼": "zh-tw"
         },
         "1102_1199": {
@@ -8419,6 +8557,62 @@
           "reg_num": "0",
           "depType": "O"
         },
+        "1102_7503": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "7503",
+          "cos_code": "DFR1231",
+          "num_limit": "45",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "日文(一)",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "李蕙如",
+          "cos_time": "T56-A405[KF]",
+          "memo": "",
+          "cos_ename": "Japanese(I)",
+          "brief": "其它",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
+        "1102_7504": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "7504",
+          "cos_code": "DFR1231",
+          "num_limit": "45",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "日文(一)",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "李蕙如",
+          "cos_time": "T78-A405[KF]",
+          "memo": "",
+          "cos_ename": "Japanese(I)",
+          "brief": "其它",
+          "degree": "1",
+          "dep_id": "OU6",
+          "dep_primary": "1",
+          "dep_cname": "語言教學與研究中心",
+          "dep_ename": "Language Teaching and Research Center",
+          "cos_type": "外語",
+          "cos_type_e": "Foreign Languages Course",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "O"
+        },
         "1102_7505": {
           "acy": "110",
           "sem": "2",
@@ -8856,6 +9050,24 @@
             "GECIEngName": ""
           }
         },
+        "1102_7503": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_7504": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_7505": {
           "": {
             "course_category_cname": "",
@@ -9032,6 +9244,18 @@
             "brief": "進階(87)"
           }
         },
+        "1102_7503": {
+          "B075": {
+            "brief_code": "B075",
+            "brief": "其它(87)"
+          }
+        },
+        "1102_7504": {
+          "B075": {
+            "brief_code": "B075",
+            "brief": "其它(87)"
+          }
+        },
         "1102_7505": {
           "B075": {
             "brief_code": "B075",
@@ -9137,6 +9361,12 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_7169": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_7503": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_7504": {
           "授課語言代碼": "zh-tw"
         },
         "1102_7505": {
@@ -17134,6 +17364,34 @@
           "reg_num": "0",
           "depType": "P"
         },
+        "1102_5255": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5255",
+          "cos_code": "IOC5191",
+          "num_limit": "60",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "機器學習(英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "邱維辰、洪瑞鴻",
+          "cos_time": "R34-EC115[KF]",
+          "memo": "請依各所入學年度之修業要點選課；本院學生優先；博士班資格考考核科目；資安學程必選修課程；【AI學程專業必修】；英文授課[另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously][English Medium Course]",
+          "cos_ename": "Machine Learning ",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "PAN",
+          "dep_primary": "1",
+          "dep_cname": "電機資訊英語授課學分學程",
+          "dep_ename": "Electrical Engineering and Computer Science-International Program",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "P"
+        },
         "1102_5267": {
           "acy": "110",
           "sem": "2",
@@ -17384,6 +17642,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_5255": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5267": {
           "": {
             "course_category_cname": "",
@@ -17503,6 +17770,12 @@
             "brief": ""
           }
         },
+        "1102_5255": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5267": {
           "": {
             "brief_code": "",
@@ -17569,6 +17842,9 @@
           "授課語言代碼": "en-us"
         },
         "1102_5251": {
+          "授課語言代碼": "en-us"
+        },
+        "1102_5255": {
           "授課語言代碼": "en-us"
         },
         "1102_5267": {
@@ -19674,7 +19950,7 @@
           "sem": "2",
           "cos_id": "1611",
           "cos_code": "DOA1110",
-          "num_limit": "25",
+          "num_limit": "30",
           "dep_limit": "*",
           "URL": null,
           "cos_cname": "社會敘事與博物館",
@@ -24185,6 +24461,34 @@
           "reg_num": "0",
           "depType": "G"
         },
+        "1102_5255": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5255",
+          "cos_code": "IOC5191",
+          "num_limit": "60",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "機器學習(英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "邱維辰、洪瑞鴻",
+          "cos_time": "R34-EC115[KF]",
+          "memo": "請依各所入學年度之修業要點選課；本院學生優先；博士班資格考考核科目；資安學程必選修課程；【AI學程專業必修】；英文授課[另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously][English Medium Course]",
+          "cos_ename": "Machine Learning ",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "551",
+          "dep_primary": "1",
+          "dep_cname": "資訊科學與工程研究所",
+          "dep_ename": "Institute of Computer Science and Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1102_5260": {
           "acy": "110",
           "sem": "2",
@@ -24436,6 +24740,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_5255": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5260": {
           "": {
             "course_category_cname": "",
@@ -24546,6 +24859,12 @@
             "brief": ""
           }
         },
+        "1102_5255": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5260": {
           "": {
             "brief_code": "",
@@ -24610,6 +24929,9 @@
         },
         "1102_5253": {
           "授課語言代碼": "zh-tw"
+        },
+        "1102_5255": {
+          "授課語言代碼": "en-us"
         },
         "1102_5260": {
           "授課語言代碼": "zh-tw"
@@ -25638,6 +25960,65 @@
       },
       "language": {
         "1102_5389": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
+    "DC7EDBD9-163D-4D10-B2C0-0B2C52EA9220": {
+      "dep_id": "DC7EDBD9-163D-4D10-B2C0-0B2C52EA9220",
+      "dep_cname": "材料科學與工程學系奈米科技碩博班",
+      "dep_ename": "Graduate Program  for  Nanotechnology",
+      "1": {
+        "1102_5393": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5393",
+          "cos_code": "INT5203",
+          "num_limit": "45",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "表面科學及工程",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cc.nctu.edu.tw/~t9411/",
+          "teacher": "柯富祥",
+          "cos_time": "R234-EF201[KF]",
+          "memo": "第一階段限材料系、奈米碩博班、加速器學程材料組選修，第二階段經授課老師同意可手動加簽",
+          "cos_ename": "Surface Science and Engineering     ",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "614",
+          "dep_primary": "1",
+          "dep_cname": "材料科學與工程學系奈米科技碩博班",
+          "dep_ename": "Graduate Program  for  Nanotechnology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        }
+      },
+      "costype": {
+        "1102_5393": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1102_5393": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1102_5393": {
           "授課語言代碼": "zh-tw"
         }
       }
@@ -32514,6 +32895,34 @@
           "reg_num": "0",
           "depType": "J"
         },
+        "1102_5318": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5318",
+          "cos_code": "ISE5207",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "半導體微影、清洗、檢測技術與設備",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cc.nctu.edu.tw/~t9411/",
+          "teacher": "柯富祥",
+          "cos_time": "Mabc-EF207[KF]",
+          "memo": "限陽明交大在職專班學生選修\r\n",
+          "cos_ename": "Semiconductor Lithography, Cleaning and Inspection ",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "609",
+          "dep_primary": "1",
+          "dep_cname": "工學院碩士在職專班-半導體組",
+          "dep_ename": "Degree Program of Semiconductor Material and Processing Equipment",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
         "1102_5319": {
           "acy": "110",
           "sem": "2",
@@ -32562,6 +32971,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_5318": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5319": {
           "": {
             "course_category_cname": "",
@@ -32585,6 +33003,12 @@
             "brief": ""
           }
         },
+        "1102_5318": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5319": {
           "": {
             "brief_code": "",
@@ -32597,6 +33021,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_5317": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_5318": {
           "授課語言代碼": "zh-tw"
         },
         "1102_5319": {
@@ -36164,6 +36591,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1102_1176": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1176",
+          "cos_code": "DCP2108",
+          "num_limit": "70",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "計算機組織(英文授課)",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://www.cs.nctu.edu.tw/~cjtsai",
+          "teacher": "蔡淳仁",
+          "cos_time": "R56-EC016[KF]",
+          "memo": "二年級必修，其他年級請於第二階段選課初選，外系生請於開學上網加選；資工系與電資學士班學生優先選課；共同必修； 英文授課[另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously][English Medium Course]",
+          "cos_ename": "Computer Organization",
+          "brief": "",
+          "degree": "A",
+          "dep_id": "5C1",
+          "dep_primary": "1",
+          "dep_cname": "資訊學院共同課程",
+          "dep_ename": "College of Computer Science",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1102_1179": {
           "acy": "110",
           "sem": "2",
@@ -36258,6 +36713,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_1176": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_1179": {
           "通識校基本素養_通識校基本": {
             "course_category_cname": "通識校基本素養_通識校基本",
@@ -36309,6 +36773,12 @@
             "brief": ""
           }
         },
+        "1102_1176": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_1179": {
           "A205,A504,A505": {
             "brief_code": "A205,A504,A505",
@@ -36333,6 +36803,9 @@
           "授課語言代碼": "en-us"
         },
         "1102_1174": {
+          "授課語言代碼": "en-us"
+        },
+        "1102_1176": {
           "授課語言代碼": "en-us"
         },
         "1102_1179": {

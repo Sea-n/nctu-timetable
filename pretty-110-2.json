@@ -1846,6 +1846,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1102_1046": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1046",
+          "cos_code": "UEE3406",
+          "num_limit": "80",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "數位電路與系統",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://140.113.150.221",
+          "teacher": "歐陽盟",
+          "cos_time": "T56-EE623[KF],Tabc-EE634",
+          "memo": " (原程式化邏輯系統設計) 實驗課Tabc",
+          "cos_ename": "Digital Circuits and Systems",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "511",
+          "dep_primary": "1",
+          "dep_cname": "電機工程學系",
+          "dep_ename": "Department of Electrical and Computer Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1102_1053": {
           "acy": "110",
           "sem": "2",
@@ -2272,6 +2300,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_1046": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_1053": {
           "": {
             "course_category_cname": "",
@@ -2460,6 +2497,12 @@
             "brief": ""
           }
         },
+        "1102_1046": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_1053": {
           "": {
             "brief_code": "",
@@ -2568,6 +2611,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_1045": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1046": {
           "授課語言代碼": "zh-tw"
         },
         "1102_1053": {
@@ -31378,6 +31424,34 @@
           "reg_num": "0",
           "depType": "J"
         },
+        "1102_5007": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5007",
+          "cos_code": "IEC5309",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "影像處理",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "http://140.113.150.221",
+          "teacher": "歐陽盟",
+          "cos_time": "Mabc-EE623[KF]",
+          "memo": "電控組；限陽明交大在職專班學生選修",
+          "cos_ename": "Image Processing",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "506",
+          "dep_primary": "1",
+          "dep_cname": "電機學院碩士在職專班",
+          "dep_ename": "Degree Program of Electrical and Computer Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
         "1102_5008": {
           "acy": "110",
           "sem": "2",
@@ -31482,6 +31556,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_5007": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5008": {
           "": {
             "course_category_cname": "",
@@ -31523,6 +31606,12 @@
             "brief": ""
           }
         },
+        "1102_5007": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5008": {
           "": {
             "brief_code": "",
@@ -31547,6 +31636,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_5006": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_5007": {
           "授課語言代碼": "zh-tw"
         },
         "1102_5008": {

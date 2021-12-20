@@ -1,5 +1,156 @@
 [
   {
+    "19B1B733-DE95-4EC9-9737-44CCFF143365": {
+      "dep_id": "19B1B733-DE95-4EC9-9737-44CCFF143365",
+      "dep_cname": "生物醫學影像暨放射科學系",
+      "dep_ename": "Department of Biomedical Imaging and Radiological Sciences ",
+      "1": {
+        "1102_C525": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "C525",
+          "cos_code": "A8916",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "放射科學與技術特論",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "莊惠燕、吳東信、陳傳霖",
+          "cos_time": "W34-YB458[YM]",
+          "memo": null,
+          "cos_ename": "Special Topics on Radiologic Technology",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "263",
+          "dep_primary": "1",
+          "dep_cname": "生物醫學影像暨放射科學系",
+          "dep_ename": "Department of Biomedical Imaging and Radiological Sciences ",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "33",
+          "depType": "U"
+        },
+        "1102_C526": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "C526",
+          "cos_code": "A3073",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "書報討論(A)",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "吳東信、林慶波、吳育德、陳志成、楊逢羿、郭文娟、許世明、吳杰、盧家鋒、高瑀絜",
+          "cos_time": "W567-YB118[YM]",
+          "memo": null,
+          "cos_ename": "Seminar",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "263",
+          "dep_primary": "1",
+          "dep_cname": "生物醫學影像暨放射科學系",
+          "dep_ename": "Department of Biomedical Imaging and Radiological Sciences ",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "33",
+          "depType": "U"
+        },
+        "1102_C527": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "C527",
+          "cos_code": "A3074",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "書報討論(B)",
+          "cos_credit": "2.00",
+          "cos_hours": "2.00",
+          "TURL": "",
+          "teacher": "陳傳霖、李易展、楊逢羿、莊惠燕、吳駿一、張御展",
+          "cos_time": "W567-YB102[YM]",
+          "memo": null,
+          "cos_ename": "Seminar",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "263",
+          "dep_primary": "1",
+          "dep_cname": "生物醫學影像暨放射科學系",
+          "dep_ename": "Department of Biomedical Imaging and Radiological Sciences ",
+          "cos_type": "必修",
+          "cos_type_e": "Required",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        }
+      },
+      "costype": {
+        "1102_C525": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_C526": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
+        "1102_C527": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        }
+      },
+      "brief": {
+        "1102_C525": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1102_C526": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
+        "1102_C527": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        }
+      },
+      "language": {
+        "1102_C525": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_C526": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_C527": {
+          "授課語言代碼": "zh-tw"
+        }
+      }
+    },
     "6364089A-4693-4A80-B2D0-3F341DF5EBFF": {
       "dep_id": "6364089A-4693-4A80-B2D0-3F341DF5EBFF",
       "dep_cname": "生物科技學系",
@@ -672,6 +823,34 @@
           "reg_num": "0",
           "depType": "U"
         },
+        "1102_1614": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1614",
+          "cos_code": "DOA1117",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "初階說故事工作坊",
+          "cos_credit": "1.00",
+          "cos_hours": "1.00",
+          "TURL": "http://www.iaa.nctu.edu.tw/faculty/wendylai/",
+          "teacher": "賴雯淑",
+          "cos_time": "Ma-",
+          "memo": "",
+          "cos_ename": "Storytelling Workshop",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "4A1",
+          "dep_primary": "1",
+          "dep_cname": "人文社會學院院本部",
+          "dep_ename": "College of Humanities and Social Science",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "U"
+        },
         "1102_1615": {
           "acy": "110",
           "sem": "2",
@@ -1092,6 +1271,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_1614": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_1615": {
           "": {
             "course_category_cname": "",
@@ -1254,6 +1442,12 @@
             "brief": ""
           }
         },
+        "1102_1614": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_1615": {
           "": {
             "brief_code": "",
@@ -1350,6 +1544,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_1612": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1614": {
           "授課語言代碼": "zh-tw"
         },
         "1102_1615": {
@@ -20185,6 +20382,34 @@
           "reg_num": "0",
           "depType": "Q"
         },
+        "1102_1614": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "1614",
+          "cos_code": "DOA1117",
+          "num_limit": "9999",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "初階說故事工作坊",
+          "cos_credit": "1.00",
+          "cos_hours": "1.00",
+          "TURL": "http://www.iaa.nctu.edu.tw/faculty/wendylai/",
+          "teacher": "賴雯淑",
+          "cos_time": "Ma-",
+          "memo": "",
+          "cos_ename": "Storytelling Workshop",
+          "brief": "",
+          "degree": "1",
+          "dep_id": "QKZ",
+          "dep_primary": "1",
+          "dep_cname": "說故事與多媒體跨域學程",
+          "dep_ename": "",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "Q"
+        },
         "1102_1615": {
           "acy": "110",
           "sem": "2",
@@ -20297,6 +20522,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_1614": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_1615": {
           "": {
             "course_category_cname": "",
@@ -20367,6 +20601,12 @@
             "brief": ""
           }
         },
+        "1102_1614": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_1615": {
           "": {
             "brief_code": "",
@@ -20397,6 +20637,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_1612": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_1614": {
           "授課語言代碼": "zh-tw"
         },
         "1102_1615": {
@@ -20793,6 +21036,34 @@
       "dep_cname": "生物科技學系",
       "dep_ename": "Institute of Biological Science and Technology",
       "1": {
+        "1102_5724": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5724",
+          "cos_code": "IBT5672",
+          "num_limit": "30",
+          "dep_limit": "*",
+          "URL": null,
+          "cos_cname": "生物科技藝術",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "蕭育源、賴雯淑、黃兆祺、麥如村",
+          "cos_time": "M567-HA314[KF]",
+          "memo": "",
+          "cos_ename": "Biotech Art",
+          "brief": "",
+          "degree": "3",
+          "dep_id": "350",
+          "dep_primary": "1",
+          "dep_cname": "生物科技學系",
+          "dep_ename": "Institute of Biological Science and Technology",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "G"
+        },
         "1102_5729": {
           "acy": "110",
           "sem": "2",
@@ -20823,6 +21094,15 @@
         }
       },
       "costype": {
+        "1102_5724": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5729": {
           "": {
             "course_category_cname": "",
@@ -20834,6 +21114,12 @@
         }
       },
       "brief": {
+        "1102_5724": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5729": {
           "": {
             "brief_code": "",
@@ -20842,6 +21128,9 @@
         }
       },
       "language": {
+        "1102_5724": {
+          "授課語言代碼": "zh-tw"
+        },
         "1102_5729": {
           "授課語言代碼": "zh-tw"
         }
@@ -32915,6 +33204,34 @@
           "reg_num": "0",
           "depType": "J"
         },
+        "1102_5309": {
+          "acy": "110",
+          "sem": "2",
+          "cos_id": "5309",
+          "cos_code": "IAP5157",
+          "num_limit": "9999",
+          "dep_limit": "N",
+          "URL": null,
+          "cos_cname": "LabVIEW程式設計與應用",
+          "cos_credit": "3.00",
+          "cos_hours": "3.00",
+          "TURL": "",
+          "teacher": "胡晉嘉",
+          "cos_time": "Tabc-EE230[KF]",
+          "memo": "限陽明交大在職專班學生選修",
+          "cos_ename": "LabVIEW programming and applications",
+          "brief": "",
+          "degree": "5",
+          "dep_id": "607",
+          "dep_primary": "1",
+          "dep_cname": "工學院碩士在職專班-精密組",
+          "dep_ename": "Degree Program of Automation and Precision Engineering",
+          "cos_type": "選修",
+          "cos_type_e": "Elective",
+          "crsoutline_type": "data",
+          "reg_num": "0",
+          "depType": "J"
+        },
         "1102_5311": {
           "acy": "110",
           "sem": "2",
@@ -32963,6 +33280,15 @@
             "GECIEngName": ""
           }
         },
+        "1102_5309": {
+          "": {
+            "course_category_cname": "",
+            "course_category_ename": "",
+            "course_category_type": "",
+            "GECIName": "",
+            "GECIEngName": ""
+          }
+        },
         "1102_5311": {
           "": {
             "course_category_cname": "",
@@ -32986,6 +33312,12 @@
             "brief": ""
           }
         },
+        "1102_5309": {
+          "": {
+            "brief_code": "",
+            "brief": ""
+          }
+        },
         "1102_5311": {
           "": {
             "brief_code": "",
@@ -32998,6 +33330,9 @@
           "授課語言代碼": "zh-tw"
         },
         "1102_5308": {
+          "授課語言代碼": "zh-tw"
+        },
+        "1102_5309": {
           "授課語言代碼": "zh-tw"
         },
         "1102_5311": {
